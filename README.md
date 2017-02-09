@@ -2,7 +2,7 @@ GCModeller genomics modelling project for Xanthomonas campestris pv. campestris 
 
 ### DataSource
 
-+ NCBI genbank data: https://www.ncbi.nlm.nih.gov/nuccore/66571684/
++ NCBI genbank data: [Xanthomonas campestris pv. campestris str. 8004, complete genome](https://www.ncbi.nlm.nih.gov/nuccore/66571684/)
 + NCBI ftp directory: 
 
 ### Directory Roadmap
