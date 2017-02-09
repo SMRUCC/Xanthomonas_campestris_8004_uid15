@@ -10,5 +10,6 @@
 + **./genbank**: NCBI genbank annotation information
 + **./genome**: GCModeller genomics annotation result
    + ``./genome/circos/``: circos plot of the genome.
+   + ``./genome/chromsome-map/``: chromsome map plot of the bacterial genome.
 + **./pathway**: GCModeller Pathway network model
 + **./proteome**:
