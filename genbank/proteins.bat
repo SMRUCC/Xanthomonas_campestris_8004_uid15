@@ -1,0 +1,1 @@
+localblast /Export.Protein /gb "CP000050.1.txt"
