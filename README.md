@@ -1,5 +1,7 @@
 **[Xanthomonas campestris pv. campestris 8004]** GCModeller genomics Modelling Project
 
+> It is recommended that you can using this project as the GCModeller demo &amp; tutorials
+
 ### DataSource
 
 + NCBI genbank data: [Xanthomonas campestris pv. campestris str. 8004, complete genome](https://www.ncbi.nlm.nih.gov/nuccore/66571684/)

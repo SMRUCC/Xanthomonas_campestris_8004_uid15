@@ -241,7 +241,7 @@ XC_0246,320,,,COG0583,gi|357415704|ref|YP_004928724.1| LysR family transcription
 XC_0247,540,,,COG2225,gi|190572308|ref|YP_001970153.1| malate synthase [Stenotrophomonas maltophilia K279a],0,0.828096118299446,540,540
 XC_0248,433,,,COG2224,gi|190572309|ref|YP_001970154.1| isocitrate lyase [Stenotrophomonas maltophilia K279a],0,0.908878504672897,441,428
 XC_0249,346,,,COG0664; COG3706,gi|190572310|ref|YP_001970155.1| cyclic nucleotide-binding and GGDEF domain regulator [Stenotrophomonas maltophilia K279a],3E-129,0.564327485380117,347,342
-XC_0250,845,,,COG2114; COG0457,gi|190572311|ref|YP_001970156.1| hypothetical protein Smlt0234 [Stenotrophomonas maltophilia K279a],0,0.428745432399513,886,806
+XC_0250,845,,,COG0457; COG2114,gi|190572311|ref|YP_001970156.1| hypothetical protein Smlt0234 [Stenotrophomonas maltophilia K279a],0,0.428745432399513,886,806
 XC_0251,0,,,,HITS_NOT_FOUND,0,0,0,0
 XC_0252,380,,,COG0778,gi|190572312|ref|YP_001970157.1| processing protein [Stenotrophomonas maltophilia K279a],9E-79,0.533632286995516,245,223
 XC_0253,694,,,COG1506,gi|188574670|ref|YP_001911599.1| dipeptidyl anminopeptidase [Xanthomonas oryzae pv. oryzae PXO99A],0,0.878048780487805,697,694
@@ -1011,7 +1011,7 @@ XC_1030,0,,,,HITS_NOT_FOUND,0,0,0,0
 XC_1032,274,,,COG2801,"gi|46580418|ref|YP_011226.1| ISD1, transposase OrfB [Desulfovibrio vulgaris str. Hildenborough]",3E-110,0.584313725490196,255,255
 XC_1034,88,,,COG2963,gi|157145123|ref|YP_001452442.1| hypothetical protein CKO_00856 [Citrobacter koseri ATCC BAA-895],5E-39,0.670454545454545,88,88
 XC_1035,614,,,COG3481,gi|134095223|ref|YP_001100298.1| hypothetical protein HEAR2031 [Herminiimonas arsenicoxydans],0,0.823880597014925,340,335
-XC_1036,1196,,,COG3829; COG2199; COG2203; COG5001,gi|226944605|ref|YP_002799678.1| cyclic di-GMP signal transduction protein [Azotobacter vinelandii DJ],1E-94,0.505084745762712,341,292
+XC_1036,1196,,,COG3829; COG2199; COG5001; COG2203,gi|226944605|ref|YP_002799678.1| cyclic di-GMP signal transduction protein [Azotobacter vinelandii DJ],1E-94,0.505084745762712,341,292
 XC_1037,306,,,COG2253,gi|330824413|ref|YP_004387716.1| hypothetical protein Alide2_1814 [Alicycliphilus denitrificans K601],2E-178,0.774509803921569,308,306
 XC_1038,283,,,COG5340,gi|110347396|ref|YP_666212.1| hypothetical protein Meso_4610 [Chelativorans sp. BNC1],6E-15,0.327586206896552,252,228
 XC_1039,0,,,,HITS_NOT_FOUND,0,0,0,0
@@ -2217,7 +2217,7 @@ XC_2254,379,,,COG0399,gi|326319078|ref|YP_004236750.1| DegT/DnrJ/EryC1/StrS amin
 XC_2255,445,,,COG3919,gi|331698587|ref|YP_004334826.1| hypothetical protein Psed_4827 [Pseudonocardia dioxanivorans CB1190],5E-06,0.262872628726287,347,365
 XC_2256,239,,,COG2226,gi|148658501|ref|YP_001278706.1| type 11 methyltransferase [Roseiflexus sp. RS-1],3E-23,0.339080459770115,238,171
 XC_2257,0,,,,HITS_NOT_FOUND,0,0,0,0
-XC_2258,1464,,,COG0438; COG0463; COG2227; COG1216,gi|326319081|ref|YP_004236753.1| family 2 glycosyl transferase [Acidovorax avenae subsp. avenae ATCC 19860],0,0.569282136894825,1203,1189
+XC_2258,1464,,,COG0438; COG0463; COG1216; COG2227,gi|326319081|ref|YP_004236753.1| family 2 glycosyl transferase [Acidovorax avenae subsp. avenae ATCC 19860],0,0.569282136894825,1203,1189
 XC_2259,123,,,COG1677,gi|188576975|ref|YP_001913904.1| flagellar hook-basal body complex protein (FliE) [Xanthomonas oryzae pv. oryzae PXO99A],7E-62,0.914285714285714,105,105
 XC_2260,574,,,COG1766,gi|188576976|ref|YP_001913905.1| flagellar MS-ring protein [Xanthomonas oryzae pv. oryzae PXO99A],0,0.898954703832753,573,574
 XC_2261,336,,,COG1536,gi|188576977|ref|YP_001913906.1| flagellar motor switch protein FliG [Xanthomonas oryzae pv. oryzae PXO99A],0,0.978723404255319,329,329
@@ -2281,7 +2281,7 @@ XC_2320,797,,,COG0840; COG5000,gi|188576011|ref|YP_001912940.1| methyl-accepting
 XC_2321,286,,,COG1352,gi|188576010|ref|YP_001912939.1| chemotaxis protein methyltransferase 2 [Xanthomonas oryzae pv. oryzae PXO99A],0,0.964912280701754,289,285
 XC_2322,194,,,COG1871,gi|188576009|ref|YP_001912938.1| chemoreceptor glutamine deamidase CheD [Xanthomonas oryzae pv. oryzae PXO99A],5E-139,0.974226804123711,198,194
 XC_2323,358,,,COG2201,gi|188576008|ref|YP_001912937.1| chemotaxis-specific methylesterase [Xanthomonas oryzae pv. oryzae PXO99A],0,0.972067039106145,358,358
-XC_2324,747,,,COG2203; COG5000; COG5001,gi|188576007|ref|YP_001912936.1| C-di-GMP phosphodiesterase A [Xanthomonas oryzae pv. oryzae PXO99A],0,0.893499308437068,726,723
+XC_2324,747,,,COG5000; COG5001; COG2203,gi|188576007|ref|YP_001912936.1| C-di-GMP phosphodiesterase A [Xanthomonas oryzae pv. oryzae PXO99A],0,0.893499308437068,726,723
 XC_2325,238,,,COG0596,gi|188576006|ref|YP_001912935.1| beta-ketoadipate enol-lactone hydrolase [Xanthomonas oryzae pv. oryzae PXO99A],2E-143,0.848101265822785,271,237
 XC_2326,863,,,COG1049,gi|188576004|ref|YP_001912933.1| bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase [Xanthomonas oryzae pv. oryzae PXO99A],0,0.974507531865585,863,863
 XC_2327,132,,,COG1487,gi|357417563|ref|YP_004930583.1| hypothetical protein DSC_09470 [Pseudoxanthomonas spadix BD-a59],2E-63,0.727272727272727,135,131
@@ -3083,7 +3083,7 @@ XC_3130,672,,,COG1164,gi|188575535|ref|YP_001912464.1| dipeptidyl carboxypeptida
 XC_3131,0,,,,HITS_NOT_FOUND,0,0,0,0
 XC_3133,0,,,,HITS_NOT_FOUND,0,0,0,0
 XC_3134,408,,,COG2814,gi|190575439|ref|YP_001973284.1| major facilitator superfamily drug resistance transmembrane translocase transporter [Stenotrophomonas maltophilia K279a],0,0.780548628428928,417,398
-XC_3135,987,,,COG1003; COG0403,gi|188575529|ref|YP_001912458.1| glycine dehydrogenase [Xanthomonas oryzae pv. oryzae PXO99A],0,0.936475409836066,975,972
+XC_3135,987,,,COG0403; COG1003,gi|188575529|ref|YP_001912458.1| glycine dehydrogenase [Xanthomonas oryzae pv. oryzae PXO99A],0,0.936475409836066,975,972
 XC_3136,0,,,,HITS_NOT_FOUND,0,0,0,0
 XC_3137,0,,,,HITS_NOT_FOUND,0,0,0,0
 XC_3138,284,,,COG0656,gi|264678402|ref|YP_003278309.1| aldo/keto reductase [Comamonas testosteroni CNB-2],1E-107,0.609022556390977,284,266
@@ -3353,7 +3353,7 @@ XC_3401,192,,,COG0693,gi|188575420|ref|YP_001912349.1| DJ-1/PfpI family [Xanthom
 XC_3402,216,,,COG0225,gi|188575419|ref|YP_001912348.1| methionine sulfoxide reductase A [Xanthomonas oryzae pv. oryzae PXO99A],3E-147,0.925925925925926,216,216
 XC_3403,149,,,COG4875,gi|188575418|ref|YP_001912347.1| hypothetical protein PXO_04599 [Xanthomonas oryzae pv. oryzae PXO99A],1E-93,0.881578947368421,174,149
 XC_3404,204,,,COG2197,gi|188575417|ref|YP_001912346.1| two-component system regulatory protein [Xanthomonas oryzae pv. oryzae PXO99A],2E-99,0.811881188118812,235,202
-XC_3405,634,,,COG0745; COG2205; COG5278,gi|340788024|ref|YP_004753489.1| two-component system sensor protein [Collimonas fungivorans Ter331],4E-131,0.405023547880691,636,624
+XC_3405,634,,,COG0745; COG5278; COG2205,gi|340788024|ref|YP_004753489.1| two-component system sensor protein [Collimonas fungivorans Ter331],4E-131,0.405023547880691,636,624
 XC_3406,157,,,COG3706,gi|188575411|ref|YP_001912340.1| two-component system regulatory protein [Xanthomonas oryzae pv. oryzae PXO99A],2E-95,0.927631578947368,154,152
 XC_3407,0,,,,HITS_NOT_FOUND,0,0,0,0
 XC_3408,213,,,COG0625,gi|188575409|ref|YP_001912338.1| glutathione S-transferase [Xanthomonas oryzae pv. oryzae PXO99A],3E-111,0.859154929577465,213,213
