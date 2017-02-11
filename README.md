@@ -11,5 +11,6 @@
 + **./genome**: GCModeller genomics annotation result
    + ``./genome/circos/``: circos plot of the genome.
    + ``./genome/chromsome-map/``: chromsome map plot of the bacterial genome.
+   + [``./genome/COG/``](./genome/COG/index.md): The COG annotation sbh result.
 + **./pathway**: GCModeller Pathway network model
 + **./proteome**:
