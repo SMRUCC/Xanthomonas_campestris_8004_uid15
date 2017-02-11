@@ -16,3 +16,5 @@
    + [``./genome/COG/``](./genome/COG/index.md): The COG annotation sbh result.
 + **./pathway**: GCModeller Pathway network model
 + **./proteome**:
+
+![](./genome/COG/Xcc8004-COGs.COG.profiling.png)
