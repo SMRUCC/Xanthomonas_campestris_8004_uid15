@@ -4,8 +4,34 @@
 
 # If you have any question about the drawing script and this configuration file, 
 # please contact the author via: 
-#      Gmail:    xie.guigang@gmail.com
-#      Twitter:  @xieguigang(https://twitter.com/xieguigang)
+#      Gmail:    xie.guigang@gcmodeller.org
+#      Work:     genomics@smrucc.org     Twitter:  @xieguigang(https://twitter.com/xieguigang)
+
+# --------------------------------------------------------------------------------------------------
+#                     This section will configure the drawing size options
+# --------------------------------------------------------------------------------------------------
+
+# Due To the GDI+ limitations In the .NET Framework, the image size Is limited by your computer memory size, If you want to 
+# drawing a very large size image, please running this script On a 64bit platform operating system, Or you will get a 
+# exception about the GDI+ error parameter Is Not valid And then you should try a smaller resolution of the drawing output image.
+
+# Value format: <Width(Integer)>[,<Height(Integer)>]
+# Example:
+# Specific the size property width and height: 12000,8000
+# Which means the drawing script will generate a image file in resolution of width is value 
+# 12000 pixels and image height is 8000 pixels.
+Resolution=28000
+
+# This property is associated with the Resolution property: if you are not specific the 
+# Height property in the resolution property, then configuration will trying to calculate the 
+# Height property value automatically from this property value.
+
+# Value format: <Width(Integer)>:<Height(Integer)>
+# Here is a property value example: 16:9
+# The example means Width/Height=16/9, so that when the Resolution property is specific as 19200 
+# and the Height value is leave empty, then configuration will calculate the empty height 
+# value as 19200*9/16 = 10800; So that the Resolution value can be set to 19200,10800
+AspectRatio=16:8.5
 
 # This property specific the height value of the arrow shape which is stand for a gene object on the chromesome.
 GeneObjectHeight=85
@@ -22,7 +48,7 @@ LineLength=0.1
 # is the 6 times of the GeneObjectHeight value.
 LineHeight=5x
 
-Margin=400
+Margin=1200
 
 FlagLength=60
 
@@ -38,14 +64,9 @@ FunctionAlignment=middle
 #                   This section will configure the drawing fonts style opetions
 # ---------------------------------------------------------------------------------------------------
 
-# "FontName",size[,bold/italic/regular/strikeout/underline]
+# Text font value in html css style format:
 
-# "FontName",size[,StyleCombination]
-# Drawing.FontStyle.Bold = 1
-# Drawing.FontStyle.Italic = 2
-# Drawing.FontStyle.Regular = 0
-# Drawing.FontStyle.Strikeout = 8
-# Drawing.FontStyle.Underline = 4
+# Example as: "font-style: normal; font-size: 20; font-family: Ubuntu;"
 LocusTagFont=font-style: normal; font-size: 20; font-family: Ubuntu;
 
 FunctionAnnotationFont=font-style: normal; font-size: 12; font-family: Ubuntu;
@@ -83,34 +104,8 @@ NoneCogColor=Brown
 #                 The section below will configure the drawing data save opetions
 # --------------------------------------------------------------------------------------------------
 
-# Valid value is jpg, bmp, png, gif, wmf, emf
-SavedFormat=wmf
+# Valid value is jpg, bmp, png, tiff
+SavedFormat=png
 
 AddLegend=TRUE
-
-#  - -------------------------------------------------------------------------------------------------
-#                     This section will configure the drawing size options
-# --------------------------------------------------------------------------------------------------
-
-# Due To the GDI+ limitations In the .NET Framework, the image size Is limited by your computer memory size, If you want to 
-# drawing a very large size image, please running this script On a 64bit platform operating system, Or you will get a 
-# exception about the GDI+ error parameter Is Not valid And then you should try a smaller resolution of the drawing output image.
-
-# Value format: <Width(Integer)>[,<Height(Integer)>]
-# Example:
-# Both specific the size property: 12000,8000
-# Which means the drawing script will generate a image file in resolution of width is value 
-# 12000 pixels and image height is 8000 pixels.
-Resolution=24000,16000
-
-# This property is associated with the Resolution property: if you are not specific the 
-# Height property in the resolution property, then configuration will trying to calculate the 
-# Height property value automatically from this property value.
-
-# Value format: <Width(Integer)>:<Height(Integer)>
-# Here is a property value example: 16:9
-# The example means Width/Height=16/9, so that when the Resolution property is specific as 19200 
-# and the Height value is leave empty, then configuration will calculate the empty height 
-# value as 19200*9/16 = 10800; So that the Resolution value can be set to 19200,10800
-AspectRatio=16:6
 
