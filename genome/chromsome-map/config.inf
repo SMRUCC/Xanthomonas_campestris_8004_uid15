@@ -5,7 +5,8 @@
 # If you have any question about the drawing script and this configuration file, 
 # please contact the author via: 
 #      Gmail:    xie.guigang@gcmodeller.org
-#      Work:     genomics@smrucc.org     Twitter:  @xieguigang(https://twitter.com/xieguigang)
+#      Work:     genomics@smrucc.org     
+#      Twitter:  @xieguigang(https://twitter.com/xieguigang)
 
 # --------------------------------------------------------------------------------------------------
 #                     This section will configure the drawing size options
@@ -31,7 +32,7 @@ Resolution=28000
 # The example means Width/Height=16/9, so that when the Resolution property is specific as 19200 
 # and the Height value is leave empty, then configuration will calculate the empty height 
 # value as 19200*9/16 = 10800; So that the Resolution value can be set to 19200,10800
-AspectRatio=16:8.5
+AspectRatio=16:7.5
 
 # This property specific the height value of the arrow shape which is stand for a gene object on the chromesome.
 GeneObjectHeight=85
@@ -48,7 +49,7 @@ LineLength=0.1
 # is the 6 times of the GeneObjectHeight value.
 LineHeight=5x
 
-Margin=1200
+Margin=1000
 
 FlagLength=60
 
