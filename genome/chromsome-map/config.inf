@@ -46,13 +46,13 @@ FunctionAlignment=middle
 # Drawing.FontStyle.Regular = 0
 # Drawing.FontStyle.Strikeout = 8
 # Drawing.FontStyle.Underline = 4
-LocusTagFont="Ubuntu",20
+LocusTagFont=font-style: normal; font-size: 20; font-family: Ubuntu;
 
-FunctionAnnotationFont="Ubuntu",12
+FunctionAnnotationFont=font-style: normal; font-size: 12; font-family: Ubuntu;
 
-SecondaryRuleFont="Ubuntu",12
+SecondaryRuleFont=font-style: normal; font-size: 12; font-family: Ubuntu;
 
-LegendFont="Ubuntu",12
+LegendFont=font-style: normal; font-size: 12; font-family: Ubuntu;
 
 # --------------------------------------------------------------------------------------------
 #     The sections below will configure the colors profile of the script drawing objects.
@@ -101,7 +101,7 @@ AddLegend=TRUE
 # Both specific the size property: 12000,8000
 # Which means the drawing script will generate a image file in resolution of width is value 
 # 12000 pixels and image height is 8000 pixels.
-Resolution=10000,4000
+Resolution=24000,16000
 
 # This property is associated with the Resolution property: if you are not specific the 
 # Height property in the resolution property, then configuration will trying to calculate the 
@@ -112,5 +112,5 @@ Resolution=10000,4000
 # The example means Width/Height=16/9, so that when the Resolution property is specific as 19200 
 # and the Height value is leave empty, then configuration will calculate the empty height 
 # value as 19200*9/16 = 10800; So that the Resolution value can be set to 19200,10800
-AspectRatio=16:9
+AspectRatio=16:6
 
