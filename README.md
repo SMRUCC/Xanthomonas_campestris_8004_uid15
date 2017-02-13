@@ -18,3 +18,6 @@
 + **./proteome**:
 
 ![](./genome/COG/Xcc8004-COGs.COG.profiling.png)
+
+![](./thumbnails/map-part-A.png)
+![](./thumbnails/map-part-B.png)
