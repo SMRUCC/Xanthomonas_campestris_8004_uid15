@@ -5,7 +5,8 @@
 ### DataSource
 
 + NCBI genbank data: [Xanthomonas campestris pv. campestris str. 8004, complete genome](https://www.ncbi.nlm.nih.gov/nuccore/66571684/)
-+ NCBI ftp directory: 
++ NCBI ftp directory:
++ RNA-seq data from public database:
 
 ### Directory Roadmap
 
@@ -17,7 +18,13 @@
 + **./pathway**: GCModeller Pathway network model
 + **./proteome**:
 
+### Gallery
+
 ![](./genome/COG/Xcc8004-COGs.COG.profiling.png)
 
 ![](./thumbnails/map-part-A.png)
 ![](./thumbnails/map-part-B.png)
+
+
+## References
+
