@@ -1,0 +1,1 @@
+eggHTS /protein.annotations /uniprot "./uniprot.xml"
