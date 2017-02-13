@@ -11,20 +11,26 @@
 ### Directory Roadmap
 
 + **./genbank**: NCBI genbank annotation information
-+ **./genome**: GCModeller genomics annotation result
++ **[./genome](./genome)**: GCModeller genomics annotation result
    + ``./genome/circos/``: circos plot of the genome.
    + ``./genome/chromsome-map/``: chromsome map plot of the bacterial genome.
    + [``./genome/COG/``](./genome/COG/index.md): The COG annotation sbh result.
-+ **./pathway**: GCModeller Pathway network model
-+ **./proteome**:
++ **[./pathway](./pathway)**: GCModeller Pathway network model
++ **[./proteome](./proteome)**:
 
-### Gallery
+### Data Figures
+
+###### Xcc8004 genome function
 
 ![](./genome/COG/Xcc8004-COGs.COG.profiling.png)
+![](./proteome/uniprot/GO/plot.png)
+
+###### genome map plot
 
 ![](./thumbnails/map-part-A.png)
 ![](./thumbnails/map-part-B.png)
 
+> View detail in [./genome/chromsome-map/](./genome/chromsome-map/)
 
 ## References
 
