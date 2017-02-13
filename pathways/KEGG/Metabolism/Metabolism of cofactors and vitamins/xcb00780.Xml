@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00780" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description>Biotin (vitamin H or vitamin B7) is the essential cofactor of biotin-dependent carboxylases, such as pyruvate carboxylase and acetyl-CoA carboxylase. Mammals cannot synthesize biotin, while in bacteria, fungi, and plants it is synthesized from pimelate thioester through different pathways. In E. coli and many organisms, pimelate thioester is derived from malonyl-ACP. The pathway starts with the methylation to malonyl-ACP methyl ester, followed by the fatty acid chain elongation cycle to form pimeloyl-ACP methyl ester, which is then demethylated to form pimeloyl-ACP [MD:M00572]. Pimeloyl-ACP is converted to biotin through the final four steps in the biotin bicyclic ring assembly, which are conserved among biotin-producing organisms [MD:M00123]. In B. subtilis, biotin is derived from pimeloyl-ACP formed by oxidative cleavage of long-chain acyl-ACPs [MD:M00573]. Some bacteria synthesize biotin from pimeloyl-CoA derived from pimelate [MD:M00577]. Biotin is covalently attached to biotin-dependent carboxylase by biotin protein ligase, also known as holocarboxylase synthase in mammals, to form an active holocarboxylase. After degradation of the biotinylated carboxylase into biocytin, it is further degraded by biotinidase to release free biotin, which is recycled in holocarboxylase synthesis. Biotin is catabolized by beta-oxidation of the valeric acid side chain or oxidation of sulfur in the heterocyclic ring.</Description>
+  <Name>Biotin metabolism - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00123" Value="Biotin biosynthesis, pimeloyl-ACP/CoA =&gt; biotin [PATH:xcb00780]" />
+  </Modules>
+  <Compound>
+    <hashEntry Key="C00047" Value="L-Lysine" />
+    <hashEntry Key="C00086" Value="Urea" />
+    <hashEntry Key="C00120" Value="Biotin" />
+    <hashEntry Key="C01037" Value="7,8-Diaminononanoate" />
+    <hashEntry Key="C01063" Value="6-Carboxyhexanoyl-CoA" />
+    <hashEntry Key="C01092" Value="8-Amino-7-oxononanoate" />
+    <hashEntry Key="C01209" Value="Malonyl-[acyl-carrier protein]" />
+    <hashEntry Key="C01894" Value="Biotinyl-CoA" />
+    <hashEntry Key="C01909" Value="Dethiobiotin" />
+    <hashEntry Key="C02656" Value="Pimelate" />
+    <hashEntry Key="C05552" Value="Biocytin" />
+    <hashEntry Key="C05921" Value="Biotinyl-5'-AMP" />
+    <hashEntry Key="C06250" Value="Holo-[carboxylase]" />
+    <hashEntry Key="C19673" Value="Malonyl-[acp] methyl ester" />
+    <hashEntry Key="C19845" Value="Pimeloyl-[acyl-carrier protein]" />
+    <hashEntry Key="C19846" Value="Pimeloyl-[acyl-carrier protein] methyl ester" />
+    <hashEntry Key="C20372" Value="3-Ketoglutaryl-[acp] methyl ester" />
+    <hashEntry Key="C20373" Value="3-Hydroxyglutaryl-[acp] methyl ester" />
+    <hashEntry Key="C20374" Value="Enoylglutaryl-[acp] methyl ester" />
+    <hashEntry Key="C20375" Value="Glutaryl-[acp] methyl ester" />
+    <hashEntry Key="C20376" Value="3-Ketopimeloyl-[acp] methyl ester" />
+    <hashEntry Key="C20377" Value="3-Hydroxypimeloyl-[acp] methyl ester" />
+    <hashEntry Key="C20378" Value="Enoylpimeloyl-[acp] methyl ester" />
+    <hashEntry Key="C20384" Value="Bisnorbiotin" />
+    <hashEntry Key="C20385" Value="Tetranorbiotin" />
+    <hashEntry Key="C20386" Value="Biotin sulfoxide" />
+    <hashEntry Key="C20387" Value="Biotin sulfone" />
+    <hashEntry Key="C20683" Value="Long-chain acyl-[acyl-carrier protein]" />
+  </Compound>
+  <PathwayMap Key="xcb00780" Value="Biotin metabolism" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0395" Value="K02169 malonyl-CoA O-methyltransferase [EC:2.1.1.197] | (GenBank) biotin synthesis protein" />
+    <hashEntry Key="xcb:XC_0396" Value="K00059 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100] | (GenBank) oxidoreductase" />
+    <hashEntry Key="xcb:XC_0397" Value="K02170 pimeloyl-[acyl-carrier protein] methyl ester esterase [EC:3.1.1.85] | (GenBank) biotin biosyn" />
+    <hashEntry Key="xcb:XC_0399" Value="K00652 8-amino-7-oxononanoate synthase [EC:2.3.1.47] | (GenBank) 8-amino-7-oxononanoate synthase" />
+    <hashEntry Key="xcb:XC_0400" Value="K01012 biotin synthase [EC:2.8.1.6] | (GenBank) biotin synthase" />
+    <hashEntry Key="xcb:XC_0429" Value="K00059 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100] | (GenBank) 3-oxoacyl-[ACP] reducta" />
+    <hashEntry Key="xcb:XC_1225" Value="K00833 adenosylmethionine---8-amino-7-oxononanoate aminotransferase [EC:2.6.1.62] | (GenBank) adenos" />
+    <hashEntry Key="xcb:XC_2553" Value="K02169 malonyl-CoA O-methyltransferase [EC:2.1.1.197] | (GenBank) biotin synthesis protein" />
+    <hashEntry Key="xcb:XC_2876" Value="K02372 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59] | (GenBank) (3r)-hydroxymyrist" />
+    <hashEntry Key="xcb:XC_3225" Value="K09458 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179] | (GenBank) 3-oxoacyl-[ACP] synth" />
+    <hashEntry Key="xcb:XC_3227" Value="K00059 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100] | (GenBank) 3-oxoacyl-[ACP] reducta" />
+    <hashEntry Key="xcb:XC_3646" Value="K01935 dethiobiotin synthetase [EC:6.3.3.3] | (GenBank) dethiobiotin synthetase" />
+    <hashEntry Key="xcb:XC_3652" Value="K00647 3-oxoacyl-[acyl-carrier-protein] synthase I [EC:2.3.1.41] | (GenBank) beta-ketoacyl-[ACP] syn" />
+    <hashEntry Key="xcb:XC_4026" Value="K03524 BirA family transcriptional regulator, biotin operon repressor / biotin-[acetyl-CoA-carboxyla" />
+    <hashEntry Key="xcb:XC_4087" Value="K00647 3-oxoacyl-[acyl-carrier-protein] synthase I [EC:2.3.1.41] | (GenBank) beta-ketoacyl-[ACP] syn" />
+    <hashEntry Key="xcb:XC_4092" Value="K00059 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100] | (GenBank) 3-oxoacyl-[ACP] reducta" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00780" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Mol Biosyst 7:1811-21 (2011)" PMID="21437340">
+      <Authors>Lin S</Authors>
+      <Authors>Cronan JE</Authors>Closing in on complete pathways of biotin biosynthesis.</Reference>
+    <Reference Journal="J Biol Chem 287:37010-20 (2012)" PMID="22965231">
+      <Authors>Lin S</Authors>
+      <Authors>Cronan JE</Authors>The BioC O-methyltransferase catalyzes methyl esterification of malonyl-acyl carrier protein, an essential step in biotin synthesis.</Reference>
+    <Reference Journal="Nat Chem Biol 6:682-8 (2010)" PMID="20693992">
+      <Authors>Lin S</Authors>
+      <Authors>Hanson RE</Authors>
+      <Authors>Cronan JE</Authors>Biotin synthesis begins by hijacking the fatty acid synthetic pathway.</Reference>
+    <Reference Journal="Curr Opin Chem Biol 15:407-13 (2011)" PMID="21435937">
+      <Authors>Cronan JE</Authors>
+      <Authors>Lin S</Authors>Synthesis of the alpha,omega-dicarboxylic acid precursor of biotin by the canonical fatty acid biosynthetic pathway.</Reference>
+    <Reference Journal="Arch Biochem Biophys 384:351-60 (2000)" PMID="11368323">
+      <Authors>Stok JE</Authors>
+      <Authors>De Voss J</Authors>Expression, purification, and characterization of BioI: a carbon-carbon bond cleaving cytochrome P450 involved in biotin biosynthesis in Bacillus subtilis.</Reference>
+    <Reference Journal="Proc Natl Acad Sci U S A 105:15696-701 (2008)" PMID="18838690">
+      <Authors>Cryle MJ</Authors>
+      <Authors>Schlichting I</Authors>Structural insights from a P450 Carrier Protein complex reveal how specificity is achieved in the P450(BioI) ACP complex.</Reference>
+    <Reference Journal="J Bacteriol 178:4122-30 (1996)" PMID="8763940">
+      <Authors>Bower S</Authors>
+      <Authors>Perkins JB</Authors>
+      <Authors>Yocum RR</Authors>
+      <Authors>Howitt CL</Authors>
+      <Authors>Rahaim P</Authors>
+      <Authors>Pero J</Authors>Cloning, sequencing, and characterization of the Bacillus subtilis biotin biosynthetic operon.</Reference>
+    <Reference Journal="Biochem J 287 ( Pt 3):685-90 (1992)" PMID="1445232">
+      <Authors>Ploux O</Authors>
+      <Authors>Soularue P</Authors>
+      <Authors>Marquet A</Authors>
+      <Authors>Gloeckler R</Authors>
+      <Authors>Lemoine Y</Authors>Investigation of the first step of biotin biosynthesis in Bacillus sphaericus. Purification and characterization of the pimeloyl-CoA synthase, and uptake of pimelate.</Reference>
+    <Reference Journal="Genome Res 12:1507-16 (2002)" PMID="12368242">
+      <Authors>Rodionov DA</Authors>
+      <Authors>Mironov AA</Authors>
+      <Authors>Gelfand MS</Authors>Conservation of the biotin regulon and the BirA regulatory signal in Eubacteria and Archaea.</Reference>
+    <Reference Journal="Microbiology 147:1315-22 (2001)" PMID="11320134">
+      <Authors>Sullivan JT</Authors>
+      <Authors>Brown SD</Authors>
+      <Authors>Yocum RR</Authors>
+      <Authors>Ronson CW</Authors>The bio operon on the acquired symbiosis island of Mesorhizobium sp. strain R7A includes a novel gene involved in pimeloyl-CoA synthesis.</Reference>
+    <Reference Journal="Appl Environ Microbiol 68:2843-8 (2002)" PMID="12039741">
+      <Authors>Entcheva P</Authors>
+      <Authors>Phillips DA</Authors>
+      <Authors>Streit WR</Authors>Functional analysis of Sinorhizobium meliloti genes involved in biotin synthesis  and transport.</Reference>
+    <Reference Journal="Biofactors 35:36-46 (2009)" PMID="19319844">
+      <Authors>Zempleni J</Authors>
+      <Authors>Wijeratne SS</Authors>
+      <Authors>Hassan YI</Authors>Biotin.</Reference>
+    <Reference Journal="Am J Clin Nutr 65:508-11 (1997)" PMID="9022537">
+      <Authors>Zempleni J</Authors>
+      <Authors>McCormick DB</Authors>
+      <Authors>Mock DM</Authors>Identification of biotin sulfone, bisnorbiotin methyl ketone, and tetranorbiotin-l-sulfoxide in human urine.</Reference>
+    <Reference Journal="J Biol Chem 244:1393-8 (1969)" PMID="5775781">
+      <Authors>Iwahara S</Authors>
+      <Authors>McCormick DB</Authors>
+      <Authors>Wright LD</Authors>
+      <Authors>Li HC</Authors>Bacterial degradation of biotin. 3. Metabolism of 14C-carbonyl-labeled biotin.</Reference>
+    <Reference Journal="J Bacteriol 172:2194-8 (1990)" PMID="2180922">
+      <Authors>Pierson DE</Authors>
+      <Authors>Campbell A</Authors>Cloning and nucleotide sequence of bisC, the structural gene for biotin sulfoxide reductase in Escherichia coli.</Reference>
+    <Reference Journal="J Bacteriol 187:231-7 (2005)" PMID="15601707">
+      <Authors>Ezraty B</Authors>
+      <Authors>Bos J</Authors>
+      <Authors>Barras F</Authors>
+      <Authors>Aussel L</Authors>Methionine sulfoxide reduction and assimilation in Escherichia coli: new role for the biotin sulfoxide reductase BisC.</Reference>
+    <Reference Journal="Methods Enzymol 62:379-85 (1979)" PMID="374979">
+      <Authors>del Campillo-Campbell A</Authors>
+      <Authors>Dykhuizen D</Authors>
+      <Authors>Cleary PP</Authors>Enzymic reduction of d-biotin d-sulfoxide to d-biotin.</Reference>
+    <Reference Journal="J Biol Chem 272:3355-62 (1997)" PMID="9013576">
+      <Authors>Pollock VV</Authors>
+      <Authors>Barber MJ</Authors>Biotin sulfoxide reductase. Heterologous expression and characterization of a functional molybdopterin guanine dinucleotide-containing enzyme.</Reference>
+    <Reference Journal="Biochemistry 43:11226-37 (2004)" PMID="15366932">
+      <Authors>Nelson KJ</Authors>
+      <Authors>Rajagopalan KV</Authors>Studies on the interaction of NADPH with Rhodobacter sphaeroides biotin sulfoxide reductase.</Reference>
+    <Reference Journal="Plant Physiol 139:1666-76 (2005)" PMID="16299174">
+      <Authors>Pinon V</Authors>
+      <Authors>Ravanel S</Authors>
+      <Authors>Douce R</Authors>
+      <Authors>Alban C</Authors>Biotin synthesis in plants. The first committed step of the pathway is catalyzed  by a cytosolic 7-keto-8-aminopelargonic acid synthase.</Reference>
+  </References>
+</KEGG.PathwayBrief>

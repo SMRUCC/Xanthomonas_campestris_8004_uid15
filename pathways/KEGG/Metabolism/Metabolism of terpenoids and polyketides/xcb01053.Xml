@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb01053" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Biosynthesis of siderophore group nonribosomal peptides - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound>
+    <hashEntry Key="C00196" Value="2,3-Dihydroxybenzoate" />
+    <hashEntry Key="C00251" Value="Chorismate" />
+    <hashEntry Key="C00805" Value="Salicylate" />
+    <hashEntry Key="C00885" Value="Isochorismate" />
+    <hashEntry Key="C04171" Value="(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate" />
+    <hashEntry Key="C05821" Value="Enterochelin" />
+    <hashEntry Key="C06769" Value="Vibriobactin" />
+    <hashEntry Key="C12037" Value="Pyochelin" />
+    <hashEntry Key="C12038" Value="Yersiniabactin" />
+    <hashEntry Key="C12216" Value="Mycobactin S" />
+    <hashEntry Key="C12219" Value="Corynebactin" />
+    <hashEntry Key="C12220" Value="Myxochelin A" />
+    <hashEntry Key="C12221" Value="Myxochelin B" />
+  </Compound>
+  <PathwayMap Key="xcb01053" Value="Biosynthesis of siderophore group nonribosomal peptides" />
+  <Genes>
+    <hashEntry Key="xcb:XC_2637" Value="K04793 mycobactin lysine-N-oxygenase | (GenBank) hydroxylase" />
+    <hashEntry Key="xcb:XC_3952" Value="K02364 enterobactin synthetase component F [EC:6.3.2.14] | (GenBank) ATP-dependent serine activating" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko01053" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Microbiol Mol Biol Rev 66:223-49 (2002)" PMID="12040125">
+      <Authors>Crosa JH</Authors>
+      <Authors>Walsh CT.</Authors>Genetics and assembly line enzymology of siderophore biosynthesis in bacteria.</Reference>
+    <Reference Journal="Chem Biol 5:573-86 (1998)" PMID="9818149">
+      <Authors>Gehring AM</Authors>
+      <Authors>DeMoll E</Authors>
+      <Authors>Fetherston JD</Authors>
+      <Authors>Mori I</Authors>
+      <Authors>Mayhew GF</Authors>
+      <Authors>Blattner FR</Authors>
+      <Authors>Walsh CT</Authors>
+      <Authors>Perry RD.</Authors>Iron acquisition in plague: modular logic in enzymatic biogenesis of yersiniabactin by Yersinia pestis.</Reference>
+    <Reference Journal="Eur J Biochem 267:6476-85 (2000)" PMID="11029592">
+      <Authors>Silakowski B</Authors>
+      <Authors>Kunze B</Authors>
+      <Authors>Nordsiek G</Authors>
+      <Authors>Blocker H</Authors>
+      <Authors>Hofle G</Authors>
+      <Authors>Muller R.</Authors>The myxochelin iron transport regulon of the myxobacterium Stigmatella aurantiaca Sg a15.</Reference>
+    <Reference Journal="Biochemistry 39:15513-21 (2000)" PMID="11112537">
+      <Authors>Keating TA</Authors>
+      <Authors>Marshall CG</Authors>
+      <Authors>Walsh CT.</Authors>Vibriobactin biosynthesis in Vibrio cholerae: VibH is an amide synthase homologous to nonribosomal peptide synthetase condensation domains.</Reference>
+    <Reference Journal="J Bacteriol 182:1768-73 (2000)" PMID="10692387">
+      <Authors>Hantash FM</Authors>
+      <Authors>Earhart CF.</Authors>Membrane association of the Escherichia coli enterobactin synthase proteins EntB/G, EntE, and EntF.</Reference>
+  </References>
+</KEGG.PathwayBrief>

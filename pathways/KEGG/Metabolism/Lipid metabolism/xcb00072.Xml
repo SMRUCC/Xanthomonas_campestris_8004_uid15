@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00072" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Synthesis and degradation of ketone bodies - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound>
+    <hashEntry Key="C00024" Value="Acetyl-CoA" />
+    <hashEntry Key="C00164" Value="Acetoacetate" />
+    <hashEntry Key="C00207" Value="Acetone" />
+    <hashEntry Key="C00332" Value="Acetoacetyl-CoA" />
+    <hashEntry Key="C00356" Value="(S)-3-Hydroxy-3-methylglutaryl-CoA" />
+    <hashEntry Key="C01089" Value="(R)-3-Hydroxybutanoate" />
+  </Compound>
+  <PathwayMap Key="xcb00072" Value="Synthesis and degradation of ketone bodies" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0204" Value="K00626 acetyl-CoA C-acetyltransferase [EC:2.3.1.9] | (GenBank) acyl-CoA thiolase" />
+    <hashEntry Key="xcb:XC_1956" Value="K00019 3-hydroxybutyrate dehydrogenase [EC:1.1.1.30] | (GenBank) D-beta-hydroxybutyrate dehydrogenas" />
+    <hashEntry Key="xcb:XC_2357" Value="K01640 hydroxymethylglutaryl-CoA lyase [EC:4.1.3.4] | (GenBank) hydroxymethylglutaryl-CoA lyase" />
+    <hashEntry Key="xcb:XC_2943" Value="K00626 acetyl-CoA C-acetyltransferase [EC:2.3.1.9] | (GenBank) acetoacetyl-CoA thiolase" />
+    <hashEntry Key="xcb:XC_3606" Value="K01029 3-oxoacid CoA-transferase subunit B [EC:2.8.3.5] | (GenBank) IpsJ protein" />
+    <hashEntry Key="xcb:XC_3607" Value="K01028 3-oxoacid CoA-transferase subunit A [EC:2.8.3.5] | (GenBank) 3-oxoadipate CoA-succinyl transf" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00072" Value="" />
+  </KOpathway>
+  <References />
+</KEGG.PathwayBrief>

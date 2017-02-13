@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb03440" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description>Homologous recombination (HR) is essential for the accurate repair of DNA double-strand breaks (DSBs), potentially lethal lesions. HR takes place in the late S-G2 phase of the cell cycle and involves the generation of a single-stranded region of DNA, followed by strand invasion, formation of a Holliday junction, DNA synthesis using the intact strand as a template, branch migration and resolution. It is investigated that RecA/Rad51 family proteins play a central role. The breast cancer susceptibility protein Brca2 and the RecQ helicase BLM (Bloom syndrome mutated) are tumor suppressors that maintain genome integrity, at least in part, through HR.</Description>
+  <Name>Homologous recombination - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00260" Value="DNA polymerase III complex, bacteria [PATH:xcb03440]" />
+  </Modules>
+  <Compound />
+  <PathwayMap Key="xcb03440" Value="Homologous recombination" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0002" Value="K02338 DNA polymerase III subunit beta [EC:2.7.7.7] | (GenBank) DNA polymerase III beta chain" />
+    <hashEntry Key="xcb:XC_0003" Value="K03629 DNA replication and repair protein RecF | (GenBank) DNA replication and repair RecF protein" />
+    <hashEntry Key="xcb:XC_0947" Value="K03655 ATP-dependent DNA helicase RecG [EC:3.6.4.12] | (GenBank) ATP-dependent DNA helicase" />
+    <hashEntry Key="xcb:XC_1132" Value="K01159 crossover junction endodeoxyribonuclease RuvC [EC:3.1.22.4] | (GenBank) holliday junction res" />
+    <hashEntry Key="xcb:XC_1133" Value="K03550 holliday junction DNA helicase RuvA [EC:3.6.4.12] | (GenBank) holliday junction binding prote" />
+    <hashEntry Key="xcb:XC_1136" Value="K03551 holliday junction DNA helicase RuvB [EC:3.6.4.12] | (GenBank) holliday junction binding prote" />
+    <hashEntry Key="xcb:XC_1378" Value="K03111 single-strand DNA-binding protein | (GenBank) single-stranded DNA binding protein" />
+    <hashEntry Key="xcb:XC_1499" Value="K02340 DNA polymerase III subunit delta [EC:2.7.7.7] | (GenBank) DNA polymerase III delta subunit" />
+    <hashEntry Key="xcb:XC_2065" Value="K03111 single-strand DNA-binding protein | (GenBank) single-stranded DNA binding protein" />
+    <hashEntry Key="xcb:XC_2343" Value="K07462 single-stranded-DNA-specific exonuclease [EC:3.1.-.-] | (GenBank) putative single stranded DN" />
+    <hashEntry Key="xcb:XC_2509" Value="K03553 recombination protein RecA | (GenBank) RecA protein" />
+    <hashEntry Key="xcb:XC_2880" Value="K02337 DNA polymerase III subunit alpha [EC:2.7.7.7] | (GenBank) DNA polymerase III alpha chain" />
+    <hashEntry Key="xcb:XC_2966" Value="K03584 DNA repair protein RecO (recombination protein O) | (GenBank) DNA repair protein" />
+    <hashEntry Key="xcb:XC_3222" Value="K02341 DNA polymerase III subunit delta&amp;#39; [EC:2.7.7.7] | (GenBank) DNA polymerase III delta&amp;#39; subunit" />
+    <hashEntry Key="xcb:XC_3242" Value="K06187 recombination protein RecR | (GenBank) recombination protein RecR" />
+    <hashEntry Key="xcb:XC_3244" Value="K02343 DNA polymerase III subunit gamma/tau [EC:2.7.7.7] | (GenBank) DNA polymerase III tau and gamm" />
+    <hashEntry Key="xcb:XC_3255" Value="K02342 DNA polymerase III subunit epsilon [EC:2.7.7.7] | (GenBank) DNA polymerase III epsilon chain" />
+    <hashEntry Key="xcb:XC_3586" Value="K02339 DNA polymerase III subunit chi [EC:2.7.7.7] | (GenBank) DNA polymerase III holoenzyme chi sub" />
+    <hashEntry Key="xcb:XC_3836" Value="K04066 primosomal protein N&amp;#39; (replication factor Y) (superfamily II helicase) [EC:3.6.4.-] | (GenBan" />
+    <hashEntry Key="xcb:XC_4109" Value="K02335 DNA polymerase I [EC:2.7.7.7] | (GenBank) DNA polymerase I" />
+    <hashEntry Key="xcb:XC_4287" Value="K03581 exodeoxyribonuclease V alpha subunit [EC:3.1.11.5] | (GenBank) exodeoxyribonuclease V alpha c" />
+    <hashEntry Key="xcb:XC_4288" Value="K03582 exodeoxyribonuclease V beta subunit [EC:3.1.11.5] | (GenBank) exodeoxyribonuclease V beta cha" />
+    <hashEntry Key="xcb:XC_4289" Value="K03583 exodeoxyribonuclease V gamma subunit [EC:3.1.11.5] | (GenBank) exodeoxyribonuclease V gamma c" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko03440" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Mol Cell Biol 28:1373-82 (2008)" PMID="18086882">
+      <Authors>Maloisel L</Authors>
+      <Authors>Fabre F</Authors>
+      <Authors>Gangloff S.</Authors>DNA polymerase delta is preferentially recruited during homologous recombination to promote heteroduplex DNA extension.</Reference>
+    <Reference Journal="Seikagaku 79:449-53 (2007)" PMID="17571595">
+      <Authors>Haruta-Takahashi N</Authors>
+      <Authors>Iwasaki H.</Authors>[Recombination mediators] Japanese</Reference>
+    <Reference Journal="Mech Ageing Dev 129:425-40 (2008)" PMID="18430459">
+      <Authors>Ouyang KJ</Authors>
+      <Authors>Woo LL</Authors>
+      <Authors>Ellis NA.</Authors>Homologous recombination and maintenance of genome integrity: Cancer and aging through the prism of human RecQ helicases.</Reference>
+    <Reference Journal="Acta Med Okayama 59:1-9 (2005)" PMID="15902993">
+      <Authors>Kawabata M</Authors>
+      <Authors>Kawabata T</Authors>
+      <Authors>Nishibori M.</Authors>Role of recA/RAD51 family proteins in mammals.</Reference>
+    <Reference Journal="Curr Genet 42:185-98 (2003)" PMID="12589470">
+      <Authors>Prado F</Authors>
+      <Authors>Cortes-Ledesma F</Authors>
+      <Authors>Huertas P</Authors>
+      <Authors>Aguilera A.</Authors>Mitotic recombination in Saccharomyces cerevisiae.</Reference>
+    <Reference Journal="Nucleic Acids Res 34:4115-25 (2006)" PMID="16935872">
+      <Authors>Heyer WD</Authors>
+      <Authors>Li X</Authors>
+      <Authors>Rolfsmeier M</Authors>
+      <Authors>Zhang XP.</Authors>Rad54: the Swiss Army knife of homologous recombination?</Reference>
+    <Reference Journal="DNA Repair (Amst) 6:967-80 (2007)" PMID="17395553">
+      <Authors>Michel B</Authors>
+      <Authors>Boubakri H</Authors>
+      <Authors>Baharoglu Z</Authors>
+      <Authors>LeMasson M</Authors>
+      <Authors>Lestini R.</Authors>Recombination proteins and rescue of arrested replication forks.</Reference>
+    <Reference Journal="" PMID="Hanaoka F.">
+      <Authors>[DNA Replication and Repair] (In Japanese)</Authors>Yodosha (2004)</Reference>
+    <Reference Journal="" PMID="Ohashi E, Ohmori H.">
+      <Authors>[The cross talk of the DNA replication and repair in Escherichia coli.] ( In Japanese)</Authors>Cell Technology 19:1449-53 (2000)</Reference>
+  </References>
+</KEGG.PathwayBrief>

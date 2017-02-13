@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb02040" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Flagellar assembly - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound />
+  <PathwayMap Key="xcb02040" Value="Flagellar assembly" />
+  <Genes>
+    <hashEntry Key="xcb:XC_2231" Value="K02398 negative regulator of flagellin synthesis FlgM | (GenBank) flagellar protein" />
+    <hashEntry Key="xcb:XC_2232" Value="K02386 flagella basal body P-ring formation protein FlgA | (GenBank) flagellar protein" />
+    <hashEntry Key="xcb:XC_2234" Value="K02387 flagellar basal-body rod protein FlgB | (GenBank) flagellar protein" />
+    <hashEntry Key="xcb:XC_2235" Value="K02388 flagellar basal-body rod protein FlgC | (GenBank) flagellar biosynthesis, cell-proximal porti" />
+    <hashEntry Key="xcb:XC_2236" Value="K02389 flagellar basal-body rod modification protein FlgD | (GenBank) flagellar protein" />
+    <hashEntry Key="xcb:XC_2237" Value="K02390 flagellar hook protein FlgE | (GenBank) flagellar biosynthesis, hook protein" />
+    <hashEntry Key="xcb:XC_2238" Value="K02391 flagellar basal-body rod protein FlgF | (GenBank) flagellar protein" />
+    <hashEntry Key="xcb:XC_2239" Value="K02392 flagellar basal-body rod protein FlgG | (GenBank) flagellar biosynthesis, cell-distal portion" />
+    <hashEntry Key="xcb:XC_2240" Value="K02393 flagellar L-ring protein precursor FlgH | (GenBank) flagellar L-ring protein" />
+    <hashEntry Key="xcb:XC_2241" Value="K02394 flagellar P-ring protein precursor FlgI | (GenBank) flagellar protein" />
+    <hashEntry Key="xcb:XC_2243" Value="K02396 flagellar hook-associated protein 1 FlgK | (GenBank) flagellar protein" />
+    <hashEntry Key="xcb:XC_2244" Value="K02397 flagellar hook-associated protein 3 FlgL | (GenBank) flagellar protein" />
+    <hashEntry Key="xcb:XC_2245" Value="K02406 flagellin | (GenBank) flagellar protein" />
+    <hashEntry Key="xcb:XC_2246" Value="K02407 flagellar hook-associated protein 2 | (GenBank) flagellar protein" />
+    <hashEntry Key="xcb:XC_2247" Value="K02422 flagellar protein FliS | (GenBank) flagellar protein" />
+    <hashEntry Key="xcb:XC_2259" Value="K02408 flagellar hook-basal body complex protein FliE | (GenBank) flagellar protein" />
+    <hashEntry Key="xcb:XC_2260" Value="K02409 flagellar M-ring protein FliF | (GenBank) flagellar protein" />
+    <hashEntry Key="xcb:XC_2261" Value="K02410 flagellar motor switch protein FliG | (GenBank) flagellar protein" />
+    <hashEntry Key="xcb:XC_2262" Value="K02411 flagellar assembly protein FliH | (GenBank) flagellar protein" />
+    <hashEntry Key="xcb:XC_2263" Value="K02412 flagellum-specific ATP synthase [EC:3.6.3.14] | (GenBank) flagellar protein" />
+    <hashEntry Key="xcb:XC_2264" Value="K02413 flagellar FliJ protein | (GenBank) flagellar FliJ protein" />
+    <hashEntry Key="xcb:XC_2265" Value="K02414 flagellar hook-length control protein FliK | (GenBank) flagellar protein" />
+    <hashEntry Key="xcb:XC_2267" Value="K02416 flagellar motor switch protein FliM | (GenBank) flagellar protein" />
+    <hashEntry Key="xcb:XC_2268" Value="K02417 flagellar motor switch protein FliN/FliY | (GenBank) flagellar protein" />
+    <hashEntry Key="xcb:XC_2269" Value="K02418 flagellar protein FliO/FliZ | (GenBank) flagellar protein" />
+    <hashEntry Key="xcb:XC_2270" Value="K02419 flagellar biosynthetic protein FliP | (GenBank) flagellar biosynthetic protein" />
+    <hashEntry Key="xcb:XC_2272" Value="K02420 flagellar biosynthetic protein FliQ | (GenBank) flagellar biosynthesis" />
+    <hashEntry Key="xcb:XC_2273" Value="K02421 flagellar biosynthetic protein FliR | (GenBank) flagellar biosynthetic protein" />
+    <hashEntry Key="xcb:XC_2277" Value="K02401 flagellar biosynthetic protein FlhB | (GenBank) flagellar protein" />
+    <hashEntry Key="xcb:XC_2278" Value="K02400 flagellar biosynthesis protein FlhA | (GenBank) flagellar biosynthetic protein FlhA" />
+    <hashEntry Key="xcb:XC_2281" Value="K02405 RNA polymerase sigma factor for flagellar operon FliA | (GenBank) RNA polymerase sigma factor" />
+    <hashEntry Key="xcb:XC_2297" Value="K02556 chemotaxis protein MotA | (GenBank) MotA protein" />
+    <hashEntry Key="xcb:XC_2298" Value="K02557 chemotaxis protein MotB | (GenBank) MotB protein" />
+    <hashEntry Key="xcb:XC_3724" Value="K02556 chemotaxis protein MotA | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_3725" Value="K02557 chemotaxis protein MotB | (GenBank) chemotaxis MotB protein" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko02040" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Biomolecules 4:217-34 (2014)" PMID="24970213">
+      <Authors>Morimoto YV</Authors>
+      <Authors>Minamino T</Authors>Structure and function of the bi-directional bacterial flagellar motor.</Reference>
+    <Reference Journal="FEMS Microbiol Lett 202:157-64 (2001)" PMID="11520608">
+      <Authors>Aizawa SI.</Authors>Bacterial flagella and type III secretion systems.</Reference>
+    <Reference Journal="Curr Opin Microbiol 5:160-5 (2002)" PMID="11934612">
+      <Authors>Aldridge P</Authors>
+      <Authors>Hughes KT.</Authors>Regulation of flagellar assembly.</Reference>
+    <Reference Journal="J Bacteriol 186:2495-8 (2004)" PMID="15060055">
+      <Authors>Van Arnam JS</Authors>
+      <Authors>McMurry JL</Authors>
+      <Authors>Kihara M</Authors>
+      <Authors>Macnab RM</Authors>Analysis of an engineered Salmonella flagellar fusion protein, FliR-FlhB.</Reference>
+  </References>
+</KEGG.PathwayBrief>

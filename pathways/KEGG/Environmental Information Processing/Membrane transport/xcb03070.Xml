@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb03070" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description>Gram-negative bacteria secrete a wide range of proteins whose functions include biogenesis of organelles, such as pilli and flagella, nutrient acquisition, virulence, and efflux of drugs and other toxins. Six distinct secretion systems have been shown to mediate protein export through the inner and outer membranes of Gram-negative bacteria. These pathways are highly conserved throughout the Gram-negative bacterial species. In Gram-positive bacteria, secreted proteins are commonly translocated across the single membrane by the Sec pathway or the two-arginine (Tat) pathway.</Description>
+  <Name>Bacterial secretion system - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00331" Value="Type II general secretion pathway [PATH:xcb03070]" />
+    <hashEntry Key="xcb_M00332" Value="Type III secretion system [PATH:xcb03070]" />
+    <hashEntry Key="xcb_M00333" Value="Type IV secretion system [PATH:xcb03070]" />
+    <hashEntry Key="xcb_M00335" Value="Sec (secretion) system [PATH:xcb03070]" />
+    <hashEntry Key="xcb_M00336" Value="Twin-arginine translocation (Tat) system [PATH:xcb03070]" />
+  </Modules>
+  <Compound>
+    <hashEntry Key="C00002" Value="ATP" />
+  </Compound>
+  <PathwayMap Key="xcb03070" Value="Bacterial secretion system" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0213" Value="K03071 preprotein translocase subunit SecB | (GenBank) protein-export protein" />
+    <hashEntry Key="xcb:XC_0738" Value="K02452 general secretion pathway protein C | (GenBank) type II secretion system protein C" />
+    <hashEntry Key="xcb:XC_0739" Value="K02453 general secretion pathway protein D | (GenBank) type II secretion system protein D" />
+    <hashEntry Key="xcb:XC_0740" Value="K02454 general secretion pathway protein E | (GenBank) type II secretion system protein E" />
+    <hashEntry Key="xcb:XC_0741" Value="K02455 general secretion pathway protein F | (GenBank) type II secretion system protein F" />
+    <hashEntry Key="xcb:XC_0742" Value="K02456 general secretion pathway protein G | (GenBank) type II secretion system protein G" />
+    <hashEntry Key="xcb:XC_0743" Value="K02457 general secretion pathway protein H | (GenBank) type II secretion system protein H" />
+    <hashEntry Key="xcb:XC_0744" Value="K02458 general secretion pathway protein I | (GenBank) type II secretion system protein I" />
+    <hashEntry Key="xcb:XC_0745" Value="K02459 general secretion pathway protein J | (GenBank) type II secretion system protein J" />
+    <hashEntry Key="xcb:XC_0746" Value="K02460 general secretion pathway protein K | (GenBank) type II secretion system protein K" />
+    <hashEntry Key="xcb:XC_0747" Value="K02461 general secretion pathway protein L | (GenBank) type II secretion system protein L" />
+    <hashEntry Key="xcb:XC_0748" Value="K02462 general secretion pathway protein M | (GenBank) type II secretion system protein M" />
+    <hashEntry Key="xcb:XC_0828" Value="K12340 outer membrane protein | (GenBank) TolC protein" />
+    <hashEntry Key="xcb:XC_0864" Value="K03201 type IV secretion system protein VirB6 | (GenBank) VirB6 protein" />
+    <hashEntry Key="xcb:XC_0868" Value="K03201 type IV secretion system protein VirB6 | (GenBank) VirB6 protein" />
+    <hashEntry Key="xcb:XC_0870" Value="K03200 type IV secretion system protein VirB5 | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_0871" Value="K03200 type IV secretion system protein VirB5 | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_1027" Value="K03201 type IV secretion system protein VirB6 | (GenBank) VirB6 protein" />
+    <hashEntry Key="xcb:XC_1588" Value="K03075 preprotein translocase subunit SecG | (GenBank) protein-export membrane protein" />
+    <hashEntry Key="xcb:XC_1630" Value="K03205 type IV secretion system protein VirD4 | (GenBank) VirD4 protein" />
+    <hashEntry Key="xcb:XC_1632" Value="K03203 type IV secretion system protein VirB8 | (GenBank) VirB8 protein" />
+    <hashEntry Key="xcb:XC_1633" Value="K03204 type IV secretion system protein VirB9 | (GenBank) VirB9 protein" />
+    <hashEntry Key="xcb:XC_1634" Value="K03195 type IV secretion system protein VirB10 | (GenBank) VirB10 protein" />
+    <hashEntry Key="xcb:XC_1635" Value="K03196 type IV secretion system protein VirB11 | (GenBank) VirB11 protein" />
+    <hashEntry Key="xcb:XC_1636" Value="K03194 type IV secretion system protein VirB1 | (GenBank) VirB1 protein" />
+    <hashEntry Key="xcb:XC_1637" Value="K03197 type IV secretion system protein VirB2 | (GenBank) VirB2 protein" />
+    <hashEntry Key="xcb:XC_1638" Value="K03198 type IV secretion system protein VirB3 | (GenBank) VirB3 protein" />
+    <hashEntry Key="xcb:XC_1639" Value="K03199 type IV secretion system protein VirB4 | (GenBank) VirB4 protein" />
+    <hashEntry Key="xcb:XC_1695" Value="K03110 fused signal recognition particle receptor | (GenBank) cell division protein" />
+    <hashEntry Key="xcb:XC_1737" Value="K03210 preprotein translocase subunit YajC | (GenBank) preprotein translocase YajC subunit" />
+    <hashEntry Key="xcb:XC_1738" Value="K03072 preprotein translocase subunit SecD | (GenBank) protein-export membrane protein" />
+    <hashEntry Key="xcb:XC_1739" Value="K03074 preprotein translocase subunit SecF | (GenBank) protein-export membrane protein" />
+    <hashEntry Key="xcb:XC_2016" Value="K03201 type IV secretion system protein VirB6 | (GenBank) VirB6 protein" />
+    <hashEntry Key="xcb:XC_2413" Value="K03205 type IV secretion system protein VirD4 | (GenBank) putative NTPase VagA" />
+    <hashEntry Key="xcb:XC_3003" Value="K03219 type III secretion protein C | (GenBank) HrcC protein" />
+    <hashEntry Key="xcb:XC_3004" Value="K03228 type III secretion protein T | (GenBank) HrpB8 protein" />
+    <hashEntry Key="xcb:XC_3006" Value="K03224 ATP synthase in type III secretion protein N [EC:3.6.3.14] | (GenBank) HrpB6 protein" />
+    <hashEntry Key="xcb:XC_3007" Value="K03223 type III secretion protein L | (GenBank) HrpB5 protein" />
+    <hashEntry Key="xcb:XC_3009" Value="K03222 type III secretion protein J | (GenBank) HrcJ protein" />
+    <hashEntry Key="xcb:XC_3012" Value="K03229 type III secretion protein U | (GenBank) HrcU protein" />
+    <hashEntry Key="xcb:XC_3013" Value="K03230 type III secretion protein V | (GenBank) HrcV protein" />
+    <hashEntry Key="xcb:XC_3015" Value="K03225 type III secretion protein Q | (GenBank) HrcQ protein" />
+    <hashEntry Key="xcb:XC_3016" Value="K03226 type III secretion protein R | (GenBank) HrcR protein" />
+    <hashEntry Key="xcb:XC_3017" Value="K03227 type III secretion protein S | (GenBank) HrcS protein" />
+    <hashEntry Key="xcb:XC_3048" Value="K03106 signal recognition particle subunit SRP54 [EC:3.6.5.4] | (GenBank) signal recognition particl" />
+    <hashEntry Key="xcb:XC_3320" Value="K03076 preprotein translocase subunit SecY | (GenBank) preprotein translocase SecY subunit" />
+    <hashEntry Key="xcb:XC_3353" Value="K03073 preprotein translocase subunit SecE | (GenBank) translocase SecE" />
+    <hashEntry Key="xcb:XC_3501" Value="K03070 preprotein translocase subunit SecA | (GenBank) preprotein translocase SecA subunit" />
+    <hashEntry Key="xcb:XC_3563" Value="K02453 general secretion pathway protein D | (GenBank) general secretion pathway protein D" />
+    <hashEntry Key="xcb:XC_3565" Value="K02462 general secretion pathway protein M | (GenBank) general secretion pathway protein M" />
+    <hashEntry Key="xcb:XC_3566" Value="K02461 general secretion pathway protein L | (GenBank) general secretion pathway protein L" />
+    <hashEntry Key="xcb:XC_3567" Value="K02460 general secretion pathway protein K | (GenBank) general secretion pathway protein K" />
+    <hashEntry Key="xcb:XC_3568" Value="K02459 general secretion pathway protein J | (GenBank) general secretion pathway protein J" />
+    <hashEntry Key="xcb:XC_3569" Value="K02458 general secretion pathway protein I | (GenBank) general secretion pathway protein I" />
+    <hashEntry Key="xcb:XC_3570" Value="K02457 general secretion pathway protein H | (GenBank) general secretion pathway protein H" />
+    <hashEntry Key="xcb:XC_3571" Value="K02456 general secretion pathway protein G | (GenBank) general secretion pathway protein G" />
+    <hashEntry Key="xcb:XC_3572" Value="K02455 general secretion pathway protein F | (GenBank) general secretion pathway protein F" />
+    <hashEntry Key="xcb:XC_3573" Value="K02454 general secretion pathway protein E | (GenBank) general secretion pathway protein E" />
+    <hashEntry Key="xcb:XC_4179" Value="K02454 general secretion pathway protein E | (GenBank) general secretory pathway related protein" />
+    <hashEntry Key="xcb:XC_4182" Value="K03118 sec-independent protein translocase protein TatC | (GenBank) sec-independent protein transloc" />
+    <hashEntry Key="xcb:XC_4183" Value="K03117 sec-independent protein translocase protein TatB | (GenBank) sec-independent protein transloc" />
+    <hashEntry Key="xcb:XC_4184" Value="K03116 sec-independent protein translocase protein TatA | (GenBank) sec-independent protein transloc" />
+    <hashEntry Key="xcb:XC_4330" Value="K03217 YidC/Oxa1 family membrane protein insertase | (GenBank) 60 kDa inner-membrane protein" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko03070" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Trends Genet 17:65-9 (2001)" PMID="11173102">
+      <Authors>Kim JF.</Authors>Revisiting the chlamydial type III protein secretion system: clues to the origin of type III protein secretion.</Reference>
+    <Reference Journal="Mol Microbiol 40:284-93 (2001)" PMID="11309112">
+      <Authors>Plano GV</Authors>
+      <Authors>Day JB</Authors>
+      <Authors>Ferracci F.</Authors>Type III export: new uses for an old pathway.</Reference>
+    <Reference Journal="Curr Biol 11:R264-7 (2001)" PMID="11413015">
+      <Authors>Gauthier A</Authors>
+      <Authors>Finlay BB.</Authors>Bacterial pathogenesis: the answer to virulence is in the pore.</Reference>
+    <Reference Journal="Curr Opin Microbiol 2:25-9 (1999)" PMID="10047550">
+      <Authors>Burns DL.</Authors>Biochemistry of type IV secretion.</Reference>
+    <Reference Journal="Trends Microbiol 8:354-60 (2000)" PMID="10920394">
+      <Authors>Christie PJ</Authors>
+      <Authors>Vogel JP.</Authors>Bacterial type IV secretion: conjugation systems adapted to deliver effector molecules to host cells.</Reference>
+    <Reference Journal="Mol Microbiol 40:294-305 (2001)" PMID="11309113">
+      <Authors>Christie PJ.</Authors>Type IV secretion: intercellular transfer of macromolecules by systems ancestrally related to conjugation machines.</Reference>
+    <Reference Journal="Trends Cell Biol 9:402-8 (1999)" PMID="10481178">
+      <Authors>Nunn D.</Authors>Bacterial type II protein export and pilus biogenesis: more than just homologies?</Reference>
+    <Reference Journal="Mol Microbiol 40:271-83 (2001)" PMID="11309111">
+      <Authors>Sandkvist M.</Authors>Biology of type II secretion.</Reference>
+    <Reference Journal="Infect Immun 69:3523-35 (2001)" PMID="11349009">
+      <Authors>Sandkvist M.</Authors>Type II secretion and pathogenesis.</Reference>
+    <Reference Journal="Biochim Biophys Acta 1694:149-61 (2004)" PMID="15546664">
+      <Authors>Delepelaire P</Authors>Type I secretion in gram-negative bacteria.</Reference>
+    <Reference Journal="Biochim Biophys Acta 1778:1839-50 (2008)" PMID="18406342">
+      <Authors>Hazes B</Authors>
+      <Authors>Frost L</Authors>Towards a systems biology approach to study type II/IV secretion systems.</Reference>
+    <Reference Journal="FEMS Microbiol Lett 255:175-86 (2006)" PMID="16448494">
+      <Authors>Johnson TL</Authors>
+      <Authors>Abendroth J</Authors>
+      <Authors>Hol WG</Authors>
+      <Authors>Sandkvist M</Authors>Type II secretion: from structure to function.</Reference>
+    <Reference Journal="Biochim Biophys Acta 1694:163-79 (2004)" PMID="15546665">
+      <Authors>Filloux A</Authors>The underlying mechanisms of type II protein secretion.</Reference>
+    <Reference Journal="Nat Struct Mol Biol 16:468-76 (2009)" PMID="19396170">
+      <Authors>Spreter T</Authors>
+      <Authors>Yip CK</Authors>
+      <Authors>Sanowar S</Authors>
+      <Authors>Andre I</Authors>
+      <Authors>Kimbrough TG</Authors>
+      <Authors>Vuckovic M</Authors>
+      <Authors>Pfuetzner RA</Authors>
+      <Authors>Deng W</Authors>
+      <Authors>Yu AC</Authors>
+      <Authors>Finlay BB</Authors>
+      <Authors>Baker D</Authors>
+      <Authors>Miller SI</Authors>
+      <Authors>Strynadka NC</Authors>A conserved structural motif mediates formation of the periplasmic rings in the type III secretion system.</Reference>
+    <Reference Journal="Microbiol Mol Biol Rev 68:771-95 (2004)" PMID="15590783">
+      <Authors>Ghosh P</Authors>Process of protein transport by the type III secretion system.</Reference>
+    <Reference Journal="Nat Rev Mol Cell Biol 3:742-52 (2002)" PMID="12360191">
+      <Authors>Cornelis GR</Authors>The Yersinia Ysc-Yop 'type III' weaponry.</Reference>
+    <Reference Journal="Biochem Cell Biol 84:890-9 (2006)" PMID="17215876">
+      <Authors>Baron C</Authors>VirB8: a conserved type IV secretion system assembly factor and drug target.</Reference>
+    <Reference Journal="Nature 449:862-6 (2007)" PMID="17943123">
+      <Authors>Kwok T</Authors>
+      <Authors>Zabler D</Authors>
+      <Authors>Urman S</Authors>
+      <Authors>Rohde M</Authors>
+      <Authors>Hartig R</Authors>
+      <Authors>Wessler S</Authors>
+      <Authors>Misselwitz R</Authors>
+      <Authors>Berger J</Authors>
+      <Authors>Sewald N</Authors>
+      <Authors>Konig W</Authors>
+      <Authors>Backert S</Authors>Helicobacter exploits integrin for type IV secretion and kinase activation.</Reference>
+    <Reference Journal="Mol Membr Biol 22:51-61 (2005)" PMID="16092524">
+      <Authors>Christie PJ</Authors>
+      <Authors>Cascales E</Authors>Structural and dynamic properties of bacterial type IV secretion systems (review).</Reference>
+    <Reference Journal="Biochim Biophys Acta 1694:219-34 (2004)" PMID="15546668">
+      <Authors>Christie PJ</Authors>Type IV secretion: the Agrobacterium VirB/D4 and related conjugation systems.</Reference>
+    <Reference Journal="Microbiol Mol Biol Rev 68:692-744 (2004)" PMID="15590781">
+      <Authors>Henderson IR</Authors>
+      <Authors>Navarro-Garcia F</Authors>
+      <Authors>Desvaux M</Authors>
+      <Authors>Fernandez RC</Authors>
+      <Authors>Ala'Aldeen D</Authors>Type V protein secretion pathway: the autotransporter story.</Reference>
+    <Reference Journal="Trends Microbiol 6:370-8 (1998)" PMID="9778731">
+      <Authors>Henderson IR</Authors>
+      <Authors>Navarro-Garcia F</Authors>
+      <Authors>Nataro JP</Authors>The great escape: structure and function of the autotransporter proteins.</Reference>
+    <Reference Journal="Microbiology 154:1570-83 (2008)" PMID="18524912">
+      <Authors>Filloux A</Authors>
+      <Authors>Hachani A</Authors>
+      <Authors>Bleves S</Authors>The bacterial type VI secretion machine: yet another player for protein transport across membranes.</Reference>
+    <Reference Journal="Proc Natl Acad Sci U S A 106:4154-9 (2009)" PMID="19251641">
+      <Authors>Leiman PG</Authors>
+      <Authors>Basler M</Authors>
+      <Authors>Ramagopal UA</Authors>
+      <Authors>Bonanno JB</Authors>
+      <Authors>Sauder JM</Authors>
+      <Authors>Pukatzki S</Authors>
+      <Authors>Burley SK</Authors>
+      <Authors>Almo SC</Authors>
+      <Authors>Mekalanos JJ</Authors>Type VI secretion apparatus and phage tail-associated protein complexes share a common evolutionary origin.</Reference>
+    <Reference Journal="Nat Cell Biol 9:734-6 (2007)" PMID="17603507">
+      <Authors>Kulasekara HD</Authors>
+      <Authors>Miller SI</Authors>Threonine phosphorylation times bacterial secretion.</Reference>
+    <Reference Journal="Annu Rev Biochem 77:643-67 (2008)" PMID="18078384">
+      <Authors>Driessen AJ</Authors>
+      <Authors>Nouwen N</Authors>Protein translocation across the bacterial cytoplasmic membrane.</Reference>
+    <Reference Journal="Biochem Soc Trans 31:1232-7 (2003)" PMID="14641032">
+      <Authors>Pool MR</Authors>Getting to the membrane: how is co-translational protein targeting to the endoplasmic reticulum regulated?</Reference>
+    <Reference Journal="Trends Microbiol 17:139-45 (2009)" PMID="19299134">
+      <Authors>Desvaux M</Authors>
+      <Authors>Hebraud M</Authors>
+      <Authors>Talon R</Authors>
+      <Authors>Henderson IR</Authors>Secretion and subcellular localizations of bacterial proteins: a semantic awareness issue.</Reference>
+    <Reference Journal="Curr Opin Microbiol 7:145-50 (2004)" PMID="15063851">
+      <Authors>Nakatogawa H</Authors>
+      <Authors>Murakami A</Authors>
+      <Authors>Ito K</Authors>Control of SecA and SecM translation by protein secretion.</Reference>
+  </References>
+</KEGG.PathwayBrief>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb01054" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Nonribosomal peptide structures - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound>
+    <hashEntry Key="C01540" Value="Viomycin" />
+    <hashEntry Key="C01895" Value="Bleomycin B2" />
+    <hashEntry Key="C05371" Value="Microcystin LR" />
+    <hashEntry Key="C11218" Value="Gramicidin S" />
+    <hashEntry Key="C11615" Value="Pristinamycin IA" />
+    <hashEntry Key="C12030" Value="Mycosubtilin" />
+    <hashEntry Key="C12041" Value="Tyrocidine" />
+    <hashEntry Key="C12042" Value="Fengycin" />
+    <hashEntry Key="C12043" Value="Surfactin" />
+    <hashEntry Key="C12265" Value="Lichenysin D" />
+    <hashEntry Key="C12266" Value="Iturin A" />
+    <hashEntry Key="C12267" Value="Bacillomycin D" />
+    <hashEntry Key="C12268" Value="Syringomycin" />
+    <hashEntry Key="C15482" Value="Bacitracin A" />
+  </Compound>
+  <PathwayMap Key="xcb01054" Value="Nonribosomal peptide structures" />
+  <Genes>
+    <hashEntry Key="xcb:XC_2451" Value="K01779 aspartate racemase [EC:5.1.1.13] | (GenBank) putative resistance protein" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko01054" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="J Bacteriol 181:133-40 (1999)" PMID="9864322">
+      <Authors>Konz D</Authors>
+      <Authors>Doekel S</Authors>
+      <Authors>Marahiel MA.</Authors>Molecular and biochemical characterization of the protein template controlling biosynthesis of the lipopeptide lichenysin.</Reference>
+    <Reference Journal="FEMS Microbiol Lett 234:43-9 (2004)" PMID="15109718">
+      <Authors>Moyne AL</Authors>
+      <Authors>Cleveland TE</Authors>
+      <Authors>Tuzun S.</Authors>Molecular characterization and analysis of the operon encoding the antifungal lipopeptide bacillomycin D.</Reference>
+    <Reference Journal="J Biol Chem 273:32857-63 (1998)" PMID="9830033">
+      <Authors>Guenzi E</Authors>
+      <Authors>Galli G</Authors>
+      <Authors>Grgurina I</Authors>
+      <Authors>Gross DC</Authors>
+      <Authors>Grandi G.</Authors>Characterization of the syringomycin synthetase gene cluster. A link between prokaryotic and eukaryotic peptide synthetases.</Reference>
+    <Reference Journal="Antimicrob Agents Chemother 41:1904-9 (1997)" PMID="9303382">
+      <Authors>de Crecy-Lagard V</Authors>
+      <Authors>Saurin W</Authors>
+      <Authors>Thibaut D</Authors>
+      <Authors>Gil P</Authors>
+      <Authors>Naudin L</Authors>
+      <Authors>Crouzet J</Authors>
+      <Authors>Blanc V</Authors>Streptogramin B biosynthesis in Streptomyces pristinaespiralis and Streptomyces virginiae: molecular characterization of the last structural peptide synthetase gene.</Reference>
+    <Reference Journal="Chem Biol 7:623-42 (2000)" PMID="11048953">
+      <Authors>Du L</Authors>
+      <Authors>Sanchez C</Authors>
+      <Authors>Chen M</Authors>
+      <Authors>Edwards DJ</Authors>
+      <Authors>Shen B.</Authors>The biosynthetic gene cluster for the antitumor drug bleomycin from Streptomyces verticillus ATCC15003 supporting functional interactions between nonribosomal peptide synthetases and a polyketide synthase.</Reference>
+    <Reference Journal="Appl Environ Microbiol 70:686-92 (2004)" PMID="14766543">
+      <Authors>Rouhiainen L</Authors>
+      <Authors>Vakkilainen T</Authors>
+      <Authors>Siemer BL</Authors>
+      <Authors>Buikema W</Authors>
+      <Authors>Haselkorn R</Authors>
+      <Authors>Sivonen K</Authors>Genes coding for hepatotoxic heptapeptides (microcystins) in the cyanobacterium Anabaena strain 90.</Reference>
+    <Reference Journal="Nature 407:215-8 (2000)" PMID="11001063">
+      <Authors>Trauger JW</Authors>
+      <Authors>Kohli RM</Authors>
+      <Authors>Mootz HD</Authors>
+      <Authors>Marahiel MA</Authors>
+      <Authors>Walsh CT.</Authors>Peptide cyclization catalysed by the thioesterase domain of tyrocidine synthetase.</Reference>
+  </References>
+</KEGG.PathwayBrief>

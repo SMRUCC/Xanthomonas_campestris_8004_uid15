@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00970" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Aminoacyl-tRNA biosynthesis - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00360" Value="Aminoacyl-tRNA biosynthesis, prokaryotes [PATH:xcb00970]" />
+  </Modules>
+  <Compound>
+    <hashEntry Key="C00025" Value="L-Glutamate" />
+    <hashEntry Key="C00037" Value="Glycine" />
+    <hashEntry Key="C00041" Value="L-Alanine" />
+    <hashEntry Key="C00047" Value="L-Lysine" />
+    <hashEntry Key="C00049" Value="L-Aspartate" />
+    <hashEntry Key="C00062" Value="L-Arginine" />
+    <hashEntry Key="C00064" Value="L-Glutamine" />
+    <hashEntry Key="C00065" Value="L-Serine" />
+    <hashEntry Key="C00073" Value="L-Methionine" />
+    <hashEntry Key="C00078" Value="L-Tryptophan" />
+    <hashEntry Key="C00079" Value="L-Phenylalanine" />
+    <hashEntry Key="C00082" Value="L-Tyrosine" />
+    <hashEntry Key="C00097" Value="L-Cysteine" />
+    <hashEntry Key="C00101" Value="Tetrahydrofolate" />
+    <hashEntry Key="C00123" Value="L-Leucine" />
+    <hashEntry Key="C00135" Value="L-Histidine" />
+    <hashEntry Key="C00148" Value="L-Proline" />
+    <hashEntry Key="C00152" Value="L-Asparagine" />
+    <hashEntry Key="C00183" Value="L-Valine" />
+    <hashEntry Key="C00188" Value="L-Threonine" />
+    <hashEntry Key="C00234" Value="10-Formyltetrahydrofolate" />
+    <hashEntry Key="C00407" Value="L-Isoleucine" />
+    <hashEntry Key="C00886" Value="L-Alanyl-tRNA" />
+    <hashEntry Key="C01005" Value="O-Phospho-L-serine" />
+    <hashEntry Key="C01931" Value="L-Lysyl-tRNA" />
+    <hashEntry Key="C02047" Value="L-Leucyl-tRNA" />
+    <hashEntry Key="C02163" Value="L-Arginyl-tRNA(Arg)" />
+    <hashEntry Key="C02282" Value="Glutaminyl-tRNA" />
+    <hashEntry Key="C02412" Value="Glycyl-tRNA(Gly)" />
+    <hashEntry Key="C02430" Value="L-Methionyl-tRNA" />
+    <hashEntry Key="C02553" Value="L-Seryl-tRNA(Ser)" />
+    <hashEntry Key="C02554" Value="L-Valyl-tRNA(Val)" />
+    <hashEntry Key="C02702" Value="L-Prolyl-tRNA(Pro)" />
+    <hashEntry Key="C02839" Value="L-Tyrosyl-tRNA(Tyr)" />
+    <hashEntry Key="C02984" Value="L-Aspartyl-tRNA(Asp)" />
+    <hashEntry Key="C02987" Value="L-Glutamyl-tRNA(Glu)" />
+    <hashEntry Key="C02988" Value="L-Histidyl-tRNA(His)" />
+    <hashEntry Key="C02992" Value="L-Threonyl-tRNA(Thr)" />
+    <hashEntry Key="C03125" Value="L-Cysteinyl-tRNA(Cys)" />
+    <hashEntry Key="C03127" Value="L-Isoleucyl-tRNA(Ile)" />
+    <hashEntry Key="C03294" Value="N-Formylmethionyl-tRNA" />
+    <hashEntry Key="C03402" Value="L-Asparaginyl-tRNA(Asn)" />
+    <hashEntry Key="C03511" Value="L-Phenylalanyl-tRNA(Phe)" />
+    <hashEntry Key="C03512" Value="L-Tryptophanyl-tRNA(Trp)" />
+    <hashEntry Key="C06112" Value="L-Glutamyl-tRNA(Gln)" />
+    <hashEntry Key="C06113" Value="L-Aspartyl-tRNA(Asn)" />
+    <hashEntry Key="C06481" Value="L-Seryl-tRNA(Sec)" />
+    <hashEntry Key="C06482" Value="L-Selenocysteinyl-tRNA(Sec)" />
+    <hashEntry Key="C16138" Value="L-Pyrrolysine" />
+    <hashEntry Key="C16638" Value="O-Phosphoseryl-tRNA(Sec)" />
+    <hashEntry Key="C17022" Value="O-Phosphoseryl-tRNA(Cys)" />
+    <hashEntry Key="C17027" Value="L-Pyrrolysyl-tRNA(Pyl)" />
+  </Compound>
+  <PathwayMap Key="xcb00970" Value="Aminoacyl-tRNA biosynthesis" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0302" Value="K02433 aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A [EC:6.3.5.6 6.3.5.7] | (GenB" />
+    <hashEntry Key="xcb:XC_1128" Value="K01876 aspartyl-tRNA synthetase [EC:6.1.1.12] | (GenBank) aspartyl-tRNA synthetase" />
+    <hashEntry Key="xcb:XC_1429" Value="K01885 glutamyl-tRNA synthetase [EC:6.1.1.17] | (GenBank) glutamyl-tRNA synthetase" />
+    <hashEntry Key="xcb:XC_1497" Value="K01869 leucyl-tRNA synthetase [EC:6.1.1.4] | (GenBank) leucyl-tRNA synthetase" />
+    <hashEntry Key="xcb:XC_1650" Value="K01868 threonyl-tRNA synthetase [EC:6.1.1.3] | (GenBank) threonyl-tRNA synthetase" />
+    <hashEntry Key="xcb:XC_1654" Value="K01889 phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20] | (GenBank) phenylalanyl-tRNA syntheta" />
+    <hashEntry Key="xcb:XC_1655" Value="K01890 phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20] | (GenBank) phenylalanyl-tRNA synthetas" />
+    <hashEntry Key="xcb:XC_1867" Value="K01883 cysteinyl-tRNA synthetase [EC:6.1.1.16] | (GenBank) cysteinyl-tRNA synthetase" />
+    <hashEntry Key="xcb:XC_2336" Value="K04567 lysyl-tRNA synthetase, class II [EC:6.1.1.6] | (GenBank) putative lysyl tRNA synthetase" />
+    <hashEntry Key="xcb:XC_2383" Value="K01892 histidyl-tRNA synthetase [EC:6.1.1.21] | (GenBank) histidyl-tRNA synthetase" />
+    <hashEntry Key="xcb:XC_2507" Value="K01872 alanyl-tRNA synthetase [EC:6.1.1.7] | (GenBank) alanyl-tRNA synthetase" />
+    <hashEntry Key="xcb:XC_2640" Value="K01875 seryl-tRNA synthetase [EC:6.1.1.11] | (GenBank) seryl-tRNA synthetase" />
+    <hashEntry Key="xcb:XC_2673" Value="K01893 asparaginyl-tRNA synthetase [EC:6.1.1.22] | (GenBank) asparaginyl-tRNA synthetase" />
+    <hashEntry Key="xcb:XC_2900" Value="K01874 methionyl-tRNA synthetase [EC:6.1.1.10] | (GenBank) methionyl-tRNA synthetase" />
+    <hashEntry Key="xcb:XC_3087" Value="K01870 isoleucyl-tRNA synthetase [EC:6.1.1.5] | (GenBank) isoleucyl-tRNA synthetase" />
+    <hashEntry Key="xcb:XC_3409" Value="K01886 glutaminyl-tRNA synthetase [EC:6.1.1.18] | (GenBank) glutaminyl-tRNA synthetase" />
+    <hashEntry Key="xcb:XC_3588" Value="K01873 valyl-tRNA synthetase [EC:6.1.1.9] | (GenBank) valyl-tRNA synthetase" />
+    <hashEntry Key="xcb:XC_3596" Value="K01881 prolyl-tRNA synthetase [EC:6.1.1.15] | (GenBank) prolyl-tRNA synthetase" />
+    <hashEntry Key="xcb:XC_3818" Value="K00604 methionyl-tRNA formyltransferase [EC:2.1.2.9] | (GenBank) 10-Formyltetrahydrofolate:L-methion" />
+    <hashEntry Key="xcb:XC_3925" Value="K01866 tyrosyl-tRNA synthetase [EC:6.1.1.1] | (GenBank) tyrosyl-tRNA synthetase" />
+    <hashEntry Key="xcb:XC_3945" Value="K01887 arginyl-tRNA synthetase [EC:6.1.1.19] | (GenBank) arginyl-tRNA synthetase" />
+    <hashEntry Key="xcb:XC_4011" Value="K01867 tryptophanyl-tRNA synthetase [EC:6.1.1.2] | (GenBank) tryptophanyl-tRNA synthetase" />
+    <hashEntry Key="xcb:XC_4177" Value="K01879 glycyl-tRNA synthetase beta chain [EC:6.1.1.14] | (GenBank) glycyl-tRNA synthetase beta chain" />
+    <hashEntry Key="xcb:XC_4178" Value="K01878 glycyl-tRNA synthetase alpha chain [EC:6.1.1.14] | (GenBank) glycyl-tRNA synthetase alpha cha" />
+    <hashEntry Key="xcb:XC_4333" Value="K14219 tRNA Arg | (GenBank) tRNA-Arg" />
+    <hashEntry Key="xcb:XC_4334" Value="K14223 tRNA Gln | (GenBank) tRNA-Gln" />
+    <hashEntry Key="xcb:XC_4335" Value="K14230 tRNA Met | (GenBank) tRNA-Met" />
+    <hashEntry Key="xcb:XC_4336" Value="K14225 tRNA Gly | (GenBank) tRNA-Gly" />
+    <hashEntry Key="xcb:XC_4337" Value="K14229 tRNA Lys | (GenBank) tRNA-Lys" />
+    <hashEntry Key="xcb:XC_4338" Value="K14228 tRNA Leu | (GenBank) tRNA-Leu" />
+    <hashEntry Key="xcb:XC_4339" Value="K14230 tRNA Met | (GenBank) tRNA-Met" />
+    <hashEntry Key="xcb:XC_4340" Value="K14220 tRNA Asn | (GenBank) tRNA-Asn" />
+    <hashEntry Key="xcb:XC_4341" Value="K14237 tRNA Val | (GenBank) tRNA-Val" />
+    <hashEntry Key="xcb:XC_4342" Value="K14232 tRNA Pro | (GenBank) tRNA-Pro" />
+    <hashEntry Key="xcb:XC_4343" Value="K14231 tRNA Phe | (GenBank) tRNA-Phe" />
+    <hashEntry Key="xcb:XC_4344" Value="K14218 tRNA Ala | (GenBank) tRNA-Ala" />
+    <hashEntry Key="xcb:XC_4345" Value="K14232 tRNA Pro | (GenBank) tRNA-Pro" />
+    <hashEntry Key="xcb:XC_4346" Value="K14228 tRNA Leu | (GenBank) tRNA-Leu" />
+    <hashEntry Key="xcb:XC_4347" Value="K14224 tRNA Glu | (GenBank) tRNA-Glu" />
+    <hashEntry Key="xcb:XC_4348" Value="K14218 tRNA Ala | (GenBank) tRNA-Ala" />
+    <hashEntry Key="xcb:XC_4349" Value="K14224 tRNA Glu | (GenBank) tRNA-Glu" />
+    <hashEntry Key="xcb:XC_4350" Value="K14218 tRNA Ala | (GenBank) tRNA-Ala" />
+    <hashEntry Key="xcb:XC_4351" Value="K14225 tRNA Gly | (GenBank) tRNA-Gly" />
+    <hashEntry Key="xcb:XC_4352" Value="K14222 tRNA Cys | (GenBank) tRNA-Cys" />
+    <hashEntry Key="xcb:XC_4353" Value="K14225 tRNA Gly | (GenBank) tRNA-Gly" />
+    <hashEntry Key="xcb:XC_4354" Value="K14228 tRNA Leu | (GenBank) tRNA-Leu" />
+    <hashEntry Key="xcb:XC_4355" Value="K14219 tRNA Arg | (GenBank) tRNA-Arg" />
+    <hashEntry Key="xcb:XC_4356" Value="K14224 tRNA Glu | (GenBank) tRNA-Glu" />
+    <hashEntry Key="xcb:XC_4357" Value="K14219 tRNA Arg | (GenBank) tRNA-Arg" />
+    <hashEntry Key="xcb:XC_4358" Value="K14219 tRNA Arg | (GenBank) tRNA-Arg" />
+    <hashEntry Key="xcb:XC_4359" Value="K14233 tRNA Ser | (GenBank) tRNA-Ser" />
+    <hashEntry Key="xcb:XC_4360" Value="K14233 tRNA Ser | (GenBank) tRNA-Ser" />
+    <hashEntry Key="xcb:XC_4361" Value="K14228 tRNA Leu | (GenBank) tRNA-Leu" />
+    <hashEntry Key="xcb:XC_4363" Value="K14228 tRNA Leu | (GenBank) tRNA-Leu" />
+    <hashEntry Key="xcb:XC_4364" Value="K14234 tRNA Thr | (GenBank) tRNA-Thr" />
+    <hashEntry Key="xcb:XC_4365" Value="K14237 tRNA Val | (GenBank) tRNA-Val" />
+    <hashEntry Key="xcb:XC_4366" Value="K14233 tRNA Ser | (GenBank) tRNA-Ser" />
+    <hashEntry Key="xcb:XC_4368" Value="K14221 tRNA Asp | (GenBank) tRNA-Asp" />
+    <hashEntry Key="xcb:XC_4369" Value="K14221 tRNA Asp | (GenBank) tRNA-Asp" />
+    <hashEntry Key="xcb:XC_4370" Value="K14237 tRNA Val | (GenBank) tRNA-Val" />
+    <hashEntry Key="xcb:XC_4371" Value="K14228 tRNA Leu | (GenBank) tRNA-Leu" />
+    <hashEntry Key="xcb:XC_4372" Value="K14229 tRNA Lys | (GenBank) tRNA-Lys" />
+    <hashEntry Key="xcb:XC_4373" Value="K14226 tRNA His | (GenBank) tRNA-His" />
+    <hashEntry Key="xcb:XC_4374" Value="K14219 tRNA Arg | (GenBank) tRNA-Arg" />
+    <hashEntry Key="xcb:XC_4375" Value="K14232 tRNA Pro | (GenBank) tRNA-Pro" />
+    <hashEntry Key="xcb:XC_4376" Value="K14235 tRNA Trp | (GenBank) tRNA-Trp" />
+    <hashEntry Key="xcb:XC_4377" Value="K14234 tRNA Thr | (GenBank) tRNA-Thr" />
+    <hashEntry Key="xcb:XC_4378" Value="K14225 tRNA Gly | (GenBank) tRNA-Gly" />
+    <hashEntry Key="xcb:XC_4379" Value="K14236 tRNA Tyr | (GenBank) tRNA-Tyr" />
+    <hashEntry Key="xcb:XC_4380" Value="K14223 tRNA Gln | (GenBank) tRNA-Gln" />
+    <hashEntry Key="xcb:XC_4381" Value="K14230 tRNA Met | (GenBank) tRNA-Met" />
+    <hashEntry Key="xcb:XC_4384" Value="K14227 tRNA Ile | (GenBank) tRNA-Ile" />
+    <hashEntry Key="xcb:XC_4385" Value="K14218 tRNA Ala | (GenBank) tRNA-Ala" />
+    <hashEntry Key="xcb:XC_4388" Value="K14234 tRNA Thr | (GenBank) tRNA-Thr" />
+    <hashEntry Key="xcb:XC_4391" Value="K14227 tRNA Ile | (GenBank) tRNA-Ile" />
+    <hashEntry Key="xcb:XC_4392" Value="K14218 tRNA Ala | (GenBank) tRNA-Ala" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00970" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Nucleic Acids Res 36:1813-25 (2008)" PMID="18252769">
+      <Authors>Sheppard K</Authors>
+      <Authors>Yuan J</Authors>
+      <Authors>Hohn MJ</Authors>
+      <Authors>Jester B</Authors>
+      <Authors>Devine KM</Authors>
+      <Authors>Soll D</Authors>From one amino acid to another: tRNA-dependent amino acid biosynthesis.</Reference>
+    <Reference Journal="Proc Natl Acad Sci U S A 101:12450-4 (2004)" PMID="15314242">
+      <Authors>Polycarpo C</Authors>
+      <Authors>Ambrogelly A</Authors>
+      <Authors>Berube A</Authors>
+      <Authors>Winbush SM</Authors>
+      <Authors>McCloskey JA</Authors>
+      <Authors>Crain PF</Authors>
+      <Authors>Wood JL</Authors>
+      <Authors>Soll D</Authors>An aminoacyl-tRNA synthetase that specifically activates pyrrolysine.</Reference>
+  </References>
+</KEGG.PathwayBrief>

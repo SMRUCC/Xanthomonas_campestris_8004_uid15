@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00250" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Alanine, aspartate and glutamate metabolism - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound>
+    <hashEntry Key="C00014" Value="Ammonia" />
+    <hashEntry Key="C00022" Value="Pyruvate" />
+    <hashEntry Key="C00025" Value="L-Glutamate" />
+    <hashEntry Key="C00026" Value="2-Oxoglutarate" />
+    <hashEntry Key="C00036" Value="Oxaloacetate" />
+    <hashEntry Key="C00041" Value="L-Alanine" />
+    <hashEntry Key="C00042" Value="Succinate" />
+    <hashEntry Key="C00049" Value="L-Aspartate" />
+    <hashEntry Key="C00064" Value="L-Glutamine" />
+    <hashEntry Key="C00122" Value="Fumarate" />
+    <hashEntry Key="C00152" Value="L-Asparagine" />
+    <hashEntry Key="C00158" Value="Citrate" />
+    <hashEntry Key="C00169" Value="Carbamoyl phosphate" />
+    <hashEntry Key="C00232" Value="Succinate semialdehyde" />
+    <hashEntry Key="C00334" Value="4-Aminobutanoate" />
+    <hashEntry Key="C00352" Value="D-Glucosamine 6-phosphate" />
+    <hashEntry Key="C00402" Value="D-Aspartate" />
+    <hashEntry Key="C00438" Value="N-Carbamoyl-L-aspartate" />
+    <hashEntry Key="C00940" Value="2-Oxoglutaramate" />
+    <hashEntry Key="C01042" Value="N-Acetyl-L-aspartate" />
+    <hashEntry Key="C02362" Value="2-Oxosuccinamate" />
+    <hashEntry Key="C03090" Value="5-Phosphoribosylamine" />
+    <hashEntry Key="C03406" Value="N-(L-Arginino)succinate" />
+    <hashEntry Key="C03794" Value="N6-(1,2-Dicarboxyethyl)-AMP" />
+    <hashEntry Key="C03912" Value="(S)-1-Pyrroline-5-carboxylate" />
+    <hashEntry Key="C12270" Value="N-Acetylaspartylglutamate" />
+    <hashEntry Key="C20775" Value="beta-Citryl-L-glutamate" />
+    <hashEntry Key="C20776" Value="N-Acetylaspartylglutamylglutamate" />
+  </Compound>
+  <PathwayMap Key="xcb00250" Value="Alanine, aspartate and glutamate metabolism" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0031" Value="K00266 glutamate synthase (NADPH/NADH) small chain [EC:1.4.1.13 1.4.1.14] | (GenBank) glutamate synt" />
+    <hashEntry Key="xcb:XC_0032" Value="K00265 glutamate synthase (NADPH/NADH) large chain [EC:1.4.1.13 1.4.1.14] | (GenBank) glutamate synt" />
+    <hashEntry Key="xcb:XC_0194" Value="K01915 glutamine synthetase [EC:6.3.1.2] | (GenBank) glutamine synthetase" />
+    <hashEntry Key="xcb:XC_0753" Value="K00820 glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16] | (GenBank) gl" />
+    <hashEntry Key="xcb:XC_0800" Value="K14260 alanine-synthesizing transaminase [EC:2.6.1.66 2.6.1.2] | (GenBank) aminotransferase" />
+    <hashEntry Key="xcb:XC_1367" Value="K00609 aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2] | (GenBank) aspartate carbamoyl" />
+    <hashEntry Key="xcb:XC_1751" Value="K15371 glutamate dehydrogenase [EC:1.4.1.2] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_1768" Value="K01915 glutamine synthetase [EC:6.3.1.2] | (GenBank) glutamine synthase" />
+    <hashEntry Key="xcb:XC_1770" Value="K01915 glutamine synthetase [EC:6.3.1.2] | (GenBank) glutamine synthetase" />
+    <hashEntry Key="xcb:XC_1780" Value="K00135 succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2." />
+    <hashEntry Key="xcb:XC_1871" Value="K01940 argininosuccinate synthase [EC:6.3.4.5] | (GenBank) argininosuccinate synthase" />
+    <hashEntry Key="xcb:XC_1876" Value="K01755 argininosuccinate lyase [EC:4.3.2.1] | (GenBank) argininosuccinate lyase" />
+    <hashEntry Key="xcb:XC_2346" Value="K01955 carbamoyl-phosphate synthase large subunit [EC:6.3.5.5] | (GenBank) carbamoyl-phosphate synth" />
+    <hashEntry Key="xcb:XC_2348" Value="K01956 carbamoyl-phosphate synthase small subunit [EC:6.3.5.5] | (GenBank) carbamoyl-phosphate synth" />
+    <hashEntry Key="xcb:XC_2451" Value="K01779 aspartate racemase [EC:5.1.1.13] | (GenBank) putative resistance protein" />
+    <hashEntry Key="xcb:XC_2744" Value="K01756 adenylosuccinate lyase [EC:4.3.2.2] | (GenBank) adenylosuccinate lyase" />
+    <hashEntry Key="xcb:XC_2806" Value="K01953 asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4] | (GenBank) asparagine synthase" />
+    <hashEntry Key="xcb:XC_2848" Value="K01953 asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4] | (GenBank) asparagine synthase B" />
+    <hashEntry Key="xcb:XC_3193" Value="K01939 adenylosuccinate synthase [EC:6.3.4.4] | (GenBank) adenylosuccinate synthetase" />
+    <hashEntry Key="xcb:XC_3282" Value="K00764 amidophosphoribosyltransferase [EC:2.4.2.14] | (GenBank) amidophosphoribosyltransferase" />
+    <hashEntry Key="xcb:XC_3374" Value="K01424 L-asparaginase [EC:3.5.1.1] | (GenBank) asparaginase" />
+    <hashEntry Key="xcb:XC_3663" Value="K00820 glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16] | (GenBank) gl" />
+    <hashEntry Key="xcb:XC_3907" Value="K13821 RHH-type transcriptional regulator, proline utilization regulon repressor / proline dehydroge" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00250" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="" PMID="Nishizuka Y, Seyama Y, Ikai A, Ishimura Y, Kawaguchi A (eds).">
+      <Authors>[Cellular Functions and Metabolic Maps] (In Japanese)</Authors>Tokyo Kagaku Dojin (1997)</Reference>
+    <Reference Journal="J Nutr 128:1249-52 (1998)" PMID="9687539">
+      <Authors>Wu G</Authors>Intestinal mucosal amino acid catabolism.</Reference>
+  </References>
+</KEGG.PathwayBrief>

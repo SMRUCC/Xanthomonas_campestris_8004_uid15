@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00523" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Polyketide sugar unit biosynthesis - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00793" Value="dTDP-L-rhamnose biosynthesis [PATH:xcb00523]" />
+  </Modules>
+  <Compound>
+    <hashEntry Key="C00103" Value="D-Glucose 1-phosphate" />
+    <hashEntry Key="C00688" Value="dTDP-4-dehydro-beta-L-rhamnose" />
+    <hashEntry Key="C00842" Value="dTDP-glucose" />
+    <hashEntry Key="C03187" Value="dTDP-6-deoxy-beta-L-talose" />
+    <hashEntry Key="C03319" Value="dTDP-L-rhamnose" />
+    <hashEntry Key="C04268" Value="dTDP-4-amino-4,6-dideoxy-D-glucose" />
+    <hashEntry Key="C06620" Value="dTDP-3,4-dioxo-2,6-dideoxy-D-glucose" />
+    <hashEntry Key="C07277" Value="dTDP-D-fucose" />
+    <hashEntry Key="C11460" Value="dTDP-4-oxo-5-C-methyl-L-rhamnose" />
+    <hashEntry Key="C11907" Value="dTDP-4-oxo-6-deoxy-D-glucose" />
+    <hashEntry Key="C11908" Value="3,6-Dideoxy-3-oxo-dTDP-D-glucose" />
+    <hashEntry Key="C11909" Value="dTDP-3-oxo-4,6-dideoxy-D-glucose" />
+    <hashEntry Key="C11910" Value="dTDP-3-amino-3,4,6-trideoxy-D-glucose" />
+    <hashEntry Key="C11911" Value="dTDP-D-desosamine" />
+    <hashEntry Key="C11912" Value="dTDP-6-deoxy-D-allose" />
+    <hashEntry Key="C11915" Value="dTDP-3-methyl-4-oxo-2,6-dideoxy-L-allose" />
+    <hashEntry Key="C11916" Value="dTDP-L-mycarose" />
+    <hashEntry Key="C11918" Value="Maltol" />
+    <hashEntry Key="C11919" Value="dTDP-L-megosamine" />
+    <hashEntry Key="C11920" Value="dTDP-L-olivose" />
+    <hashEntry Key="C11921" Value="dTDP-L-oleandrose" />
+    <hashEntry Key="C11922" Value="dTDP-4-oxo-2,6-dideoxy-D-glucose" />
+    <hashEntry Key="C11925" Value="dTDP-3-amino-3,6-dideoxy-D-glucose" />
+    <hashEntry Key="C11926" Value="dTDP-4-oxo-6-deoxy-D-allose" />
+    <hashEntry Key="C11927" Value="dTDP-4-oxo-2,6-dideoxy-L-mannose" />
+    <hashEntry Key="C11928" Value="dTDP-4-oxo-2,6-dideoxy-D-allose" />
+    <hashEntry Key="C11933" Value="dTDP-D-mycaminose" />
+    <hashEntry Key="C12318" Value="dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose" />
+    <hashEntry Key="C12481" Value="dTDP-5-dimethyl-L-lyxose" />
+    <hashEntry Key="C18029" Value="dTDP-3-oxo-2,6-dideoxy-D-glucose" />
+    <hashEntry Key="C18030" Value="dTDP-2,6-dideoxy-D-kanosamine" />
+    <hashEntry Key="C18031" Value="dTDP-D-angolosamine" />
+    <hashEntry Key="C18032" Value="dTDP-4-oxo-2,3,6-trideoxy-D-glucose" />
+    <hashEntry Key="C18033" Value="dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose" />
+    <hashEntry Key="C18034" Value="dTDP-D-forosamine" />
+    <hashEntry Key="C18035" Value="dTDP-3-methyl-4-oxo-2,6-dideoxy-D-glucose" />
+    <hashEntry Key="C19947" Value="dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose" />
+    <hashEntry Key="C19948" Value="dTDP-3-dimethylamino-3,6-dideoxy-alpha-D-galactopyranose" />
+    <hashEntry Key="C19960" Value="dTDP-3-dehydro-6-deoxy-alpha-D-galactopyranose" />
+    <hashEntry Key="C20156" Value="dTDP-3-acetamido-3,6-dideoxy-alpha-D-galactopyranose" />
+    <hashEntry Key="C20682" Value="dTDP-alpha-D-fucofuranose" />
+    <hashEntry Key="C21071" Value="dTDP-3-O-methyl-4-oxo-2,6-dideoxy-L-mannose" />
+    <hashEntry Key="C21073" Value="dTDP-3-N,N-dimethylamino-2,3,6-trideoxy-4-keto-D-glucose" />
+    <hashEntry Key="C21074" Value="dTDP-3-N,N-dimethylamino-4-oxo-2,3,6-trideoxy-L-allose" />
+  </Compound>
+  <PathwayMap Key="xcb00523" Value="Polyketide sugar unit biosynthesis" />
+  <Genes>
+    <hashEntry Key="xcb:XC_2171" Value="K01790 dTDP-4-dehydrorhamnose 3,5-epimerase [EC:5.1.3.13] | (GenBank) strX protein" />
+    <hashEntry Key="xcb:XC_3610" Value="K00067 dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133] | (GenBank) dTDP-4-dehydrorhamnose reductase" />
+    <hashEntry Key="xcb:XC_3611" Value="K01790 dTDP-4-dehydrorhamnose 3,5-epimerase [EC:5.1.3.13] | (GenBank) dTDP-4-dehydrorhamnose 3,5-epi" />
+    <hashEntry Key="xcb:XC_3612" Value="K00973 glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24] | (GenBank) glucose-1-phosphate thymi" />
+    <hashEntry Key="xcb:XC_3613" Value="K01710 dTDP-glucose 4,6-dehydratase [EC:4.2.1.46] | (GenBank) dTDP-glucose-4,6-dehydratase" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00523" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Nat Prod Rep 18:190-227 (2001)" PMID="11336289">
+      <Authors>Rawlings BJ.</Authors>Type I polyketide biosynthesis in bacteria (Part A--erythromycin biosynthesis).</Reference>
+    <Reference Journal="Nat Prod Rep 18:231-81 (2001)" PMID="11476481">
+      <Authors>Rawlings BJ.</Authors>Type I polyketide biosynthesis in bacteria (part B).</Reference>
+    <Reference Journal="Chem Biol 8:681-700 (2001)" PMID="11451669">
+      <Authors>Wohlert S</Authors>
+      <Authors>Lomovskaya N</Authors>
+      <Authors>Kulowski K</Authors>
+      <Authors>Fonstein L</Authors>
+      <Authors>Occi JL</Authors>
+      <Authors>Gewain KM</Authors>
+      <Authors>MacNeil DJ</Authors>
+      <Authors>Hutchinson CR</Authors>Insights about the biosynthesis of the avermectin deoxysugar L-oleandrose through heterologous expression of Streptomyces avermitilis deoxysugar genes in Streptomyces lividans.</Reference>
+    <Reference Journal="Microbiology 146 ( Pt 1):139-46 (2000)" PMID="10658660">
+      <Authors>Bate N</Authors>
+      <Authors>Butler AR</Authors>
+      <Authors>Smith IP</Authors>
+      <Authors>Cundliffe E</Authors>The mycarose-biosynthetic genes of Streptomyces fradiae, producer of tylosin.</Reference>
+    <Reference Journal="Carbohydr Res 335:23-32 (2001)" PMID="11553351">
+      <Authors>Amann S</Authors>
+      <Authors>Drager G</Authors>
+      <Authors>Rupprath C</Authors>
+      <Authors>Kirschning A</Authors>
+      <Authors>Elling L</Authors>(Chemo)enzymatic synthesis of dTDP-activated 2,6-dideoxysugars as building blocks of polyketide antibiotics.</Reference>
+    <Reference Journal="Nature 446:1008-16 (2007)" PMID="17460661">
+      <Authors>Thibodeaux CJ</Authors>
+      <Authors>Melancon CE</Authors>
+      <Authors>Liu HW</Authors>Unusual sugar biosynthesis and natural product glycodiversification.</Reference>
+    <Reference Journal="Mol Microbiol 37:752-62 (2000)" PMID="10972798">
+      <Authors>Volchegursky Y</Authors>
+      <Authors>Hu Z</Authors>
+      <Authors>Katz L</Authors>
+      <Authors>McDaniel R</Authors>Biosynthesis of the anti-parasitic agent megalomicin: transformation of erythromycin to megalomicin in Saccharopolyspora erythraea.</Reference>
+    <Reference Journal="Applied Biochemistry and Microbiology 40(6): 531-541 (2004)" PMID="(PMID:15609849 (Article in Russian))">
+      <Authors>Mironov VA</Authors>
+      <Authors>Sergienko OV</Authors>
+      <Authors>Nastasiak IN</Authors>
+      <Authors>Danilenko VN.</Authors>Biogenesis and regulation of biosynthesis of erythromycins in Saccharopolyspora.</Reference>
+    <Reference Journal="Chem Commun (Camb) 1079-81 (2006)" PMID="16514445">
+      <Authors>Tello M</Authors>
+      <Authors>Jakimowicz P</Authors>
+      <Authors>Errey JC</Authors>
+      <Authors>Freel Meyers CL</Authors>
+      <Authors>Walsh CT</Authors>
+      <Authors>Buttner MJ</Authors>
+      <Authors>Lawson DM</Authors>
+      <Authors>Field RA</Authors>Characterisation of Streptomyces spheroides NovW and revision of its functional assignment to a dTDP-6-deoxy-D-xylo-4-hexulose 3-epimerase.</Reference>
+    <Reference Journal="J Am Chem Soc 127:9340-1 (2005)" PMID="15984840">
+      <Authors>Takahashi H</Authors>
+      <Authors>Liu YN</Authors>
+      <Authors>Chen H</Authors>
+      <Authors>Liu HW</Authors>Biosynthesis of TDP-l-mycarose: the specificity of a single enzyme governs the outcome of the pathway.</Reference>
+    <Reference Journal="Antimicrob Agents Chemother 44:1266-75 (2000)" PMID="10770761">
+      <Authors>Aguirrezabalaga I</Authors>
+      <Authors>Olano C</Authors>
+      <Authors>Allende N</Authors>
+      <Authors>Rodriguez L</Authors>
+      <Authors>Brana AF</Authors>
+      <Authors>Mendez C</Authors>
+      <Authors>Salas JA</Authors>Identification and expression of genes involved in biosynthesis of L-oleandrose and its intermediate L-olivose in the oleandomycin producer Streptomyces antibioticus.</Reference>
+    <Reference Journal="J Bacteriol 183:5358-63 (2001)" PMID="11514520">
+      <Authors>Rodriguez L</Authors>
+      <Authors>Rodriguez D</Authors>
+      <Authors>Olano C</Authors>
+      <Authors>Brana AF</Authors>
+      <Authors>Mendez C</Authors>
+      <Authors>Salas JA</Authors>Functional analysis of OleY L-oleandrosyl 3-O-methyltransferase of the oleandomycin biosynthetic pathway in Streptomyces antibioticus.</Reference>
+    <Reference Journal="Appl Environ Microbiol 76:3869-77 (2010)" PMID="20418422">
+      <Authors>Useglio M</Authors>
+      <Authors>Peiru S</Authors>
+      <Authors>Rodriguez E</Authors>
+      <Authors>Labadie GR</Authors>
+      <Authors>Carney JR</Authors>
+      <Authors>Gramajo H</Authors>TDP-L-megosamine biosynthesis pathway elucidation and megalomicin a production in Escherichia coli.</Reference>
+  </References>
+</KEGG.PathwayBrief>

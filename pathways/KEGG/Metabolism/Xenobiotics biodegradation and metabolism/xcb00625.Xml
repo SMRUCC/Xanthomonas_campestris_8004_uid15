@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00625" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Chloroalkane and chloroalkene degradation - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound>
+    <hashEntry Key="C00011" Value="CO2" />
+    <hashEntry Key="C00024" Value="Acetyl-CoA" />
+    <hashEntry Key="C00048" Value="Glyoxylate" />
+    <hashEntry Key="C00058" Value="Formate" />
+    <hashEntry Key="C00067" Value="Formaldehyde" />
+    <hashEntry Key="C00084" Value="Acetaldehyde" />
+    <hashEntry Key="C00160" Value="Glycolate" />
+    <hashEntry Key="C00209" Value="Oxalate" />
+    <hashEntry Key="C00222" Value="3-Oxopropanoate" />
+    <hashEntry Key="C00237" Value="CO" />
+    <hashEntry Key="C01380" Value="Ethylene glycol" />
+    <hashEntry Key="C01548" Value="Acetylene" />
+    <hashEntry Key="C02271" Value="Dichloromethane" />
+    <hashEntry Key="C06547" Value="Ethylene" />
+    <hashEntry Key="C06548" Value="Ethylene oxide" />
+    <hashEntry Key="C06609" Value="trans-1,3-Dichloropropene" />
+    <hashEntry Key="C06610" Value="cis-1,3-Dichloropropene" />
+    <hashEntry Key="C06611" Value="trans-3-Chloro-2-propene-1-ol" />
+    <hashEntry Key="C06612" Value="cis-3-Chloro-2-propene-1-ol" />
+    <hashEntry Key="C06613" Value="trans-3-Chloroallyl aldehyde" />
+    <hashEntry Key="C06614" Value="trans-3-Chloroacrylic acid" />
+    <hashEntry Key="C06615" Value="cis-3-Chloroacrylic acid" />
+    <hashEntry Key="C06752" Value="1,2-Dichloroethane" />
+    <hashEntry Key="C06753" Value="2-Chloroethanol" />
+    <hashEntry Key="C06754" Value="Chloroacetaldehyde" />
+    <hashEntry Key="C06755" Value="Chloroacetic acid" />
+    <hashEntry Key="C06789" Value="Tetrachloroethene" />
+    <hashEntry Key="C06790" Value="Trichloroethene" />
+    <hashEntry Key="C06791" Value="trans-1,2-Dichloroethene" />
+    <hashEntry Key="C06792" Value="cis-1,2-Dichloroethene" />
+    <hashEntry Key="C06793" Value="Vinyl chloride" />
+    <hashEntry Key="C07490" Value="Trichloroethanol" />
+    <hashEntry Key="C11148" Value="TCE epoxide" />
+    <hashEntry Key="C11149" Value="Dichloroacetate" />
+    <hashEntry Key="C11150" Value="Trichloroacetate" />
+    <hashEntry Key="C14866" Value="Chloral" />
+    <hashEntry Key="C16348" Value="cis-3-Chloroallyl aldehyde" />
+    <hashEntry Key="C18246" Value="1,1,1-Trichloroethane" />
+    <hashEntry Key="C18247" Value="1,1-Dichloroethane" />
+    <hashEntry Key="C18248" Value="Chloroethane" />
+  </Compound>
+  <PathwayMap Key="xcb00625" Value="Chloroalkane and chloroalkene degradation" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0226" Value="K01563 haloalkane dehalogenase [EC:3.8.1.5] | (GenBank) haloalkane dehalogenase" />
+    <hashEntry Key="xcb:XC_0686" Value="K00121 S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1] | (" />
+    <hashEntry Key="xcb:XC_0775" Value="K00121 S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1] | (" />
+    <hashEntry Key="xcb:XC_2445" Value="K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] | (GenBank) aldehyde dehydrogenase" />
+    <hashEntry Key="xcb:XC_3421" Value="K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] | (GenBank) aldehyde dehydrogenase" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00625" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Appl Environ Microbiol 70:4880-8 (2004)" PMID="15294827">
+      <Authors>Muller JA</Authors>
+      <Authors>Rosner BM</Authors>
+      <Authors>Von Abendroth G</Authors>
+      <Authors>Meshulam-Simon G</Authors>
+      <Authors>McCarty PL</Authors>
+      <Authors>Spormann AM.</Authors>Molecular identification of the catabolic vinyl chloride reductase from Dehalococcoides sp. strain VS and its environmental distribution.</Reference>
+    <Reference Journal="Appl Environ Microbiol 72:6161-8 (2006)" PMID="16957242">
+      <Authors>Lee PK</Authors>
+      <Authors>Johnson DR</Authors>
+      <Authors>Holmes VF</Authors>
+      <Authors>He J</Authors>
+      <Authors>Alvarez-Cohen L.</Authors>Reductive dehalogenase gene expression as a biomarker for physiological activity of Dehalococcoides spp.</Reference>
+    <Reference Journal="Biodegradation 16:423-33 (2005)" PMID="15865156">
+      <Authors>Torz M</Authors>
+      <Authors>Beschkov V</Authors>Biodegradation of monochloroacetic acid used as a sole carbon and energy source by Xanthobacter autotrophicus GJ10 strain in batch and continuous culture.</Reference>
+    <Reference Journal="Appl Environ Microbiol 65:2466-70 (1999)" PMID="10347028">
+      <Authors>Hage JC</Authors>
+      <Authors>Hartmans S</Authors>Monooxygenase-mediated 1,2-dichloroethane degradation by Pseudomonas sp. strain DCA1.</Reference>
+    <Reference Journal="Appl Environ Microbiol 64:2931-6 (1998)" PMID="9687453">
+      <Authors>Poelarends GJ</Authors>
+      <Authors>Wilkens M</Authors>
+      <Authors>Larkin MJ</Authors>
+      <Authors>van Elsas JD</Authors>
+      <Authors>Janssen DB.</Authors>Degradation of 1,3-dichloropropene by pseudomonas cichorii 170.</Reference>
+    <Reference Journal="Science 298:1023-5 (2002)" PMID="12411705">
+      <Authors>Sun B</Authors>
+      <Authors>Griffin BM</Authors>
+      <Authors>Ayala-del-Rio HL</Authors>
+      <Authors>Hashsham SA</Authors>
+      <Authors>Tiedje JM</Authors>Microbial dehalorespiration with 1,1,1-trichloroethane.</Reference>
+    <Reference Journal="Biosci Biotechnol Biochem 66:385-90 (2002)" PMID="11999413">
+      <Authors>Hashimoto A</Authors>
+      <Authors>Iwasaki K</Authors>
+      <Authors>Nakasugi N</Authors>
+      <Authors>Nakajima M</Authors>
+      <Authors>Yagi O</Authors>Degradation pathways of trichloroethylene and 1,1,1-trichloroethane by Mycobacterium sp. TA27.</Reference>
+    <Reference Journal="Appl Environ Microbiol 57:2399-402 (1991)" PMID="1768109">
+      <Authors>Newman LM</Authors>
+      <Authors>Wackett LP</Authors>Fate of 2,2,2-trichloroacetaldehyde (chloral hydrate) produced during trichloroethylene oxidation by methanotrophs.</Reference>
+    <Reference Journal="J Bacteriol 179:90-6 (1997)" PMID="8981984">
+      <Authors>Newman LM</Authors>
+      <Authors>Wackett LP</Authors>Trichloroethylene oxidation by purified toluene 2-monooxygenase: products, kinetics, and turnover-dependent inactivation.</Reference>
+  </References>
+</KEGG.PathwayBrief>

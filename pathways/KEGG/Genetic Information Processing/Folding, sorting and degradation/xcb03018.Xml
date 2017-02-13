@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb03018" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description>The correct processing, quality control and turnover of cellular RNA molecules are critical to many aspects in the expression of genetic information. In eukaryotes, two major pathways of mRNA decay exist and both pathways are initiated by poly(A) shortening of the mRNA. In the 5' to 3' pathway, this is followed by decapping which then permits the 5' to 3' exonucleolytic degradation of transcripts. In the 3' to 5' pathway, the exosome, a large multisubunit complex, plays a key role. The exosome exists in archaeal cells, too. In bacteria, endoribonuclease E, a key enzyme involved in RNA decay and processing, organizes a protein complex called degradosome. RNase E or R interacts with the phosphate-dependent exoribonuclease polynucleotide phosphorylase, DEAD-box helicases, and additional factors in the RNA-degrading complex.</Description>
+  <Name>RNA degradation - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00394" Value="RNA degradosome [PATH:xcb03018]" />
+  </Modules>
+  <Compound />
+  <PathwayMap Key="xcb03018" Value="RNA degradation" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0492" Value="K08311 putative (di)nucleoside polyphosphate hydrolase [EC:3.6.1.-] | (GenBank) (di)nucleoside polyp" />
+    <hashEntry Key="xcb:XC_0535" Value="K04077 chaperonin GroEL | (GenBank) 60 kDa chaperonin" />
+    <hashEntry Key="xcb:XC_1162" Value="K03654 ATP-dependent DNA helicase RecQ [EC:3.6.4.12] | (GenBank) DNA helicase" />
+    <hashEntry Key="xcb:XC_1475" Value="K05592 ATP-dependent RNA helicase DeaD [EC:3.6.4.13] | (GenBank) ATP-dependent RNA helicase" />
+    <hashEntry Key="xcb:XC_1609" Value="K00962 polyribonucleotide nucleotidyltransferase [EC:2.7.7.8] | (GenBank) polynucleotide phosphoryla" />
+    <hashEntry Key="xcb:XC_2098" Value="K08300 ribonuclease E [EC:3.1.26.12] | (GenBank) ribonuclease E" />
+    <hashEntry Key="xcb:XC_2470" Value="K00970 poly(A) polymerase [EC:2.7.7.19] | (GenBank) polynucleotide adenyltransferase" />
+    <hashEntry Key="xcb:XC_2515" Value="K03666 host factor-I protein | (GenBank) host factor-I protein" />
+    <hashEntry Key="xcb:XC_2531" Value="K01689 enolase [EC:4.2.1.11] | (GenBank) enolase" />
+    <hashEntry Key="xcb:XC_2718" Value="K12573 ribonuclease R [EC:3.1.-.-] | (GenBank) RNase R" />
+    <hashEntry Key="xcb:XC_2763" Value="K04043 molecular chaperone DnaK | (GenBank) DnaK protein" />
+    <hashEntry Key="xcb:XC_3274" Value="K00937 polyphosphate kinase [EC:2.7.4.1] | (GenBank) polyphosphate kinase" />
+    <hashEntry Key="xcb:XC_3643" Value="K11927 ATP-dependent RNA helicase RhlE [EC:3.6.4.13] | (GenBank) ATP-dependent RNA helicase" />
+    <hashEntry Key="xcb:XC_3848" Value="K03732 ATP-dependent RNA helicase RhlB [EC:3.6.4.13] | (GenBank) ATP-dependent RNA helicase" />
+    <hashEntry Key="xcb:XC_3850" Value="K03628 transcription termination factor Rho | (GenBank) transcription termination factor Rho" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko03018" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Cell 136:763-76 (2009)" PMID="19239894">
+      <Authors>Houseley J</Authors>
+      <Authors>Tollervey D</Authors>The many pathways of RNA degradation.</Reference>
+    <Reference Journal="Mol Microbiol 61:1372-9 (2006)" PMID="16968219">
+      <Authors>Buttner K</Authors>
+      <Authors>Wenig K</Authors>
+      <Authors>Hopfner KP</Authors>The exosome: a macromolecular cage for controlled RNA degradation.</Reference>
+    <Reference Journal="Int Rev Cytol 251:159-208 (2006)" PMID="16939780">
+      <Authors>Schilders G</Authors>
+      <Authors>van Dijk E</Authors>
+      <Authors>Raijmakers R</Authors>
+      <Authors>Pruijn GJ</Authors>Cell and molecular biology of the exosome: how to make or break an RNA.</Reference>
+    <Reference Journal="EMBO Rep 8:456-7 (2007)" PMID="17471261">
+      <Authors>Hartung S</Authors>
+      <Authors>Hopfner KP</Authors>The exosome, plugged.</Reference>
+    <Reference Journal="Annu Rev Microbiol 61:71-87 (2007)" PMID="17447862">
+      <Authors>Carpousis AJ</Authors>The RNA degradosome of Escherichia coli: an mRNA-degrading machine assembled on RNase E.</Reference>
+    <Reference Journal="Trends Biochem Sci 31:359-65 (2006)" PMID="16766188">
+      <Authors>Marcaida MJ</Authors>
+      <Authors>DePristo MA</Authors>
+      <Authors>Chandran V</Authors>
+      <Authors>Carpousis AJ</Authors>
+      <Authors>Luisi BF</Authors>The RNA degradosome: life in the fast lane of adaptive molecular evolution.</Reference>
+    <Reference Journal="Curr Opin Microbiol 10:271-8 (2007)" PMID="17560162">
+      <Authors>Condon C</Authors>Maturation and degradation of RNA in bacteria.</Reference>
+  </References>
+</KEGG.PathwayBrief>

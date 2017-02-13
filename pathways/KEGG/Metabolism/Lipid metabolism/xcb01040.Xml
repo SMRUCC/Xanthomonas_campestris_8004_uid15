@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb01040" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Biosynthesis of unsaturated fatty acids - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound>
+    <hashEntry Key="C00154" Value="Palmitoyl-CoA" />
+    <hashEntry Key="C00219" Value="Arachidonate" />
+    <hashEntry Key="C00249" Value="Hexadecanoic acid" />
+    <hashEntry Key="C00412" Value="Stearoyl-CoA" />
+    <hashEntry Key="C00510" Value="Oleoyl-CoA" />
+    <hashEntry Key="C00712" Value="(9Z)-Octadecenoic acid" />
+    <hashEntry Key="C01203" Value="Oleoyl-[acyl-carrier protein]" />
+    <hashEntry Key="C01530" Value="Octadecanoic acid" />
+    <hashEntry Key="C01595" Value="Linoleate" />
+    <hashEntry Key="C02041" Value="Eicosanoyl-CoA" />
+    <hashEntry Key="C02050" Value="Linoleoyl-CoA" />
+    <hashEntry Key="C02249" Value="Arachidonyl-CoA" />
+    <hashEntry Key="C03035" Value="gamma-Linolenoyl-CoA" />
+    <hashEntry Key="C03242" Value="(8Z,11Z,14Z)-Icosatrienoic acid" />
+    <hashEntry Key="C03595" Value="8,11,14-Eicosatrienoyl-CoA" />
+    <hashEntry Key="C04088" Value="Octadecanoyl-[acyl-carrier protein]" />
+    <hashEntry Key="C05764" Value="Hexadecanoyl-[acp]" />
+    <hashEntry Key="C06425" Value="Icosanoic acid" />
+    <hashEntry Key="C06426" Value="(6Z,9Z,12Z)-Octadecatrienoic acid" />
+    <hashEntry Key="C06427" Value="(9Z,12Z,15Z)-Octadecatrienoic acid" />
+    <hashEntry Key="C06428" Value="(5Z,8Z,11Z,14Z,17Z)-Icosapentaenoic acid" />
+    <hashEntry Key="C06429" Value="(4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoic acid" />
+    <hashEntry Key="C08281" Value="Docosanoic acid" />
+    <hashEntry Key="C08316" Value="Erucic acid" />
+    <hashEntry Key="C08320" Value="Tetracosanoic acid" />
+    <hashEntry Key="C08323" Value="(15Z)-Tetracosenoic acid" />
+    <hashEntry Key="C16160" Value="Linoleoyl-[acyl-carrier protein]" />
+    <hashEntry Key="C16161" Value="alpha-Linolenoyl-ACP" />
+    <hashEntry Key="C16162" Value="(9Z,12Z,15Z)-Octadecatrienoyl-CoA" />
+    <hashEntry Key="C16163" Value="(6Z,9Z,12Z,15Z)-Octadecatetraenoyl-CoA" />
+    <hashEntry Key="C16164" Value="(8Z,11Z,14Z,17Z)-Icosatetraenoyl-CoA" />
+    <hashEntry Key="C16165" Value="(5Z,8Z,11Z,14Z,17Z)-Icosapentaenoyl-CoA" />
+    <hashEntry Key="C16166" Value="(7Z,10Z,13Z,16Z,19Z)-Docosapentaenoyl-CoA" />
+    <hashEntry Key="C16167" Value="(9Z,12Z,15Z,18Z,21Z)-Tetracosapentaenoyl-CoA" />
+    <hashEntry Key="C16168" Value="(6Z,9Z,12Z,15Z,18Z,21Z)-Tetracosahexaenoyl-CoA" />
+    <hashEntry Key="C16169" Value="(4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoyl-CoA" />
+    <hashEntry Key="C16170" Value="(7Z,10Z,13Z,16Z)-Docosatetraenoyl-CoA" />
+    <hashEntry Key="C16171" Value="(9Z,12Z,15Z,18Z)-Tetracosatetraenoyl-CoA" />
+    <hashEntry Key="C16172" Value="(6Z,9Z,12Z,15Z,18Z)-Tetracosapentaenoyl-CoA" />
+    <hashEntry Key="C16173" Value="(4Z,7Z,10Z,13Z,16Z)-Docosapentaenoyl-CoA" />
+    <hashEntry Key="C16179" Value="(11Z,14Z,17Z)-Icosatrienoyl-CoA" />
+    <hashEntry Key="C16180" Value="(11Z,14Z)-Icosadienoyl-CoA" />
+    <hashEntry Key="C16513" Value="(7Z,10Z,13Z,16Z,19Z)-Docosa-7,10,13,16,19-pentaenoic acid" />
+    <hashEntry Key="C16522" Value="Icosatrienoic acid" />
+    <hashEntry Key="C16525" Value="Icosadienoic acid" />
+    <hashEntry Key="C16526" Value="Icosenoic acid" />
+    <hashEntry Key="C16527" Value="7,10,13,16-Docosatetraenoic acid" />
+    <hashEntry Key="C16528" Value="Docosanoyl-CoA" />
+    <hashEntry Key="C16529" Value="Tetracosanoyl-CoA" />
+    <hashEntry Key="C16530" Value="Icosenoyl-CoA" />
+    <hashEntry Key="C16531" Value="Docosenoyl-CoA" />
+    <hashEntry Key="C16532" Value="Tetracosenoyl-CoA" />
+    <hashEntry Key="C16533" Value="13,16-Docosadienoic acid" />
+    <hashEntry Key="C16645" Value="(13Z,16Z)-Docosadi-13,16-enoyl-CoA" />
+  </Compound>
+  <PathwayMap Key="xcb01040" Value="Biosynthesis of unsaturated fatty acids" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0171" Value="K00507 stearoyl-CoA desaturase (Delta-9 desaturase) [EC:1.14.19.1] | (GenBank) fatty acid desaturase" />
+    <hashEntry Key="xcb:XC_0396" Value="K00059 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100] | (GenBank) oxidoreductase" />
+    <hashEntry Key="xcb:XC_0429" Value="K00059 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100] | (GenBank) 3-oxoacyl-[ACP] reducta" />
+    <hashEntry Key="xcb:XC_2907" Value="K00507 stearoyl-CoA desaturase (Delta-9 desaturase) [EC:1.14.19.1] | (GenBank) delta 9 acyl-lipid fa" />
+    <hashEntry Key="xcb:XC_2975" Value="K01782 3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase [EC:1." />
+    <hashEntry Key="xcb:XC_3097" Value="K10805 acyl-CoA thioesterase II [EC:3.1.2.-] | (GenBank) acyl-CoA thiolesterase II" />
+    <hashEntry Key="xcb:XC_3227" Value="K00059 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100] | (GenBank) 3-oxoacyl-[ACP] reducta" />
+    <hashEntry Key="xcb:XC_3453" Value="K10804 acyl-CoA thioesterase I [EC:3.1.2.- 3.1.1.5] | (GenBank) acyl-CoA thioesterase I" />
+    <hashEntry Key="xcb:XC_4092" Value="K00059 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100] | (GenBank) 3-oxoacyl-[ACP] reducta" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko01040" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Prog Lipid Res 45:237-49 (2006)" PMID="16564093">
+      <Authors>Jakobsson A</Authors>
+      <Authors>Westerberg R</Authors>
+      <Authors>Jacobsson A.</Authors>Fatty acid elongases in mammals: their regulation and roles in metabolism.</Reference>
+    <Reference Journal="J Biol Chem 278:7335-43 (2003)" PMID="12482854">
+      <Authors>Moon YA</Authors>
+      <Authors>Horton JD.</Authors>Identification of two mammalian reductases involved in the two-carbon fatty acyl elongation cascade.</Reference>
+    <Reference Journal="J Biol Chem 277:35440-9 (2002)" PMID="12087109">
+      <Authors>Han G</Authors>
+      <Authors>Gable K</Authors>
+      <Authors>Kohlwein SD</Authors>
+      <Authors>Beaudoin F</Authors>
+      <Authors>Napier JA</Authors>
+      <Authors>Dunn TM.</Authors>The Saccharomyces cerevisiae YBR159w gene encodes the 3-ketoreductase of the microsomal fatty acid elongase.</Reference>
+    <Reference Journal="J Biol Chem 276:38115-20 (2001)" PMID="11500517">
+      <Authors>Su HM</Authors>
+      <Authors>Moser AB</Authors>
+      <Authors>Moser HW</Authors>
+      <Authors>Watkins PA.</Authors>Peroxisomal straight-chain Acyl-CoA oxidase and D-bifunctional protein are essential for the retroconversion step in docosahexaenoic acid synthesis.</Reference>
+    <Reference Journal="Biochim Biophys Acta 1761:973-94 (2006)" PMID="16766224">
+      <Authors>Huyghe S</Authors>
+      <Authors>Mannaerts GP</Authors>
+      <Authors>Baes M</Authors>
+      <Authors>Van Veldhoven PP.</Authors>Peroxisomal multifunctional protein-2: the enzyme, the patients and the knockout mouse model.</Reference>
+    <Reference Journal="Cell 130:663-77 (2007)" PMID="17719544">
+      <Authors>Denic V</Authors>
+      <Authors>Weissman JS</Authors>A molecular caliper mechanism for determining very long-chain fatty acid length.</Reference>
+  </References>
+</KEGG.PathwayBrief>

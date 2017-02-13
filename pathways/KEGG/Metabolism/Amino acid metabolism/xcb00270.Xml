@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00270" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description>Cysteine and methionine are sulfur-containing amino acids. Cysteine is synthesized from serine through different pathways in different organism groups. In bacteria and plants, cysteine is converted from serine (via acetylserine) by transfer of hydrogen sulfide [MD:M00021]. In animals, methionine-derived homocysteine is used as sulfur source and its condensation product with serine (cystathionine) is converted to cysteine [MD:M00338]. Cysteine is metabolized to pyruvate in multiple routes. Methionine is an essential amino acid, which animals cannot synthesize. In bacteria and plants, methionine is synthesized from aspartate [MD:M00017]. S-Adenosylmethionine (SAM), synthesized from methionine and ATP, is a methyl group donor in many important transfer reactions including DNA methylation for regulation of gene expression. SAM may also be used to regenerate methionine in the methionine salvage pathway [MD:M00034].</Description>
+  <Name>Cysteine and methionine metabolism - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00035" Value="Methionine degradation [PATH:xcb00270]" />
+    <hashEntry Key="xcb_M00338" Value="Cysteine biosynthesis, homocysteine + serine =&gt; cysteine [PATH:xcb00270]" />
+  </Modules>
+  <Compound>
+    <hashEntry Key="C00019" Value="S-Adenosyl-L-methionine" />
+    <hashEntry Key="C00021" Value="S-Adenosyl-L-homocysteine" />
+    <hashEntry Key="C00022" Value="Pyruvate" />
+    <hashEntry Key="C00041" Value="L-Alanine" />
+    <hashEntry Key="C00049" Value="L-Aspartate" />
+    <hashEntry Key="C00051" Value="Glutathione" />
+    <hashEntry Key="C00059" Value="Sulfate" />
+    <hashEntry Key="C00065" Value="L-Serine" />
+    <hashEntry Key="C00073" Value="L-Methionine" />
+    <hashEntry Key="C00094" Value="Sulfite" />
+    <hashEntry Key="C00097" Value="L-Cysteine" />
+    <hashEntry Key="C00109" Value="2-Oxobutanoate" />
+    <hashEntry Key="C00155" Value="L-Homocysteine" />
+    <hashEntry Key="C00170" Value="5'-Methylthioadenosine" />
+    <hashEntry Key="C00263" Value="L-Homoserine" />
+    <hashEntry Key="C00283" Value="Hydrogen sulfide" />
+    <hashEntry Key="C00320" Value="Thiosulfate" />
+    <hashEntry Key="C00409" Value="Methanethiol" />
+    <hashEntry Key="C00441" Value="L-Aspartate 4-semialdehyde" />
+    <hashEntry Key="C00491" Value="L-Cystine" />
+    <hashEntry Key="C00506" Value="L-Cysteate" />
+    <hashEntry Key="C00606" Value="3-Sulfino-L-alanine" />
+    <hashEntry Key="C00793" Value="D-Cysteine" />
+    <hashEntry Key="C00957" Value="Mercaptopyruvate" />
+    <hashEntry Key="C00979" Value="O-Acetyl-L-serine" />
+    <hashEntry Key="C01005" Value="O-Phospho-L-serine" />
+    <hashEntry Key="C01077" Value="O-Acetyl-L-homoserine" />
+    <hashEntry Key="C01118" Value="O-Succinyl-L-homoserine" />
+    <hashEntry Key="C01137" Value="S-Adenosylmethioninamine" />
+    <hashEntry Key="C01180" Value="4-Methylthio-2-oxobutanoic acid" />
+    <hashEntry Key="C01234" Value="1-Aminocyclopropane-1-carboxylate" />
+    <hashEntry Key="C01817" Value="L-Homocystine" />
+    <hashEntry Key="C01962" Value="Thiocysteine" />
+    <hashEntry Key="C02218" Value="Dehydroalanine" />
+    <hashEntry Key="C02291" Value="L-Cystathionine" />
+    <hashEntry Key="C02356" Value="(S)-2-Aminobutanoate" />
+    <hashEntry Key="C02989" Value="L-Methionine S-oxide" />
+    <hashEntry Key="C03082" Value="4-Phospho-L-aspartate" />
+    <hashEntry Key="C03089" Value="5-Methylthio-D-ribose" />
+    <hashEntry Key="C03145" Value="N-Formylmethionine" />
+    <hashEntry Key="C03539" Value="S-Ribosyl-L-homocysteine" />
+    <hashEntry Key="C04188" Value="S-Methyl-5-thio-D-ribose 1-phosphate" />
+    <hashEntry Key="C04582" Value="S-Methyl-5-thio-D-ribulose 1-phosphate" />
+    <hashEntry Key="C05524" Value="Aminoacyl-L-methionine" />
+    <hashEntry Key="C05526" Value="S-Glutathionyl-L-cysteine" />
+    <hashEntry Key="C05527" Value="3-Sulfinylpyruvate" />
+    <hashEntry Key="C05528" Value="3-Sulfopyruvate" />
+    <hashEntry Key="C05823" Value="3-Mercaptolactate" />
+    <hashEntry Key="C05824" Value="S-Sulfo-L-cysteine" />
+    <hashEntry Key="C06547" Value="Ethylene" />
+    <hashEntry Key="C08276" Value="3-(Methylthio)propanoate" />
+    <hashEntry Key="C09306" Value="Sulfur dioxide" />
+    <hashEntry Key="C11481" Value="HSO3-" />
+    <hashEntry Key="C11499" Value="(S)-3-Sulfolactate" />
+    <hashEntry Key="C11537" Value="(2R)-3-Sulfolactate" />
+    <hashEntry Key="C15606" Value="1,2-Dihydroxy-5-(methylthio)pent-1-en-3-one" />
+    <hashEntry Key="C15650" Value="2,3-Diketo-5-methylthiopentyl-1-phosphate" />
+    <hashEntry Key="C15651" Value="2-Hydroxy-3-keto-5-methylthiopentenyl-1-phosphate" />
+    <hashEntry Key="C18049" Value="N-Acyl-L-homoserine lactone" />
+    <hashEntry Key="C19787" Value="5'-S-Methyl-5'-thioinosine" />
+    <hashEntry Key="C21015" Value="gamma-L-Glutamyl-L-2-aminobutyrate" />
+    <hashEntry Key="C21016" Value="Ophthalmate" />
+  </Compound>
+  <PathwayMap Key="xcb00270" Value="Cysteine and methionine metabolism" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0100" Value="K00832 aromatic-amino-acid transaminase [EC:2.6.1.57] | (GenBank) aromatic-amino-acid aminotransfera" />
+    <hashEntry Key="xcb:XC_0330" Value="K00549 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14] | (GenBan" />
+    <hashEntry Key="xcb:XC_0487" Value="K01611 S-adenosylmethionine decarboxylase [EC:4.1.1.50] | (GenBank) S-adenosyl methionine decarboxyl" />
+    <hashEntry Key="xcb:XC_0768" Value="K01919 glutamate--cysteine ligase [EC:6.3.2.2] | (GenBank) glutamate-cysteine ligase precursor" />
+    <hashEntry Key="xcb:XC_0982" Value="K01738 cysteine synthase A [EC:2.5.1.47] | (GenBank) cysteine synthase" />
+    <hashEntry Key="xcb:XC_1090" Value="K01740 O-acetylhomoserine (thiol)-lyase [EC:2.5.1.49] | (GenBank) homocysteine synthase" />
+    <hashEntry Key="xcb:XC_1182" Value="K01920 glutathione synthase [EC:6.3.2.3] | (GenBank) glutathione synthetase" />
+    <hashEntry Key="xcb:XC_1251" Value="K00641 homoserine O-acetyltransferase [EC:2.3.1.31] | (GenBank) homoserine O-acetyltransferase" />
+    <hashEntry Key="xcb:XC_1252" Value="K01739 cystathionine gamma-synthase [EC:2.5.1.48] | (GenBank) cystathionine gamma-synthase" />
+    <hashEntry Key="xcb:XC_1253" Value="K00003 homoserine dehydrogenase [EC:1.1.1.3] | (GenBank) homoserine dehydrogenase" />
+    <hashEntry Key="xcb:XC_1255" Value="K01752 L-serine dehydratase [EC:4.3.1.17] | (GenBank) L-serine dehydratase" />
+    <hashEntry Key="xcb:XC_1372" Value="K12526 bifunctional diaminopimelate decarboxylase / aspartate kinase [EC:4.1.1.20 2.7.2.4] | (GenBan" />
+    <hashEntry Key="xcb:XC_1569" Value="K00133 aspartate-semialdehyde dehydrogenase [EC:1.2.1.11] | (GenBank) aspartate semialdehyde dehydro" />
+    <hashEntry Key="xcb:XC_1845" Value="K12960 5-methylthioadenosine/S-adenosylhomocysteine deaminase [EC:3.5.4.31 3.5.4.28] | (GenBank) con" />
+    <hashEntry Key="xcb:XC_1889" Value="K00641 homoserine O-acetyltransferase [EC:2.3.1.31] | (GenBank) homoserine O-acetyltransferase" />
+    <hashEntry Key="xcb:XC_2063" Value="K00558 DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37] | (GenBank) DNA methyltransferase" />
+    <hashEntry Key="xcb:XC_2369" Value="K08964 methylthioribulose-1-phosphate dehydratase [EC:4.2.1.109] | (GenBank) sugar aldolase" />
+    <hashEntry Key="xcb:XC_2370" Value="K08967 1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase [EC:1.13.11.53 1.13.11.54] | (GenBank) d" />
+    <hashEntry Key="xcb:XC_2371" Value="K09880 enolase-phosphatase E1 [EC:3.1.3.77] | (GenBank) enolase-phosphatase" />
+    <hashEntry Key="xcb:XC_2389" Value="K12524 bifunctional aspartokinase / homoserine dehydrogenase 1 [EC:2.7.2.4 1.1.1.3] | (GenBank) aspa" />
+    <hashEntry Key="xcb:XC_2661" Value="K08963 methylthioribose-1-phosphate isomerase [EC:5.3.1.23] | (GenBank) initiation factor eIF-2B" />
+    <hashEntry Key="xcb:XC_2697" Value="K01011 thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2] | (GenBank) thiosulfate" />
+    <hashEntry Key="xcb:XC_2724" Value="K00548 5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13] | (GenBank) 5-methylte" />
+    <hashEntry Key="xcb:XC_2725" Value="K00548 5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13] | (GenBank) 5-methylte" />
+    <hashEntry Key="xcb:XC_2894" Value="K00547 homocysteine S-methyltransferase [EC:2.1.1.10] | (GenBank) homocysteine S-methyltransferase" />
+    <hashEntry Key="xcb:XC_2956" Value="K19696 5&amp;#39;-methylthioinosine phosphorylase [EC:2.4.2.44] | (GenBank) purine nucleoside phosphorylase" />
+    <hashEntry Key="xcb:XC_3307" Value="K00024 malate dehydrogenase [EC:1.1.1.37] | (GenBank) malate dehydrogenase" />
+    <hashEntry Key="xcb:XC_3380" Value="K00826 branched-chain amino acid aminotransferase [EC:2.6.1.42] | (GenBank) branched-chain amino aci" />
+    <hashEntry Key="xcb:XC_3471" Value="K00789 S-adenosylmethionine synthetase [EC:2.5.1.6] | (GenBank) methionine adenosyltransferase" />
+    <hashEntry Key="xcb:XC_3482" Value="K01251 adenosylhomocysteinase [EC:3.3.1.1] | (GenBank) adenosylhomocysteinase" />
+    <hashEntry Key="xcb:XC_3635" Value="K01758 cystathionine gamma-lyase [EC:4.4.1.1] | (GenBank) cystathionine gamma-lyase-like protein" />
+    <hashEntry Key="xcb:XC_3636" Value="K01697 cystathionine beta-synthase [EC:4.2.1.22] | (GenBank) cystathionine beta-synthase" />
+    <hashEntry Key="xcb:XC_3647" Value="K08968 L-methionine (R)-S-oxide reductase [EC:1.8.4.14] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_3655" Value="K01738 cysteine synthase A [EC:2.5.1.47] | (GenBank) cysteine synthase" />
+    <hashEntry Key="xcb:XC_3954" Value="K00797 spermidine synthase [EC:2.5.1.16] | (GenBank) spermidine synthase" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00270" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="BMC Microbiol 4:9 (2004)" PMID="15102328">
+      <Authors>Sekowska A</Authors>
+      <Authors>Denervaud V</Authors>
+      <Authors>Ashida H</Authors>
+      <Authors>Michoud K</Authors>
+      <Authors>Haas D</Authors>
+      <Authors>Yokota A</Authors>
+      <Authors>Danchin A</Authors>Bacterial variations on the methionine salvage pathway.</Reference>
+    <Reference Journal="Science 302:286-90 (2003)" PMID="14551435">
+      <Authors>Ashida H</Authors>
+      <Authors>Saito Y</Authors>
+      <Authors>Kojima C</Authors>
+      <Authors>Kobayashi K</Authors>
+      <Authors>Ogasawara N</Authors>
+      <Authors>Yokota A.</Authors>A functional link between RuBisCO-like protein of Bacillus and photosynthetic RuBisCO.</Reference>
+    <Reference Journal="BMC Microbiol 2:8 (2002)" PMID="12022921">
+      <Authors>Sekowska A</Authors>
+      <Authors>Danchin A.</Authors>The methionine salvage pathway in Bacillus subtilis.</Reference>
+    <Reference Journal="J Bacteriol 185:2418-31 (2003)" PMID="12670965">
+      <Authors>Berger BJ</Authors>
+      <Authors>English S</Authors>
+      <Authors>Chan G</Authors>
+      <Authors>Knodel MH.</Authors>Methionine regeneration and aminotransferases in Bacillus subtilis, Bacillus cereus, and Bacillus anthracis.</Reference>
+    <Reference Journal="Plant Cell Physiol 48:232-42 (2007)" PMID="17169919">
+      <Authors>Goyer A</Authors>
+      <Authors>Collakova E</Authors>
+      <Authors>Shachar-Hill Y</Authors>
+      <Authors>Hanson AD</Authors>Functional characterization of a methionine gamma-lyase in Arabidopsis and its implication in an alternative to the reverse trans-sulfuration pathway.</Reference>
+    <Reference Journal="Proc Natl Acad Sci U S A 103:15687-92 (2006)" PMID="17030798">
+      <Authors>Rebeille F</Authors>
+      <Authors>Jabrin S</Authors>
+      <Authors>Bligny R</Authors>
+      <Authors>Loizeau K</Authors>
+      <Authors>Gambonnet B</Authors>
+      <Authors>Van Wilder V</Authors>
+      <Authors>Douce R</Authors>
+      <Authors>Ravanel S</Authors>Methionine catabolism in Arabidopsis cells is initiated by a gamma-cleavage process and leads to S-methylcysteine and isoleucine syntheses.</Reference>
+    <Reference Journal="FEBS J 275:4111-20 (2008)" PMID="18625006">
+      <Authors>Pirkov I</Authors>
+      <Authors>Norbeck J</Authors>
+      <Authors>Gustafsson L</Authors>
+      <Authors>Albers E</Authors>A complete inventory of all enzymes in the eukaryotic methionine salvage pathway.</Reference>
+    <Reference Journal="Biosci Biotechnol Biochem 72:959-67 (2008)" PMID="18391471">
+      <Authors>Ashida H</Authors>
+      <Authors>Saito Y</Authors>
+      <Authors>Kojima C</Authors>
+      <Authors>Yokota A</Authors>Enzymatic characterization of 5-methylthioribulose-1-phosphate dehydratase of the methionine salvage pathway in Bacillus subtilis.</Reference>
+    <Reference Journal="J Bacteriol 182:143-5 (2000)" PMID="10613873">
+      <Authors>Kitabatake M</Authors>
+      <Authors>So MW</Authors>
+      <Authors>Tumbula DL</Authors>
+      <Authors>Soll D</Authors>Cysteine biosynthesis pathway in the archaeon Methanosarcina barkeri encoded by acquired bacterial genes?</Reference>
+    <Reference Journal="J Bacteriol 185:2277-84 (2003)" PMID="12644499">
+      <Authors>Mino K</Authors>
+      <Authors>Ishikawa K</Authors>Characterization of a novel thermostable O-acetylserine sulfhydrylase from Aeropyrum pernix K1.</Reference>
+    <Reference Journal="Yakugaku Zasshi 128:881-900 (2008)" PMID="18520135">
+      <Authors>Tanabe S</Authors>Development of assay methods for endogenous inorganic sulfur compounds and sulfurtransferases and evaluation of the physiological functions of bound sulfur.</Reference>
+    <Reference Journal="" PMID="Nishizuka Y, Seyama Y, Ikai A, Ishimura Y, Kawaguchi A (eds).">
+      <Authors>[Cellular Functions and Metabolic Maps] (In Japanese)</Authors>Tokyo Kagaku Dojin (1997)</Reference>
+    <Reference Journal="Nat Chem Biol 5:251-7 (2009)" PMID="19270684">
+      <Authors>Gutierrez JA</Authors>
+      <Authors>Crowder T</Authors>
+      <Authors>Rinaldo-Matthis A</Authors>
+      <Authors>Ho MC</Authors>
+      <Authors>Almo SC</Authors>
+      <Authors>Schramm VL</Authors>Transition state analogs of 5'-methylthioadenosine nucleosidase disrupt quorum sensing.</Reference>
+  </References>
+</KEGG.PathwayBrief>

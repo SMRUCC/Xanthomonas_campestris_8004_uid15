@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00261" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description>Monobactams are beta-lactam antibiotics containing a monocyclic beta-lactam nucleus, which is structurally different from penicillin and cephalosporin core structures with another fused ring. This diagram shows biosynthesis of nocardicin A, a naturally occurring monobactam, via the pentapeptide formed by condensation of L-4-hydroxyphenylglycine (L-pHPG), L-arginine and L-serine [MD:M00736]. Other naturally occurring monobactams are also shown but the biosynthetic pathway is not yet fully characterized. Sulfazecin and other 3-aminomonobactamic acid derivatives are derived from serine or threonine, and tabtoxinine-beta-lactam is a phytotoxin. Aztreonam, a synthetic monobactam originally isolated as SQ 26,180 from Chromobacterium violaceum, is the first clinically used monobactam.</Description>
+  <Name>Monobactam biosynthesis - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound>
+    <hashEntry Key="C00019" Value="S-Adenosyl-L-methionine" />
+    <hashEntry Key="C00022" Value="Pyruvate" />
+    <hashEntry Key="C00049" Value="L-Aspartate" />
+    <hashEntry Key="C00059" Value="Sulfate" />
+    <hashEntry Key="C00062" Value="L-Arginine" />
+    <hashEntry Key="C00065" Value="L-Serine" />
+    <hashEntry Key="C00082" Value="L-Tyrosine" />
+    <hashEntry Key="C00188" Value="L-Threonine" />
+    <hashEntry Key="C00224" Value="Adenylyl sulfate" />
+    <hashEntry Key="C00441" Value="L-Aspartate 4-semialdehyde" />
+    <hashEntry Key="C00927" Value="Isonocardicin A" />
+    <hashEntry Key="C01179" Value="3-(4-Hydroxyphenyl)pyruvate" />
+    <hashEntry Key="C01739" Value="Nocardicin E" />
+    <hashEntry Key="C01941" Value="Nocardicin A" />
+    <hashEntry Key="C03082" Value="4-Phospho-L-aspartate" />
+    <hashEntry Key="C03198" Value="(S)-4-Hydroxymandelate" />
+    <hashEntry Key="C03590" Value="4-Hydroxyphenylglyoxylate" />
+    <hashEntry Key="C03972" Value="2,3,4,5-Tetrahydrodipicolinate" />
+    <hashEntry Key="C05539" Value="N-Acetyl-L-2-amino-6-oxopimelate" />
+    <hashEntry Key="C12323" Value="L-4-Hydroxyphenylglycine" />
+    <hashEntry Key="C16842" Value="SQ 26180" />
+    <hashEntry Key="C17351" Value="Nocardicin C" />
+    <hashEntry Key="C17352" Value="Isonocardicin C" />
+    <hashEntry Key="C17355" Value="Nocardicin G" />
+    <hashEntry Key="C20258" Value="(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate" />
+    <hashEntry Key="C20911" Value="" />
+    <hashEntry Key="C20911" Value="/div&gt;" />
+    <hashEntry Key="C20912" Value="" />
+    <hashEntry Key="C20912" Value="/div&gt;" />
+    <hashEntry Key="C20913" Value="" />
+    <hashEntry Key="C20913" Value="/div&gt;" />
+    <hashEntry Key="C20914" Value="" />
+    <hashEntry Key="C20914" Value="/div&gt;" />
+    <hashEntry Key="C20915" Value="" />
+    <hashEntry Key="C20915" Value="/div&gt;" />
+    <hashEntry Key="C20916" Value="" />
+    <hashEntry Key="C20916" Value="/div&gt;" />
+    <hashEntry Key="C20917" Value="Tabtoxin" />
+    <hashEntry Key="C20918" Value="Tabtoxinine-beta-lactam" />
+    <hashEntry Key="C20919" Value="Isotabtoxin" />
+    <hashEntry Key="C20920" Value="Tabtoxinine-delta-lactam" />
+    <hashEntry Key="C20921" Value="N1-Acetyl-tabtoxinine-beta-lactam" />
+    <hashEntry Key="C20927" Value="Sulfazecin" />
+    <hashEntry Key="C20928" Value="MM 42842" />
+    <hashEntry Key="C20929" Value="3alpha-Hydroxy-3-aminoacylmonobactamic acid" />
+  </Compound>
+  <PathwayMap Key="xcb00261" Value="Monobactam biosynthesis" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0993" Value="K00957 sulfate adenylyltransferase subunit 2 [EC:2.7.7.4] | (GenBank) ATP sulfurylase small subunit" />
+    <hashEntry Key="xcb:XC_0994" Value="K00955 bifunctional enzyme CysN/CysC [EC:2.7.7.4 2.7.1.25] | (GenBank) ATP sulfurylase/adenylylsulfa" />
+    <hashEntry Key="xcb:XC_1372" Value="K12526 bifunctional diaminopimelate decarboxylase / aspartate kinase [EC:4.1.1.20 2.7.2.4] | (GenBan" />
+    <hashEntry Key="xcb:XC_1569" Value="K00133 aspartate-semialdehyde dehydrogenase [EC:1.2.1.11] | (GenBank) aspartate semialdehyde dehydro" />
+    <hashEntry Key="xcb:XC_2349" Value="K00215 4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8] | (GenBank) dihydrodipicolinate redu" />
+    <hashEntry Key="xcb:XC_2389" Value="K12524 bifunctional aspartokinase / homoserine dehydrogenase 1 [EC:2.7.2.4 1.1.1.3] | (GenBank) aspa" />
+    <hashEntry Key="xcb:XC_2493" Value="K01714 4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7] | (GenBank) dihydroxydipicolinate synt" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00261" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Nat Prod Rep 30:21-107 (2013)" PMID="23135477">
+      <Authors>Hamed RB</Authors>
+      <Authors>Gomez-Castellanos JR</Authors>
+      <Authors>Henry L</Authors>
+      <Authors>Ducho C</Authors>
+      <Authors>McDonough MA</Authors>
+      <Authors>Schofield CJ</Authors>The enzymes of beta-lactam biosynthesis.</Reference>
+    <Reference Journal="Chem Biol 11:927-38 (2004)" PMID="15271351">
+      <Authors>Gunsior M</Authors>
+      <Authors>Breazeale SD</Authors>
+      <Authors>Lind AJ</Authors>
+      <Authors>Ravel J</Authors>
+      <Authors>Janc JW</Authors>
+      <Authors>Townsend CA</Authors>The biosynthetic gene cluster for a monocyclic beta-lactam antibiotic, nocardicin A.</Reference>
+    <Reference Journal="J Biol Chem 279:38220-7 (2004)" PMID="15252031">
+      <Authors>Kelly WL</Authors>
+      <Authors>Townsend CA</Authors>Mutational analysis and characterization of nocardicin C-9' epimerase.</Reference>
+    <Reference Journal="J Bacteriol 187:739-46 (2005)" PMID="15629944">
+      <Authors>Kelly WL</Authors>
+      <Authors>Townsend CA</Authors>Mutational analysis of nocK and nocL in the nocardicin a producer Nocardia uniformis.</Reference>
+    <Reference Journal="J Biol Chem 273:30695-703 (1998)" PMID="9804844">
+      <Authors>Reeve AM</Authors>
+      <Authors>Breazeale SD</Authors>
+      <Authors>Townsend CA</Authors>Purification, characterization, and cloning of an S-adenosylmethionine-dependent 3-amino-3-carboxypropyltransferase in nocardicin biosynthesis.</Reference>
+    <Reference Journal="J Am Chem Soc 124:8186-7 (2002)" PMID="12105888">
+      <Authors>Kelly WL</Authors>
+      <Authors>Townsend CA</Authors>Role of the cytochrome P450 NocL in nocardicin A biosynthesis.</Reference>
+    <Reference Journal="Chem Biol 7:931-42 (2000)" PMID="11137816">
+      <Authors>Hubbard BK</Authors>
+      <Authors>Thomas MG</Authors>
+      <Authors>Walsh CT</Authors>Biosynthesis of L-p-hydroxyphenylglycine, a non-proteinogenic amino acid constituent of peptide antibiotics.</Reference>
+    <Reference Journal="Nature (2015)" PMID="25624104">
+      <Authors>Gaudelli NM</Authors>
+      <Authors>Long DH</Authors>
+      <Authors>Townsend CA</Authors>beta-Lactam formation by a non-ribosomal peptide synthetase during antibiotic biosynthesis.</Reference>
+    <Reference Journal="Nat Chem Biol 10:251-8 (2014)" PMID="24531841">
+      <Authors>Gaudelli NM</Authors>
+      <Authors>Townsend CA</Authors>Epimerization and substrate gating by a TE domain in beta-lactam antibiotic biosynthesis.</Reference>
+    <Reference Journal="Chem Biol 19:297-306 (2012)" PMID="22365611">
+      <Authors>Davidsen JM</Authors>
+      <Authors>Townsend CA</Authors>In vivo characterization of nonribosomal peptide synthetases NocA and NocB in the biosynthesis of nocardicin A.</Reference>
+    <Reference Journal="J Am Chem Soc 135:1749-59 (2013)" PMID="23330869">
+      <Authors>Davidsen JM</Authors>
+      <Authors>Bartley DM</Authors>
+      <Authors>Townsend CA</Authors>Non-ribosomal propeptide precursor in nocardicin A biosynthesis predicted from adenylation domain specificity dependent on the MbtH family protein NocI.</Reference>
+    <Reference Journal="Antimicrob Agents Chemother 21:558-64 (1982)" PMID="6805424">
+      <Authors>O'Sullivan J</Authors>
+      <Authors>Gillum AM</Authors>
+      <Authors>Aklonis CA</Authors>
+      <Authors>Souser ML</Authors>
+      <Authors>Sykes RB</Authors>Biosynthesis of monobactam compounds: origin of the carbon atoms in the beta-lactam ring.</Reference>
+    <Reference Journal="Antimicrob Agents Chemother 23:598-602 (1983)" PMID="6859838">
+      <Authors>O'Sullivan J</Authors>
+      <Authors>Souser ML</Authors>
+      <Authors>Kao CC</Authors>
+      <Authors>Aklonis CA</Authors>Sulfur metabolism in the biosynthesis of monobactams.</Reference>
+    <Reference Journal="J Antibiot (Tokyo) 58:817-21 (2005)" PMID="16506699">
+      <Authors>Kinscherf TG</Authors>
+      <Authors>Willis DK</Authors>The biosynthetic gene cluster for the beta-lactam antibiotic tabtoxin in Pseudomonas syringae.</Reference>
+    <Reference Journal="Biochemistry 51:7712-25 (2012)" PMID="22994681">
+      <Authors>Wencewicz TA</Authors>
+      <Authors>Walsh CT</Authors>Pseudomonas syringae self-protection from tabtoxinine-beta-lactam by ligase TblF  and acetylase Ttr.</Reference>
+    <Reference Journal="Appl Environ Microbiol 79:5023-9 (2013)" PMID="23770908">
+      <Authors>Arai T</Authors>
+      <Authors>Arimura Y</Authors>
+      <Authors>Ishikura S</Authors>
+      <Authors>Kino K</Authors>L-amino acid ligase from Pseudomonas syringae producing tabtoxin can be used for  enzymatic synthesis of various functional peptides.</Reference>
+    <Reference Journal="Mol Plant Microbe Interact 5:322-9 (1992)" PMID="1515668">
+      <Authors>Engst K</Authors>
+      <Authors>Shaw PD</Authors>Identification of a lysA-like gene required for tabtoxin biosynthesis and pathogenicity in Pseudomonas syringae pv. tabaci strain PTBR2.024.</Reference>
+    <Reference Journal="J Bacteriol 179:507-13 (1997)" PMID="8990304">
+      <Authors>Liu L</Authors>
+      <Authors>Shaw PD</Authors>Characterization of dapB, a gene required by Pseudomonas syringae pv. tabaci BR2.024 for lysine and tabtoxinine-beta-lactam biosynthesis.</Reference>
+    <Reference Journal="J Bacteriol 179:5922-7 (1997)" PMID="9294453">
+      <Authors>Liu L</Authors>
+      <Authors>Shaw PD</Authors>A possible role for acetylated intermediates in diaminopimelate and tabtoxinine-beta-lactam biosynthesis in Pseudomonas syringae pv. tabaci BR2.024.</Reference>
+    <Reference Journal="J Biol Chem 262:4994-9 (1987)" PMID="2881927">
+      <Authors>Unkefer CJ</Authors>
+      <Authors>London RE</Authors>
+      <Authors>Durbin RD</Authors>
+      <Authors>Uchytil TF</Authors>
+      <Authors>Langston-Unkefer PJ</Authors>The biosynthesis of tabtoxinine-beta-lactam. Use of specifically 13C-labeled glucose and 13C NMR spectroscopy to identify its biosynthetic precursors.</Reference>
+  </References>
+</KEGG.PathwayBrief>

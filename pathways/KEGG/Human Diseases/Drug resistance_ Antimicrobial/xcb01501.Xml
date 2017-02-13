@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb01501" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description>The beta-lactam antibiotics are the most widely used group of antibiotics, which exert their effect by interfering with the structural crosslinking of peptidoglycans in bacterial cell walls. Over the past decades, a rapid increase in the number of beta-lactam-resistant clinical isolates is observed. Bacterial resistance to beta-lactam antibiotics can be achieved by any of the following strategies: producing inactivating enzymes called beta-lactamases, altering the beta-lactam targets of penicillin-binding proteins (PBPs), reducing transport of beta-lactams into the periplasmic space via changes in porins, and using the mechanisms for exclusion of beta-lactams by way of efflux pumps. Resistance may result from intrinsic properties of organisms, through gene mutations, and through plasmid- and transposon-specified genes.</Description>
+  <Name>beta-Lactam resistance - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00628" Value="beta-Lactam resistance, AmpC system [PATH:xcb01501]" />
+  </Modules>
+  <Compound />
+  <PathwayMap Key="xcb01501" Value="beta-Lactam resistance" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0694" Value="K05515 penicillin-binding protein 2 | (GenBank) penicillin-binding protein 2" />
+    <hashEntry Key="xcb:XC_0828" Value="K12340 outer membrane protein | (GenBank) TolC protein" />
+    <hashEntry Key="xcb:XC_0942" Value="K05366 penicillin-binding protein 1A [EC:2.4.1.- 3.4.-.-] | (GenBank) penicillin-binding protein 1A" />
+    <hashEntry Key="xcb:XC_0995" Value="K03585 membrane fusion protein, multidrug efflux system | (GenBank) RND efflux membrane fusion prote" />
+    <hashEntry Key="xcb:XC_0996" Value="K18138 multidrug efflux pump | (GenBank) acriflavin resistance protein" />
+    <hashEntry Key="xcb:XC_1118" Value="K17850 LysR family transcriptional regulator, regulator of gene expression of beta-lactamase | (GenB" />
+    <hashEntry Key="xcb:XC_1119" Value="K17836 beta-lactamase class A [EC:3.5.2.6] | (GenBank) beta lactamase" />
+    <hashEntry Key="xcb:XC_1235" Value="K01467 beta-lactamase class C [EC:3.5.2.6] | (GenBank) beta-lactamase" />
+    <hashEntry Key="xcb:XC_1432" Value="K03585 membrane fusion protein, multidrug efflux system | (GenBank) multidrug resistance protein" />
+    <hashEntry Key="xcb:XC_1434" Value="K18139 outer membrane protein, multidrug efflux system | (GenBank) outer membrane protein" />
+    <hashEntry Key="xcb:XC_1747" Value="K18138 multidrug efflux pump | (GenBank) multidrug-efflux transporter acrB" />
+    <hashEntry Key="xcb:XC_1748" Value="K03585 membrane fusion protein, multidrug efflux system | (GenBank) multidrug resistance protein" />
+    <hashEntry Key="xcb:XC_2958" Value="K01207 beta-N-acetylhexosaminidase [EC:3.2.1.52] | (GenBank) N-acetyl-beta-glucosaminidase" />
+    <hashEntry Key="xcb:XC_3515" Value="K03587 cell division protein FtsI (penicillin-binding protein 3) | (GenBank) penicillin-binding prot" />
+    <hashEntry Key="xcb:XC_3929" Value="K08218 MFS transporter, PAT family, beta-lactamase induction signal transducer AmpG | (GenBank) sign" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko01501" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Clin Microbiol Rev 25:661-81 (2012)" PMID="23034325">
+      <Authors>Fernandez L</Authors>
+      <Authors>Hancock RE</Authors>Adaptive and mutational resistance: role of porins and efflux pumps in drug resistance.</Reference>
+    <Reference Journal="Antimicrob Agents Chemother 55:1211-21 (2011)" PMID="21149619">
+      <Authors>Muller C</Authors>
+      <Authors>Plesiat P</Authors>
+      <Authors>Jeannot K</Authors>A two-component regulatory system interconnects resistance to polymyxins, aminoglycosides, fluoroquinolones, and beta-lactams in Pseudomonas aeruginosa.</Reference>
+    <Reference Journal="Proc Natl Acad Sci U S A 107:6811-6 (2010)" PMID="20351243">
+      <Authors>Tanabe M</Authors>
+      <Authors>Nimigean CM</Authors>
+      <Authors>Iverson TM</Authors>Structural basis for solute transport, nucleotide regulation, and immunological recognition of Neisseria meningitidis PorB.</Reference>
+    <Reference Journal="Antimicrob Agents Chemother 42:2799-803 (1998)" PMID="9797206">
+      <Authors>Gill MJ</Authors>
+      <Authors>Simjee S</Authors>
+      <Authors>Al-Hattawi K</Authors>
+      <Authors>Robertson BD</Authors>
+      <Authors>Easmon CS</Authors>
+      <Authors>Ison CA</Authors>Gonococcal resistance to beta-lactams and tetracycline involves mutation in loop  3 of the porin encoded at the penB locus.</Reference>
+    <Reference Journal="Ann N Y Acad Sci 1277:54-75 (2013)" PMID="23163477">
+      <Authors>Johnson JW</Authors>
+      <Authors>Fisher JF</Authors>
+      <Authors>Mobashery S</Authors>Bacterial cell-wall recycling.</Reference>
+    <Reference Journal="PLoS Pathog 8:e1002571 (2012)" PMID="22438804">
+      <Authors>Amoroso A</Authors>
+      <Authors>Boudet J</Authors>
+      <Authors>Berzigotti S</Authors>
+      <Authors>Duval V</Authors>
+      <Authors>Teller N</Authors>
+      <Authors>Mengin-Lecreulx D</Authors>
+      <Authors>Luxen A</Authors>
+      <Authors>Simorre JP</Authors>
+      <Authors>Joris B</Authors>A peptidoglycan fragment triggers beta-lactam resistance in Bacillus licheniformis.</Reference>
+    <Reference Journal="Mol Microbiol 71:1102-16 (2009)" PMID="19154333">
+      <Authors>Sala C</Authors>
+      <Authors>Haouz A</Authors>
+      <Authors>Saul FA</Authors>
+      <Authors>Miras I</Authors>
+      <Authors>Rosenkrands I</Authors>
+      <Authors>Alzari PM</Authors>
+      <Authors>Cole ST</Authors>Genome-wide regulon and crystal structure of BlaI (Rv1846c) from Mycobacterium tuberculosis.</Reference>
+    <Reference Journal="FEMS Microbiol Rev 32:361-85 (2008)" PMID="18248419">
+      <Authors>Zapun A</Authors>
+      <Authors>Contreras-Martel C</Authors>
+      <Authors>Vernet T</Authors>Penicillin-binding proteins and beta-lactam resistance.</Reference>
+    <Reference Journal="Antimicrob Agents Chemother 53:1987-97 (2009)" PMID="19258280">
+      <Authors>Vettoretti L</Authors>
+      <Authors>Plesiat P</Authors>
+      <Authors>Muller C</Authors>
+      <Authors>El Garch F</Authors>
+      <Authors>Phan G</Authors>
+      <Authors>Attree I</Authors>
+      <Authors>Ducruix A</Authors>
+      <Authors>Llanes C</Authors>Efflux unbalance in Pseudomonas aeruginosa isolates from cystic fibrosis patients.</Reference>
+    <Reference Journal="Mol Microbiol 53:1423-36 (2004)" PMID="15387820">
+      <Authors>Cao L</Authors>
+      <Authors>Srikumar R</Authors>
+      <Authors>Poole K</Authors>MexAB-OprM hyperexpression in NalC-type multidrug-resistant Pseudomonas aeruginosa: identification and characterization of the nalC gene encoding a repressor of PA3720-PA3719.</Reference>
+    <Reference Journal="Curr Top Med Chem 1:59-71 (2001)" PMID="11895293">
+      <Authors>Poole K</Authors>
+      <Authors>Srikumar R</Authors>Multidrug efflux in Pseudomonas aeruginosa: components, mechanisms and clinical significance.</Reference>
+    <Reference Journal="Antimicrob Agents Chemother 49:1782-6 (2005)" PMID="15855496">
+      <Authors>Sobel ML</Authors>
+      <Authors>Hocquet D</Authors>
+      <Authors>Cao L</Authors>
+      <Authors>Plesiat P</Authors>
+      <Authors>Poole K</Authors>Mutations in PA3574 (nalD) lead to increased MexAB-OprM expression and multidrug  resistance in laboratory and clinical isolates of Pseudomonas aeruginosa.</Reference>
+    <Reference Journal="Antimicrob Agents Chemother 48:1630-9 (2004)" PMID="15105114">
+      <Authors>Kaczmarek FS</Authors>
+      <Authors>Gootz TD</Authors>
+      <Authors>Dib-Hajj F</Authors>
+      <Authors>Shang W</Authors>
+      <Authors>Hallowell S</Authors>
+      <Authors>Cronan M</Authors>Genetic and molecular characterization of beta-lactamase-negative ampicillin-resistant Haemophilus influenzae with unusually high resistance to ampicillin.</Reference>
+    <Reference Journal="Antimicrob Agents Chemother 49:3129-35 (2005)" PMID="16048914">
+      <Authors>Dean CR</Authors>
+      <Authors>Narayan S</Authors>
+      <Authors>Daigle DM</Authors>
+      <Authors>Dzink-Fox JL</Authors>
+      <Authors>Puyang X</Authors>
+      <Authors>Bracken KR</Authors>
+      <Authors>Dean KE</Authors>
+      <Authors>Weidmann B</Authors>
+      <Authors>Yuan Z</Authors>
+      <Authors>Jain R</Authors>
+      <Authors>Ryder NS</Authors>Role of the AcrAB-TolC efflux pump in determining susceptibility of Haemophilus influenzae to the novel peptide deformylase inhibitor LBM415.</Reference>
+    <Reference Journal="Antimicrob Agents Chemother 56:2504-10 (2012)" PMID="22371895">
+      <Authors>Rosenfeld N</Authors>
+      <Authors>Bouchier C</Authors>
+      <Authors>Courvalin P</Authors>
+      <Authors>Perichon B</Authors>Expression of the resistance-nodulation-cell division pump AdeIJK in Acinetobacter baumannii is regulated by AdeN, a TetR-type regulator.</Reference>
+    <Reference Journal="Antimicrob Agents Chemother 55:947-53 (2011)" PMID="21173183">
+      <Authors>Coyne S</Authors>
+      <Authors>Courvalin P</Authors>
+      <Authors>Perichon B</Authors>Efflux-mediated antibiotic resistance in Acinetobacter spp.</Reference>
+    <Reference Journal="Biochim Biophys Acta 1794:769-81 (2009)" PMID="19026770">
+      <Authors>Nikaido H</Authors>
+      <Authors>Takatsuka Y</Authors>Mechanisms of RND multidrug efflux pumps.</Reference>
+    <Reference Journal="J Bacteriol 189:2996-3005 (2007)" PMID="17277059">
+      <Authors>Truong-Bolduc QC</Authors>
+      <Authors>Hooper DC</Authors>The transcriptional regulators NorG and MgrA modulate resistance to both quinolones and beta-lactams in Staphylococcus aureus.</Reference>
+    <Reference Journal="Cell Mol Life Sci 59:1223-32 (2002)" PMID="12222968">
+      <Authors>Sauvage E</Authors>
+      <Authors>Kerff F</Authors>
+      <Authors>Fonze E</Authors>
+      <Authors>Herman R</Authors>
+      <Authors>Schoot B</Authors>
+      <Authors>Marquette JP</Authors>
+      <Authors>Taburet Y</Authors>
+      <Authors>Prevost D</Authors>
+      <Authors>Dumas J</Authors>
+      <Authors>Leonard G</Authors>
+      <Authors>Stefanic P</Authors>
+      <Authors>Coyette J</Authors>
+      <Authors>Charlier P</Authors>The 2.4-A crystal structure of the penicillin-resistant penicillin-binding protein PBP5fm from Enterococcus faecium in complex with benzylpenicillin.</Reference>
+    <Reference Journal="Cell Mol Life Sci 62:2617-33 (2005)" PMID="16143832">
+      <Authors>Fuda CC</Authors>
+      <Authors>Fisher JF</Authors>
+      <Authors>Mobashery S</Authors>Beta-lactam resistance in Staphylococcus aureus: the adaptive resistance of a plastic genome.</Reference>
+  </References>
+</KEGG.PathwayBrief>

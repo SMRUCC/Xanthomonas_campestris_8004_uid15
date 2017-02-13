@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00564" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Glycerophospholipid metabolism - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00093" Value="Phosphatidylethanolamine (PE) biosynthesis, PA =&gt; PS =&gt; PE [PATH:xcb00564]" />
+  </Modules>
+  <Compound>
+    <hashEntry Key="C00040" Value="Acyl-CoA" />
+    <hashEntry Key="C00084" Value="Acetaldehyde" />
+    <hashEntry Key="C00093" Value="sn-Glycerol 3-phosphate" />
+    <hashEntry Key="C00111" Value="Glycerone phosphate" />
+    <hashEntry Key="C00114" Value="Choline" />
+    <hashEntry Key="C00157" Value="Phosphatidylcholine" />
+    <hashEntry Key="C00189" Value="Ethanolamine" />
+    <hashEntry Key="C00269" Value="CDP-diacylglycerol" />
+    <hashEntry Key="C00307" Value="CDP-choline" />
+    <hashEntry Key="C00344" Value="Phosphatidylglycerol" />
+    <hashEntry Key="C00346" Value="Ethanolamine phosphate" />
+    <hashEntry Key="C00350" Value="Phosphatidylethanolamine" />
+    <hashEntry Key="C00416" Value="Phosphatidate" />
+    <hashEntry Key="C00513" Value="CDP-glycerol" />
+    <hashEntry Key="C00570" Value="CDP-ethanolamine" />
+    <hashEntry Key="C00588" Value="Choline phosphate" />
+    <hashEntry Key="C00623" Value="sn-Glycerol 1-phosphate" />
+    <hashEntry Key="C00641" Value="1,2-Diacyl-sn-glycerol" />
+    <hashEntry Key="C00670" Value="sn-Glycero-3-phosphocholine" />
+    <hashEntry Key="C00681" Value="1-Acyl-sn-glycerol 3-phosphate" />
+    <hashEntry Key="C01194" Value="1-Phosphatidyl-D-myo-inositol" />
+    <hashEntry Key="C01210" Value="N-Methylethanolamine phosphate" />
+    <hashEntry Key="C01233" Value="sn-Glycero-3-phosphoethanolamine" />
+    <hashEntry Key="C01241" Value="Phosphatidyl-N-methylethanolamine" />
+    <hashEntry Key="C01996" Value="Acetylcholine" />
+    <hashEntry Key="C02737" Value="Phosphatidylserine" />
+    <hashEntry Key="C03372" Value="Acylglycerone phosphate" />
+    <hashEntry Key="C03819" Value="1-Acylglycerophosphoinositol" />
+    <hashEntry Key="C03872" Value="L-Serine-phosphoethanolamine" />
+    <hashEntry Key="C03892" Value="Phosphatidylglycerophosphate" />
+    <hashEntry Key="C03974" Value="2-Acyl-sn-glycerol 3-phosphate" />
+    <hashEntry Key="C04230" Value="1-Acyl-sn-glycero-3-phosphocholine" />
+    <hashEntry Key="C04233" Value="2-Acyl-sn-glycero-3-phosphocholine" />
+    <hashEntry Key="C04308" Value="Phosphatidyl-N-dimethylethanolamine" />
+    <hashEntry Key="C04438" Value="1-Acyl-sn-glycero-3-phosphoethanolamine" />
+    <hashEntry Key="C04590" Value="3-(O-Geranylgeranyl)-sn-glycerol 1-phosphate" />
+    <hashEntry Key="C04638" Value="2,3-Bis-O-(geranylgeranyl)glycerol 1-phosphate" />
+    <hashEntry Key="C05973" Value="2-Acyl-sn-glycero-3-phosphoethanolamine" />
+    <hashEntry Key="C05974" Value="2-Acyl-sn-glycero-3-phosphoserine" />
+    <hashEntry Key="C05976" Value="Aminoacyl-phosphatidylglycerol" />
+    <hashEntry Key="C05980" Value="Cardiolipin" />
+    <hashEntry Key="C06771" Value="Triethanolamine" />
+    <hashEntry Key="C06772" Value="Diethanolamine" />
+    <hashEntry Key="C13482" Value="Phosphodimethylethanolamine" />
+    <hashEntry Key="C18059" Value="CDP-2,3-bis-O-(geranylgeranyl)-sn-glycerol" />
+    <hashEntry Key="C18125" Value="1-Acyl-sn-glycero-3-phosphoserine" />
+    <hashEntry Key="C18126" Value="1-Acyl-sn-glycero-3-phosphoglycerol" />
+    <hashEntry Key="C18129" Value="Monolysocardiolipin" />
+    <hashEntry Key="C18168" Value="Diacylglycerylhomoserine" />
+    <hashEntry Key="C18169" Value="Diacylglyceryl-N,N,N-trimethylhomoserine" />
+    <hashEntry Key="C20466" Value="2,3-Bis-O-(geranylgeranyl)-sn-glycero-1-phospho-L-serine" />
+    <hashEntry Key="C20518" Value="2,3-Bis-(O-phytanyl)-sn-glycerol 1-phosphate" />
+  </Compound>
+  <PathwayMap Key="xcb00564" Value="Glycerophospholipid metabolism" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0014" Value="K06131 cardiolipin synthase A/B [EC:2.7.8.-] | (GenBank) cardiolipin synthetase" />
+    <hashEntry Key="xcb:XC_0188" Value="K00655 1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51] | (GenBank) acetyltransferase" />
+    <hashEntry Key="xcb:XC_0214" Value="K00057 glycerol-3-phosphate dehydrogenase (NAD(P)+) [EC:1.1.1.94] | (GenBank) glycerol-3-phosphate d" />
+    <hashEntry Key="xcb:XC_0300" Value="K06131 cardiolipin synthase A/B [EC:2.7.8.-] | (GenBank) phospholipase" />
+    <hashEntry Key="xcb:XC_0372" Value="K00111 glycerol-3-phosphate dehydrogenase [EC:1.1.5.3] | (GenBank) glycerol-3-phosphate dehydrogenas" />
+    <hashEntry Key="xcb:XC_0485" Value="K18697 phosphatidylglycerophosphatase C [EC:3.1.3.27] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_0511" Value="K00995 CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5] | (GenBank) C" />
+    <hashEntry Key="xcb:XC_0518" Value="K00981 phosphatidate cytidylyltransferase [EC:2.7.7.41] | (GenBank) phosphatidate cytidiltransferase" />
+    <hashEntry Key="xcb:XC_1121" Value="K01114 phospholipase C [EC:3.1.4.3] | (GenBank) phospholipase C" />
+    <hashEntry Key="xcb:XC_1408" Value="K06132 cardiolipin synthase C [EC:2.7.8.-] | (GenBank) cardiolipin synthase" />
+    <hashEntry Key="xcb:XC_1563" Value="K01613 phosphatidylserine decarboxylase [EC:4.1.1.65] | (GenBank) phosphatidylserine decarboxylase" />
+    <hashEntry Key="xcb:XC_1854" Value="K03736 ethanolamine ammonia-lyase small subunit [EC:4.3.1.7] | (GenBank) ethanolamine ammonia-lyase" />
+    <hashEntry Key="xcb:XC_1855" Value="K03735 ethanolamine ammonia-lyase large subunit [EC:4.3.1.7] | (GenBank) ethanolamine ammonia-lyase" />
+    <hashEntry Key="xcb:XC_1957" Value="K17103 CDP-diacylglycerol---serine O-phosphatidyltransferase [EC:2.7.8.8] | (GenBank) CDP-diacylglyc" />
+    <hashEntry Key="xcb:XC_2001" Value="K00995 CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5] | (GenBank) C" />
+    <hashEntry Key="xcb:XC_2537" Value="K01521 CDP-diacylglycerol pyrophosphatase [EC:3.6.1.26] | (GenBank) CDP-diacylglycerol pyrophosphata" />
+    <hashEntry Key="xcb:XC_2818" Value="K01058 phospholipase A1 [EC:3.1.1.32 3.1.1.4] | (GenBank) phospholipase" />
+    <hashEntry Key="xcb:XC_2870" Value="K00981 phosphatidate cytidylyltransferase [EC:2.7.7.41] | (GenBank) phosphatidate cytidylyltransfera" />
+    <hashEntry Key="xcb:XC_3204" Value="K01126 glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46] | (GenBank) glycerophosphodiester p" />
+    <hashEntry Key="xcb:XC_3288" Value="K01114 phospholipase C [EC:3.1.4.3] | (GenBank) non-hemolytic phospholipase C" />
+    <hashEntry Key="xcb:XC_3449" Value="K00901 diacylglycerol kinase (ATP) [EC:2.7.1.107] | (GenBank) diacylglycerol kinase" />
+    <hashEntry Key="xcb:XC_3594" Value="K17103 CDP-diacylglycerol---serine O-phosphatidyltransferase [EC:2.7.8.8] | (GenBank) phosphatidylse" />
+    <hashEntry Key="xcb:XC_4099" Value="K00655 1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51] | (GenBank) acyltransferase" />
+    <hashEntry Key="xcb:XC_4117" Value="K06131 cardiolipin synthase A/B [EC:2.7.8.-] | (GenBank) cardiolipin synthase" />
+    <hashEntry Key="xcb:XC_4220" Value="K00631 glycerol-3-phosphate O-acyltransferase [EC:2.3.1.15] | (GenBank) glycerol-3-phosphate acyltra" />
+    <hashEntry Key="xcb:XC_4263" Value="K06131 cardiolipin synthase A/B [EC:2.7.8.-] | (GenBank) cardiolipin synthetase" />
+    <hashEntry Key="xcb:XC_4324" Value="K01126 glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46] | (GenBank) glycerophosphoryl diest" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00564" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="J Bacteriol 174:5702-10 (1992)" PMID="1512203">
+      <Authors>Racenis PV</Authors>
+      <Authors>Lai JL</Authors>
+      <Authors>Das AK</Authors>
+      <Authors>Mullick PC</Authors>
+      <Authors>Hajra AK</Authors>
+      <Authors>Greenberg ML.</Authors>The acyl dihydroxyacetone phosphate pathway enzymes for glycerolipid biosynthesis are present in the yeast Saccharomyces cerevisiae.</Reference>
+    <Reference Journal="Biochem Biophys Res Commun 257:50-6 (1999)" PMID="10092508">
+      <Authors>Taniyama Y</Authors>
+      <Authors>Shibata S</Authors>
+      <Authors>Kita S</Authors>
+      <Authors>Horikoshi K</Authors>
+      <Authors>Fuse H</Authors>
+      <Authors>Shirafuji H</Authors>
+      <Authors>Sumino Y</Authors>
+      <Authors>Fujino M.</Authors>Cloning and expression of a novel lysophospholipase which structurally resembles lecithin cholesterol acyltransferase.</Reference>
+    <Reference Journal="Eur J Biochem 266:1-16 (1999)" PMID="10542045">
+      <Authors>Athenstaedt K</Authors>
+      <Authors>Daum G.</Authors>Phosphatidic acid, a key intermediate in lipid metabolism.</Reference>
+    <Reference Journal="J Biol Chem 278:2956-62 (2003)" PMID="12431977">
+      <Authors>Shields DJ</Authors>
+      <Authors>Lehner R</Authors>
+      <Authors>Agellon LB</Authors>
+      <Authors>Vance DE.</Authors>Membrane topography of human phosphatidylethanolamine N-methyltransferase.</Reference>
+    <Reference Journal="Microbiology 149:3461-71 (2003)" PMID="14663079">
+      <Authors>Martinez-Morales F</Authors>
+      <Authors>Schobert M</Authors>
+      <Authors>Lopez-Lara IM</Authors>
+      <Authors>Geiger O.</Authors>Pathways for phosphatidylcholine biosynthesis in bacteria.</Reference>
+    <Reference Journal="Biochim Biophys Acta 1686:161-8 (2004)" PMID="15522832">
+      <Authors>Burgermeister M</Authors>
+      <Authors>Birner-Grunberger R</Authors>
+      <Authors>Nebauer R</Authors>
+      <Authors>Daum G.</Authors>Contribution of different pathways to the supply of phosphatidylethanolamine and phosphatidylcholine to mitochondrial membranes of the yeast Saccharomyces cerevisiae.</Reference>
+    <Reference Journal="J Biol Chem 266:13783-8 (1991)" PMID="1649829">
+      <Authors>Hsu L</Authors>
+      <Authors>Jackowski S</Authors>
+      <Authors>Rock CO</Authors>Isolation and characterization of Escherichia coli K-12 mutants lacking both 2-acyl-glycerophosphoethanolamine acyltransferase and acyl-acyl carrier protein synthetase activity.</Reference>
+    <Reference Journal="J Biol Chem 275:34534-40 (2000)" PMID="10938271">
+      <Authors>Stone SJ</Authors>
+      <Authors>Vance JE.</Authors>Phosphatidylserine synthase-1 and -2 are localized to mitochondria-associated membranes.</Reference>
+  </References>
+</KEGG.PathwayBrief>

@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb02020" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description>Two-component signal transduction systems enable bacteria to sense, respond, and adapt to changes in their environment or in their intracellular state. Each two-component system consists of a sensor protein-histidine kinase (HK) and a response regulator (RR). In the prototypical two-component pathway, the sensor HK phosphorylates its own conserved His residue in response to a signal(s) in the environment. Subsequently, the phosphoryl group of HK is transferred onto a specific Asp residue on the RR. The activated RR can then effect changes in cellular physiology, often by regulating gene expression. Two-component pathways thus often enable cells to sense and respond to stimuli by inducing changes in transcription.</Description>
+  <Name>Two-component system - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00434" Value="PhoR-PhoB (phosphate starvation response) two-component regulatory system [PATH:xcb02020]" />
+    <hashEntry Key="xcb_M00444" Value="PhoQ-PhoP (magnesium transport) two-component regulatory system [PATH:xcb02020]" />
+    <hashEntry Key="xcb_M00449" Value="CreC-CreB (phosphate regulation) two-component regulatory system [PATH:xcb02020]" />
+    <hashEntry Key="xcb_M00454" Value="KdpD-KdpE (potassium transport) two-component regulatory system [PATH:xcb02020]" />
+    <hashEntry Key="xcb_M00457" Value="TctE-TctD (tricarboxylic acid transport) two-component regulatory system [PATH:xcb02020]" />
+    <hashEntry Key="xcb_M00479" Value="DesK-DesR (membrane lipid fluidity regulation) two-component regulatory system [PATH:xcb02020]" />
+    <hashEntry Key="xcb_M00493" Value="AlgZ-AlgR (alginate production) two-component regulatory system [PATH:xcb02020]" />
+    <hashEntry Key="xcb_M00497" Value="GlnL-GlnG (nitrogen regulation) two-component regulatory system [PATH:xcb02020]" />
+    <hashEntry Key="xcb_M00501" Value="PilS-PilR (type 4 fimbriae synthesis) two-component regulatory system [PATH:xcb02020]" />
+    <hashEntry Key="xcb_M00506" Value="CheA-CheYBV (chemotaxis) two-component regulatory system [PATH:xcb02020]" />
+    <hashEntry Key="xcb_M00507" Value="ChpA-ChpB/PilGH (chemosensory) two-component regulatory system [PATH:xcb02020]" />
+    <hashEntry Key="xcb_M00517" Value="RpfC-RpfG (cell-to-cell signaling) two-component regulatory system [PATH:xcb02020]" />
+    <hashEntry Key="xcb_M00523" Value="RegB-RegA (redox response) two-component regulatory system [PATH:xcb02020]" />
+  </Modules>
+  <Compound>
+    <hashEntry Key="C00007" Value="Oxygen" />
+    <hashEntry Key="C00009" Value="Orthophosphate" />
+    <hashEntry Key="C00025" Value="L-Glutamate" />
+    <hashEntry Key="C00031" Value="D-Glucose" />
+    <hashEntry Key="C00034" Value="Manganese" />
+    <hashEntry Key="C00036" Value="Oxaloacetate" />
+    <hashEntry Key="C00038" Value="Zinc cation" />
+    <hashEntry Key="C00042" Value="Succinate" />
+    <hashEntry Key="C00049" Value="L-Aspartate" />
+    <hashEntry Key="C00064" Value="L-Glutamine" />
+    <hashEntry Key="C00070" Value="Copper" />
+    <hashEntry Key="C00088" Value="Nitrite" />
+    <hashEntry Key="C00092" Value="D-Glucose 6-phosphate" />
+    <hashEntry Key="C00122" Value="Fumarate" />
+    <hashEntry Key="C00149" Value="(S)-Malate" />
+    <hashEntry Key="C00158" Value="Citrate" />
+    <hashEntry Key="C00164" Value="Acetoacetate" />
+    <hashEntry Key="C00238" Value="Potassium cation" />
+    <hashEntry Key="C00244" Value="Nitrate" />
+    <hashEntry Key="C00282" Value="Hydrogen" />
+    <hashEntry Key="C00291" Value="Nickel" />
+    <hashEntry Key="C00305" Value="Magnesium cation" />
+    <hashEntry Key="C00399" Value="Ubiquinone" />
+    <hashEntry Key="C00547" Value="L-Noradrenaline" />
+    <hashEntry Key="C00697" Value="Nitrogen" />
+    <hashEntry Key="C00788" Value="L-Adrenaline" />
+    <hashEntry Key="C00828" Value="Menaquinone" />
+    <hashEntry Key="C01019" Value="6-Deoxy-L-galactose" />
+    <hashEntry Key="C01104" Value="Trimethylamine N-oxide" />
+    <hashEntry Key="C01667" Value="Bacitracin" />
+    <hashEntry Key="C02084" Value="Tetrathionate" />
+    <hashEntry Key="C05757" Value="(R)-3-Hydroxydodecanoyl-[acp]" />
+    <hashEntry Key="C05818" Value="2-Demethylmenaquinone" />
+    <hashEntry Key="C06230" Value="Fe-enterobactin" />
+    <hashEntry Key="C06689" Value="Vancomycin" />
+    <hashEntry Key="C06696" Value="Lead" />
+    <hashEntry Key="C11612" Value="Polymyxin B" />
+    <hashEntry Key="C11842" Value="N-(3-(S)-Hydroxybutyryl)homoserine lactone" />
+    <hashEntry Key="C11849" Value="3-Hydroxy-palmitic acid methyl ester" />
+    <hashEntry Key="C12008" Value="Ramoplanin A2" />
+    <hashEntry Key="C13768" Value="Colistin sulfate" />
+    <hashEntry Key="C14819" Value="Fe3+" />
+    <hashEntry Key="C16421" Value="AI-2" />
+    <hashEntry Key="C16463" Value="3',5'-Cyclic diGMP" />
+    <hashEntry Key="C16640" Value="CAI-1" />
+    <hashEntry Key="C16665" Value="12-Methyltetradecanoic acid" />
+    <hashEntry Key="C18206" Value="cis-11-Methyl-2-dodecenoic acid" />
+    <hashEntry Key="C21220" Value="AIP-1" />
+    <hashEntry Key="C21221" Value="CSP" />
+    <hashEntry Key="C21222" Value="CSP" />
+    <hashEntry Key="C21241" Value="AIP-2" />
+    <hashEntry Key="C21242" Value="AIP-3" />
+    <hashEntry Key="C21243" Value="AIP-4" />
+    <hashEntry Key="C21245" Value="AgrD1 peptideD07746  Colistin (INN)D08401  Polymyxin B (INN)" />
+  </Compound>
+  <PathwayMap Key="xcb02020" Value="Two-component system" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0001" Value="K02313 chromosomal replication initiator protein | (GenBank) chromosomal replication initiator" />
+    <hashEntry Key="xcb:XC_0194" Value="K01915 glutamine synthetase [EC:6.3.1.2] | (GenBank) glutamine synthetase" />
+    <hashEntry Key="xcb:XC_0195" Value="K04751 nitrogen regulatory protein P-II 1 | (GenBank) nitrogen regulatory protein P-II" />
+    <hashEntry Key="xcb:XC_0197" Value="K07708 two-component system, NtrC family, nitrogen regulation sensor histidine kinase GlnL [EC:2.7.1" />
+    <hashEntry Key="xcb:XC_0198" Value="K07712 two-component system, NtrC family, nitrogen regulation response regulator GlnG | (GenBank) tw" />
+    <hashEntry Key="xcb:XC_0204" Value="K00626 acetyl-CoA C-acetyltransferase [EC:2.3.1.9] | (GenBank) acyl-CoA thiolase" />
+    <hashEntry Key="xcb:XC_0286" Value="K05874 methyl-accepting chemotaxis protein I, serine sensor receptor | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_0336" Value="K05874 methyl-accepting chemotaxis protein I, serine sensor receptor | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_0486" Value="K10914 CRP/FNR family transcriptional regulator, cyclic AMP receptor protein | (GenBank) CAP-like pr" />
+    <hashEntry Key="xcb:XC_0626" Value="K19668 cellulose 1,4-beta-cellobiosidase [EC:3.2.1.91] | (GenBank) 1,4-beta-cellobiosidase" />
+    <hashEntry Key="xcb:XC_0638" Value="K05874 methyl-accepting chemotaxis protein I, serine sensor receptor | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_0647" Value="K08082 two-component system, LytT family, sensor histidine kinase AlgZ [EC:2.7.13.3] | (GenBank) two" />
+    <hashEntry Key="xcb:XC_0648" Value="K08083 two-component system, LytT family, response regulator AlgR | (GenBank) two-component system r" />
+    <hashEntry Key="xcb:XC_0812" Value="K07774 two-component system, OmpR family, response regulator TctD | (GenBank) two-component system r" />
+    <hashEntry Key="xcb:XC_0813" Value="K07649 two-component system, OmpR family, sensor histidine kinase TctE [EC:2.7.13.3] | (GenBank) two" />
+    <hashEntry Key="xcb:XC_0820" Value="K11103 aerobic C4-dicarboxylate transport protein | (GenBank) C4-dicarboxylate transport protein" />
+    <hashEntry Key="xcb:XC_0828" Value="K12340 outer membrane protein | (GenBank) TolC protein" />
+    <hashEntry Key="xcb:XC_0843" Value="K05875 methyl-accepting chemotaxis protein II, aspartate sensor receptor | (GenBank) chemotaxis prot" />
+    <hashEntry Key="xcb:XC_1005" Value="K19668 cellulose 1,4-beta-cellobiosidase [EC:3.2.1.91] | (GenBank) 1,4-beta-cellobiosidase" />
+    <hashEntry Key="xcb:XC_1058" Value="K02650 type IV pilus assembly protein PilA | (GenBank) pilin" />
+    <hashEntry Key="xcb:XC_1059" Value="K02650 type IV pilus assembly protein PilA | (GenBank) pilin" />
+    <hashEntry Key="xcb:XC_1061" Value="K02667 two-component system, NtrC family, response regulator PilR | (GenBank) two-component system r" />
+    <hashEntry Key="xcb:XC_1062" Value="K02668 two-component system, NtrC family, sensor histidine kinase PilS [EC:2.7.13.3] | (GenBank) two" />
+    <hashEntry Key="xcb:XC_1074" Value="K03406 methyl-accepting chemotaxis protein | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_1183" Value="K02657 twitching motility two-component system response regulator PilG | (GenBank) pilus protein" />
+    <hashEntry Key="xcb:XC_1184" Value="K02658 twitching motility two-component system response regulator PilH | (GenBank) PilH protein" />
+    <hashEntry Key="xcb:XC_1185" Value="K02659 twitching motility protein PilI | (GenBank) pilus biogenesis protein" />
+    <hashEntry Key="xcb:XC_1186" Value="K02660 twitching motility protein PilJ | (GenBank) pilus biogenesis protein" />
+    <hashEntry Key="xcb:XC_1187" Value="K02487 type IV pili sensor histidine kinase and response regulator K06596 chemosensory pili system p" />
+    <hashEntry Key="xcb:XC_1188" Value="K06597 chemosensory pili system protein ChpB (putative protein-glutamate methylesterase) | (GenBank)" />
+    <hashEntry Key="xcb:XC_1190" Value="K06598 chemosensory pili system protein ChpC | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_1235" Value="K01467 beta-lactamase class C [EC:3.5.2.6] | (GenBank) beta-lactamase" />
+    <hashEntry Key="xcb:XC_1290" Value="K03412 two-component system, chemotaxis family, response regulator CheB [EC:3.1.1.61] | (GenBank) pr" />
+    <hashEntry Key="xcb:XC_1295" Value="K07782 LuxR family transcriptional regulator, quorum-sensing system regulator SdiA | (GenBank) trans" />
+    <hashEntry Key="xcb:XC_1300" Value="K00425 cytochrome d ubiquinol oxidase subunit I [EC:1.10.3.14] | (GenBank) quinol oxidase, subunit I" />
+    <hashEntry Key="xcb:XC_1301" Value="K00426 cytochrome d ubiquinol oxidase subunit II [EC:1.10.3.14] | (GenBank) quinol oxidase, subunit" />
+    <hashEntry Key="xcb:XC_1311" Value="K03092 RNA polymerase sigma-54 factor | (GenBank) RNA polymerase sigma-54 factor" />
+    <hashEntry Key="xcb:XC_1409" Value="K03412 two-component system, chemotaxis family, response regulator CheB [EC:3.1.1.61] | (GenBank) pr" />
+    <hashEntry Key="xcb:XC_1410" Value="K00575 chemotaxis protein methyltransferase CheR [EC:2.1.1.80] | (GenBank) response regulator for ch" />
+    <hashEntry Key="xcb:XC_1412" Value="K03408 purine-binding chemotaxis protein CheW | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_1413" Value="K03406 methyl-accepting chemotaxis protein | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_1414" Value="K03407 two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3] | (GenBank) chemota" />
+    <hashEntry Key="xcb:XC_1419" Value="K07663 two-component system, OmpR family, catabolic regulation response regulator CreB | (GenBank) t" />
+    <hashEntry Key="xcb:XC_1421" Value="K07641 two-component system, OmpR family, sensor histidine kinase CreC [EC:2.7.13.3] | (GenBank) two" />
+    <hashEntry Key="xcb:XC_1454" Value="K00425 cytochrome d ubiquinol oxidase subunit I [EC:1.10.3.14] | (GenBank) cytochrome D oxidase subu" />
+    <hashEntry Key="xcb:XC_1455" Value="K00426 cytochrome d ubiquinol oxidase subunit II [EC:1.10.3.14] | (GenBank) cytochrome D oxidase sub" />
+    <hashEntry Key="xcb:XC_1519" Value="K01077 alkaline phosphatase [EC:3.1.3.1] | (GenBank) alkaline phosphatase" />
+    <hashEntry Key="xcb:XC_1768" Value="K01915 glutamine synthetase [EC:6.3.1.2] | (GenBank) glutamine synthase" />
+    <hashEntry Key="xcb:XC_1770" Value="K01915 glutamine synthetase [EC:6.3.1.2] | (GenBank) glutamine synthetase" />
+    <hashEntry Key="xcb:XC_1792" Value="K00411 ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:1.10.2.2] | (GenBank) ubiquinol cyto" />
+    <hashEntry Key="xcb:XC_1793" Value="K00412 ubiquinol-cytochrome c reductase cytochrome b subunit | (GenBank) ubiquinol cytochrome C oxid" />
+    <hashEntry Key="xcb:XC_1794" Value="K00413 ubiquinol-cytochrome c reductase cytochrome c1 subunit | (GenBank) ubiquinol cytochrome C oxi" />
+    <hashEntry Key="xcb:XC_1801" Value="K03406 methyl-accepting chemotaxis protein | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_1802" Value="K03408 purine-binding chemotaxis protein CheW | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_1884" Value="K00426 cytochrome d ubiquinol oxidase subunit II [EC:1.10.3.14] | (GenBank) cytochrome D ubiquinol o" />
+    <hashEntry Key="xcb:XC_1885" Value="K00425 cytochrome d ubiquinol oxidase subunit I [EC:1.10.3.14] | (GenBank) cytochrome D ubiquinol ox" />
+    <hashEntry Key="xcb:XC_1937" Value="K03406 methyl-accepting chemotaxis protein | (GenBank) methyl-accepting chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2045" Value="K02487 type IV pili sensor histidine kinase and response regulator | (GenBank) conserved hypothetica" />
+    <hashEntry Key="xcb:XC_2130" Value="K03413 two-component system, chemotaxis family, response regulator CheY | (GenBank) single-domain re" />
+    <hashEntry Key="xcb:XC_2136" Value="K05874 methyl-accepting chemotaxis protein I, serine sensor receptor | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2163" Value="K03412 two-component system, chemotaxis family, response regulator CheB [EC:3.1.1.61] | (GenBank) pr" />
+    <hashEntry Key="xcb:XC_2223" Value="K03406 methyl-accepting chemotaxis protein | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2231" Value="K02398 negative regulator of flagellin synthesis FlgM | (GenBank) flagellar protein" />
+    <hashEntry Key="xcb:XC_2233" Value="K03415 two-component system, chemotaxis family, response regulator CheV | (GenBank) chemotaxis prote" />
+    <hashEntry Key="xcb:XC_2245" Value="K02406 flagellin | (GenBank) flagellar protein" />
+    <hashEntry Key="xcb:XC_2251" Value="K03092 RNA polymerase sigma-54 factor | (GenBank) RNA polymerase sigma-54 factor" />
+    <hashEntry Key="xcb:XC_2253" Value="K10941 sigma-54 dependent transcriptional regulator, flagellar regulatory protein | (GenBank) transc" />
+    <hashEntry Key="xcb:XC_2281" Value="K02405 RNA polymerase sigma factor for flagellar operon FliA | (GenBank) RNA polymerase sigma factor" />
+    <hashEntry Key="xcb:XC_2282" Value="K03413 two-component system, chemotaxis family, response regulator CheY | (GenBank) chemotaxis prote" />
+    <hashEntry Key="xcb:XC_2284" Value="K03407 two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3] | (GenBank) chemota" />
+    <hashEntry Key="xcb:XC_2297" Value="K02556 chemotaxis protein MotA | (GenBank) MotA protein" />
+    <hashEntry Key="xcb:XC_2300" Value="K03408 purine-binding chemotaxis protein CheW | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2302" Value="K03413 two-component system, chemotaxis family, response regulator CheY | (GenBank) chemotaxis respo" />
+    <hashEntry Key="xcb:XC_2303" Value="K03407 two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3] | (GenBank) chemota" />
+    <hashEntry Key="xcb:XC_2304" Value="K05874 methyl-accepting chemotaxis protein I, serine sensor receptor | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2307" Value="K05874 methyl-accepting chemotaxis protein I, serine sensor receptor | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2308" Value="K05874 methyl-accepting chemotaxis protein I, serine sensor receptor | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2309" Value="K05874 methyl-accepting chemotaxis protein I, serine sensor receptor | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2311" Value="K05874 methyl-accepting chemotaxis protein I, serine sensor receptor | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2313" Value="K05874 methyl-accepting chemotaxis protein I, serine sensor receptor | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2314" Value="K05874 methyl-accepting chemotaxis protein I, serine sensor receptor | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2315" Value="K03406 methyl-accepting chemotaxis protein | (GenBank) methyl-accepting chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2316" Value="K05874 methyl-accepting chemotaxis protein I, serine sensor receptor | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2318" Value="K03408 purine-binding chemotaxis protein CheW | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2320" Value="K05874 methyl-accepting chemotaxis protein I, serine sensor receptor | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2321" Value="K00575 chemotaxis protein methyltransferase CheR [EC:2.1.1.80] | (GenBank) chemotaxis protein methyl" />
+    <hashEntry Key="xcb:XC_2323" Value="K03412 two-component system, chemotaxis family, response regulator CheB [EC:3.1.1.61] | (GenBank) gl" />
+    <hashEntry Key="xcb:XC_2332" Value="K13816 DSF synthase | (GenBank) RpfF protein" />
+    <hashEntry Key="xcb:XC_2333" Value="K10715 two-component system, sensor histidine kinase RpfC [EC:2.7.13.3] | (GenBank) RpfC protein" />
+    <hashEntry Key="xcb:XC_2335" Value="K13815 two-component system, response regulator RpfG | (GenBank) response regulator rpfG" />
+    <hashEntry Key="xcb:XC_2456" Value="K15011 two-component system, sensor histidine kinase RegB [EC:2.7.13.3] | (GenBank) two-component sy" />
+    <hashEntry Key="xcb:XC_2457" Value="K15012 two-component system, response regulator RegA | (GenBank) two-component system regulatory pro" />
+    <hashEntry Key="xcb:XC_2504" Value="K03406 methyl-accepting chemotaxis protein | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2506" Value="K03563 carbon storage regulator | (GenBank) carbon storage regulator" />
+    <hashEntry Key="xcb:XC_2564" Value="K08738 cytochrome c | (GenBank) cytochrome C2" />
+    <hashEntry Key="xcb:XC_2707" Value="K02040 phosphate transport system substrate-binding protein | (GenBank) phosphate binding protein" />
+    <hashEntry Key="xcb:XC_2708" Value="K02040 phosphate transport system substrate-binding protein | (GenBank) ABC transporter phosphate bi" />
+    <hashEntry Key="xcb:XC_2855" Value="K00990 [protein-PII] uridylyltransferase [EC:2.7.7.59] | (GenBank) protein-PII uridylyltransferase" />
+    <hashEntry Key="xcb:XC_2916" Value="K14205 phosphatidylglycerol lysyltransferase [EC:2.3.2.3] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_2943" Value="K00626 acetyl-CoA C-acetyltransferase [EC:2.3.1.9] | (GenBank) acetoacetyl-CoA thiolase" />
+    <hashEntry Key="xcb:XC_2972" Value="K04771 serine protease Do [EC:3.4.21.107] | (GenBank) periplasmic protease" />
+    <hashEntry Key="xcb:XC_3058" Value="K00575 chemotaxis protein methyltransferase CheR [EC:2.1.1.80] | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_3059" Value="K03412 two-component system, chemotaxis family, response regulator CheB [EC:3.1.1.61] | (GenBank) pr" />
+    <hashEntry Key="xcb:XC_3111" Value="K07260 D-alanyl-D-alanine carboxypeptidase [EC:3.4.16.4] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_3197" Value="K02658 twitching motility two-component system response regulator PilH | (GenBank) regulatory protei" />
+    <hashEntry Key="xcb:XC_3272" Value="K07657 two-component system, OmpR family, phosphate regulon response regulator PhoB | (GenBank) two-" />
+    <hashEntry Key="xcb:XC_3273" Value="K07636 two-component system, OmpR family, phosphate regulon sensor histidine kinase PhoR [EC:2.7.13." />
+    <hashEntry Key="xcb:XC_3528" Value="K07667 two-component system, OmpR family, KDP operon response regulator KdpE | (GenBank) two-compone" />
+    <hashEntry Key="xcb:XC_3529" Value="K07646 two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3] | (GenBank) two" />
+    <hashEntry Key="xcb:XC_3530" Value="K01548 K+-transporting ATPase ATPase C chain [EC:3.6.3.12] | (GenBank) potassium-transporting ATPase" />
+    <hashEntry Key="xcb:XC_3531" Value="K01547 K+-transporting ATPase ATPase B chain [EC:3.6.3.12] | (GenBank) potassium-transporting ATPase" />
+    <hashEntry Key="xcb:XC_3532" Value="K01546 K+-transporting ATPase ATPase A chain [EC:3.6.3.12] | (GenBank) potassium-transporting ATPase" />
+    <hashEntry Key="xcb:XC_3724" Value="K02556 chemotaxis protein MotA | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_3757" Value="K13924 two-component system, chemotaxis family, CheB/CheR fusion protein [EC:2.1.1.80 3.1.1.61] | (G" />
+    <hashEntry Key="xcb:XC_3762" Value="K00425 cytochrome d ubiquinol oxidase subunit I [EC:1.10.3.14] | (GenBank) cyanide insensitive termi" />
+    <hashEntry Key="xcb:XC_3763" Value="K00426 cytochrome d ubiquinol oxidase subunit II [EC:1.10.3.14] | (GenBank) cyanide insensitive term" />
+    <hashEntry Key="xcb:XC_3823" Value="K02650 type IV pilus assembly protein PilA | (GenBank) fimbrial protein" />
+    <hashEntry Key="xcb:XC_3859" Value="K07799 membrane fusion protein, multidrug efflux system | (GenBank) membrane fusion protein precurso" />
+    <hashEntry Key="xcb:XC_3860" Value="K07788 multidrug efflux pump | (GenBank) acriflavin resistance protein" />
+    <hashEntry Key="xcb:XC_3861" Value="K07789 multidrug efflux pump | (GenBank) acriflavin resistance protein" />
+    <hashEntry Key="xcb:XC_3873" Value="K08641 D-alanyl-D-alanine dipeptidase [EC:3.4.13.22] | (GenBank) D-alanyl-D-alanine dipeptidase" />
+    <hashEntry Key="xcb:XC_3897" Value="K02259 cytochrome c oxidase assembly protein subunit 15 | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_3957" Value="K04751 nitrogen regulatory protein P-II 1 | (GenBank) nitrogen regulatory protein P-II" />
+    <hashEntry Key="xcb:XC_3997" Value="K07693 two-component system, NarL family, response regulator DesR | (GenBank) two-component system r" />
+    <hashEntry Key="xcb:XC_3998" Value="K07778 two-component system, NarL family, sensor histidine kinase DesK [EC:2.7.13.3] | (GenBank) two" />
+    <hashEntry Key="xcb:XC_4030" Value="K07637 two-component system, OmpR family, sensor histidine kinase PhoQ [EC:2.7.13.3] | (GenBank) two" />
+    <hashEntry Key="xcb:XC_4031" Value="K07660 two-component system, OmpR family, response regulator PhoP | (GenBank) two-component system r" />
+    <hashEntry Key="xcb:XC_4058" Value="K09696 sodium transport system permease protein | (GenBank) ABC transporter sodium permease" />
+    <hashEntry Key="xcb:XC_4059" Value="K09697 sodium transport system ATP-binding protein [EC:3.6.3.7] | (GenBank) sodium ABC transporter A" />
+    <hashEntry Key="xcb:XC_4131" Value="K01113 alkaline phosphatase D [EC:3.1.3.1] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_4326" Value="K09474 acid phosphatase (class A) [EC:3.1.3.2] | (GenBank) phosphatase precursor" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko02020" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="J Biol Chem 280:1448-56 (2005)" PMID="15522865">
+      <Authors>Yamamoto K</Authors>
+      <Authors>Hirao K</Authors>
+      <Authors>Oshima T</Authors>
+      <Authors>Aiba H</Authors>
+      <Authors>Utsumi R</Authors>
+      <Authors>Ishihama A.</Authors>Functional characterization in vitro of all two-component signal transduction systems from Escherichia coli.</Reference>
+    <Reference Journal="J Bacteriol 187:5166-78 (2005)" PMID="16030210">
+      <Authors>Abdel-Fattah WR</Authors>
+      <Authors>Chen Y</Authors>
+      <Authors>Eldakak A</Authors>
+      <Authors>Hulett FM.</Authors>Bacillus subtilis phosphorylated PhoP: direct activation of the E(sigma)A- and repression of the E(sigma)E-responsive phoB-PS+V promoters during pho response.</Reference>
+    <Reference Journal="Mol Microbiol 56:492-508 (2005)" PMID="15813739">
+      <Authors>Navarre WW</Authors>
+      <Authors>Halsey TA</Authors>
+      <Authors>Walthers D</Authors>
+      <Authors>Frye J</Authors>
+      <Authors>McClelland M</Authors>
+      <Authors>Potter JL</Authors>
+      <Authors>Kenney LJ</Authors>
+      <Authors>Gunn JS</Authors>
+      <Authors>Fang FC</Authors>
+      <Authors>Libby SJ.</Authors>Co-regulation of Salmonella enterica genes required for virulence and resistance to antimicrobial peptides by SlyA and PhoP/PhoQ.</Reference>
+    <Reference Journal="J Biol Chem 277:24155-61 (2002)" PMID="11973328">
+      <Authors>Cai SJ</Authors>
+      <Authors>Inouye M.</Authors>EnvZ-OmpR interaction and osmoregulation in Escherichia coli.</Reference>
+    <Reference Journal="J Bacteriol 187:5723-31 (2005)" PMID="16077119">
+      <Authors>Batchelor E</Authors>
+      <Authors>Walthers D</Authors>
+      <Authors>Kenney LJ</Authors>
+      <Authors>Goulian M.</Authors>The Escherichia coli CpxA-CpxR envelope stress response system regulates expression of the porins ompF and ompC.</Reference>
+    <Reference Journal="J Bacteriol 184:4161-7 (2002)" PMID="12107133">
+      <Authors>Nagakubo S</Authors>
+      <Authors>Nishino K</Authors>
+      <Authors>Hirata T</Authors>
+      <Authors>Yamaguchi A.</Authors>The putative response regulator BaeR stimulates multidrug resistance of Escherichia coli via a novel multidrug exporter system, MdtABC.</Reference>
+    <Reference Journal="Biosci Biotechnol Biochem 68:1758-67 (2004)" PMID="15322361">
+      <Authors>Hagiwara D</Authors>
+      <Authors>Yamashino T</Authors>
+      <Authors>Mizuno T.</Authors>A Genome-wide view of the Escherichia coli BasS-BasR two-component system implicated in iron-responses.</Reference>
+    <Reference Journal="J Bacteriol 182:5864-71 (2000)" PMID="11004187">
+      <Authors>Munson GP</Authors>
+      <Authors>Lam DL</Authors>
+      <Authors>Outten FW</Authors>
+      <Authors>O'Halloran TV.</Authors>Identification of a copper-responsive two-component system on the chromosome of Escherichia coli K-12.</Reference>
+    <Reference Journal="Mol Microbiol 43:809-21 (2002)" PMID="11929534">
+      <Authors>Sperandio V</Authors>
+      <Authors>Torres AG</Authors>
+      <Authors>Kaper JB.</Authors>Quorum sensing Escherichia coli regulators B and C (QseBC): a novel two-component regulatory system involved in the regulation of flagella and motility by quorum sensing in E. coli.</Reference>
+    <Reference Journal="Prog Nucleic Acid Res Mol Biol 75:293-320 (2003)" PMID="14604015">
+      <Authors>Epstein W.</Authors>The roles and regulation of potassium in bacteria.</Reference>
+    <Reference Journal="J Bacteriol 182:961-6 (2000)" PMID="10648521">
+      <Authors>Ansaldi M</Authors>
+      <Authors>Simon G</Authors>
+      <Authors>Lepelletier M</Authors>
+      <Authors>Mejean V.</Authors>The TorR high-affinity binding site plays a key role in both torR autoregulation and torCAD operon expression in Escherichia coli.</Reference>
+    <Reference Journal="Proc Natl Acad Sci U S A 101:13318-23 (2004)" PMID="15326287">
+      <Authors>Malpica R</Authors>
+      <Authors>Franco B</Authors>
+      <Authors>Rodriguez C</Authors>
+      <Authors>Kwon O</Authors>
+      <Authors>Georgellis D.</Authors>Identification of a quinone-sensitive redox switch in the ArcB sensor kinase.</Reference>
+    <Reference Journal="J Bacteriol 171:4436-41 (1989)" PMID="2666399">
+      <Authors>Widenhorn KA</Authors>
+      <Authors>Somers JM</Authors>
+      <Authors>Kay WW.</Authors>Genetic regulation of the tricarboxylate transport operon (tctI) of Salmonella typhimurium.</Reference>
+    <Reference Journal="Mol Microbiol 41:1159-72 (2001)" PMID="11555295">
+      <Authors>Hyyrylainen HL</Authors>
+      <Authors>Bolhuis A</Authors>
+      <Authors>Darmon E</Authors>
+      <Authors>Muukkonen L</Authors>
+      <Authors>Koski P</Authors>
+      <Authors>Vitikainen M</Authors>
+      <Authors>Sarvas M</Authors>
+      <Authors>Pragai Z</Authors>
+      <Authors>Bron S</Authors>
+      <Authors>van Dijl JM</Authors>
+      <Authors>Kontinen VP.</Authors>A novel two-component regulatory system in Bacillus subtilis for the survival of severe secretion stress.</Reference>
+    <Reference Journal="Mol Microbiol 37:1208-19 (2000)" PMID="10972837">
+      <Authors>Zhang X</Authors>
+      <Authors>Hulett FM.</Authors>ResD signal transduction regulator of aerobic respiration in Bacillus subtilis: ctaA promoter regulation.</Reference>
+    <Reference Journal="J Bacteriol 187:4064-76 (2005)" PMID="15937169">
+      <Authors>Senadheera MD</Authors>
+      <Authors>Guggenheim B</Authors>
+      <Authors>Spatafora GA</Authors>
+      <Authors>Huang YC</Authors>
+      <Authors>Choi J</Authors>
+      <Authors>Hung DC</Authors>
+      <Authors>Treglown JS</Authors>
+      <Authors>Goodman SD</Authors>
+      <Authors>Ellen RP</Authors>
+      <Authors>Cvitkovitch DG.</Authors>A VicRK signal transduction system in Streptococcus mutans affects gtfBCD, gbpB, and ftf expression, biofilm formation, and genetic competence development.</Reference>
+    <Reference Journal="J Bacteriol 187:202-12 (2005)" PMID="15601704">
+      <Authors>He H</Authors>
+      <Authors>Zahrt TC.</Authors>Identification and characterization of a regulatory sequence recognized by Mycobacterium tuberculosis persistence regulator MprA.</Reference>
+    <Reference Journal="Adv Appl Microbiol 61:1-26 (2007)" PMID="17448786">
+      <Authors>Hutchings MI</Authors>Unusual two-component signal transduction pathways in the actinobacteria.</Reference>
+    <Reference Journal="Amino Acids 37:487-97 (2009)" PMID="19308662">
+      <Authors>Kramer R</Authors>Osmosensing and osmosignaling in Corynebacterium glutamicum.</Reference>
+    <Reference Journal="J Bacteriol 177:2695-706 (1995)" PMID="7751278">
+      <Authors>Eraso JM</Authors>
+      <Authors>Kaplan S.</Authors>Oxygen-insensitive synthesis of the photosynthetic membranes of Rhodobacter sphaeroides: a mutant histidine kinase.</Reference>
+    <Reference Journal="Microb Pathog 26:195-206 (1999)" PMID="10089160">
+      <Authors>Haydel SE</Authors>
+      <Authors>Dunlap NE</Authors>
+      <Authors>Benjamin WH Jr.</Authors>In vitro evidence of two-component system phosphorylation between the Mycobacterium tuberculosis TrcR/TrcS proteins.</Reference>
+    <Reference Journal="J Bacteriol 183:6573-8 (2001)" PMID="11673427">
+      <Authors>Quisel JD</Authors>
+      <Authors>Burkholder WF</Authors>
+      <Authors>Grossman AD.</Authors>In vivo effects of sporulation kinases on mutant Spo0A proteins in Bacillus subtilis.</Reference>
+    <Reference Journal="Arch Microbiol 177:313-21 (2002)" PMID="11889485">
+      <Authors>Kaspar S</Authors>
+      <Authors>Bott M.</Authors>The sensor kinase CitA (DpiB) of Escherichia coli functions as a high-affinity citrate receptor.</Reference>
+    <Reference Journal="J Biol Chem 277:39809-14 (2002)" PMID="12167640">
+      <Authors>Janausch IG</Authors>
+      <Authors>Garcia-Moreno I</Authors>
+      <Authors>Unden G.</Authors>Function of DcuS from Escherichia coli as a fumarate-stimulated histidine protein kinase in vitro.</Reference>
+    <Reference Journal="J Bacteriol 178:611-8 (1996)" PMID="8550490">
+      <Authors>Brunskill EW</Authors>
+      <Authors>Bayles KW.</Authors>Identification and molecular characterization of a putative regulatory locus that affects autolysis in Staphylococcus aureus.</Reference>
+    <Reference Journal="J Bacteriol 182:4822-8 (2000)" PMID="10940023">
+      <Authors>Fujimoto DF</Authors>
+      <Authors>Brunskill EW</Authors>
+      <Authors>Bayles KW.</Authors>Analysis of genetic elements controlling Staphylococcus aureus lrgAB expression: potential role of DNA topology in SarA regulation.</Reference>
+    <Reference Journal="J Bacteriol 184:1180-6 (2002)" PMID="11807079">
+      <Authors>Dufour P</Authors>
+      <Authors>Jarraud S</Authors>
+      <Authors>Vandenesch F</Authors>
+      <Authors>Greenland T</Authors>
+      <Authors>Novick RP</Authors>
+      <Authors>Bes M</Authors>
+      <Authors>Etienne J</Authors>
+      <Authors>Lina G.</Authors>High genetic variability of the agr locus in Staphylococcus species.</Reference>
+    <Reference Journal="J Bacteriol 175:3259-68 (1993)" PMID="8501030">
+      <Authors>Rabin RS</Authors>
+      <Authors>Stewart V.</Authors>Dual response regulators (NarL and NarP) interact with dual sensors (NarX and NarQ) to control nitrate- and nitrite-regulated gene expression in Escherichia coli K-12.</Reference>
+    <Reference Journal="Mol Microbiol 24:1049-60 (1997)" PMID="9220011">
+      <Authors>Chiang RC</Authors>
+      <Authors>Cavicchioli R</Authors>
+      <Authors>Gunsalus RP.</Authors>'Locked-on' and 'locked-off' signal transduction mutations in the periplasmic domain of the Escherichia coli NarQ and NarX sensors affect nitrate- and nitrite-dependent regulation by NarL and NarP.</Reference>
+    <Reference Journal="J Bacteriol 184:4205-10 (2002)" PMID="12107138">
+      <Authors>Verhamme DT</Authors>
+      <Authors>Postma PW</Authors>
+      <Authors>Crielaard W</Authors>
+      <Authors>Hellingwerf KJ.</Authors>Cooperativity in signal transfer through the Uhp system of Escherichia coli.</Reference>
+    <Reference Journal="J Bacteriol 185:5735-46 (2003)" PMID="13129944">
+      <Authors>Hagiwara D</Authors>
+      <Authors>Sugiura M</Authors>
+      <Authors>Oshima T</Authors>
+      <Authors>Mori H</Authors>
+      <Authors>Aiba H</Authors>
+      <Authors>Yamashino T</Authors>
+      <Authors>Mizuno T.</Authors>Genome-wide analyses revealing a signaling network of the RcsC-YojN-RcsB phosphorelay system in Escherichia coli.</Reference>
+    <Reference Journal="J Antimicrob Chemother 52:576-82 (2003)" PMID="12951338">
+      <Authors>Hirakawa H</Authors>
+      <Authors>Nishino K</Authors>
+      <Authors>Yamada J</Authors>
+      <Authors>Hirata T</Authors>
+      <Authors>Yamaguchi A.</Authors>Beta-lactam resistance modulated by the overexpression of response regulators of two-component signal transduction systems in Escherichia coli.</Reference>
+    <Reference Journal="J Bacteriol 184:5130-40 (2002)" PMID="12193630">
+      <Authors>Suzuki K</Authors>
+      <Authors>Wang X</Authors>
+      <Authors>Weilbacher T</Authors>
+      <Authors>Pernestig AK</Authors>
+      <Authors>Melefors O</Authors>
+      <Authors>Georgellis D</Authors>
+      <Authors>Babitzke P</Authors>
+      <Authors>Romeo T.</Authors>Regulatory circuitry of the CsrA/CsrB and BarA/UvrY systems of Escherichia coli.</Reference>
+    <Reference Journal="Biosci Biotechnol Biochem 64:1203-9 (2000)" PMID="10923791">
+      <Authors>Kato A</Authors>
+      <Authors>Ohnishi H</Authors>
+      <Authors>Yamamoto K</Authors>
+      <Authors>Furuta E</Authors>
+      <Authors>Tanabe H</Authors>
+      <Authors>Utsumi R.</Authors>Transcription of emrKY is regulated by the EvgA-EvgS two-component system in Escherichia coli K-12.</Reference>
+    <Reference Journal="J Bacteriol 186:15-21 (2004)" PMID="14679219">
+      <Authors>Ansaldi M</Authors>
+      <Authors>Dubnau D.</Authors>Diversifying selection at the Bacillus quorum-sensing locus and determinants of modification specificity during synthesis of the ComX pheromone.</Reference>
+    <Reference Journal="Microbiol Res 160:233-42 (2005)" PMID="16035234">
+      <Authors>Gabdrakhmanova L</Authors>
+      <Authors>Vishniakov I</Authors>
+      <Authors>Sharipova M</Authors>
+      <Authors>Balaban N</Authors>
+      <Authors>Kostrov S</Authors>
+      <Authors>Leshchinskaya I.</Authors>Salt stress induction of glutamyl endopeptidase biosynthesis in Bacillus intermedius.</Reference>
+    <Reference Journal="EMBO J 20:1681-91 (2001)" PMID="11285232">
+      <Authors>Aguilar PS</Authors>
+      <Authors>Hernandez-Arriaga AM</Authors>
+      <Authors>Cybulski LE</Authors>
+      <Authors>Erazo AC</Authors>
+      <Authors>de Mendoza D.</Authors>Molecular basis of thermosensing: a two-component signal transduction thermometer in Bacillus subtilis.</Reference>
+    <Reference Journal="Mol Microbiol 49:807-21 (2003)" PMID="12864861">
+      <Authors>Kuroda M</Authors>
+      <Authors>Kuroda H</Authors>
+      <Authors>Oshima T</Authors>
+      <Authors>Takeuchi F</Authors>
+      <Authors>Mori H</Authors>
+      <Authors>Hiramatsu K.</Authors>Two-component system VraSR positively modulates the regulation of cell-wall biosynthesis pathway in Staphylococcus aureus.</Reference>
+    <Reference Journal="Microbiology 150:865-75 (2004)" PMID="15073296">
+      <Authors>Saini DK</Authors>
+      <Authors>Malhotra V</Authors>
+      <Authors>Dey D</Authors>
+      <Authors>Pant N</Authors>
+      <Authors>Das TK</Authors>
+      <Authors>Tyagi JS.</Authors>DevR-DevS is a bona fide two-component system of Mycobacterium tuberculosis that is hypoxia-responsive in the absence of the DNA-binding domain of DevR.</Reference>
+    <Reference Journal="J Bacteriol 184:6624-34 (2002)" PMID="12426351">
+      <Authors>Fedtke I</Authors>
+      <Authors>Kamps A</Authors>
+      <Authors>Krismer B</Authors>
+      <Authors>Gotz F.</Authors>The nitrate reductase and nitrite reductase operons and the narT gene of Staphylococcus carnosus are positively controlled by the novel two-component system NreBC.</Reference>
+    <Reference Journal="J Bacteriol 175:190-9 (1993)" PMID="8416895">
+      <Authors>Shiau SP</Authors>
+      <Authors>Chen P</Authors>
+      <Authors>Reitzer LJ.</Authors>Effects of insertions and deletions in glnG (ntrC) of Escherichia coli on nitrogen regulator I-dependent DNA binding and transcriptional activation.</Reference>
+    <Reference Journal="J Mol Biol 307:93-105 (2001)" PMID="11243806">
+      <Authors>Leonhartsberger S</Authors>
+      <Authors>Huber A</Authors>
+      <Authors>Lottspeich F</Authors>
+      <Authors>Bock A.</Authors>The hydH/G Genes from Escherichia coli code for a zinc and lead responsive two-component regulatory system.</Reference>
+    <Reference Journal="Microb Cell Fact 3:8 (2004)" PMID="15200682">
+      <Authors>Lioliou EE</Authors>
+      <Authors>Kyriakidis DA.</Authors>The role of bacterial antizyme: From an inhibitory protein to AtoC transcriptional regulator.</Reference>
+    <Reference Journal="Mol Microbiol 56:215-27 (2005)" PMID="15773991">
+      <Authors>Yamamoto K</Authors>
+      <Authors>Ishihama A</Authors>Transcriptional response of Escherichia coli to external copper.</Reference>
+    <Reference Journal="FEMS Microbiol Lett 181:253-60 (1999)" PMID="10585546">
+      <Authors>Ashby MK</Authors>
+      <Authors>Mullineaux CW</Authors>Cyanobacterial ycf27 gene products regulate energy transfer from phycobilisomes to photosystems I and II.</Reference>
+    <Reference Journal="Mol Microbiol 43:247-56 (2002)" PMID="11849552">
+      <Authors>Lopez-Maury L</Authors>
+      <Authors>Garcia-Dominguez M</Authors>
+      <Authors>Florencio FJ</Authors>
+      <Authors>Reyes JC</Authors>A two-component signal transduction system involved in nickel sensing in the cyanobacterium Synechocystis sp. PCC 6803.</Reference>
+    <Reference Journal="J Bacteriol 189:5495-503 (2007)" PMID="17526710">
+      <Authors>Glover RT</Authors>
+      <Authors>Kriakov J</Authors>
+      <Authors>Garforth SJ</Authors>
+      <Authors>Baughn AD</Authors>
+      <Authors>Jacobs WR Jr</Authors>The two-component regulatory system senX3-regX3 regulates phosphate-dependent gene expression in Mycobacterium smegmatis.</Reference>
+    <Reference Journal="J Bacteriol 186:3882-8 (2004)" PMID="15175302">
+      <Authors>Hsiao HY</Authors>
+      <Authors>He Q</Authors>
+      <Authors>Van Waasbergen LG</Authors>
+      <Authors>Grossman AR</Authors>Control of photosynthetic and high-light-responsive genes by the histidine kinase DspA: negative and positive regulation and interactions between signal transduction pathways.</Reference>
+    <Reference Journal="J Biol Chem 278:19102-10 (2003)" PMID="12626498">
+      <Authors>Mutsuda M</Authors>
+      <Authors>Michel KP</Authors>
+      <Authors>Zhang X</Authors>
+      <Authors>Montgomery BL</Authors>
+      <Authors>Golden SS</Authors>Biochemical properties of CikA, an unusual phytochrome-like histidine protein kinase that resets the circadian clock in Synechococcus elongatus PCC 7942.</Reference>
+    <Reference Journal="Science 277:1505-8 (1997)" PMID="9278513">
+      <Authors>Yeh KC</Authors>
+      <Authors>Wu SH</Authors>
+      <Authors>Murphy JT</Authors>
+      <Authors>Lagarias JC</Authors>A cyanobacterial phytochrome two-component light sensory system.</Reference>
+    <Reference Journal="J Bacteriol 177:4297-302 (1995)" PMID="7635815">
+      <Authors>Niu S</Authors>
+      <Authors>Jiang SQ</Authors>
+      <Authors>Hong J</Authors>Salmonella typhimurium pgtB mutants conferring constitutive expression of phosphoglycerate transporter pgtP independent of pgtC.</Reference>
+    <Reference Journal="Proc Natl Acad Sci U S A 103:12109-14 (2006)" PMID="16882723">
+      <Authors>Takai N</Authors>
+      <Authors>Nakajima M</Authors>
+      <Authors>Oyama T</Authors>
+      <Authors>Kito R</Authors>
+      <Authors>Sugita C</Authors>
+      <Authors>Sugita M</Authors>
+      <Authors>Kondo T</Authors>
+      <Authors>Iwasaki H</Authors>A KaiC-associating SasA-RpaA two-component regulatory system as a major circadian timing mediator in cyanobacteria.</Reference>
+    <Reference Journal="Biochim Biophys Acta 1553:39-56 (2002)" PMID="11803016">
+      <Authors>Janausch IG</Authors>
+      <Authors>Zientz E</Authors>
+      <Authors>Tran QH</Authors>
+      <Authors>Kroger A</Authors>
+      <Authors>Unden G</Authors>C4-dicarboxylate carriers and sensors in bacteria.</Reference>
+    <Reference Journal="J Mol Biol 383:49-61 (2008)" PMID="18725229">
+      <Authors>Zhou YF</Authors>
+      <Authors>Nan B</Authors>
+      <Authors>Nan J</Authors>
+      <Authors>Ma Q</Authors>
+      <Authors>Panjikar S</Authors>
+      <Authors>Liang YH</Authors>
+      <Authors>Wang Y</Authors>
+      <Authors>Su XD</Authors>C4-dicarboxylates sensing mechanism revealed by the crystal structures of DctB sensor domain.</Reference>
+    <Reference Journal="Microbiology 149:2709-17 (2003)" PMID="14523104">
+      <Authors>Novick RP</Authors>
+      <Authors>Jiang D</Authors>The staphylococcal saeRS system coordinates environmental signals with agr quorum sensing.</Reference>
+    <Reference Journal="J Bacteriol 190:581-9 (2008)" PMID="17981963">
+      <Authors>Leech AJ</Authors>
+      <Authors>Sprinkle A</Authors>
+      <Authors>Wood L</Authors>
+      <Authors>Wozniak DJ</Authors>
+      <Authors>Ohman DE</Authors>The NtrC family regulator AlgB, which controls alginate biosynthesis in mucoid Pseudomonas aeruginosa, binds directly to the algD promoter.</Reference>
+    <Reference Journal="Cell 133:452-61 (2008)" PMID="18455986">
+      <Authors>Paul R</Authors>
+      <Authors>Jaeger T</Authors>
+      <Authors>Abel S</Authors>
+      <Authors>Wiederkehr I</Authors>
+      <Authors>Folcher M</Authors>
+      <Authors>Biondi EG</Authors>
+      <Authors>Laub MT</Authors>
+      <Authors>Jenal U</Authors>Allosteric regulation of histidine kinases by their cognate response regulator determines cell fate.</Reference>
+    <Reference Journal="Mol Microbiol 52:873-93 (2004)" PMID="15101991">
+      <Authors>Whitchurch CB</Authors>
+      <Authors>Leech AJ</Authors>
+      <Authors>Young MD</Authors>
+      <Authors>Kennedy D</Authors>
+      <Authors>Sargent JL</Authors>
+      <Authors>Bertrand JJ</Authors>
+      <Authors>Semmler AB</Authors>
+      <Authors>Mellick AS</Authors>
+      <Authors>Martin PR</Authors>
+      <Authors>Alm RA</Authors>
+      <Authors>Hobbs M</Authors>
+      <Authors>Beatson SA</Authors>
+      <Authors>Huang B</Authors>
+      <Authors>Nguyen L</Authors>
+      <Authors>Commolli JC</Authors>
+      <Authors>Engel JN</Authors>
+      <Authors>Darzins A</Authors>
+      <Authors>Mattick JS.</Authors>Characterization of a complex chemosensory signal transduction system which controls twitching motility in Pseudomonas aeruginosa.</Reference>
+    <Reference Journal="Photochem Photobiol Sci 3:512-8 (2004)" PMID="15170479">
+      <Authors>Yoshihara S</Authors>
+      <Authors>Ikeuchi M.</Authors>Phototactic motility in the unicellular cyanobacterium Synechocystis sp. PCC 6803.</Reference>
+    <Reference Journal="J Biol Chem 277:28981-6 (2002)" PMID="12039966">
+      <Authors>Ogawa T</Authors>
+      <Authors>Bao DH</Authors>
+      <Authors>Katoh H</Authors>
+      <Authors>Shibata M</Authors>
+      <Authors>Pakrasi HB</Authors>
+      <Authors>Bhattacharyya-Pakrasi M</Authors>A two-component signal transduction pathway regulates manganese homeostasis in Synechocystis 6803, a photosynthetic organism.</Reference>
+    <Reference Journal="Plant Cell 14:2901-13 (2002)" PMID="12417709">
+      <Authors>Yamaguchi K</Authors>
+      <Authors>Suzuki I</Authors>
+      <Authors>Yamamoto H</Authors>
+      <Authors>Lyukevich A</Authors>
+      <Authors>Bodrova I</Authors>
+      <Authors>Los DA</Authors>
+      <Authors>Piven I</Authors>
+      <Authors>Zinchenko V</Authors>
+      <Authors>Kanehisa M</Authors>
+      <Authors>Murata N</Authors>A two-component Mn2+-sensing system negatively regulates expression of the mntCAB operon in Synechocystis.</Reference>
+    <Reference Journal="Antimicrob Agents Chemother 48:2888-96 (2004)" PMID="15273097">
+      <Authors>Mascher T</Authors>
+      <Authors>Zimmer SL</Authors>
+      <Authors>Smith TA</Authors>
+      <Authors>Helmann JD</Authors>Antibiotic-inducible promoter regulated by the cell envelope stress-sensing two-component system LiaRS of Bacillus subtilis.</Reference>
+    <Reference Journal="Appl Microbiol Biotechnol 67:389-96 (2005)" PMID="15856219">
+      <Authors>Hyyrylainen HL</Authors>
+      <Authors>Sarvas M</Authors>
+      <Authors>Kontinen VP</Authors>Transcriptome analysis of the secretion stress response of Bacillus subtilis.</Reference>
+    <Reference Journal="Microbiology 151:1769-78 (2005)" PMID="15941986">
+      <Authors>Serizawa M</Authors>
+      <Authors>Sekiguchi J</Authors>The Bacillus subtilis YdfHI two-component system regulates the transcription of ydfJ, a member of the RND superfamily.</Reference>
+    <Reference Journal="Mol Microbiol 49:1135-44 (2003)" PMID="12890034">
+      <Authors>Ohki R</Authors>
+      <Authors>Giyanto</Authors>
+      <Authors>Tateno K</Authors>
+      <Authors>Masuyama W</Authors>
+      <Authors>Moriya S</Authors>
+      <Authors>Kobayashi K</Authors>
+      <Authors>Ogasawara N</Authors>The BceRS two-component regulatory system induces expression of the bacitracin transporter, BceAB, in Bacillus subtilis.</Reference>
+    <Reference Journal="Microbiology 153:667-75 (2007)" PMID="17322186">
+      <Authors>Ogura M</Authors>
+      <Authors>Tsukahara K</Authors>
+      <Authors>Hayashi K</Authors>
+      <Authors>Tanaka T</Authors>The Bacillus subtilis NatK-NatR two-component system regulates expression of the natAB operon encoding an ABC transporter for sodium ion extrusion.</Reference>
+    <Reference Journal="Mol Microbiol 37:898-912 (2000)" PMID="10972810">
+      <Authors>Yamamoto H</Authors>
+      <Authors>Murata M</Authors>
+      <Authors>Sekiguchi J</Authors>The CitST two-component system regulates the expression of the Mg-citrate transporter in Bacillus subtilis.</Reference>
+    <Reference Journal="J Bacteriol 187:4813-21 (2005)" PMID="15995196">
+      <Authors>Satomura T</Authors>
+      <Authors>Shimura D</Authors>
+      <Authors>Asai K</Authors>
+      <Authors>Sadaie Y</Authors>
+      <Authors>Hirooka K</Authors>
+      <Authors>Fujita Y</Authors>Enhancement of glutamine utilization in Bacillus subtilis through the GlnK-GlnL two-component regulatory system.</Reference>
+    <Reference Journal="Microbiology 149:2331-43 (2003)" PMID="12949160">
+      <Authors>Doan T</Authors>
+      <Authors>Servant P</Authors>
+      <Authors>Tojo S</Authors>
+      <Authors>Yamaguchi H</Authors>
+      <Authors>Lerondel G</Authors>
+      <Authors>Yoshida K</Authors>
+      <Authors>Fujita Y</Authors>
+      <Authors>Aymerich S</Authors>The Bacillus subtilis ywkA gene encodes a malic enzyme and its transcription is activated by the YufL/YufM two-component system in response to malate.</Reference>
+    <Reference Journal="Microbiology 149:2317-29 (2003)" PMID="12949159">
+      <Authors>Tanaka K</Authors>
+      <Authors>Kobayashi K</Authors>
+      <Authors>Ogasawara N</Authors>The Bacillus subtilis YufLM two-component system regulates the expression of the malate transporters MaeN (YufR) and YflS, and is essential for utilization of malate in minimal medium.</Reference>
+    <Reference Journal="Microbiology 146 ( Pt 2):263-71 (2000)" PMID="10708364">
+      <Authors>Asai K</Authors>
+      <Authors>Baik SH</Authors>
+      <Authors>Kasahara Y</Authors>
+      <Authors>Moriya S</Authors>
+      <Authors>Ogasawara N</Authors>Regulation of the transport system for C4-dicarboxylic acids in Bacillus subtilis.</Reference>
+    <Reference Journal="Mol Gen Genet 237:215-24 (1993)" PMID="8455557">
+      <Authors>Hamblin MJ</Authors>
+      <Authors>Shaw JG</Authors>
+      <Authors>Kelly DJ</Authors>Sequence analysis and interposon mutagenesis of a sensor-kinase (DctS) and response-regulator (DctR) controlling synthesis of the high-affinity C4-dicarboxylate transport system in Rhodobacter capsulatus.</Reference>
+    <Reference Journal="J Bacteriol 179:5482-93 (1997)" PMID="9287004">
+      <Authors>Forward JA</Authors>
+      <Authors>Behrendt MC</Authors>
+      <Authors>Wyborn NR</Authors>
+      <Authors>Cross R</Authors>
+      <Authors>Kelly DJ</Authors>TRAP transporters: a new family of periplasmic solute transport systems encoded by the dctPQM genes of Rhodobacter capsulatus and by homologs in diverse gram-negative bacteria.</Reference>
+    <Reference Journal="Trends Microbiol 14:339-45 (2006)" PMID="16820295">
+      <Authors>Martin B</Authors>
+      <Authors>Quentin Y</Authors>
+      <Authors>Fichant G</Authors>
+      <Authors>Claverys JP</Authors>Independent evolution of competence regulatory cascades in streptococci?</Reference>
+    <Reference Journal="Mol Microbiol 32:275-87 (1999)" PMID="10231485">
+      <Authors>Hensel M</Authors>
+      <Authors>Hinsley AP</Authors>
+      <Authors>Nikolaus T</Authors>
+      <Authors>Sawers G</Authors>
+      <Authors>Berks BC</Authors>The genetic basis of tetrathionate respiration in Salmonella typhimurium.</Reference>
+    <Reference Journal="Mol Microbiol 66:1459-73 (2007)" PMID="18028314">
+      <Authors>Guvener ZT</Authors>
+      <Authors>Harwood CS</Authors>Subcellular location characteristics of the Pseudomonas aeruginosa GGDEF protein, WspR, indicate that it produces cyclic-di-GMP in response to growth on surfaces.</Reference>
+    <Reference Journal="Genetics 176:441-53 (2007)" PMID="17339222">
+      <Authors>Bantinaki E</Authors>
+      <Authors>Kassen R</Authors>
+      <Authors>Knight CG</Authors>
+      <Authors>Robinson Z</Authors>
+      <Authors>Spiers AJ</Authors>
+      <Authors>Rainey PB</Authors>Adaptive divergence in experimental populations of Pseudomonas fluorescens. III.  Mutational origins of wrinkly spreader diversity.</Reference>
+    <Reference Journal="Mol Microbiol 38:535-42 (2000)" PMID="11069677">
+      <Authors>Jiang M</Authors>
+      <Authors>Shao W</Authors>
+      <Authors>Perego M</Authors>
+      <Authors>Hoch JA</Authors>Multiple histidine kinases regulate entry into stationary phase and sporulation in Bacillus subtilis.</Reference>
+    <Reference Journal="Res Microbiol 160:687-95 (2009)" PMID="19781638">
+      <Authors>Jenal U</Authors>The role of proteolysis in the Caulobacter crescentus cell cycle and development.</Reference>
+    <Reference Journal="Curr Opin Microbiol 12:152-60 (2009)" PMID="19246239">
+      <Authors>Jenal U</Authors>
+      <Authors>Galperin MY</Authors>Single domain response regulators: molecular switches with emerging roles in cell organization and dynamics.</Reference>
+    <Reference Journal="FEMS Microbiol Lett 258:250-6 (2006)" PMID="16640581">
+      <Authors>Drepper T</Authors>
+      <Authors>Wiethaus J</Authors>
+      <Authors>Giaourakis D</Authors>
+      <Authors>Gross S</Authors>
+      <Authors>Schubert B</Authors>
+      <Authors>Vogt M</Authors>
+      <Authors>Wiencek Y</Authors>
+      <Authors>McEwan AG</Authors>
+      <Authors>Masepohl B</Authors>Cross-talk towards the response regulator NtrC controlling nitrogen metabolism in Rhodobacter capsulatus.</Reference>
+    <Reference Journal="Mol Gen Genet 231:124-38 (1991)" PMID="1661370">
+      <Authors>Pawlowski K</Authors>
+      <Authors>Klosse U</Authors>
+      <Authors>de Bruijn FJ</Authors>Characterization of a novel Azorhizobium caulinodans ORS571 two-component regulatory system, NtrY/NtrX, involved in nitrogen fixation and metabolism.</Reference>
+    <Reference Journal="Annu Rev Phytopathol 46:243-71 (2008)" PMID="18422428">
+      <Authors>Chatterjee S</Authors>
+      <Authors>Almeida RP</Authors>
+      <Authors>Lindow S</Authors>Living in two worlds: the plant and insect lifestyles of Xylella fastidiosa.</Reference>
+    <Reference Journal="Sci Signal 1:pe23 (2008)" PMID="18506032">
+      <Authors>Dow M</Authors>Diversification of the function of cell-to-cell signaling in regulation of virulence within plant pathogenic xanthomonads.</Reference>
+    <Reference Journal="J Mass Spectrom 42:1375-81 (2007)" PMID="17902112">
+      <Authors>Colnaghi Simionato AV</Authors>
+      <Authors>da Silva DS</Authors>
+      <Authors>Lambais MR</Authors>
+      <Authors>Carrilho E</Authors>Characterization of a putative Xylella fastidiosa diffusible signal factor by HRGC-EI-MS.</Reference>
+    <Reference Journal="Adv Appl Microbiol 66:53-75 (2009)" PMID="19203648">
+      <Authors>Miller LD</Authors>
+      <Authors>Russell MH</Authors>
+      <Authors>Alexandre G</Authors>Diversity in bacterial chemotactic responses and niche adaptation.</Reference>
+    <Reference Journal="Microbiology 142 ( Pt 8):2041-7 (1996)" PMID="8760916">
+      <Authors>Eder S</Authors>
+      <Authors>Shi L</Authors>
+      <Authors>Jensen K</Authors>
+      <Authors>Yamane K</Authors>
+      <Authors>Hulett FM</Authors>A Bacillus subtilis secreted phosphodiesterase/alkaline phosphatase is the product of a Pho regulon gene, phoD.</Reference>
+  </References>
+</KEGG.PathwayBrief>

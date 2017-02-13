@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00500" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Starch and sucrose metabolism - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound>
+    <hashEntry Key="C00029" Value="UDP-glucose" />
+    <hashEntry Key="C00031" Value="D-Glucose" />
+    <hashEntry Key="C00085" Value="D-Fructose 6-phosphate" />
+    <hashEntry Key="C00089" Value="Sucrose" />
+    <hashEntry Key="C00092" Value="D-Glucose 6-phosphate" />
+    <hashEntry Key="C00095" Value="D-Fructose" />
+    <hashEntry Key="C00103" Value="D-Glucose 1-phosphate" />
+    <hashEntry Key="C00185" Value="Cellobiose" />
+    <hashEntry Key="C00208" Value="Maltose" />
+    <hashEntry Key="C00252" Value="Isomaltose" />
+    <hashEntry Key="C00369" Value="Starch" />
+    <hashEntry Key="C00372" Value="Dextran" />
+    <hashEntry Key="C00394" Value="GDP-glucose" />
+    <hashEntry Key="C00498" Value="ADP-glucose" />
+    <hashEntry Key="C00501" Value="CDP-glucose" />
+    <hashEntry Key="C00663" Value="beta-D-Glucose 1-phosphate" />
+    <hashEntry Key="C00689" Value="alpha,alpha'-Trehalose 6-phosphate" />
+    <hashEntry Key="C00718" Value="Amylose" />
+    <hashEntry Key="C00721" Value="Dextrin" />
+    <hashEntry Key="C00760" Value="Cellulose" />
+    <hashEntry Key="C00963" Value="beta-D-Glucoside" />
+    <hashEntry Key="C00965" Value="1,3-beta-D-Glucan" />
+    <hashEntry Key="C00973" Value="Cyclomaltodextrin" />
+    <hashEntry Key="C01083" Value="alpha,alpha-Trehalose" />
+    <hashEntry Key="C01231" Value="alpha-D-Glucose 1,6-bisphosphate" />
+    <hashEntry Key="C01725" Value="Levanbiose" />
+    <hashEntry Key="C01898" Value="Cellodextrin" />
+    <hashEntry Key="C01935" Value="Maltodextrin" />
+    <hashEntry Key="C02591" Value="Sucrose 6'-phosphate" />
+    <hashEntry Key="C02995" Value="Maltose 6'-phosphate" />
+    <hashEntry Key="C03323" Value="(2,1-beta-D-Fructosyl)n" />
+    <hashEntry Key="C04534" Value="6-Phospho-beta-D-glucosyl-(1,4)-D-glucose" />
+    <hashEntry Key="C05731" Value="3-Ketosucrose" />
+    <hashEntry Key="C06215" Value="Levan" />
+    <hashEntry Key="C06400" Value="1-alpha-D-[(1-&gt;4)-alpha-D-Glucosyl](n-1)-alpha-D-glucopyranoside" />
+    <hashEntry Key="C16688" Value="Sucrose 6-phosphate" />
+    <hashEntry Key="C20237" Value="alpha-Maltose 1-phosphate" />
+  </Compound>
+  <PathwayMap Key="xcb00500" Value="Starch and sucrose metabolism" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0026" Value="K01179 endoglucanase [EC:3.2.1.4] | (GenBank) cellulase" />
+    <hashEntry Key="xcb:XC_0027" Value="K01179 endoglucanase [EC:3.2.1.4] | (GenBank) cellulase" />
+    <hashEntry Key="xcb:XC_0028" Value="K01179 endoglucanase [EC:3.2.1.4] | (GenBank) cellulase" />
+    <hashEntry Key="xcb:XC_0141" Value="K16147 starch synthase (maltosyl-transferring) [EC:2.4.99.16] | (GenBank) alpha-amylase" />
+    <hashEntry Key="xcb:XC_0142" Value="K05343 maltose alpha-D-glucosyltransferase / alpha-amylase [EC:5.4.99.16 3.2.1.1] | (GenBank) trehal" />
+    <hashEntry Key="xcb:XC_0143" Value="K00700 1,4-alpha-glucan branching enzyme [EC:2.4.1.18] | (GenBank) 1,4-alpha-glucan branching enzyme" />
+    <hashEntry Key="xcb:XC_0421" Value="K00703 starch synthase [EC:2.4.1.21] | (GenBank) glycogen synthase" />
+    <hashEntry Key="xcb:XC_0422" Value="K00700 1,4-alpha-glucan branching enzyme [EC:2.4.1.18] | (GenBank) 1,4-alpha-glucan branching enzyme" />
+    <hashEntry Key="xcb:XC_0423" Value="K01236 maltooligosyltrehalose trehalohydrolase [EC:3.2.1.141] | (GenBank) maltooligosyltrehalose tre" />
+    <hashEntry Key="xcb:XC_0424" Value="K00705 4-alpha-glucanotransferase [EC:2.4.1.25] | (GenBank) 4-alpha-glucanotransferase" />
+    <hashEntry Key="xcb:XC_0425" Value="K06044 (1-&amp;gt;4)-alpha-D-glucan 1-alpha-D-glucosylmutase [EC:5.4.99.15] | (GenBank) maltooligosyltrehal" />
+    <hashEntry Key="xcb:XC_0427" Value="K01214 isoamylase [EC:3.2.1.68] | (GenBank) glycogen debranching enzyme" />
+    <hashEntry Key="xcb:XC_0626" Value="K19668 cellulose 1,4-beta-cellobiosidase [EC:3.2.1.91] | (GenBank) 1,4-beta-cellobiosidase" />
+    <hashEntry Key="xcb:XC_0631" Value="K01194 alpha,alpha-trehalase [EC:3.2.1.28] | (GenBank) periplasmic trehalase" />
+    <hashEntry Key="xcb:XC_0639" Value="K01179 endoglucanase [EC:3.2.1.4] | (GenBank) cellulase" />
+    <hashEntry Key="xcb:XC_0805" Value="K05341 amylosucrase [EC:2.4.1.4] | (GenBank) amylosucrase or alpha amylase" />
+    <hashEntry Key="xcb:XC_1002" Value="K01187 alpha-glucosidase [EC:3.2.1.20] | (GenBank) alpha-glucosidase" />
+    <hashEntry Key="xcb:XC_1005" Value="K19668 cellulose 1,4-beta-cellobiosidase [EC:3.2.1.91] | (GenBank) 1,4-beta-cellobiosidase" />
+    <hashEntry Key="xcb:XC_1047" Value="K01214 isoamylase [EC:3.2.1.68] | (GenBank) glycogen debranching enzyme" />
+    <hashEntry Key="xcb:XC_1076" Value="K00697 trehalose 6-phosphate synthase [EC:2.4.1.15] | (GenBank) trehalose-6-phosphate synthase" />
+    <hashEntry Key="xcb:XC_1078" Value="K01087 trehalose 6-phosphate phosphatase [EC:3.1.3.12] | (GenBank) trehalose-6-phosphate phosphatase" />
+    <hashEntry Key="xcb:XC_1166" Value="K00845 glucokinase [EC:2.7.1.2] | (GenBank) glucose kinase" />
+    <hashEntry Key="xcb:XC_1217" Value="K05349 beta-glucosidase [EC:3.2.1.21] | (GenBank) glucan 1,4-beta-glucosidase" />
+    <hashEntry Key="xcb:XC_1223" Value="K00845 glucokinase [EC:2.7.1.2] | (GenBank) glucose kinase" />
+    <hashEntry Key="xcb:XC_1642" Value="K01187 alpha-glucosidase [EC:3.2.1.20] | (GenBank) alpha-glucosidase" />
+    <hashEntry Key="xcb:XC_1645" Value="K01187 alpha-glucosidase [EC:3.2.1.20] | (GenBank) alpha-glucosidase" />
+    <hashEntry Key="xcb:XC_1648" Value="K00701 cyclomaltodextrin glucanotransferase [EC:2.4.1.19] | (GenBank) cyclomaltodextrin glucanotrans" />
+    <hashEntry Key="xcb:XC_1727" Value="K01179 endoglucanase [EC:3.2.1.4] | (GenBank) cellulase" />
+    <hashEntry Key="xcb:XC_1930" Value="K00963 UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9] | (GenBank) UTP-glucose-1-phosphate" />
+    <hashEntry Key="xcb:XC_1976" Value="K00845 glucokinase [EC:2.7.1.2] | (GenBank) glucose kinase" />
+    <hashEntry Key="xcb:XC_2169" Value="K00978 glucose-1-phosphate cytidylyltransferase [EC:2.7.7.33] | (GenBank) glucose-1-phosphate cytidy" />
+    <hashEntry Key="xcb:XC_2461" Value="K05349 beta-glucosidase [EC:3.2.1.21] | (GenBank) glucan 1,4-beta-glucosidase" />
+    <hashEntry Key="xcb:XC_2465" Value="K01810 glucose-6-phosphate isomerase [EC:5.3.1.9] | (GenBank) glucose-6-phosphate isomerase" />
+    <hashEntry Key="xcb:XC_2727" Value="K00847 fructokinase [EC:2.7.1.4] | (GenBank) fructokinase" />
+    <hashEntry Key="xcb:XC_2834" Value="K05349 beta-glucosidase [EC:3.2.1.21] | (GenBank) beta-glucosidase" />
+    <hashEntry Key="xcb:XC_3159" Value="K05349 beta-glucosidase [EC:3.2.1.21] | (GenBank) periplasmic beta-glucosidase" />
+    <hashEntry Key="xcb:XC_3487" Value="K01176 alpha-amylase [EC:3.2.1.1] | (GenBank) alpha-amylase" />
+    <hashEntry Key="xcb:XC_3608" Value="K15778 phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2] | (GenBank) phosphoglucomutase;" />
+    <hashEntry Key="xcb:XC_3886" Value="K05349 beta-glucosidase [EC:3.2.1.21] | (GenBank) beta-glucosidase" />
+    <hashEntry Key="xcb:XC_3941" Value="K15778 phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2] | (GenBank) phosphomannomutase" />
+    <hashEntry Key="xcb:XC_4197" Value="K05349 beta-glucosidase [EC:3.2.1.21] | (GenBank) glucan 1,4-beta-glucosidase" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00500" Value="" />
+  </KOpathway>
+  <References />
+</KEGG.PathwayBrief>

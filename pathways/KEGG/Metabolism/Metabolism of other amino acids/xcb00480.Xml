@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00480" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Glutathione metabolism - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00118" Value="Glutathione biosynthesis, glutamate =&gt; glutathione [PATH:xcb00480]" />
+  </Modules>
+  <Compound>
+    <hashEntry Key="C00005" Value="NADPH" />
+    <hashEntry Key="C00006" Value="NADP+" />
+    <hashEntry Key="C00024" Value="Acetyl-CoA" />
+    <hashEntry Key="C00025" Value="L-Glutamate" />
+    <hashEntry Key="C00037" Value="Glycine" />
+    <hashEntry Key="C00051" Value="Glutathione" />
+    <hashEntry Key="C00072" Value="Ascorbate" />
+    <hashEntry Key="C00077" Value="L-Ornithine" />
+    <hashEntry Key="C00097" Value="L-Cysteine" />
+    <hashEntry Key="C00127" Value="Glutathione disulfide" />
+    <hashEntry Key="C00134" Value="Putrescine" />
+    <hashEntry Key="C00151" Value="L-Amino acid" />
+    <hashEntry Key="C00315" Value="Spermidine" />
+    <hashEntry Key="C00669" Value="gamma-L-Glutamyl-L-cysteine" />
+    <hashEntry Key="C00750" Value="Spermine" />
+    <hashEntry Key="C01322" Value="RX" />
+    <hashEntry Key="C01419" Value="Cys-Gly" />
+    <hashEntry Key="C01672" Value="Cadaverine" />
+    <hashEntry Key="C01879" Value="Pidolic acid" />
+    <hashEntry Key="C02090" Value="Trypanothione" />
+    <hashEntry Key="C02320" Value="R-S-Glutathione" />
+    <hashEntry Key="C03170" Value="Trypanothione disulfide" />
+    <hashEntry Key="C03646" Value="Bis-gamma-glutamylcystine" />
+    <hashEntry Key="C03740" Value="(5-L-Glutamyl)-L-amino acid" />
+    <hashEntry Key="C05422" Value="Dehydroascorbate" />
+    <hashEntry Key="C05726" Value="S-Substituted L-cysteine" />
+    <hashEntry Key="C05727" Value="S-Substituted N-acetyl-L-cysteine" />
+    <hashEntry Key="C05729" Value="R-S-Cysteinylglycine" />
+    <hashEntry Key="C05730" Value="Glutathionylspermidine" />
+    <hashEntry Key="C16562" Value="Glutathionylspermine" />
+    <hashEntry Key="C16563" Value="Bis(glutathionyl)spermine" />
+    <hashEntry Key="C16564" Value="Bis(glutathionyl)spermine disulfide" />
+    <hashEntry Key="C16565" Value="Aminopropylcadaverine" />
+    <hashEntry Key="C16566" Value="Glutathionylaminopropylcadaverine" />
+    <hashEntry Key="C16567" Value="Homotrypanothione" />
+    <hashEntry Key="C16568" Value="Homotrypanothione disulfide" />
+    <hashEntry Key="C16663" Value="Tryparedoxin" />
+    <hashEntry Key="C16664" Value="Tryparedoxin disulfide" />
+  </Compound>
+  <PathwayMap Key="xcb00480" Value="Glutathione metabolism" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0301" Value="K00681 gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13] | (GenBank) gamma" />
+    <hashEntry Key="xcb:XC_0725" Value="K00033 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343] | (GenBank) 6-phosphogluconate dehyd" />
+    <hashEntry Key="xcb:XC_0768" Value="K01919 glutamate--cysteine ligase [EC:6.3.2.2] | (GenBank) glutamate-cysteine ligase precursor" />
+    <hashEntry Key="xcb:XC_0842" Value="K00681 gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13] | (GenBank) gamma" />
+    <hashEntry Key="xcb:XC_1085" Value="K00799 glutathione S-transferase [EC:2.5.1.18] | (GenBank) glutathione transferase" />
+    <hashEntry Key="xcb:XC_1182" Value="K01920 glutathione synthase [EC:6.3.2.3] | (GenBank) glutathione synthetase" />
+    <hashEntry Key="xcb:XC_1539" Value="K00383 glutathione reductase (NADPH) [EC:1.8.1.7] | (GenBank) reductase" />
+    <hashEntry Key="xcb:XC_1726" Value="K00681 gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13] | (GenBank) gamma" />
+    <hashEntry Key="xcb:XC_1789" Value="K00799 glutathione S-transferase [EC:2.5.1.18] | (GenBank) glutathione S-transferase" />
+    <hashEntry Key="xcb:XC_1829" Value="K00799 glutathione S-transferase [EC:2.5.1.18] | (GenBank) glutathione S-transferase" />
+    <hashEntry Key="xcb:XC_1977" Value="K00036 glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363] | (GenBank) glucose-6-phosphate 1" />
+    <hashEntry Key="xcb:XC_2735" Value="K00432 glutathione peroxidase [EC:1.11.1.9] | (GenBank) ABC transporter vitamin B12 uptake permease" />
+    <hashEntry Key="xcb:XC_2807" Value="K00799 glutathione S-transferase [EC:2.5.1.18] | (GenBank) glutathione S-transferase" />
+    <hashEntry Key="xcb:XC_2820" Value="K00799 glutathione S-transferase [EC:2.5.1.18] | (GenBank) glutathione S-transferase" />
+    <hashEntry Key="xcb:XC_2825" Value="K00432 glutathione peroxidase [EC:1.11.1.9] | (GenBank) glutathione peroxidase-like protein" />
+    <hashEntry Key="xcb:XC_3192" Value="K01256 aminopeptidase N [EC:3.4.11.2] | (GenBank) aminopeptidase N" />
+    <hashEntry Key="xcb:XC_3306" Value="K00799 glutathione S-transferase [EC:2.5.1.18] | (GenBank) glutathione S-transferase" />
+    <hashEntry Key="xcb:XC_3408" Value="K00799 glutathione S-transferase [EC:2.5.1.18] | (GenBank) glutathione S-transferase" />
+    <hashEntry Key="xcb:XC_3585" Value="K01255 leucyl aminopeptidase [EC:3.4.11.1] | (GenBank) aminopeptidase A/I" />
+    <hashEntry Key="xcb:XC_3837" Value="K00799 glutathione S-transferase [EC:2.5.1.18] | (GenBank) glutathione S-transferase" />
+    <hashEntry Key="xcb:XC_3854" Value="K00031 isocitrate dehydrogenase [EC:1.1.1.42] | (GenBank) isocitrate dehydrogenase" />
+    <hashEntry Key="xcb:XC_3954" Value="K00797 spermidine synthase [EC:2.5.1.16] | (GenBank) spermidine synthase" />
+    <hashEntry Key="xcb:XC_3992" Value="K01255 leucyl aminopeptidase [EC:3.4.11.1] | (GenBank) leucine aminopeptidase" />
+    <hashEntry Key="xcb:XC_4082" Value="K00036 glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363] | (GenBank) glucose-6-phosphate 1" />
+    <hashEntry Key="xcb:XC_4302" Value="K00432 glutathione peroxidase [EC:1.11.1.9] | (GenBank) glutathione peroxidase" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00480" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Biol Chem 384:213-8 (2003)" PMID="12675513">
+      <Authors>Josch C</Authors>
+      <Authors>Klotz LO</Authors>
+      <Authors>Sies H.</Authors>Identification of cytosolic leucyl aminopeptidase (EC 3.4.11.1) as the major cysteinylglycine-hydrolysing activity in rat liver.</Reference>
+    <Reference Journal="J Biol Chem 283:19351-8 (2008)" PMID="18482986">
+      <Authors>Chu L</Authors>
+      <Authors>Lai Y</Authors>
+      <Authors>Xu X</Authors>
+      <Authors>Eddy S</Authors>
+      <Authors>Yang S</Authors>
+      <Authors>Song L</Authors>
+      <Authors>Kolodrubetz D.</Authors>A 52-kDa leucyl aminopeptidase from treponema denticola is a cysteinylglycinase that mediates the second step of glutathione metabolism.</Reference>
+    <Reference Journal="Biochem J 378:35-44 (2004)" PMID="14583094">
+      <Authors>Cappiello M</Authors>
+      <Authors>Lazzarotti A</Authors>
+      <Authors>Buono F</Authors>
+      <Authors>Scaloni A</Authors>
+      <Authors>D'Ambrosio C</Authors>
+      <Authors>Amodeo P</Authors>
+      <Authors>Mendez BL</Authors>
+      <Authors>Pelosi P</Authors>
+      <Authors>Del Corso A</Authors>
+      <Authors>Mura U.</Authors>New role for leucyl aminopeptidase in glutathione turnover.</Reference>
+    <Reference Journal="J Bacteriol 183:1489-90 (2001)" PMID="11157967">
+      <Authors>Suzuki H</Authors>
+      <Authors>Kamatani S</Authors>
+      <Authors>Kim ES</Authors>
+      <Authors>Kumagai H.</Authors>Aminopeptidases A, B, and N and dipeptidase D are the four cysteinylglycinases of Escherichia coli K-12.</Reference>
+    <Reference Journal="Mol Biochem Parasitol 139:107-16 (2005)" PMID="15610825">
+      <Authors>Oza SL</Authors>
+      <Authors>Shaw MP</Authors>
+      <Authors>Wyllie S</Authors>
+      <Authors>Fairlamb AH.</Authors>Trypanothione biosynthesis in Leishmania major.</Reference>
+    <Reference Journal="Biochem J 364:679-86 (2002)" PMID="12049631">
+      <Authors>Oza SL</Authors>
+      <Authors>Ariyanayagam MR</Authors>
+      <Authors>Fairlamb AH.</Authors>Characterization of recombinant glutathionylspermidine synthetase/amidase from Crithidia fasciculata.</Reference>
+    <Reference Journal="J Biol Chem 273:19383-90 (1998)" PMID="9677355">
+      <Authors>Tetaud E</Authors>
+      <Authors>Manai F</Authors>
+      <Authors>Barrett MP</Authors>
+      <Authors>Nadeau K</Authors>
+      <Authors>Walsh CT</Authors>
+      <Authors>Fairlamb AH.</Authors>Cloning and characterization of the two enzymes responsible for trypanothione biosynthesis in Crithidia fasciculata.</Reference>
+    <Reference Journal="J Biol Chem 278:27612-9 (2003)" PMID="12750367">
+      <Authors>Ariyanayagam MR</Authors>
+      <Authors>Oza SL</Authors>
+      <Authors>Mehlert A</Authors>
+      <Authors>Fairlamb AH.</Authors>Bis(glutathionyl)spermine and other novel trypanothione analogues in Trypanosoma cruzi.</Reference>
+    <Reference Journal="Mol Biochem Parasitol 131:25-33 (2003)" PMID="12967709">
+      <Authors>Oza SL</Authors>
+      <Authors>Ariyanayagam MR</Authors>
+      <Authors>Aitcheson N</Authors>
+      <Authors>Fairlamb AH.</Authors>Properties of trypanothione synthetase from Trypanosoma brucei.</Reference>
+    <Reference Journal="J Biol Chem 277:35853-61 (2002)" PMID="12121990">
+      <Authors>Oza SL</Authors>
+      <Authors>Tetaud E</Authors>
+      <Authors>Ariyanayagam MR</Authors>
+      <Authors>Warnon SS</Authors>
+      <Authors>Fairlamb AH.</Authors>A single enzyme catalyses formation of Trypanothione from glutathione and spermidine in Trypanosoma cruzi.</Reference>
+    <Reference Journal="J Biol Chem 280:6850-60 (2005)" PMID="15537651">
+      <Authors>Comini M</Authors>
+      <Authors>Menge U</Authors>
+      <Authors>Wissing J</Authors>
+      <Authors>Flohe L.</Authors>Trypanothione synthesis in crithidia revisited.</Reference>
+    <Reference Journal="Eur J Biochem 226:1019-27 (1994)" PMID="7813456">
+      <Authors>Hunter KJ</Authors>
+      <Authors>Le Quesne SA</Authors>
+      <Authors>Fairlamb AH.</Authors>Identification and biosynthesis of N1,N9-bis(glutathionyl)aminopropylcadaverine (homotrypanothione) in Trypanosoma cruzi.</Reference>
+    <Reference Journal="Biol Chem 384:539-49 (2003)" PMID="12751784">
+      <Authors>Krauth-Siegel RL</Authors>
+      <Authors>Meiering SK</Authors>
+      <Authors>Schmidt H.</Authors>The parasite-specific trypanothione metabolism of trypanosoma and leishmania.</Reference>
+    <Reference Journal="Biochim Biophys Acta 1780:1236-48 (2008)" PMID="18395526">
+      <Authors>Krauth-Siegel RL</Authors>
+      <Authors>Comini MA.</Authors>Redox control in trypanosomatids, parasitic protozoa with trypanothione-based thiol metabolism.</Reference>
+    <Reference Journal="Mol Biochem Parasitol 80:203-8 (1996)" PMID="8892297">
+      <Authors>Krauth-Siegel RL</Authors>
+      <Authors>Ludemann H.</Authors>Reduction of dehydroascorbate by trypanothione.</Reference>
+    <Reference Journal="J Biol Chem 276:10602-6 (2001)" PMID="11150302">
+      <Authors>Dormeyer M</Authors>
+      <Authors>Reckenfelderbaumer N</Authors>
+      <Authors>Ludemann H</Authors>
+      <Authors>Krauth-Siegel RL.</Authors>Trypanothione-dependent synthesis of deoxyribonucleotides by Trypanosoma brucei ribonucleotide reductase.</Reference>
+    <Reference Journal="J Biol Chem 278:46329-36 (2003)" PMID="12949079">
+      <Authors>Schmidt H</Authors>
+      <Authors>Krauth-Siegel RL.</Authors>Functional and physicochemical characterization of the thioredoxin system in Trypanosoma brucei.</Reference>
+    <Reference Journal="Mol Biochem Parasitol 96:111-23 (1998)" PMID="9851611">
+      <Authors>Tetaud E</Authors>
+      <Authors>Fairlamb AH.</Authors>Cloning, expression and reconstitution of the trypanothione-dependent peroxidase system of Crithidia fasciculata.</Reference>
+    <Reference Journal="Free Radic Biol Med 33:1552-62 (2002)" PMID="12446213">
+      <Authors>Castro H</Authors>
+      <Authors>Sousa C</Authors>
+      <Authors>Santos M</Authors>
+      <Authors>Cordeiro-da-Silva A</Authors>
+      <Authors>Flohe L</Authors>
+      <Authors>Tomas AM.</Authors>Complementary antioxidant defense by cytoplasmic and mitochondrial peroxiredoxins in Leishmania infantum.</Reference>
+    <Reference Journal="J Biol Chem 275:8220-5 (2000)" PMID="10713147">
+      <Authors>Wilkinson SR</Authors>
+      <Authors>Temperton NJ</Authors>
+      <Authors>Mondragon A</Authors>
+      <Authors>Kelly JM.</Authors>Distinct mitochondrial and cytosolic enzymes mediate trypanothione-dependent peroxide metabolism in Trypanosoma cruzi.</Reference>
+    <Reference Journal="FEBS J 274:5643-58 (2007)" PMID="17922848">
+      <Authors>Konig J</Authors>
+      <Authors>Fairlamb AH.</Authors>A comparative study of type I and type II tryparedoxin peroxidases in Leishmania major.</Reference>
+    <Reference Journal="J Biol Chem 278:6809-15 (2003)" PMID="12466271">
+      <Authors>Hillebrand H</Authors>
+      <Authors>Schmidt A</Authors>
+      <Authors>Krauth-Siegel RL.</Authors>A second class of peroxidases linked to the trypanothione metabolism.</Reference>
+    <Reference Journal="Mol Microbiol 51:1401-12 (2004)" PMID="14982633">
+      <Authors>Soksawatmaekhin W</Authors>
+      <Authors>Kuraishi A</Authors>
+      <Authors>Sakata K</Authors>
+      <Authors>Kashiwagi K</Authors>
+      <Authors>Igarashi K.</Authors>Excretion and uptake of cadaverine by CadB and its physiological functions in Escherichia coli.</Reference>
+    <Reference Journal="Biochem J 197:315-20 (1981)" PMID="6798961">
+      <Authors>Pegg AE</Authors>
+      <Authors>Shuttleworth K</Authors>
+      <Authors>Hibasami H.</Authors>Specificity of mammalian spermidine synthase and spermine synthase.</Reference>
+  </References>
+</KEGG.PathwayBrief>

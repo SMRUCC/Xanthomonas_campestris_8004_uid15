@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00020" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description>The citrate cycle (TCA cycle, Krebs cycle) is an important aerobic pathway for the final steps of the oxidation of carbohydrates and fatty acids. The cycle starts with acetyl-CoA, the activated form of acetate, derived from glycolysis and pyruvate oxidation for carbohydrates and from beta oxidation of fatty acids. The two-carbon acetyl group in acetyl-CoA is transferred to the four-carbon compound of oxaloacetate to form the six-carbon compound of citrate. In a series of reactions two carbons in citrate are oxidized to CO2 and the reaction pathway supplies NADH for use in the oxidative phosphorylation and other metabolic processes. The pathway also supplies important precursor metabolites including 2-oxoglutarate. At the end of the cycle the remaining four-carbon part is transformed back to oxaloacetate. According to the genome sequence data, many organisms seem to lack genes for the full cycle [MD:M00009], but contain genes for specific segments [MD:M00010 M00011].</Description>
+  <Name>Citrate cycle (TCA cycle) - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00009" Value="Citrate cycle (TCA cycle, Krebs cycle) [PATH:xcb00020]" />
+    <hashEntry Key="xcb_M00010" Value="Citrate cycle, first carbon oxidation, oxaloacetate =&gt; 2-oxoglutarate [PATH:xcb00020]" />
+    <hashEntry Key="xcb_M00011" Value="Citrate cycle, second carbon oxidation, 2-oxoglutarate =&gt; oxaloacetate [PATH:xcb00020]" />
+    <hashEntry Key="xcb_M00307" Value="Pyruvate oxidation, pyruvate =&gt; acetyl-CoA [PATH:xcb00020]" />
+  </Modules>
+  <Compound>
+    <hashEntry Key="C00022" Value="Pyruvate" />
+    <hashEntry Key="C00024" Value="Acetyl-CoA" />
+    <hashEntry Key="C00026" Value="2-Oxoglutarate" />
+    <hashEntry Key="C00036" Value="Oxaloacetate" />
+    <hashEntry Key="C00042" Value="Succinate" />
+    <hashEntry Key="C00068" Value="Thiamin diphosphate" />
+    <hashEntry Key="C00074" Value="Phosphoenolpyruvate" />
+    <hashEntry Key="C00091" Value="Succinyl-CoA" />
+    <hashEntry Key="C00122" Value="Fumarate" />
+    <hashEntry Key="C00149" Value="(S)-Malate" />
+    <hashEntry Key="C00158" Value="Citrate" />
+    <hashEntry Key="C00311" Value="Isocitrate" />
+    <hashEntry Key="C00417" Value="cis-Aconitate" />
+    <hashEntry Key="C05125" Value="2-(alpha-Hydroxyethyl)thiamine diphosphate" />
+    <hashEntry Key="C05379" Value="Oxalosuccinate" />
+    <hashEntry Key="C05381" Value="3-Carboxy-1-hydroxypropyl-ThPP" />
+    <hashEntry Key="C15972" Value="Enzyme N6-(lipoyl)lysine" />
+    <hashEntry Key="C15973" Value="Enzyme N6-(dihydrolipoyl)lysine" />
+    <hashEntry Key="C16254" Value="[Dihydrolipoyllysine-residue succinyltransferase] S-succinyldihydrolipoyllysine" />
+    <hashEntry Key="C16255" Value="[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine" />
+  </Compound>
+  <PathwayMap Key="xcb00020" Value="Citrate cycle (TCA cycle)" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0441" Value="K00627 pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12] | (Gen" />
+    <hashEntry Key="xcb:XC_0443" Value="K00162 pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1] | (GenBank) pyruvate dehydrogen" />
+    <hashEntry Key="xcb:XC_0444" Value="K00161 pyruvate dehydrogenase E1 component alpha subunit [EC:1.2.4.1] | (GenBank) pyruvate dehydroge" />
+    <hashEntry Key="xcb:XC_0550" Value="K18118 succinyl-CoA:acetate CoA-transferase [EC:2.8.3.18] | (GenBank) CoA tranferase" />
+    <hashEntry Key="xcb:XC_0588" Value="K00163 pyruvate dehydrogenase E1 component [EC:1.2.4.1] | (GenBank) pyruvate dehydrogenase" />
+    <hashEntry Key="xcb:XC_0944" Value="K01647 citrate synthase [EC:2.3.3.1] | (GenBank) citrate synthase" />
+    <hashEntry Key="xcb:XC_1063" Value="K01903 succinyl-CoA synthetase beta subunit [EC:6.2.1.5] | (GenBank) succinyl-CoA synthetase beta su" />
+    <hashEntry Key="xcb:XC_1064" Value="K01902 succinyl-CoA synthetase alpha subunit [EC:6.2.1.5] | (GenBank) succinyl-CoA synthetase alpha" />
+    <hashEntry Key="xcb:XC_1981" Value="K00241 succinate dehydrogenase / fumarate reductase, cytochrome b subunit | (GenBank) succinate dehy" />
+    <hashEntry Key="xcb:XC_1982" Value="K00242 succinate dehydrogenase / fumarate reductase, membrane anchor subunit | (GenBank) succinate d" />
+    <hashEntry Key="xcb:XC_1983" Value="K00239 succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4] | (Ge" />
+    <hashEntry Key="xcb:XC_1985" Value="K00240 succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4] | (Gen" />
+    <hashEntry Key="xcb:XC_2326" Value="K01682 aconitate hydratase 2 / 2-methylisocitrate dehydratase [EC:4.2.1.3 4.2.1.99] | (GenBank) acon" />
+    <hashEntry Key="xcb:XC_2329" Value="K01681 aconitate hydratase [EC:4.2.1.3] | (GenBank) aconitase" />
+    <hashEntry Key="xcb:XC_2742" Value="K01679 fumarate hydratase, class II [EC:4.2.1.2] | (GenBank) fumarate hydratase" />
+    <hashEntry Key="xcb:XC_2749" Value="K00164 2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2] | (GenBank) oxoglutarate dehydrogenase" />
+    <hashEntry Key="xcb:XC_2750" Value="K00658 2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61" />
+    <hashEntry Key="xcb:XC_2751" Value="K00382 dihydrolipoamide dehydrogenase [EC:1.8.1.4] | (GenBank) dihydrolipoamide dehydrogenase" />
+    <hashEntry Key="xcb:XC_2822" Value="K01676 fumarate hydratase, class I [EC:4.2.1.2] | (GenBank) fumarate hydratase" />
+    <hashEntry Key="xcb:XC_3268" Value="K00030 isocitrate dehydrogenase (NAD+) [EC:1.1.1.41] | (GenBank) isocitrate dehydrogenase" />
+    <hashEntry Key="xcb:XC_3307" Value="K00024 malate dehydrogenase [EC:1.1.1.37] | (GenBank) malate dehydrogenase" />
+    <hashEntry Key="xcb:XC_3689" Value="K00382 dihydrolipoamide dehydrogenase [EC:1.8.1.4] | (GenBank) dihydrolipoamide dehydrogenase" />
+    <hashEntry Key="xcb:XC_3691" Value="K00627 pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12] | (Gen" />
+    <hashEntry Key="xcb:XC_3854" Value="K00031 isocitrate dehydrogenase [EC:1.1.1.42] | (GenBank) isocitrate dehydrogenase" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00020" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Tokyo Kagaku Dojin (1980)" PMID="(map 2)">
+      <Authors>Nishizuka Y (ed).</Authors>[Metabolic Maps] (In Japanese)</Reference>
+    <Reference Journal="Tokyo Kagaku Dojin (1997)" PMID="(map 3)">
+      <Authors>Nishizuka Y</Authors>
+      <Authors>Seyama Y</Authors>
+      <Authors>Ikai A</Authors>
+      <Authors>Ishimura Y</Authors>
+      <Authors>Kawaguchi A (eds).</Authors>[Cellular Functions and Metabolic Maps] (In Japanese)</Reference>
+    <Reference Journal="" PMID="Michal G.">
+      <Authors>Biochemical Pathways</Authors>Wiley (1999)</Reference>
+  </References>
+</KEGG.PathwayBrief>

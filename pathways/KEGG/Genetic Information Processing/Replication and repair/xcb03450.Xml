@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb03450" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description>Nonhomologous end joining (NHEJ) eliminates DNA double-strand breaks (DSBs) by direct ligation. NHEJ involves binding of the KU heterodimer to double-stranded DNA ends, recruitment of DNA-PKcs (MRX complex in yeast), processing of ends, and recruitment of the DNA ligase IV (LIG4)-XRCC4 complex, which brings about ligation. A recent study shows that bacteria accomplish NHEJ using just two proteins (Ku and DNA ligase), whereas eukaryotes require many factors. NHEJ repairs DSBs at all stages of the cell cycle, bringing about the ligation of two DNA DSBs without the need for sequence homology, and so is error-prone.</Description>
+  <Name>Non-homologous end-joining - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound />
+  <PathwayMap Key="xcb03450" Value="Non-homologous end-joining" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0108" Value="K10979 DNA end-binding protein Ku | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_0109" Value="K01971 bifunctional non-homologous end joining protein LigD [EC:6.5.1.1] | (GenBank) ATP-dependent D" />
+    <hashEntry Key="xcb:XC_1808" Value="K01971 bifunctional non-homologous end joining protein LigD [EC:6.5.1.1] | (GenBank) ATP-dependent D" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko03450" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Br Med Bull 77-78:71-85 (2006)" PMID="16971555">
+      <Authors>Gennery AR.</Authors>Primary immunodeficiency syndromes associated with defective DNA double-strand break repair.</Reference>
+    <Reference Journal="Nat Struct Mol Biol 14:639-46 (2007)" PMID="17589524">
+      <Authors>Zhang Y</Authors>
+      <Authors>Hefferin ML</Authors>
+      <Authors>Chen L</Authors>
+      <Authors>Shim EY</Authors>
+      <Authors>Tseng HM</Authors>
+      <Authors>Kwon Y</Authors>
+      <Authors>Sung P</Authors>
+      <Authors>Lee SE</Authors>
+      <Authors>Tomkinson AE.</Authors>Role of Dnl4-Lif1 in nonhomologous end-joining repair complex assembly and suppression of homologous recombination.</Reference>
+    <Reference Journal="Annu Rev Genet 40:363-83 (2006)" PMID="16895466">
+      <Authors>Wyman C</Authors>
+      <Authors>Kanaar R.</Authors>DNA double-strand break repair: all's well that ends well.</Reference>
+    <Reference Journal="Nat Struct Mol Biol 11:1158-9 (2004)" PMID="15578053">
+      <Authors>Weller GR</Authors>
+      <Authors>Brandt VL</Authors>
+      <Authors>Roth DB.</Authors>Doing more with less in bacterial DNA repair.</Reference>
+    <Reference Journal="Science 297:1686-9 (2002)" PMID="12215643">
+      <Authors>Weller GR</Authors>
+      <Authors>Kysela B</Authors>
+      <Authors>Roy R</Authors>
+      <Authors>Tonkin LM</Authors>
+      <Authors>Scanlan E</Authors>
+      <Authors>Della M</Authors>
+      <Authors>Devine SK</Authors>
+      <Authors>Day JP</Authors>
+      <Authors>Wilkinson A</Authors>
+      <Authors>d'Adda di Fagagna F</Authors>
+      <Authors>Devine KM</Authors>
+      <Authors>Bowater RP</Authors>
+      <Authors>Jeggo PA</Authors>
+      <Authors>Jackson SP</Authors>
+      <Authors>Doherty AJ.</Authors>Identification of a DNA nonhomologous end-joining complex in bacteria.</Reference>
+    <Reference Journal="Annu Rev Microbiol 61:259-82 (2007)" PMID="17506672">
+      <Authors>Pitcher RS</Authors>
+      <Authors>Brissett NC</Authors>
+      <Authors>Doherty AJ.</Authors>Nonhomologous end-joining in bacteria: a microbial perspective.</Reference>
+  </References>
+</KEGG.PathwayBrief>

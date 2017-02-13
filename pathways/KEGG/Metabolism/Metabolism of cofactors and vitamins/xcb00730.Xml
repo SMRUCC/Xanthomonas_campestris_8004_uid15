@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00730" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Thiamine metabolism - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound>
+    <hashEntry Key="C00003" Value="NAD+" />
+    <hashEntry Key="C00018" Value="Pyridoxal phosphate" />
+    <hashEntry Key="C00022" Value="Pyruvate" />
+    <hashEntry Key="C00037" Value="Glycine" />
+    <hashEntry Key="C00068" Value="Thiamin diphosphate" />
+    <hashEntry Key="C00082" Value="L-Tyrosine" />
+    <hashEntry Key="C00097" Value="L-Cysteine" />
+    <hashEntry Key="C00118" Value="D-Glyceraldehyde 3-phosphate" />
+    <hashEntry Key="C00378" Value="Thiamine" />
+    <hashEntry Key="C01081" Value="Thiamin monophosphate" />
+    <hashEntry Key="C01279" Value="4-Amino-5-hydroxymethyl-2-methylpyrimidine" />
+    <hashEntry Key="C02892" Value="Thiamine acetic acid" />
+    <hashEntry Key="C03028" Value="Thiamin triphosphate" />
+    <hashEntry Key="C03373" Value="Aminoimidazole ribotide" />
+    <hashEntry Key="C04294" Value="5-(2-Hydroxyethyl)-4-methylthiazole" />
+    <hashEntry Key="C04327" Value="4-Methyl-5-(2-phosphooxyethyl)thiazole" />
+    <hashEntry Key="C04556" Value="4-Amino-2-methyl-5-(phosphooxymethyl)pyrimidine" />
+    <hashEntry Key="C04752" Value="4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate" />
+    <hashEntry Key="C05856" Value="Thiamine aldehyde" />
+    <hashEntry Key="C11437" Value="1-Deoxy-D-xylulose 5-phosphate" />
+    <hashEntry Key="C15809" Value="Iminoglycine" />
+    <hashEntry Key="C15810" Value="Sulfur-carrier protein" />
+    <hashEntry Key="C15811" Value="[Enzyme]-cysteine" />
+    <hashEntry Key="C15812" Value="[Enzyme]-S-sulfanylcysteine" />
+    <hashEntry Key="C15813" Value="Adenylyl-[sulfur-carrier protein]" />
+    <hashEntry Key="C15814" Value="Thiocarboxy-[sulfur-carrier protein]" />
+    <hashEntry Key="C19872" Value="N-Formyl-4-amino-5-aminomethyl-2-methylpyrimidine" />
+    <hashEntry Key="C20246" Value="2-[(2R,5Z)-2-Carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate" />
+    <hashEntry Key="C20247" Value="2-(2-Carboxy-4-methylthiazol-5-yl)ethyl phosphate" />
+    <hashEntry Key="C20267" Value="4-Amino-5-aminomethyl-2-methylpyrimidine" />
+    <hashEntry Key="C20784" Value="ADP-5-ethyl-4-methylthiazole-2-carboxylate" />
+  </Compound>
+  <PathwayMap Key="xcb00730" Value="Thiamine metabolism" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0802" Value="K06949 ribosome biogenesis GTPase / thiamine phosphate phosphatase [EC:3.6.1.- 3.1.3.100] | (GenBank" />
+    <hashEntry Key="xcb:XC_0846" Value="K03147 phosphomethylpyrimidine synthase [EC:4.1.99.17] | (GenBank) thiamine biosynthesis protein" />
+    <hashEntry Key="xcb:XC_0873" Value="K00939 adenylate kinase [EC:2.7.4.3] | (GenBank) adenylate kinase" />
+    <hashEntry Key="xcb:XC_0895" Value="K00788 thiamine-phosphate pyrophosphorylase [EC:2.5.1.3] | (GenBank) thiamin-phosphate pyrophosphory" />
+    <hashEntry Key="xcb:XC_1015" Value="K03149 thiazole synthase [EC:2.8.1.10] | (GenBank) thiamine biosynthesis protein" />
+    <hashEntry Key="xcb:XC_1519" Value="K01077 alkaline phosphatase [EC:3.1.3.1] | (GenBank) alkaline phosphatase" />
+    <hashEntry Key="xcb:XC_1678" Value="K01662 1-deoxy-D-xylulose-5-phosphate synthase [EC:2.2.1.7] | (GenBank) deoxyxylulose-5-phosphate sy" />
+    <hashEntry Key="xcb:XC_2499" Value="K00941 hydroxymethylpyrimidine/phosphomethylpyrimidine kinase [EC:2.7.1.49 2.7.4.7] | (GenBank) phos" />
+    <hashEntry Key="xcb:XC_3535" Value="K00946 thiamine-monophosphate kinase [EC:2.7.4.16] | (GenBank) thiamine-monophosphate kinase" />
+    <hashEntry Key="xcb:XC_4227" Value="K01078 acid phosphatase [EC:3.1.3.2] | (GenBank) acid phosphatase" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00730" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Curr Genet 47:156-62 (2005)" PMID="15614489">
+      <Authors>Kawasaki Y</Authors>
+      <Authors>Onozuka M</Authors>
+      <Authors>Mizote T</Authors>
+      <Authors>Nosaka K.</Authors>Biosynthesis of hydroxymethylpyrimidine pyrophosphate in Saccharomyces cerevisiae.</Reference>
+    <Reference Journal="Biochemistry 42:12430-8 (2003)" PMID="14567704">
+      <Authors>Park JH</Authors>
+      <Authors>Dorrestein PC</Authors>
+      <Authors>Zhai H</Authors>
+      <Authors>Kinsland C</Authors>
+      <Authors>McLafferty FW</Authors>
+      <Authors>Begley TP.</Authors>Biosynthesis of the thiazole moiety of thiamin pyrophosphate (vitamin B1).</Reference>
+    <Reference Journal="Biochem Soc Trans 40:555-60 (2012)" PMID="22616866">
+      <Authors>Begley TP</Authors>
+      <Authors>Ealick SE</Authors>
+      <Authors>McLafferty FW</Authors>Thiamin biosynthesis: still yielding fascinating biological chemistry.</Reference>
+    <Reference Journal="Microbiology 149:1447-60 (2003)" PMID="12777485">
+      <Authors>Wightman R</Authors>
+      <Authors>Meacock PA</Authors>The THI5 gene family of Saccharomyces cerevisiae: distribution of homologues among the hemiascomycetes and functional redundancy in the aerobic biosynthesis of thiamin from pyridoxine.</Reference>
+    <Reference Journal="Nature 478:542-6 (2011)" PMID="22031445">
+      <Authors>Chatterjee A</Authors>
+      <Authors>Abeydeera ND</Authors>
+      <Authors>Bale S</Authors>
+      <Authors>Pai PJ</Authors>
+      <Authors>Dorrestein PC</Authors>
+      <Authors>Russell DH</Authors>
+      <Authors>Ealick SE</Authors>
+      <Authors>Begley TP</Authors>Saccharomyces cerevisiae THI4p is a suicide thiamine thiazole synthase.</Reference>
+    <Reference Journal="Annu Rev Biochem 78:569-603 (2009)" PMID="19348578">
+      <Authors>Jurgenson CT</Authors>
+      <Authors>Begley TP</Authors>
+      <Authors>Ealick SE</Authors>The structural and biochemical foundations of thiamin biosynthesis.</Reference>
+  </References>
+</KEGG.PathwayBrief>

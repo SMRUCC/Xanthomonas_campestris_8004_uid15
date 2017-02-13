@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00401" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Novobiocin biosynthesis - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound>
+    <hashEntry Key="C00082" Value="L-Tyrosine" />
+    <hashEntry Key="C00148" Value="L-Proline" />
+    <hashEntry Key="C00254" Value="Prephenate" />
+    <hashEntry Key="C01179" Value="3-(4-Hydroxyphenyl)pyruvate" />
+    <hashEntry Key="C05073" Value="Coumermycin A1" />
+    <hashEntry Key="C05080" Value="Novobiocin" />
+    <hashEntry Key="C12032" Value="Clorobiocin" />
+    <hashEntry Key="C12456" Value="3-Dimethylallyl-4-hydroxyphenylpyruvate" />
+    <hashEntry Key="C12457" Value="3-Dimethylallyl-4-hydroxymandelic acid" />
+    <hashEntry Key="C12458" Value="3-Dimethylallyl-4-hydroxybenzoate" />
+    <hashEntry Key="C12459" Value="3-Dimethylallyl-4-hydroxybenzaldehyde" />
+    <hashEntry Key="C12460" Value="3-Dimethylallyl-beta-hydroxy-L-tyrosyl-[pcp]" />
+    <hashEntry Key="C12461" Value="L-Tyrosyl-[pcp]" />
+    <hashEntry Key="C12462" Value="beta-Hydroxy-L-tyrosyl-[pcp]" />
+    <hashEntry Key="C12463" Value="beta-Keto-L-tyrosyl-[pcp]" />
+    <hashEntry Key="C12467" Value="2-Hydroxy-beta-keto-L-tyrosyl-[pcp]" />
+    <hashEntry Key="C12468" Value="3-Amino-4,7-dihydroxycoumarin" />
+    <hashEntry Key="C12469" Value="3-Amino-4,7-dihydroxy-8-chlorocoumarin" />
+    <hashEntry Key="C12470" Value="L-Prolyl-[pcp]" />
+    <hashEntry Key="C12471" Value="Chlorobiocic acid" />
+    <hashEntry Key="C12472" Value="Novclobiocin 105" />
+    <hashEntry Key="C12473" Value="Novclobiocin 104" />
+    <hashEntry Key="C12474" Value="Novobiocic acid" />
+    <hashEntry Key="C12475" Value="Demethyldecarbamoylnovobiocin" />
+    <hashEntry Key="C12476" Value="Decarbamoylnovobiocin" />
+    <hashEntry Key="C12477" Value="3-Methylpyrrole-2,4-dicarboxylic acid" />
+    <hashEntry Key="C12479" Value="Coumermic acid" />
+    <hashEntry Key="C12480" Value="Coumermycin D" />
+    <hashEntry Key="C12481" Value="dTDP-5-dimethyl-L-lyxose" />
+    <hashEntry Key="C12483" Value="Pyrrole-2-carbonyl-[pcp]" />
+    <hashEntry Key="C20629" Value="8-Demethylnovobiocic acid" />
+    <hashEntry Key="C20637" Value="5-[[(4,7-Dihydroxy-2-oxo-2H-1-benzopyran-3-yl)amino]carbonyl]-4-methyl-1H-pyrrole-3-carboxylate" />
+  </Compound>
+  <PathwayMap Key="xcb00401" Value="Novobiocin biosynthesis" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0100" Value="K00832 aromatic-amino-acid transaminase [EC:2.6.1.57] | (GenBank) aromatic-amino-acid aminotransfera" />
+    <hashEntry Key="xcb:XC_0889" Value="K00817 histidinol-phosphate aminotransferase [EC:2.6.1.9] | (GenBank) histidinol-phosphate aminotran" />
+    <hashEntry Key="xcb:XC_2379" Value="K00817 histidinol-phosphate aminotransferase [EC:2.6.1.9] | (GenBank) histidinol-phosphate aminotran" />
+    <hashEntry Key="xcb:XC_2665" Value="K00817 histidinol-phosphate aminotransferase [EC:2.6.1.9] | (GenBank) aminotransferase" />
+    <hashEntry Key="xcb:XC_2760" Value="K04517 prephenate dehydrogenase [EC:1.3.1.12] | (GenBank) chorismate mutase/prephenate dehydrogenase" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00401" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Microbiology 148:3901-11 (2002)" PMID="12480894">
+      <Authors>Pojer F</Authors>
+      <Authors>Li SM</Authors>
+      <Authors>Heide L.</Authors>Molecular cloning and sequence analysis of the clorobiocin biosynthetic gene cluster: new insights into the biosynthesis of aminocoumarin antibiotics.</Reference>
+    <Reference Journal="Chem Biol 8:301-12 (2001)" PMID="11325587">
+      <Authors>Chen H</Authors>
+      <Authors>Walsh CT.</Authors>Coumarin formation in novobiocin biosynthesis: beta-hydroxylation of the aminoacyl enzyme tyrosyl-S-NovH by a cytochrome P450 NovI.</Reference>
+    <Reference Journal="Eur J Biochem 270:4413-9 (2003)" PMID="14622269">
+      <Authors>Schmutz E</Authors>
+      <Authors>Steffensky M</Authors>
+      <Authors>Schmidt J</Authors>
+      <Authors>Porzel A</Authors>
+      <Authors>Li SM</Authors>
+      <Authors>Heide L.</Authors>An unusual amide synthetase (CouL) from the coumermycin A1 biosynthetic gene cluster from Streptomyces rishiriensis DSM 40489.</Reference>
+    <Reference Journal="Microbiology 149:2183-91 (2003)" PMID="12904558">
+      <Authors>Xu H</Authors>
+      <Authors>Kahlich R</Authors>
+      <Authors>Kammerer B</Authors>
+      <Authors>Heide L</Authors>
+      <Authors>Li SM.</Authors>CloN2, a novel acyltransferase involved in the attachment of the pyrrole-2-carboxyl moiety to the deoxysugar of clorobiocin.</Reference>
+    <Reference Journal="Mol Genet Genomics 268:387-96 (2002)" PMID="12436260">
+      <Authors>Xu H</Authors>
+      <Authors>Wang ZX</Authors>
+      <Authors>Schmidt J</Authors>
+      <Authors>Heide L</Authors>
+      <Authors>Li SM.</Authors>Genetic analysis of the biosynthesis of the pyrrole and carbamoyl moieties of coumermycin A1 and novobiocin.</Reference>
+    <Reference Journal="Angew Chem Int Ed Engl 43:67-70 (2004)" PMID="14694473">
+      <Authors>Freel Meyers CL</Authors>
+      <Authors>Oberthur M</Authors>
+      <Authors>Xu H</Authors>
+      <Authors>Heide L</Authors>
+      <Authors>Kahne D</Authors>
+      <Authors>Walsh CT</Authors>Characterization of NovP and NovN: completion of novobiocin biosynthesis by sequential tailoring of the noviosyl ring.</Reference>
+    <Reference Journal="J Biol Chem 278:30661-8 (2003)" PMID="12777382">
+      <Authors>Pojer F</Authors>
+      <Authors>Kahlich R</Authors>
+      <Authors>Kammerer B</Authors>
+      <Authors>Li SM</Authors>
+      <Authors>Heide L.</Authors>CloR, a bifunctional non-heme iron oxygenase involved in clorobiocin biosynthesis.</Reference>
+    <Reference Journal="Microbiology 148:3317-26 (2002)" PMID="12368465">
+      <Authors>Li SM</Authors>
+      <Authors>Westrich L</Authors>
+      <Authors>Schmidt J</Authors>
+      <Authors>Kuhnt C</Authors>
+      <Authors>Heide L.</Authors>Methyltransferase genes in Streptomyces rishiriensis: new coumermycin derivatives from gene-inactivation experiments.</Reference>
+    <Reference Journal="Proc Natl Acad Sci U S A 100:2316-21 (2003)" PMID="12618544">
+      <Authors>Pojer F</Authors>
+      <Authors>Wemakor E</Authors>
+      <Authors>Kammerer B</Authors>
+      <Authors>Chen H</Authors>
+      <Authors>Walsh CT</Authors>
+      <Authors>Li SM</Authors>
+      <Authors>Heide L.</Authors>CloQ, a prenyltransferase involved in clorobiocin biosynthesis.</Reference>
+  </References>
+</KEGG.PathwayBrief>

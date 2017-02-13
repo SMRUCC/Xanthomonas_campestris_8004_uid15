@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb03420" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description>Nucleotide excision repair (NER) is a mechanism to recognize and repair bulky DNA damage caused by compounds, environmental carcinogens, and exposure to UV-light. In humans hereditary defects in the NER pathway are linked to at least three diseases: xeroderma pigmentosum (XP), Cockayne syndrome (CS), and trichothiodystrophy (TTD). The repair of damaged DNA involves at least 30 polypeptides within two different sub-pathways of NER known as transcription-coupled repair (TCR-NER) and global genome repair (GGR-NER). TCR refers to the expedited repair of lesions located in the actively transcribed strand of genes by RNA polymerase II (RNAP II). In GGR-NER the first step of damage recognition involves XPC-hHR23B complex together with XPE complex (in prokaryotes, uvrAB complex). The following steps of GGR-NER and TCR-NER are similar.</Description>
+  <Name>Nucleotide excision repair - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound />
+  <PathwayMap Key="xcb03420" Value="Nucleotide excision repair" />
+  <Genes>
+    <hashEntry Key="xcb:XC_1416" Value="K03723 transcription-repair coupling factor (superfamily II helicase) [EC:3.6.4.-] | (GenBank) trans" />
+    <hashEntry Key="xcb:XC_1628" Value="K03702 excinuclease ABC subunit B | (GenBank) excinuclease ABC subunit B" />
+    <hashEntry Key="xcb:XC_2000" Value="K03703 excinuclease ABC subunit C | (GenBank) excinuclease ABC subunit C" />
+    <hashEntry Key="xcb:XC_2664" Value="K01972 DNA ligase (NAD+) [EC:6.5.1.2] | (GenBank) DNA ligase" />
+    <hashEntry Key="xcb:XC_2951" Value="K10747 DNA ligase 1 [EC:6.5.1.1 6.5.1.6 6.5.1.7] | (GenBank) DNA ligase" />
+    <hashEntry Key="xcb:XC_3094" Value="K03701 excinuclease ABC subunit A | (GenBank) excinuclease ABC subunit A" />
+    <hashEntry Key="xcb:XC_3161" Value="K03701 excinuclease ABC subunit A | (GenBank) excinuclease ABC subunit A" />
+    <hashEntry Key="xcb:XC_4109" Value="K02335 DNA polymerase I [EC:2.7.7.7] | (GenBank) DNA polymerase I" />
+    <hashEntry Key="xcb:XC_4115" Value="K03657 DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12] | (GenBank) DNA helicase II" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko03420" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Tanpakushitsu Kakusan Koso 46:893-901 (2001)" PMID="11436314">
+      <Authors>Sugasawa K.</Authors>[Molecular mechanism of mammalian nucleotide excision repair] Japanese</Reference>
+    <Reference Journal="Tanpakushitsu Kakusan Koso 46:908-15 (2001)" PMID="11436316">
+      <Authors>Nakatsu Y.</Authors>[Transcription-coupled repair and Cockayne syndrome] Japanese</Reference>
+    <Reference Journal="Tanpakushitsu Kakusan Koso 46:968-75 (2001)" PMID="11436323">
+      <Authors>Nakagawa N</Authors>
+      <Authors>Masui R</Authors>
+      <Authors>Kuramitsu S.</Authors>[Structure and function of DNA repair enzyme UvrB from Thermus thermophilus HB8] Japanese</Reference>
+    <Reference Journal="Neuroscience 145:1388-96 (2007)" PMID="17276014">
+      <Authors>Kraemer KH</Authors>
+      <Authors>Patronas NJ</Authors>
+      <Authors>Schiffmann R</Authors>
+      <Authors>Brooks BP</Authors>
+      <Authors>Tamura D</Authors>
+      <Authors>DiGiovanna JJ.</Authors>Xeroderma pigmentosum, trichothiodystrophy and Cockayne syndrome: a complex genotype-phenotype relationship.</Reference>
+    <Reference Journal="Gynecol Oncol 107:S56-71 (2007)" PMID="17884153">
+      <Authors>Saldivar JS</Authors>
+      <Authors>Wu X</Authors>
+      <Authors>Follen M</Authors>
+      <Authors>Gershenson D.</Authors>Nucleotide excision repair pathway review I: implications in ovarian cancer and platinum sensitivity.</Reference>
+    <Reference Journal="Tanpakushitsu Kakusan Koso 51:1339-44 (2006)" PMID="16922398">
+      <Authors>Sugasawa K.</Authors>[DNA repair pathways involving Cul4A ubiquitin ligases] Japanese</Reference>
+    <Reference Journal="Tanpakushitsu Kakusan Koso 52:1823-31 (2007)" PMID="18018633">
+      <Authors>Ito S</Authors>
+      <Authors>Ando D</Authors>
+      <Authors>Tanaka K.</Authors>[Cross-talk between DNA repair and transcription: molecular mechanism and disorders] Japanese</Reference>
+  </References>
+</KEGG.PathwayBrief>

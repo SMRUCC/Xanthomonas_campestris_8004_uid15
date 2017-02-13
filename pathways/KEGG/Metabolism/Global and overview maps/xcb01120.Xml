@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb01120" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Microbial metabolism in diverse environments - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound />
+  <PathwayMap Key="xcb01120" Value="Microbial metabolism in diverse environments" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0020" Value="K00058 D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95] | (GenBank) D-3-phosphoglycerate dehydrogena" />
+    <hashEntry Key="xcb:XC_0031" Value="K00266 glutamate synthase (NADPH/NADH) small chain [EC:1.4.1.13 1.4.1.14] | (GenBank) glutamate synt" />
+    <hashEntry Key="xcb:XC_0032" Value="K00265 glutamate synthase (NADPH/NADH) large chain [EC:1.4.1.13 1.4.1.14] | (GenBank) glutamate synt" />
+    <hashEntry Key="xcb:XC_0098" Value="K03841 fructose-1,6-bisphosphatase I [EC:3.1.3.11] | (GenBank) fructose-1,6-bisphosphatase" />
+    <hashEntry Key="xcb:XC_0104" Value="K00138 aldehyde dehydrogenase [EC:1.2.1.-] | (GenBank) chloroacetaldehyde dehydrogenase" />
+    <hashEntry Key="xcb:XC_0122" Value="K00874 2-dehydro-3-deoxygluconokinase [EC:2.7.1.45] | (GenBank) 2-keto-3-deoxygluconate kinase" />
+    <hashEntry Key="xcb:XC_0150" Value="K00064 D-threo-aldose 1-dehydrogenase [EC:1.1.1.122] | (GenBank) L-fucose dehydrogenase" />
+    <hashEntry Key="xcb:XC_0154" Value="K02554 2-keto-4-pentenoate hydratase [EC:4.2.1.80] | (GenBank) 2-keto-4-pentenoate hydratase" />
+    <hashEntry Key="xcb:XC_0162" Value="K01808 ribose 5-phosphate isomerase B [EC:5.3.1.6] | (GenBank) sugar-phosphate isomerase" />
+    <hashEntry Key="xcb:XC_0194" Value="K01915 glutamine synthetase [EC:6.3.1.2] | (GenBank) glutamine synthetase" />
+    <hashEntry Key="xcb:XC_0204" Value="K00626 acetyl-CoA C-acetyltransferase [EC:2.3.1.9] | (GenBank) acyl-CoA thiolase" />
+    <hashEntry Key="xcb:XC_0226" Value="K01563 haloalkane dehalogenase [EC:3.8.1.5] | (GenBank) haloalkane dehalogenase" />
+    <hashEntry Key="xcb:XC_0247" Value="K01638 malate synthase [EC:2.3.3.9] | (GenBank) malate synthase" />
+    <hashEntry Key="xcb:XC_0248" Value="K01637 isocitrate lyase [EC:4.1.3.1] | (GenBank) isocitrate lyase" />
+    <hashEntry Key="xcb:XC_0288" Value="K07127 5-hydroxyisourate hydrolase [EC:3.5.2.17] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_0294" Value="K02083 allantoate deiminase [EC:3.5.3.9] | (GenBank) N-carbamyl-L-amino acid amidohydrolase" />
+    <hashEntry Key="xcb:XC_0307" Value="K03863 vanillate monooxygenase ferredoxin subunit | (GenBank) vanillate O-demethylase oxidoreductase" />
+    <hashEntry Key="xcb:XC_0308" Value="K03862 vanillate monooxygenase [EC:1.14.13.82] | (GenBank) vanillate O-demethylase oxygenase subunit" />
+    <hashEntry Key="xcb:XC_0326" Value="K00297 methylenetetrahydrofolate reductase (NADPH) [EC:1.5.1.20] | (GenBank) 5,10-methylenetetrahydr" />
+    <hashEntry Key="xcb:XC_0366" Value="K00141 benzaldehyde dehydrogenase (NAD) [EC:1.2.1.28] | (GenBank) benzaldehyde dehydrogenase II" />
+    <hashEntry Key="xcb:XC_0368" Value="K00481 p-hydroxybenzoate 3-monooxygenase [EC:1.14.13.2] | (GenBank) P-hydroxybenzoate hydroxylase" />
+    <hashEntry Key="xcb:XC_0374" Value="K03863 vanillate monooxygenase ferredoxin subunit | (GenBank) phenoxybenzoate dioxygenase beta subun" />
+    <hashEntry Key="xcb:XC_0375" Value="K03862 vanillate monooxygenase [EC:1.14.13.82] | (GenBank) vanillate O-demethylase oxygenase subunit" />
+    <hashEntry Key="xcb:XC_0376" Value="K01039 glutaconate CoA-transferase, subunit A [EC:2.8.3.12] | (GenBank) glutaconate CoA transferase" />
+    <hashEntry Key="xcb:XC_0377" Value="K01040 glutaconate CoA-transferase, subunit B [EC:2.8.3.12] | (GenBank) glutaconate CoA transferase" />
+    <hashEntry Key="xcb:XC_0378" Value="K07823 3-oxoadipyl-CoA thiolase [EC:2.3.1.174] | (GenBank) beta-ketoadipyl CoA thiolase" />
+    <hashEntry Key="xcb:XC_0379" Value="K00449 protocatechuate 3,4-dioxygenase, beta subunit [EC:1.13.11.3] | (GenBank) protocatechuate 3,4-" />
+    <hashEntry Key="xcb:XC_0380" Value="K00448 protocatechuate 3,4-dioxygenase, alpha subunit [EC:1.13.11.3] | (GenBank) protocatechuate 3,4" />
+    <hashEntry Key="xcb:XC_0381" Value="K01857 3-carboxy-cis,cis-muconate cycloisomerase [EC:5.5.1.2] | (GenBank) 3-carboxy-cis,cis-muconate" />
+    <hashEntry Key="xcb:XC_0382" Value="K01055 3-oxoadipate enol-lactonase [EC:3.1.1.24] | (GenBank) b-ketoadipate enol-lactone hydrolase" />
+    <hashEntry Key="xcb:XC_0383" Value="K01607 4-carboxymuconolactone decarboxylase [EC:4.1.1.44] | (GenBank) 4-Carboxymuconolactone decarbo" />
+    <hashEntry Key="xcb:XC_0441" Value="K00627 pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12] | (Gen" />
+    <hashEntry Key="xcb:XC_0443" Value="K00162 pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1] | (GenBank) pyruvate dehydrogen" />
+    <hashEntry Key="xcb:XC_0444" Value="K00161 pyruvate dehydrogenase E1 component alpha subunit [EC:1.2.4.1] | (GenBank) pyruvate dehydroge" />
+    <hashEntry Key="xcb:XC_0452" Value="K00451 homogentisate 1,2-dioxygenase [EC:1.13.11.5] | (GenBank) homogentisate 1,2-dioxygenase" />
+    <hashEntry Key="xcb:XC_0469" Value="K01783 ribulose-phosphate 3-epimerase [EC:5.1.3.1] | (GenBank) D-ribulose-5-phosphate 3-epimerase" />
+    <hashEntry Key="xcb:XC_0474" Value="K01620 threonine aldolase [EC:4.1.2.48] | (GenBank) threonine aldolase" />
+    <hashEntry Key="xcb:XC_0527" Value="K01961 acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14] | (GenBank) biotin c" />
+    <hashEntry Key="xcb:XC_0529" Value="K02160 acetyl-CoA carboxylase biotin carboxyl carrier protein | (GenBank) biotin carboxyl carrier pr" />
+    <hashEntry Key="xcb:XC_0539" Value="K01061 carboxymethylenebutenolidase [EC:3.1.1.45] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_0540" Value="K01061 carboxymethylenebutenolidase [EC:3.1.1.45] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_0550" Value="K18118 succinyl-CoA:acetate CoA-transferase [EC:2.8.3.18] | (GenBank) CoA tranferase" />
+    <hashEntry Key="xcb:XC_0553" Value="K01053 gluconolactonase [EC:3.1.1.17] | (GenBank) gluconolactonase precursor" />
+    <hashEntry Key="xcb:XC_0588" Value="K00163 pyruvate dehydrogenase E1 component [EC:1.2.4.1] | (GenBank) pyruvate dehydrogenase" />
+    <hashEntry Key="xcb:XC_0662" Value="K01778 diaminopimelate epimerase [EC:5.1.1.7] | (GenBank) diaminopimelate epimerase" />
+    <hashEntry Key="xcb:XC_0686" Value="K00121 S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1] | (" />
+    <hashEntry Key="xcb:XC_0725" Value="K00033 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343] | (GenBank) 6-phosphogluconate dehyd" />
+    <hashEntry Key="xcb:XC_0775" Value="K00121 S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1] | (" />
+    <hashEntry Key="xcb:XC_0776" Value="K03396 S-(hydroxymethyl)glutathione synthase [EC:4.4.1.22] | (GenBank) conserved hypothetical protei" />
+    <hashEntry Key="xcb:XC_0777" Value="K01070 S-formylglutathione hydrolase [EC:3.1.2.12] | (GenBank) esterase" />
+    <hashEntry Key="xcb:XC_0809" Value="K00023 acetoacetyl-CoA reductase [EC:1.1.1.36] | (GenBank) acetoacetyl-coA reductase" />
+    <hashEntry Key="xcb:XC_0821" Value="K00029 malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40] | (GenBank) NADP-dep" />
+    <hashEntry Key="xcb:XC_0872" Value="K21071 ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase [EC:2.7.1.11 2." />
+    <hashEntry Key="xcb:XC_0882" Value="K00821 acetylornithine/N-succinyldiaminopimelate aminotransferase [EC:2.6.1.11 2.6.1.17] | (GenBank)" />
+    <hashEntry Key="xcb:XC_0884" Value="K20866 glucose-1-phosphatase [EC:3.1.3.10] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_0899" Value="K01807 ribose 5-phosphate isomerase A [EC:5.3.1.6] | (GenBank) ribose-5-phosphate isomerase A" />
+    <hashEntry Key="xcb:XC_0929" Value="K00615 transketolase [EC:2.2.1.1] | (GenBank) transketolase 1" />
+    <hashEntry Key="xcb:XC_0944" Value="K01647 citrate synthase [EC:2.3.3.1] | (GenBank) citrate synthase" />
+    <hashEntry Key="xcb:XC_0972" Value="K00134 glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12] | (GenBank) glyceraldehyde-3-phosphate" />
+    <hashEntry Key="xcb:XC_0976" Value="K00927 phosphoglycerate kinase [EC:2.7.2.3] | (GenBank) phosphoglycerate kinase" />
+    <hashEntry Key="xcb:XC_0978" Value="K00873 pyruvate kinase [EC:2.7.1.40] | (GenBank) pyruvate kinase type II" />
+    <hashEntry Key="xcb:XC_0979" Value="K01623 fructose-bisphosphate aldolase, class I [EC:4.1.2.13] | (GenBank) fructose-bisphosphate aldol" />
+    <hashEntry Key="xcb:XC_0982" Value="K01738 cysteine synthase A [EC:2.5.1.47] | (GenBank) cysteine synthase" />
+    <hashEntry Key="xcb:XC_0990" Value="K00390 phosphoadenosine phosphosulfate reductase [EC:1.8.4.8 1.8.4.10] | (GenBank) 3&amp;#39;-phosphoadenosi" />
+    <hashEntry Key="xcb:XC_0991" Value="K00381 sulfite reductase (NADPH) hemoprotein beta-component [EC:1.8.1.2] | (GenBank) NADPH-sulfite r" />
+    <hashEntry Key="xcb:XC_0992" Value="K00380 sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2] | (GenBank) NADPH-sulfite" />
+    <hashEntry Key="xcb:XC_0993" Value="K00957 sulfate adenylyltransferase subunit 2 [EC:2.7.7.4] | (GenBank) ATP sulfurylase small subunit" />
+    <hashEntry Key="xcb:XC_0994" Value="K00955 bifunctional enzyme CysN/CysC [EC:2.7.7.4 2.7.1.25] | (GenBank) ATP sulfurylase/adenylylsulfa" />
+    <hashEntry Key="xcb:XC_1063" Value="K01903 succinyl-CoA synthetase beta subunit [EC:6.2.1.5] | (GenBank) succinyl-CoA synthetase beta su" />
+    <hashEntry Key="xcb:XC_1064" Value="K01902 succinyl-CoA synthetase alpha subunit [EC:6.2.1.5] | (GenBank) succinyl-CoA synthetase alpha" />
+    <hashEntry Key="xcb:XC_1103" Value="K01586 diaminopimelate decarboxylase [EC:4.1.1.20] | (GenBank) diaminopimelate decarboxylase" />
+    <hashEntry Key="xcb:XC_1109" Value="K02510 4-hydroxy-2-oxoheptanedioate aldolase [EC:4.1.2.52] | (GenBank) 4-hydroxy-2-oxovalerate aldol" />
+    <hashEntry Key="xcb:XC_1138" Value="K03562 biopolymer transport protein TolQ | (GenBank) TolQ protein" />
+    <hashEntry Key="xcb:XC_1166" Value="K00845 glucokinase [EC:2.7.1.2] | (GenBank) glucose kinase" />
+    <hashEntry Key="xcb:XC_1223" Value="K00845 glucokinase [EC:2.7.1.2] | (GenBank) glucose kinase" />
+    <hashEntry Key="xcb:XC_1227" Value="K01082 3&amp;#39;(2&amp;#39;), 5&amp;#39;-bisphosphate nucleotidase [EC:3.1.3.7] | (GenBank) sulfite synthesis pathway prote" />
+    <hashEntry Key="xcb:XC_1253" Value="K00003 homoserine dehydrogenase [EC:1.1.1.3] | (GenBank) homoserine dehydrogenase" />
+    <hashEntry Key="xcb:XC_1267" Value="K00275 pyridoxamine 5&amp;#39;-phosphate oxidase [EC:1.4.3.5] | (GenBank) pyridoxamine 5&amp;#39;-phosphate oxidase" />
+    <hashEntry Key="xcb:XC_1270" Value="K00275 pyridoxamine 5&amp;#39;-phosphate oxidase [EC:1.4.3.5] | (GenBank) pyridoxamine 5&amp;#39;-phosphate oxidase" />
+    <hashEntry Key="xcb:XC_1306" Value="K02821 PTS system, ascorbate-specific IIA component [EC:2.7.1.194] | (GenBank) conserved hypothetica" />
+    <hashEntry Key="xcb:XC_1334" Value="K00380 sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2] | (GenBank) sulfite reduc" />
+    <hashEntry Key="xcb:XC_1342" Value="K05710 3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin component | (GenBank) benzene 1,2-d" />
+    <hashEntry Key="xcb:XC_1372" Value="K12526 bifunctional diaminopimelate decarboxylase / aspartate kinase [EC:4.1.1.20 2.7.2.4] | (GenBan" />
+    <hashEntry Key="xcb:XC_1385" Value="K13483 xanthine dehydrogenase YagT iron-sulfur-binding subunit | (GenBank) oxidoreductase" />
+    <hashEntry Key="xcb:XC_1386" Value="K11178 xanthine dehydrogenase YagS FAD-binding subunit [EC:1.17.1.4] | (GenBank) oxidoreductase" />
+    <hashEntry Key="xcb:XC_1387" Value="K11177 xanthine dehydrogenase YagR molybdenum-binding subunit [EC:1.17.1.4] | (GenBank) oxidoreducta" />
+    <hashEntry Key="xcb:XC_1404" Value="K01834 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11] | (GenBank) phosphogl" />
+    <hashEntry Key="xcb:XC_1452" Value="K00123 formate dehydrogenase major subunit [EC:1.2.1.2] | (GenBank) formate dehydrogenase related pr" />
+    <hashEntry Key="xcb:XC_1519" Value="K01077 alkaline phosphatase [EC:3.1.3.1] | (GenBank) alkaline phosphatase" />
+    <hashEntry Key="xcb:XC_1552" Value="K01061 carboxymethylenebutenolidase [EC:3.1.1.45] | (GenBank) carboxymethylenebutenolidase" />
+    <hashEntry Key="xcb:XC_1568" Value="K00090 gluconate 2-dehydrogenase [EC:1.1.1.215] | (GenBank) 2-hydroxyacid dehydrogenase" />
+    <hashEntry Key="xcb:XC_1569" Value="K00133 aspartate-semialdehyde dehydrogenase [EC:1.2.1.11] | (GenBank) aspartate semialdehyde dehydro" />
+    <hashEntry Key="xcb:XC_1578" Value="K01963 acetyl-CoA carboxylase carboxyl transferase subunit beta [EC:6.4.1.2] | (GenBank) acetyl-coen" />
+    <hashEntry Key="xcb:XC_1587" Value="K01803 triosephosphate isomerase (TIM) [EC:5.3.1.1] | (GenBank) triosephosphate isomerase" />
+    <hashEntry Key="xcb:XC_1742" Value="K02769 PTS system, fructose-specific IIB component [EC:2.7.1.202] K02770 PTS system, fructose-specif" />
+    <hashEntry Key="xcb:XC_1744" Value="K02768 PTS system, fructose-specific IIA component [EC:2.7.1.202] K08483 phosphotransferase system," />
+    <hashEntry Key="xcb:XC_1768" Value="K01915 glutamine synthetase [EC:6.3.1.2] | (GenBank) glutamine synthase" />
+    <hashEntry Key="xcb:XC_1770" Value="K01915 glutamine synthetase [EC:6.3.1.2] | (GenBank) glutamine synthetase" />
+    <hashEntry Key="xcb:XC_1780" Value="K00135 succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2." />
+    <hashEntry Key="xcb:XC_1821" Value="K00023 acetoacetyl-CoA reductase [EC:1.1.1.36] | (GenBank) acetoacetyl-CoA reductase" />
+    <hashEntry Key="xcb:XC_1933" Value="K01491 methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC" />
+    <hashEntry Key="xcb:XC_1952" Value="K01007 pyruvate, water dikinase [EC:2.7.9.2] | (GenBank) phosphoenolpyruvate synthase" />
+    <hashEntry Key="xcb:XC_1973" Value="K01625 2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase [EC:4.1.2" />
+    <hashEntry Key="xcb:XC_1974" Value="K01690 phosphogluconate dehydratase [EC:4.2.1.12] | (GenBank) 6-phosphogluconate dehydratase" />
+    <hashEntry Key="xcb:XC_1975" Value="K01057 6-phosphogluconolactonase [EC:3.1.1.31] | (GenBank) 6-phosphogluconolactonase" />
+    <hashEntry Key="xcb:XC_1976" Value="K00845 glucokinase [EC:2.7.1.2] | (GenBank) glucose kinase" />
+    <hashEntry Key="xcb:XC_1977" Value="K00036 glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363] | (GenBank) glucose-6-phosphate 1" />
+    <hashEntry Key="xcb:XC_1981" Value="K00241 succinate dehydrogenase / fumarate reductase, cytochrome b subunit | (GenBank) succinate dehy" />
+    <hashEntry Key="xcb:XC_1982" Value="K00242 succinate dehydrogenase / fumarate reductase, membrane anchor subunit | (GenBank) succinate d" />
+    <hashEntry Key="xcb:XC_1983" Value="K00239 succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4] | (Ge" />
+    <hashEntry Key="xcb:XC_1985" Value="K00240 succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4] | (Gen" />
+    <hashEntry Key="xcb:XC_2175" Value="K00372 assimilatory nitrate reductase catalytic subunit [EC:1.7.99.4] | (GenBank) nitrate reductase" />
+    <hashEntry Key="xcb:XC_2176" Value="K00363 nitrite reductase (NADH) small subunit [EC:1.7.1.15] | (GenBank) Nitrite assimilation small s" />
+    <hashEntry Key="xcb:XC_2177" Value="K00362 nitrite reductase (NADH) large subunit [EC:1.7.1.15] | (GenBank) nitrite reductase [NAD(P)H]" />
+    <hashEntry Key="xcb:XC_2205" Value="K07516 3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35] | (GenBank) 3-hydroxyacyl-CoA dehydrogenase" />
+    <hashEntry Key="xcb:XC_2206" Value="K00632 acetyl-CoA acyltransferase [EC:2.3.1.16] | (GenBank) 3-ketoacyl-CoA thiolase" />
+    <hashEntry Key="xcb:XC_2326" Value="K01682 aconitate hydratase 2 / 2-methylisocitrate dehydratase [EC:4.2.1.3 4.2.1.99] | (GenBank) acon" />
+    <hashEntry Key="xcb:XC_2329" Value="K01681 aconitate hydratase [EC:4.2.1.3] | (GenBank) aconitase" />
+    <hashEntry Key="xcb:XC_2349" Value="K00215 4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8] | (GenBank) dihydrodipicolinate redu" />
+    <hashEntry Key="xcb:XC_2364" Value="K00058 D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95] | (GenBank) D-3-phosphoglycerate dehydrogena" />
+    <hashEntry Key="xcb:XC_2386" Value="K01733 threonine synthase [EC:4.2.3.1] | (GenBank) threonine synthase" />
+    <hashEntry Key="xcb:XC_2388" Value="K00872 homoserine kinase [EC:2.7.1.39] | (GenBank) homoserine kinase" />
+    <hashEntry Key="xcb:XC_2389" Value="K12524 bifunctional aspartokinase / homoserine dehydrogenase 1 [EC:2.7.2.4 1.1.1.3] | (GenBank) aspa" />
+    <hashEntry Key="xcb:XC_2445" Value="K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] | (GenBank) aldehyde dehydrogenase" />
+    <hashEntry Key="xcb:XC_2465" Value="K01810 glucose-6-phosphate isomerase [EC:5.3.1.9] | (GenBank) glucose-6-phosphate isomerase" />
+    <hashEntry Key="xcb:XC_2488" Value="K01684 galactonate dehydratase [EC:4.2.1.6] | (GenBank) 4-hydroxy-2-oxoglutarate aldolase/2-deydro-3" />
+    <hashEntry Key="xcb:XC_2493" Value="K01714 4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7] | (GenBank) dihydroxydipicolinate synt" />
+    <hashEntry Key="xcb:XC_2531" Value="K01689 enolase [EC:4.2.1.11] | (GenBank) enolase" />
+    <hashEntry Key="xcb:XC_2564" Value="K08738 cytochrome c | (GenBank) cytochrome C2" />
+    <hashEntry Key="xcb:XC_2645" Value="K00831 phosphoserine aminotransferase [EC:2.6.1.52] | (GenBank) phosphoserine aminotransferase" />
+    <hashEntry Key="xcb:XC_2697" Value="K01011 thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2] | (GenBank) thiosulfate" />
+    <hashEntry Key="xcb:XC_2742" Value="K01679 fumarate hydratase, class II [EC:4.2.1.2] | (GenBank) fumarate hydratase" />
+    <hashEntry Key="xcb:XC_2749" Value="K00164 2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2] | (GenBank) oxoglutarate dehydrogenase" />
+    <hashEntry Key="xcb:XC_2750" Value="K00658 2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61" />
+    <hashEntry Key="xcb:XC_2751" Value="K00382 dihydrolipoamide dehydrogenase [EC:1.8.1.4] | (GenBank) dihydrolipoamide dehydrogenase" />
+    <hashEntry Key="xcb:XC_2809" Value="K00252 glutaryl-CoA dehydrogenase [EC:1.3.8.6] | (GenBank) glutaryl-CoA dehydrogenase" />
+    <hashEntry Key="xcb:XC_2822" Value="K01676 fumarate hydratase, class I [EC:4.2.1.2] | (GenBank) fumarate hydratase" />
+    <hashEntry Key="xcb:XC_2851" Value="K01439 succinyl-diaminopimelate desuccinylase [EC:3.5.1.18] | (GenBank) succinyl-diaminopimelate des" />
+    <hashEntry Key="xcb:XC_2854" Value="K00674 2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase [EC:2.3.1.117] | (GenBank) 2,3" />
+    <hashEntry Key="xcb:XC_2881" Value="K01962 acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2] | (GenBank) acetyl-coe" />
+    <hashEntry Key="xcb:XC_2924" Value="K10680 N-ethylmaleimide reductase [EC:1.-.-.-] | (GenBank) GTN reductase" />
+    <hashEntry Key="xcb:XC_2927" Value="K06193 protein PhnA | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_2943" Value="K00626 acetyl-CoA C-acetyltransferase [EC:2.3.1.9] | (GenBank) acetoacetyl-CoA thiolase" />
+    <hashEntry Key="xcb:XC_2975" Value="K01782 3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase [EC:1." />
+    <hashEntry Key="xcb:XC_3050" Value="K01785 aldose 1-epimerase [EC:5.1.3.3] | (GenBank) aldose 1-epimerase" />
+    <hashEntry Key="xcb:XC_3156" Value="K13483 xanthine dehydrogenase YagT iron-sulfur-binding subunit | (GenBank) ferredoxin" />
+    <hashEntry Key="xcb:XC_3157" Value="K11178 xanthine dehydrogenase YagS FAD-binding subunit [EC:1.17.1.4] | (GenBank) hydroxylase molybdo" />
+    <hashEntry Key="xcb:XC_3158" Value="K11177 xanthine dehydrogenase YagR molybdenum-binding subunit [EC:1.17.1.4] | (GenBank) hydroxylase" />
+    <hashEntry Key="xcb:XC_3268" Value="K00030 isocitrate dehydrogenase (NAD+) [EC:1.1.1.41] | (GenBank) isocitrate dehydrogenase" />
+    <hashEntry Key="xcb:XC_3287" Value="K15634 probable phosphoglycerate mutase [EC:5.4.2.12] | (GenBank) phosphoglycerate mutase" />
+    <hashEntry Key="xcb:XC_3307" Value="K00024 malate dehydrogenase [EC:1.1.1.37] | (GenBank) malate dehydrogenase" />
+    <hashEntry Key="xcb:XC_3311" Value="K01426 amidase [EC:3.5.1.4] | (GenBank) Glu-tRNAGln amidotransferase A subunit" />
+    <hashEntry Key="xcb:XC_3358" Value="K00948 ribose-phosphate pyrophosphokinase [EC:2.7.6.1] | (GenBank) phosphoribosyl pyrophosphate synt" />
+    <hashEntry Key="xcb:XC_3368" Value="K01512 acylphosphatase [EC:3.6.1.7] | (GenBank) acylphosphatase" />
+    <hashEntry Key="xcb:XC_3400" Value="K00616 transaldolase [EC:2.2.1.2] | (GenBank) transaldolase B" />
+    <hashEntry Key="xcb:XC_3421" Value="K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] | (GenBank) aldehyde dehydrogenase" />
+    <hashEntry Key="xcb:XC_3426" Value="K04100 protocatechuate 4,5-dioxygenase, alpha chain [EC:1.13.11.8] | (GenBank) protocatechuate degra" />
+    <hashEntry Key="xcb:XC_3427" Value="K04101 protocatechuate 4,5-dioxygenase, beta chain [EC:1.13.11.8] | (GenBank) protocatechuate 3,4-di" />
+    <hashEntry Key="xcb:XC_3473" Value="K01093 4-phytase / acid phosphatase [EC:3.1.3.26 3.1.3.2] | (GenBank) phosphoanhydride phosphohydrol" />
+    <hashEntry Key="xcb:XC_3479" Value="K01595 phosphoenolpyruvate carboxylase [EC:4.1.1.31] | (GenBank) phosphoenolpyruvate carboxylase" />
+    <hashEntry Key="xcb:XC_3488" Value="K01834 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11] | (GenBank) phosphogl" />
+    <hashEntry Key="xcb:XC_3496" Value="K00297 methylenetetrahydrofolate reductase (NADPH) [EC:1.5.1.20] | (GenBank) 5,10-methylenetetrahydr" />
+    <hashEntry Key="xcb:XC_3526" Value="K03777 D-lactate dehydrogenase [EC:1.1.1.28] | (GenBank) D-lactate dehydrogenase" />
+    <hashEntry Key="xcb:XC_3544" Value="K00600 glycine hydroxymethyltransferase [EC:2.1.2.1] | (GenBank) serine hydroxymethyltransferase" />
+    <hashEntry Key="xcb:XC_3608" Value="K15778 phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2] | (GenBank) phosphoglucomutase;" />
+    <hashEntry Key="xcb:XC_3641" Value="K01800 maleylacetoacetate isomerase [EC:5.2.1.2] | (GenBank) maleylacetoacetate isomerase" />
+    <hashEntry Key="xcb:XC_3642" Value="K16171 fumarylacetoacetate (FAA) hydrolase [EC:3.7.1.2] | (GenBank) fumarylacetoacetate hydrolase" />
+    <hashEntry Key="xcb:XC_3655" Value="K01738 cysteine synthase A [EC:2.5.1.47] | (GenBank) cysteine synthase" />
+    <hashEntry Key="xcb:XC_3689" Value="K00382 dihydrolipoamide dehydrogenase [EC:1.8.1.4] | (GenBank) dihydrolipoamide dehydrogenase" />
+    <hashEntry Key="xcb:XC_3691" Value="K00627 pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12] | (Gen" />
+    <hashEntry Key="xcb:XC_3780" Value="K11177 xanthine dehydrogenase YagR molybdenum-binding subunit [EC:1.17.1.4] | (GenBank) oxidoreducta" />
+    <hashEntry Key="xcb:XC_3854" Value="K00031 isocitrate dehydrogenase [EC:1.1.1.42] | (GenBank) isocitrate dehydrogenase" />
+    <hashEntry Key="xcb:XC_3941" Value="K15778 phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2] | (GenBank) phosphomannomutase" />
+    <hashEntry Key="xcb:XC_4044" Value="K00380 sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2] | (GenBank) iron-uptake f" />
+    <hashEntry Key="xcb:XC_4082" Value="K00036 glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363] | (GenBank) glucose-6-phosphate 1" />
+    <hashEntry Key="xcb:XC_4119" Value="K10218 4-hydroxy-4-methyl-2-oxoglutarate aldolase [EC:4.1.3.17] | (GenBank) acyl transferase" />
+    <hashEntry Key="xcb:XC_4120" Value="K16514 4-oxalomesaconate tautomerase [EC:5.3.2.8] | (GenBank) FldA protein" />
+    <hashEntry Key="xcb:XC_4121" Value="K10220 4-oxalmesaconate hydratase [EC:4.2.1.83] | (GenBank) 4-oxalomesaconate hydratase" />
+    <hashEntry Key="xcb:XC_4131" Value="K01113 alkaline phosphatase D [EC:3.1.3.1] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_4149" Value="K01895 acetyl-CoA synthetase [EC:6.2.1.1] | (GenBank) acetyl coenzyme A synthetase" />
+    <hashEntry Key="xcb:XC_4155" Value="K00064 D-threo-aldose 1-dehydrogenase [EC:1.1.1.122] | (GenBank) oxidoreductase" />
+    <hashEntry Key="xcb:XC_4156" Value="K07046 L-fuconolactonase [EC:3.1.1.-] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_4157" Value="K18335 2-keto-3-deoxy-L-fuconate dehydrogenase [EC:1.1.1.-] | (GenBank) oxidoreductase" />
+    <hashEntry Key="xcb:XC_4158" Value="K18336 2,4-diketo-3-deoxy-L-fuconate hydrolase [EC:3.7.1.-] | (GenBank) 2-hydroxyhepta-2,4-diene-1,7" />
+    <hashEntry Key="xcb:XC_4159" Value="K18334 L-fuconate dehydratase [EC:4.2.1.68] | (GenBank) RTS beta protein" />
+    <hashEntry Key="xcb:XC_4170" Value="K00851 gluconokinase [EC:2.7.1.12] | (GenBank) gluconokinase" />
+    <hashEntry Key="xcb:XC_4205" Value="K01053 gluconolactonase [EC:3.1.1.17] | (GenBank) gluconolactonase precursor" />
+    <hashEntry Key="xcb:XC_4227" Value="K01078 acid phosphatase [EC:3.1.3.2] | (GenBank) acid phosphatase" />
+    <hashEntry Key="xcb:XC_4244" Value="K01792 glucose-6-phosphate 1-epimerase [EC:5.1.3.15] | (GenBank) transglycolase; epimerase" />
+    <hashEntry Key="xcb:XC_4315" Value="K00865 glycerate 2-kinase [EC:2.7.1.165] | (GenBank) glycerate kinase" />
+    <hashEntry Key="xcb:XC_4326" Value="K09474 acid phosphatase (class A) [EC:3.1.3.2] | (GenBank) phosphatase precursor" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko01120" Value="" />
+  </KOpathway>
+  <References />
+</KEGG.PathwayBrief>

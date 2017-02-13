@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb03410" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description>Base excision repair (BER) is the predominant DNA damage repair pathway for the processing of small base lesions, derived from oxidation and alkylation damages. BER is normally defined as DNA repair initiated by lesion-specific DNA glycosylases and completed by either of the two sub-pathways: short-patch BER where only one nucleotide is replaced and long-patch BER where 2-13 nucleotides are replaced. Each sub-pathway of BER relies on the formation of protein complexes that assemble at the site of the DNA lesion and facilitate repair in a coordinated fashion. This process of complex formation appears to provide an increase in specificity and efficiency to the BER pathway, thereby facilitating the maintenance of genome integrity by preventing the accumulation of highly toxic repair intermediates.</Description>
+  <Name>Base excision repair - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound />
+  <PathwayMap Key="xcb03410" Value="Base excision repair" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0633" Value="K05522 endonuclease VIII [EC:3.2.2.- 4.2.99.18] | (GenBank) endonuclease" />
+    <hashEntry Key="xcb:XC_1363" Value="K01246 DNA-3-methyladenine glycosylase I [EC:3.2.2.20] | (GenBank) DNA-3-methyladenine glycosylase I" />
+    <hashEntry Key="xcb:XC_1465" Value="K13529 AraC family transcriptional regulator, regulatory protein of adaptative response / DNA-3-meth" />
+    <hashEntry Key="xcb:XC_1694" Value="K03575 A/G-specific adenine glycosylase [EC:3.2.2.-] | (GenBank) A/G-specific adenine glycosylase" />
+    <hashEntry Key="xcb:XC_1800" Value="K03652 DNA-3-methyladenine glycosylase [EC:3.2.2.21] | (GenBank) 3-methyladenine DNA glycosylase" />
+    <hashEntry Key="xcb:XC_2186" Value="K01142 exodeoxyribonuclease III [EC:3.1.11.2] | (GenBank) exodeoxyribonuclease III" />
+    <hashEntry Key="xcb:XC_2343" Value="K07462 single-stranded-DNA-specific exonuclease [EC:3.1.-.-] | (GenBank) putative single stranded DN" />
+    <hashEntry Key="xcb:XC_2664" Value="K01972 DNA ligase (NAD+) [EC:6.5.1.2] | (GenBank) DNA ligase" />
+    <hashEntry Key="xcb:XC_2702" Value="K10773 endonuclease III [EC:4.2.99.18] | (GenBank) endonuclease III" />
+    <hashEntry Key="xcb:XC_2951" Value="K10747 DNA ligase 1 [EC:6.5.1.1 6.5.1.6 6.5.1.7] | (GenBank) DNA ligase" />
+    <hashEntry Key="xcb:XC_3112" Value="K01247 DNA-3-methyladenine glycosylase II [EC:3.2.2.21] | (GenBank) DNA-3-methyladenine glycosylase" />
+    <hashEntry Key="xcb:XC_3844" Value="K03648 uracil-DNA glycosylase [EC:3.2.2.27] | (GenBank) uracil-DNA glycosylase" />
+    <hashEntry Key="xcb:XC_3930" Value="K01142 exodeoxyribonuclease III [EC:3.1.11.2] | (GenBank) exodeoxyribonuclease III" />
+    <hashEntry Key="xcb:XC_4109" Value="K02335 DNA polymerase I [EC:2.7.7.7] | (GenBank) DNA polymerase I" />
+    <hashEntry Key="xcb:XC_4135" Value="K01142 exodeoxyribonuclease III [EC:3.1.11.2] | (GenBank) exodeoxyribonuclease III" />
+    <hashEntry Key="xcb:XC_4239" Value="K10563 formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18] | (GenBank) formamidopyrimidine D" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko03410" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Acta Biochim Pol 54:413-34 (2007)" PMID="17893748">
+      <Authors>Krwawicz J</Authors>
+      <Authors>Arczewska KD</Authors>
+      <Authors>Speina E</Authors>
+      <Authors>Maciejewska A</Authors>
+      <Authors>Grzesiuk E.</Authors>Bacterial DNA repair genes and their eukaryotic homologues: 1. Mutations in genes involved in base excision repair (BER) and DNA-end processors and their implication in mutagenesis and human disease.</Reference>
+    <Reference Journal="DNA Repair (Amst) 6:695-711 (2007)" PMID="17337257">
+      <Authors>Almeida KH</Authors>
+      <Authors>Sobol RW.</Authors>A unified view of base excision repair: lesion-dependent protein complexes regulated by post-translational modification.</Reference>
+    <Reference Journal="J Bacteriol 193:4495-508 (2011)" PMID="21665970">
+      <Authors>Moen MN</Authors>
+      <Authors>Knaevelsrud I</Authors>
+      <Authors>Haugland GT</Authors>
+      <Authors>Grosvik K</Authors>
+      <Authors>Birkeland NK</Authors>
+      <Authors>Klungland A</Authors>
+      <Authors>Bjelland S</Authors>Uracil-DNA glycosylase of Thermoplasma acidophilum directs long-patch base excision repair, which is promoted by deoxynucleoside triphosphates and ATP/ADP,  into short-patch repair.</Reference>
+    <Reference Journal="Tanpakushitsu Kakusan Koso 46:916-23 (2001)" PMID="11436317">
+      <Authors>Ikeda S</Authors>
+      <Authors>Seki S.</Authors>[Base excision repair: DNA glycosylase and AP endonuclease] Japanese</Reference>
+  </References>
+</KEGG.PathwayBrief>

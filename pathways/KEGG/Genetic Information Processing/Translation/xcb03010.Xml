@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb03010" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Ribosome - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00178" Value="Ribosome, bacteria [PATH:xcb03010]" />
+  </Modules>
+  <Compound />
+  <PathwayMap Key="xcb03010" Value="Ribosome" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0490" Value="K02871 large subunit ribosomal protein L13 | (GenBank) 50S ribosomal protein L13" />
+    <hashEntry Key="xcb:XC_0491" Value="K02996 small subunit ribosomal protein S9 | (GenBank) 30S ribosomal protein S9" />
+    <hashEntry Key="xcb:XC_0945" Value="K02909 large subunit ribosomal protein L31 | (GenBank) 50S ribosomal protein L31" />
+    <hashEntry Key="xcb:XC_1608" Value="K02956 small subunit ribosomal protein S15 | (GenBank) 30S ribosomal protein S15" />
+    <hashEntry Key="xcb:XC_1652" Value="K02916 large subunit ribosomal protein L35 | (GenBank) 50S ribosomal protein L35" />
+    <hashEntry Key="xcb:XC_1653" Value="K02887 large subunit ribosomal protein L20 | (GenBank) 50S ribosomal protein L20" />
+    <hashEntry Key="xcb:XC_1922" Value="K02919 large subunit ribosomal protein L36 | (GenBank) 50S ribosomal protein L36" />
+    <hashEntry Key="xcb:XC_1924" Value="K02945 small subunit ribosomal protein S1 | (GenBank) 30S ribosomal protein S1" />
+    <hashEntry Key="xcb:XC_2669" Value="K02939 large subunit ribosomal protein L9 | (GenBank) 50S ribosomal protein L9" />
+    <hashEntry Key="xcb:XC_2670" Value="K02963 small subunit ribosomal protein S18 | (GenBank) 30S ribosomal protein S18" />
+    <hashEntry Key="xcb:XC_2671" Value="K02990 small subunit ribosomal protein S6 | (GenBank) 30S ribosomal protein S6" />
+    <hashEntry Key="xcb:XC_2863" Value="K02967 small subunit ribosomal protein S2 | (GenBank) 30S ribosomal protein S2" />
+    <hashEntry Key="xcb:XC_3040" Value="K02884 large subunit ribosomal protein L19 | (GenBank) 50S ribosomal protein L19" />
+    <hashEntry Key="xcb:XC_3043" Value="K02959 small subunit ribosomal protein S16 | (GenBank) 30S ribosomal protein S16" />
+    <hashEntry Key="xcb:XC_3090" Value="K02968 small subunit ribosomal protein S20 | (GenBank) 30S ribosomal protein S20" />
+    <hashEntry Key="xcb:XC_3092" Value="K02899 large subunit ribosomal protein L27 | (GenBank) 50S ribosomal protein L27" />
+    <hashEntry Key="xcb:XC_3093" Value="K02888 large subunit ribosomal protein L21 | (GenBank) 50S ribosomal protein L21" />
+    <hashEntry Key="xcb:XC_3230" Value="K02911 large subunit ribosomal protein L32 | (GenBank) 50S ribosomal protein L32" />
+    <hashEntry Key="xcb:XC_3315" Value="K02879 large subunit ribosomal protein L17 | (GenBank) 50S ribosomal protein L17" />
+    <hashEntry Key="xcb:XC_3317" Value="K02986 small subunit ribosomal protein S4 | (GenBank) 30S ribosomal protein s4" />
+    <hashEntry Key="xcb:XC_3318" Value="K02948 small subunit ribosomal protein S11 | (GenBank) 30S ribosomal protein S11" />
+    <hashEntry Key="xcb:XC_3319" Value="K02952 small subunit ribosomal protein S13 | (GenBank) 30S ribosomal protein S13" />
+    <hashEntry Key="xcb:XC_3321" Value="K02876 large subunit ribosomal protein L15 | (GenBank) 50S ribosomal protein L15" />
+    <hashEntry Key="xcb:XC_3322" Value="K02907 large subunit ribosomal protein L30 | (GenBank) 50S ribosomal protein L30" />
+    <hashEntry Key="xcb:XC_3323" Value="K02988 small subunit ribosomal protein S5 | (GenBank) 30S ribosomal protein S5" />
+    <hashEntry Key="xcb:XC_3324" Value="K02881 large subunit ribosomal protein L18 | (GenBank) 50S ribosomal protein L18" />
+    <hashEntry Key="xcb:XC_3325" Value="K02933 large subunit ribosomal protein L6 | (GenBank) 50S ribosomal protein L6" />
+    <hashEntry Key="xcb:XC_3326" Value="K02994 small subunit ribosomal protein S8 | (GenBank) 30S ribosomal protein S8" />
+    <hashEntry Key="xcb:XC_3327" Value="K02954 small subunit ribosomal protein S14 | (GenBank) 30S ribosomal protein S14" />
+    <hashEntry Key="xcb:XC_3328" Value="K02931 large subunit ribosomal protein L5 | (GenBank) 50S ribosomal protein L5" />
+    <hashEntry Key="xcb:XC_3329" Value="K02895 large subunit ribosomal protein L24 | (GenBank) 50S ribosomal protein L24" />
+    <hashEntry Key="xcb:XC_3330" Value="K02874 large subunit ribosomal protein L14 | (GenBank) 50S ribosomal protein L14" />
+    <hashEntry Key="xcb:XC_3331" Value="K02961 small subunit ribosomal protein S17 | (GenBank) 30S ribosomal protein S17" />
+    <hashEntry Key="xcb:XC_3332" Value="K02904 large subunit ribosomal protein L29 | (GenBank) 50S ribosomal protein L29" />
+    <hashEntry Key="xcb:XC_3333" Value="K02878 large subunit ribosomal protein L16 | (GenBank) 50S ribosomal protein L16" />
+    <hashEntry Key="xcb:XC_3334" Value="K02982 small subunit ribosomal protein S3 | (GenBank) 30S ribosomal protein S3" />
+    <hashEntry Key="xcb:XC_3335" Value="K02890 large subunit ribosomal protein L22 | (GenBank) 50S ribosomal protein L22" />
+    <hashEntry Key="xcb:XC_3336" Value="K02965 small subunit ribosomal protein S19 | (GenBank) 30S ribosomal protein S19" />
+    <hashEntry Key="xcb:XC_3337" Value="K02886 large subunit ribosomal protein L2 | (GenBank) 50S ribosomal protein L2" />
+    <hashEntry Key="xcb:XC_3338" Value="K02892 large subunit ribosomal protein L23 | (GenBank) 50S ribosomal protein L23" />
+    <hashEntry Key="xcb:XC_3339" Value="K02926 large subunit ribosomal protein L4 | (GenBank) 50S ribosomal protein L4" />
+    <hashEntry Key="xcb:XC_3340" Value="K02906 large subunit ribosomal protein L3 | (GenBank) 50S ribosomal protein L3" />
+    <hashEntry Key="xcb:XC_3341" Value="K02946 small subunit ribosomal protein S10 | (GenBank) 30S ribosomal protein S10" />
+    <hashEntry Key="xcb:XC_3344" Value="K02992 small subunit ribosomal protein S7 | (GenBank) 30S ribosomal protein S7" />
+    <hashEntry Key="xcb:XC_3345" Value="K02950 small subunit ribosomal protein S12 | (GenBank) 30S ribosomal protein S12" />
+    <hashEntry Key="xcb:XC_3348" Value="K02935 large subunit ribosomal protein L7/L12 | (GenBank) 50S ribosomal protein L7/L12" />
+    <hashEntry Key="xcb:XC_3349" Value="K02864 large subunit ribosomal protein L10 | (GenBank) 50S ribosomal protein L10" />
+    <hashEntry Key="xcb:XC_3350" Value="K02863 large subunit ribosomal protein L1 | (GenBank) 50S ribosomal protein L1" />
+    <hashEntry Key="xcb:XC_3351" Value="K02867 large subunit ribosomal protein L11 | (GenBank) 50S ribosomal protein L11" />
+    <hashEntry Key="xcb:XC_3357" Value="K02897 large subunit ribosomal protein L25 | (GenBank) 50S ribosomal protein L25" />
+    <hashEntry Key="xcb:XC_3889" Value="K02970 small subunit ribosomal protein S21 | (GenBank) 30S ribosomal protein S21" />
+    <hashEntry Key="xcb:XC_4122" Value="K02913 large subunit ribosomal protein L33 | (GenBank) 50S ribosomal protein L33" />
+    <hashEntry Key="xcb:XC_4123" Value="K02902 large subunit ribosomal protein L28 | (GenBank) 50S ribosomal protein L28" />
+    <hashEntry Key="xcb:XC_4332" Value="K02914 large subunit ribosomal protein L34 | (GenBank) 50S ribosomal protein L34" />
+    <hashEntry Key="xcb:XC_4382" Value="K01985 5S ribosomal RNA | (GenBank) 5S ribosomal RNA" />
+    <hashEntry Key="xcb:XC_4383" Value="K01980 23S ribosomal RNA | (GenBank) 23S ribosomal RNA" />
+    <hashEntry Key="xcb:XC_4386" Value="K01977 16S ribosomal RNA | (GenBank) 16S ribosomal RNA" />
+    <hashEntry Key="xcb:XC_4389" Value="K01985 5S ribosomal RNA | (GenBank) 5S ribosomal RNA" />
+    <hashEntry Key="xcb:XC_4390" Value="K01980 23S ribosomal RNA | (GenBank) 23S ribosomal RNA" />
+    <hashEntry Key="xcb:XC_4393" Value="K01977 16S ribosomal RNA | (GenBank) 16S ribosomal RNA" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko03010" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Nature 400:841-847 (1999)" PMID="10476961">
+      <Authors>Ban N</Authors>
+      <Authors>Nissen P</Authors>
+      <Authors>Hansen J</Authors>
+      <Authors>Capel M</Authors>
+      <Authors>Moore PB</Authors>
+      <Authors>Steitz TA.</Authors>Placement of protein and RNA structures into a 5 A-resolution map of the 50S ribosomal subunit.</Reference>
+    <Reference Journal="Nature 400:833-840 (1999)" PMID="10476960">
+      <Authors>Clemons WM Jr</Authors>
+      <Authors>May JL</Authors>
+      <Authors>Wimberly BT</Authors>
+      <Authors>McCutcheon JP</Authors>
+      <Authors>Capel MS</Authors>
+      <Authors>Ramakrishnan V.</Authors>Structure of a bacterial 30S ribosomal subunit at 5.5 A resolution.</Reference>
+    <Reference Journal="Science 285:2095-2104 (1999)" PMID="10497122">
+      <Authors>Cate JH</Authors>
+      <Authors>Yusupov MM</Authors>
+      <Authors>Yusupova GZ</Authors>
+      <Authors>Earnest TN</Authors>
+      <Authors>Noller HF.</Authors>X-ray crystal structures of 70S ribosome functional complexes.</Reference>
+    <Reference Journal="Science 289:905-920 (2000)" PMID="10937989">
+      <Authors>Ban N</Authors>
+      <Authors>Nissen P</Authors>
+      <Authors>Hansen J</Authors>
+      <Authors>Moore PB</Authors>
+      <Authors>Steitz TA.</Authors>The complete atomic structure of the large ribosomal subunit at 2.4 A resolution.</Reference>
+    <Reference Journal="Science 289:920-930 (2000)" PMID="10937990">
+      <Authors>Nissen P</Authors>
+      <Authors>Hansen J</Authors>
+      <Authors>Ban N</Authors>
+      <Authors>Moore PB</Authors>
+      <Authors>Steitz TA.</Authors>The structural basis of ribosome activity in peptide bond synthesis.</Reference>
+    <Reference Journal="Nature 407:327-339 (2000)" PMID="11014182">
+      <Authors>Wimberly BT</Authors>
+      <Authors>Brodersen DE</Authors>
+      <Authors>Clemons WM Jr</Authors>
+      <Authors>Morgan-Warren RJ</Authors>
+      <Authors>Carter AP</Authors>
+      <Authors>Vonrhein C</Authors>
+      <Authors>Hartsch T</Authors>
+      <Authors>Ramakrishnan V.</Authors>Structure of the 30S ribosomal subunit.</Reference>
+    <Reference Journal="Nature 407:340-348 (2000)" PMID="11014183">
+      <Authors>Carter AP</Authors>
+      <Authors>Clemons WM</Authors>
+      <Authors>Brodersen DE</Authors>
+      <Authors>Morgan-Warren RJ</Authors>
+      <Authors>Wimberly BT</Authors>
+      <Authors>Ramakrishnan V.</Authors>Functional insights from the structure of the 30S ribosomal subunit and its interactions with antibiotics.</Reference>
+  </References>
+</KEGG.PathwayBrief>

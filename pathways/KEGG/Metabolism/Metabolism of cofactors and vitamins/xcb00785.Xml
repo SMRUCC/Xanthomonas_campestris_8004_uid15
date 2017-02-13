@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00785" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Lipoic acid metabolism - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound>
+    <hashEntry Key="C05752" Value="Octanoyl-[acp]" />
+    <hashEntry Key="C16236" Value="Protein N6-(octanoyl)lysine" />
+    <hashEntry Key="C16237" Value="Protein N6-(lipoyl)lysine" />
+    <hashEntry Key="C16238" Value="Lipoyl-AMP" />
+    <hashEntry Key="C16239" Value="Lipoyl-[acp]" />
+    <hashEntry Key="C16241" Value="(R)-Lipoate" />
+  </Compound>
+  <PathwayMap Key="xcb00785" Value="Lipoic acid metabolism" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0712" Value="K03801 lipoyl(octanoyl) transferase [EC:2.3.1.181] | (GenBank) lipoate biosynthesis protein B" />
+    <hashEntry Key="xcb:XC_0713" Value="K03644 lipoyl synthase [EC:2.8.1.8] | (GenBank) lipoic acid synthetase" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00785" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Biochem Soc Trans 33:977-80 (2005)" PMID="16246025">
+      <Authors>Gunther S</Authors>
+      <Authors>McMillan PJ</Authors>
+      <Authors>Wallace LJ</Authors>
+      <Authors>Muller S.</Authors>Plasmodium falciparum possesses organelle-specific alpha-keto acid dehydrogenase complexes and lipoylation pathways.</Reference>
+    <Reference Journal="Eur J Biochem 260:761-7 (1999)" PMID="10103005">
+      <Authors>Fujiwara K</Authors>
+      <Authors>Suzuki M</Authors>
+      <Authors>Okumachi Y</Authors>
+      <Authors>Okamura-Ikeda K</Authors>
+      <Authors>Fujiwara T</Authors>
+      <Authors>Takahashi E</Authors>
+      <Authors>Motokawa Y.</Authors>Molecular cloning, structural characterization and chromosomal localization of human lipoyltransferase gene.</Reference>
+    <Reference Journal="J Biol Chem 269:16605-9 (1994)" PMID="8206978">
+      <Authors>Fujiwara K</Authors>
+      <Authors>Okamura-Ikeda K</Authors>
+      <Authors>Motokawa Y.</Authors>Purification and characterization of lipoyl-AMP:N epsilon-lysine lipoyltransferase from bovine liver mitochondria.</Reference>
+    <Reference Journal="J Biol Chem 272:31974-8 (1997)" PMID="9405389">
+      <Authors>Fujiwara K</Authors>
+      <Authors>Okamura-Ikeda K</Authors>
+      <Authors>Motokawa Y.</Authors>Cloning and expression of a cDNA encoding bovine lipoyltransferase.</Reference>
+    <Reference Journal="J Biol Chem 276:28819-23 (2001)" PMID="11382754">
+      <Authors>Fujiwara K</Authors>
+      <Authors>Takeuchi S</Authors>
+      <Authors>Okamura-Ikeda K</Authors>
+      <Authors>Motokawa Y.</Authors>Purification, characterization, and cDNA cloning of lipoate-activating enzyme from bovine liver.</Reference>
+    <Reference Journal="J Biol Chem 280:33645-51 (2005)" PMID="16043486">
+      <Authors>Fujiwara K</Authors>
+      <Authors>Toma S</Authors>
+      <Authors>Okamura-Ikeda K</Authors>
+      <Authors>Motokawa Y</Authors>
+      <Authors>Nakagawa A</Authors>
+      <Authors>Taniguchi H.</Authors>Crystal structure of lipoate-protein ligase A from Escherichia coli. Determination of the lipoic acid-binding site.</Reference>
+    <Reference Journal="Plant Physiol 118:935-43 (1998)" PMID="9808738">
+      <Authors>Yasuno R</Authors>
+      <Authors>Wada H.</Authors>Biosynthesis of lipoic acid in Arabidopsis: cloning and characterization of the cDNA for lipoic acid synthase.</Reference>
+    <Reference Journal="J Biol Chem 275:5016-25 (2000)" PMID="10671542">
+      <Authors>Gueguen V</Authors>
+      <Authors>Macherel D</Authors>
+      <Authors>Jaquinod M</Authors>
+      <Authors>Douce R</Authors>
+      <Authors>Bourguignon J.</Authors>Fatty acid and lipoic acid biosynthesis in higher plant mitochondria.</Reference>
+    <Reference Journal="Plant Cell Physiol 42:650-6 (2001)" PMID="11427685">
+      <Authors>Wada M</Authors>
+      <Authors>Yasuno R</Authors>
+      <Authors>Jordan SW</Authors>
+      <Authors>Cronan JE Jr</Authors>
+      <Authors>Wada H.</Authors>Lipoic acid metabolism in Arabidopsis thaliana: cloning and characterization of a cDNA encoding lipoyltransferase.</Reference>
+    <Reference Journal="J Biol Chem 269:16091-100 (1994)" PMID="8206909">
+      <Authors>Morris TW</Authors>
+      <Authors>Reed KE</Authors>
+      <Authors>Cronan JE Jr.</Authors>Identification of the gene encoding lipoate-protein ligase A of Escherichia coli. Molecular cloning and characterization of the lplA gene and gene product.</Reference>
+    <Reference Journal="Chem Biol 10:1293-302 (2003)" PMID="14700636">
+      <Authors>Zhao X</Authors>
+      <Authors>Miller JR</Authors>
+      <Authors>Jiang Y</Authors>
+      <Authors>Marletta MA</Authors>
+      <Authors>Cronan JE.</Authors>Assembly of the covalent linkage between lipoic acid and its cognate enzymes.</Reference>
+    <Reference Journal="Protein Expr Purif 39:269-82 (2005)" PMID="15642479">
+      <Authors>Nesbitt NM</Authors>
+      <Authors>Baleanu-Gogonea C</Authors>
+      <Authors>Cicchillo RM</Authors>
+      <Authors>Goodson K</Authors>
+      <Authors>Iwig DF</Authors>
+      <Authors>Broadwater JA</Authors>
+      <Authors>Haas JA</Authors>
+      <Authors>Fox BG</Authors>
+      <Authors>Booker SJ.</Authors>Expression, purification, and physical characterization of Escherichia coli lipoyl(octanoyl)transferase.</Reference>
+  </References>
+</KEGG.PathwayBrief>

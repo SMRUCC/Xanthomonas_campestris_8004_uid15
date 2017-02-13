@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00364" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Fluorobenzoate degradation - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound>
+    <hashEntry Key="C00090" Value="Catechol" />
+    <hashEntry Key="C02222" Value="2-Maleylacetate" />
+    <hashEntry Key="C02357" Value="2-Chlorobenzoate" />
+    <hashEntry Key="C02359" Value="2-Fluorobenzoate" />
+    <hashEntry Key="C02364" Value="3-Fluorobenzoate" />
+    <hashEntry Key="C02370" Value="4-Chlorobenzoate" />
+    <hashEntry Key="C02371" Value="4-Fluorobenzoate" />
+    <hashEntry Key="C02802" Value="4-Fluorobenzoyl-CoA" />
+    <hashEntry Key="C02949" Value="4-Hydroxybenzoyl-CoA" />
+    <hashEntry Key="C03925" Value="3,5-Dibromo-4-hydroxybenzoate" />
+    <hashEntry Key="C04178" Value="Bromoxynil" />
+    <hashEntry Key="C06387" Value="4-Chlorobenzoyl-CoA" />
+    <hashEntry Key="C06670" Value="2,4-Dichlorobenzoate" />
+    <hashEntry Key="C06671" Value="2,4-Dichlorobenzoyl-CoA" />
+    <hashEntry Key="C11272" Value="Fluorobenzene" />
+    <hashEntry Key="C16246" Value="3,5-Dibromo-4-hydroxybenzamide" />
+    <hashEntry Key="C16247" Value="2,6-Dibromophenol" />
+    <hashEntry Key="C16248" Value="2,6-Dibromohydroquinone" />
+    <hashEntry Key="C16249" Value="2-Bromomaleylacetate" />
+    <hashEntry Key="C16472" Value="3-Fluorocatechol" />
+    <hashEntry Key="C16473" Value="4-Fluorocatechol" />
+    <hashEntry Key="C16474" Value="3-Fluoro-cis,cis-muconate" />
+    <hashEntry Key="C16475" Value="2-Fluoro-cis,cis-muconate" />
+    <hashEntry Key="C16476" Value="4-Fluoromuconolactone" />
+    <hashEntry Key="C16477" Value="5-Fluoromuconolactone" />
+    <hashEntry Key="C16478" Value="3-Fluorocyclohexadiene-cis,cis-1,2-diol-1-carboxylate" />
+    <hashEntry Key="C16479" Value="5-Fluorocyclohexadiene-cis,cis-1,2-diol-1-carboxylate" />
+    <hashEntry Key="C16480" Value="4-Fluorocyclohexadiene-cis,cis-1,2-diol-1-carboxylate" />
+    <hashEntry Key="C16481" Value="6-Fluorocyclohexadiene-cis,cis-1,2-diol-1-carboxylate" />
+    <hashEntry Key="C16482" Value="2-Fluorocyclohexadiene-cis,cis-1,2-diol-1-carboxylate" />
+    <hashEntry Key="C16483" Value="4-Fluorocyclohexadiene-cis,cis-1,2-diol" />
+    <hashEntry Key="C16484" Value="1-Fluorocyclohexadiene-cis,cis-1,2-diol" />
+  </Compound>
+  <PathwayMap Key="xcb00364" Value="Fluorobenzoate degradation" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0539" Value="K01061 carboxymethylenebutenolidase [EC:3.1.1.45] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_0540" Value="K01061 carboxymethylenebutenolidase [EC:3.1.1.45] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_1552" Value="K01061 carboxymethylenebutenolidase [EC:3.1.1.45] | (GenBank) carboxymethylenebutenolidase" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00364" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Appl Environ Microbiol 39:58-67 (1980)" PMID="16345496">
+      <Authors>Schreiber A</Authors>
+      <Authors>Hellwig M</Authors>
+      <Authors>Dorn E</Authors>
+      <Authors>Reineke W</Authors>
+      <Authors>Knackmuss HJ.</Authors>Critical Reactions in Fluorobenzoic Acid Degradation by Pseudomonas sp. B13.</Reference>
+    <Reference Journal="Appl Environ Microbiol 69:5636-42 (2003)" PMID="12957954">
+      <Authors>Solyanikova IP</Authors>
+      <Authors>Moiseeva OV</Authors>
+      <Authors>Boeren S</Authors>
+      <Authors>Boersma MG</Authors>
+      <Authors>Kolomytseva MP</Authors>
+      <Authors>Vervoort J</Authors>
+      <Authors>Rietjens IM</Authors>
+      <Authors>Golovleva LA</Authors>
+      <Authors>van Berkel WJ.</Authors>Conversion of 2-fluoromuconate to cis-dienelactone by purified enzymes of Rhodococcus opacus 1cp.</Reference>
+    <Reference Journal="Appl Environ Microbiol 72:7413-7 (2006)" PMID="16980423">
+      <Authors>Carvalho MF</Authors>
+      <Authors>Ferreira MI</Authors>
+      <Authors>Moreira IS</Authors>
+      <Authors>Castro PM</Authors>
+      <Authors>Janssen DB.</Authors>Degradation of fluorobenzene by Rhizobiales strain F11 via ortho cleavage of 4-fluorocatechol and catechol.</Reference>
+    <Reference Journal="FEMS Microbiol Lett 281:203-9 (2008)" PMID="18355280">
+      <Authors>Chae JC</Authors>
+      <Authors>Song B</Authors>
+      <Authors>Zylstra GJ</Authors>Identification of genes coding for hydrolytic dehalogenation in the metagenome derived from a denitrifying 4-chlorobenzoate degrading consortium.</Reference>
+    <Reference Journal="" PMID="Rosenbrock P, Munch JC, Scheunert I, Dorfler U.">
+      <Authors>Biodegradation of the herbicide bromoxynil and its plant cell wall bound residues in an agricultural soil.</Authors>Pesticide Biochemistry and Physiology 78:49-57 (2004)</Reference>
+    <Reference Journal="Appl Environ Microbiol 58:502-6 (1992)" PMID="1610174">
+      <Authors>Topp E</Authors>
+      <Authors>Xun LY</Authors>
+      <Authors>Orser CS.</Authors>Biodegradation of the herbicide bromoxynil (3,5-dibromo-4-hydroxybenzonitrile) by purified pentachlorophenol hydroxylase and whole cells of Flavobacterium sp. strain ATCC 39723 is accompanied by cyanogenesis.</Reference>
+  </References>
+</KEGG.PathwayBrief>

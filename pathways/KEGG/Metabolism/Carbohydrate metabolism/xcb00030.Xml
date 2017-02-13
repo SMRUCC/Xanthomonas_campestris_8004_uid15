@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00030" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description>The pentose phosphate pathway is a process of glucose turnover that produces NADPH as reducing equivalents and pentoses as essential parts of nucleotides. There are two different phases in the pathway. One is irreversible oxidative phase in which glucose-6P is converted to ribulose-5P by oxidative decarboxylation, and NADPH is generated [MD:M00006]. The other is reversible non-oxidative phase in which phosphorylated sugars are interconverted to generate xylulose-5P, ribulose-5P, and ribose-5P [MD:M00007]. Phosphoribosyl pyrophosphate (PRPP) formed from ribose-5P [MD:M00005] is an activated compound used in the biosynthesis of histidine and purine/pyrimidine nucleotides. This pathway map also shows the Entner-Doudoroff pathway where 6-P-gluconate is dehydrated and then cleaved into pyruvate and glyceraldehyde-3P [MD:M00008].</Description>
+  <Name>Pentose phosphate pathway - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00004" Value="Pentose phosphate pathway (Pentose phosphate cycle) [PATH:xcb00030]" />
+    <hashEntry Key="xcb_M00005" Value="PRPP biosynthesis, ribose 5P =&gt; PRPP [PATH:xcb00030]" />
+    <hashEntry Key="xcb_M00006" Value="Pentose phosphate pathway, oxidative phase, glucose 6P =&gt; ribulose 5P [PATH:xcb00030]" />
+    <hashEntry Key="xcb_M00007" Value="Pentose phosphate pathway, non-oxidative phase, fructose 6P =&gt; ribose 5P [PATH:xcb00030]" />
+    <hashEntry Key="xcb_M00008" Value="Entner-Doudoroff pathway, glucose-6P =&gt; glyceraldehyde-3P + pyruvate [PATH:xcb00030]" />
+    <hashEntry Key="xcb_M00061" Value="D-Glucuronate degradation, D-glucuronate =&gt; pyruvate + D-glyceraldehyde 3P [PATH:xcb00030]" />
+  </Modules>
+  <Compound>
+    <hashEntry Key="C00022" Value="Pyruvate" />
+    <hashEntry Key="C00031" Value="D-Glucose" />
+    <hashEntry Key="C00117" Value="D-Ribose 5-phosphate" />
+    <hashEntry Key="C00118" Value="D-Glyceraldehyde 3-phosphate" />
+    <hashEntry Key="C00119" Value="5-Phospho-alpha-D-ribose 1-diphosphate" />
+    <hashEntry Key="C00121" Value="D-Ribose" />
+    <hashEntry Key="C00197" Value="3-Phospho-D-glycerate" />
+    <hashEntry Key="C00198" Value="D-Glucono-1,5-lactone" />
+    <hashEntry Key="C00199" Value="D-Ribulose 5-phosphate" />
+    <hashEntry Key="C00204" Value="2-Dehydro-3-deoxy-D-gluconate" />
+    <hashEntry Key="C00221" Value="beta-D-Glucose" />
+    <hashEntry Key="C00231" Value="D-Xylulose 5-phosphate" />
+    <hashEntry Key="C00257" Value="D-Gluconic acid" />
+    <hashEntry Key="C00258" Value="D-Glycerate" />
+    <hashEntry Key="C00279" Value="D-Erythrose 4-phosphate" />
+    <hashEntry Key="C00345" Value="6-Phospho-D-gluconate" />
+    <hashEntry Key="C00577" Value="D-Glyceraldehyde" />
+    <hashEntry Key="C00620" Value="alpha-D-Ribose 1-phosphate" />
+    <hashEntry Key="C00631" Value="2-Phospho-D-glycerate" />
+    <hashEntry Key="C00668" Value="alpha-D-Glucose 6-phosphate" />
+    <hashEntry Key="C00672" Value="2-Deoxy-D-ribose 1-phosphate" />
+    <hashEntry Key="C00673" Value="2-Deoxy-D-ribose 5-phosphate" />
+    <hashEntry Key="C01151" Value="D-Ribose 1,5-bisphosphate" />
+    <hashEntry Key="C01172" Value="beta-D-Glucose 6-phosphate" />
+    <hashEntry Key="C01218" Value="6-Phospho-2-dehydro-D-gluconate" />
+    <hashEntry Key="C01236" Value="D-Glucono-1,5-lactone 6-phosphate" />
+    <hashEntry Key="C01801" Value="Deoxyribose" />
+    <hashEntry Key="C03752" Value="2-Amino-2-deoxy-D-gluconate" />
+    <hashEntry Key="C04442" Value="2-Dehydro-3-deoxy-6-phospho-D-gluconate" />
+    <hashEntry Key="C05345" Value="beta-D-Fructose 6-phosphate" />
+    <hashEntry Key="C05378" Value="beta-D-Fructose 1,6-bisphosphate" />
+    <hashEntry Key="C05382" Value="Sedoheptulose 7-phosphate" />
+    <hashEntry Key="C06019" Value="D-arabino-Hex-3-ulose 6-phosphate" />
+    <hashEntry Key="C06473" Value="2-Keto-D-gluconic acid" />
+    <hashEntry Key="C20589" Value="D-Glucosaminate-6-phosphate" />
+  </Compound>
+  <PathwayMap Key="xcb00030" Value="Pentose phosphate pathway" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0098" Value="K03841 fructose-1,6-bisphosphatase I [EC:3.1.3.11] | (GenBank) fructose-1,6-bisphosphatase" />
+    <hashEntry Key="xcb:XC_0122" Value="K00874 2-dehydro-3-deoxygluconokinase [EC:2.7.1.45] | (GenBank) 2-keto-3-deoxygluconate kinase" />
+    <hashEntry Key="xcb:XC_0162" Value="K01808 ribose 5-phosphate isomerase B [EC:5.3.1.6] | (GenBank) sugar-phosphate isomerase" />
+    <hashEntry Key="xcb:XC_0469" Value="K01783 ribulose-phosphate 3-epimerase [EC:5.1.3.1] | (GenBank) D-ribulose-5-phosphate 3-epimerase" />
+    <hashEntry Key="xcb:XC_0553" Value="K01053 gluconolactonase [EC:3.1.1.17] | (GenBank) gluconolactonase precursor" />
+    <hashEntry Key="xcb:XC_0725" Value="K00033 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343] | (GenBank) 6-phosphogluconate dehyd" />
+    <hashEntry Key="xcb:XC_0872" Value="K21071 ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase [EC:2.7.1.11 2." />
+    <hashEntry Key="xcb:XC_0899" Value="K01807 ribose 5-phosphate isomerase A [EC:5.3.1.6] | (GenBank) ribose-5-phosphate isomerase A" />
+    <hashEntry Key="xcb:XC_0929" Value="K00615 transketolase [EC:2.2.1.1] | (GenBank) transketolase 1" />
+    <hashEntry Key="xcb:XC_0979" Value="K01623 fructose-bisphosphate aldolase, class I [EC:4.1.2.13] | (GenBank) fructose-bisphosphate aldol" />
+    <hashEntry Key="xcb:XC_1075" Value="K00117 quinoprotein glucose dehydrogenase [EC:1.1.5.2] | (GenBank) glucose dehydrogenase" />
+    <hashEntry Key="xcb:XC_1568" Value="K00090 gluconate 2-dehydrogenase [EC:1.1.1.215] | (GenBank) 2-hydroxyacid dehydrogenase" />
+    <hashEntry Key="xcb:XC_1973" Value="K01625 2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase [EC:4.1.2" />
+    <hashEntry Key="xcb:XC_1974" Value="K01690 phosphogluconate dehydratase [EC:4.2.1.12] | (GenBank) 6-phosphogluconate dehydratase" />
+    <hashEntry Key="xcb:XC_1975" Value="K01057 6-phosphogluconolactonase [EC:3.1.1.31] | (GenBank) 6-phosphogluconolactonase" />
+    <hashEntry Key="xcb:XC_1977" Value="K00036 glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363] | (GenBank) glucose-6-phosphate 1" />
+    <hashEntry Key="xcb:XC_2465" Value="K01810 glucose-6-phosphate isomerase [EC:5.3.1.9] | (GenBank) glucose-6-phosphate isomerase" />
+    <hashEntry Key="xcb:XC_2659" Value="K00117 quinoprotein glucose dehydrogenase [EC:1.1.5.2] | (GenBank) glucose dehydrogenase" />
+    <hashEntry Key="xcb:XC_3358" Value="K00948 ribose-phosphate pyrophosphokinase [EC:2.7.6.1] | (GenBank) phosphoribosyl pyrophosphate synt" />
+    <hashEntry Key="xcb:XC_3400" Value="K00616 transaldolase [EC:2.2.1.2] | (GenBank) transaldolase B" />
+    <hashEntry Key="xcb:XC_3468" Value="K00852 ribokinase [EC:2.7.1.15] | (GenBank) ribokinase" />
+    <hashEntry Key="xcb:XC_3608" Value="K15778 phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2] | (GenBank) phosphoglucomutase;" />
+    <hashEntry Key="xcb:XC_3941" Value="K15778 phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2] | (GenBank) phosphomannomutase" />
+    <hashEntry Key="xcb:XC_4082" Value="K00036 glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363] | (GenBank) glucose-6-phosphate 1" />
+    <hashEntry Key="xcb:XC_4170" Value="K00851 gluconokinase [EC:2.7.1.12] | (GenBank) gluconokinase" />
+    <hashEntry Key="xcb:XC_4205" Value="K01053 gluconolactonase [EC:3.1.1.17] | (GenBank) gluconolactonase precursor" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00030" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Tokyo Kagaku Dojin (1980)" PMID="(map 3)">
+      <Authors>Nishizuka Y (ed).</Authors>[Metabolic Maps] (In Japanese)</Reference>
+    <Reference Journal="Tokyo Kagaku Dojin (1997)" PMID="(map 4)">
+      <Authors>Nishizuka Y</Authors>
+      <Authors>Seyama Y</Authors>
+      <Authors>Ikai A</Authors>
+      <Authors>Ishimura Y</Authors>
+      <Authors>Kawaguchi A (eds).</Authors>[Cellular Functions and Metabolic Maps] (In Japanese)</Reference>
+    <Reference Journal="" PMID="Michal G.">
+      <Authors>Biochemical Pathways</Authors>Wiley (1999)</Reference>
+    <Reference Journal="J Bacteriol 185:2793-801 (2003)" PMID="12700258">
+      <Authors>Hove-Jensen B</Authors>
+      <Authors>Rosenkrantz TJ</Authors>
+      <Authors>Haldimann A</Authors>
+      <Authors>Wanner BL.</Authors>Escherichia coli phnN, encoding ribose 1,5-bisphosphokinase activity (phosphoribosyl diphosphate forming): dual role in phosphonate degradation and NAD biosynthesis pathways.</Reference>
+    <Reference Journal="J Bacteriol 188:4698-704 (2006)" PMID="16788179">
+      <Authors>Orita I</Authors>
+      <Authors>Sato T</Authors>
+      <Authors>Yurimoto H</Authors>
+      <Authors>Kato N</Authors>
+      <Authors>Atomi H</Authors>
+      <Authors>Imanaka T</Authors>
+      <Authors>Sakai Y</Authors>The ribulose monophosphate pathway substitutes for the missing pentose phosphate  pathway in the archaeon Thermococcus kodakaraensis.</Reference>
+    <Reference Journal="Biosci Biotechnol Biochem 70:10-21 (2006)" PMID="16428816">
+      <Authors>Kato N</Authors>
+      <Authors>Yurimoto H</Authors>
+      <Authors>Thauer RK</Authors>The physiological role of the ribulose monophosphate pathway in bacteria and archaea.</Reference>
+    <Reference Journal="FEBS J 280:1126-38 (2013)" PMID="23279921">
+      <Authors>Kouril T</Authors>
+      <Authors>Wieloch P</Authors>
+      <Authors>Reimann J</Authors>
+      <Authors>Wagner M</Authors>
+      <Authors>Zaparty M</Authors>
+      <Authors>Albers SV</Authors>
+      <Authors>Schomburg D</Authors>
+      <Authors>Ruoff P</Authors>
+      <Authors>Siebers B</Authors>Unraveling the function of the two Entner-Doudoroff branches in the thermoacidophilic Crenarchaeon Sulfolobus solfataricus P2.</Reference>
+    <Reference Journal="FEBS Lett 580:1198-204 (2006)" PMID="16458304">
+      <Authors>Reher M</Authors>
+      <Authors>Schonheit P</Authors>Glyceraldehyde dehydrogenases from the thermoacidophilic euryarchaeota Picrophilus torridus and Thermoplasma acidophilum, key enzymes of the non-phosphorylative Entner-Doudoroff pathway, constitute a novel enzyme family within the aldehyde dehydrogenase superfamily.</Reference>
+    <Reference Journal="J Bacteriol 192:964-74 (2010)" PMID="20023024">
+      <Authors>Reher M</Authors>
+      <Authors>Fuhrer T</Authors>
+      <Authors>Bott M</Authors>
+      <Authors>Schonheit P</Authors>The nonphosphorylative Entner-Doudoroff pathway in the thermoacidophilic euryarchaeon Picrophilus torridus involves a novel 2-keto-3-deoxygluconate- specific aldolase.</Reference>
+  </References>
+</KEGG.PathwayBrief>

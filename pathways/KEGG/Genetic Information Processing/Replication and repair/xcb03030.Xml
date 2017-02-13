@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb03030" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description>A complex network of interacting proteins and enzymes is required for DNA replication. Generally, DNA replication follows a multistep enzymatic pathway. At the DNA replication fork, a DNA helicase (DnaB or MCM complex) precedes the DNA synthetic machinery and unwinds the duplex parental DNA in cooperation with the SSB or RPA. On the leading strand, replication occurs continuously in a 5 to 3 direction, whereas on the lagging strand, DNA replication occurs discontinuously by synthesis and joining of short Okazaki fragments. In prokaryotes, the leading strand replication apparatus consists of a DNA polymerase (pol III core), a sliding clamp (beta), and a clamp loader (gamma delta complex). The DNA primase (DnaG) is needed to form RNA primers. Normally, during replication of the lagging-strand DNA template, an RNA primer is removed either by an RNase H or by the 5 to 3 exonuclease activity of DNA pol I, and the DNA ligase joins the Okazaki fragments. In eukaryotes, three DNA polymerases (alpha, delta, and epsilon) have been identified. DNA primase forms a permanent complex with DNA polymerase alpha. PCNA and RFC function as a clamp and a clamp loader. FEN 1 and RNase H1 remove the RNA from the Okazaki fragments and DNA ligase I joins the DNA.</Description>
+  <Name>DNA replication - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00260" Value="DNA polymerase III complex, bacteria [PATH:xcb03030]" />
+  </Modules>
+  <Compound />
+  <PathwayMap Key="xcb03030" Value="DNA replication" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0002" Value="K02338 DNA polymerase III subunit beta [EC:2.7.7.7] | (GenBank) DNA polymerase III beta chain" />
+    <hashEntry Key="xcb:XC_1378" Value="K03111 single-strand DNA-binding protein | (GenBank) single-stranded DNA binding protein" />
+    <hashEntry Key="xcb:XC_1499" Value="K02340 DNA polymerase III subunit delta [EC:2.7.7.7] | (GenBank) DNA polymerase III delta subunit" />
+    <hashEntry Key="xcb:XC_2065" Value="K03111 single-strand DNA-binding protein | (GenBank) single-stranded DNA binding protein" />
+    <hashEntry Key="xcb:XC_2664" Value="K01972 DNA ligase (NAD+) [EC:6.5.1.2] | (GenBank) DNA ligase" />
+    <hashEntry Key="xcb:XC_2804" Value="K02314 replicative DNA helicase [EC:3.6.4.12] | (GenBank) replicative DNA helicase" />
+    <hashEntry Key="xcb:XC_2879" Value="K03470 ribonuclease HII [EC:3.1.26.4] | (GenBank) ribonuclease HII" />
+    <hashEntry Key="xcb:XC_2880" Value="K02337 DNA polymerase III subunit alpha [EC:2.7.7.7] | (GenBank) DNA polymerase III alpha chain" />
+    <hashEntry Key="xcb:XC_2951" Value="K10747 DNA ligase 1 [EC:6.5.1.1 6.5.1.6 6.5.1.7] | (GenBank) DNA ligase" />
+    <hashEntry Key="xcb:XC_3222" Value="K02341 DNA polymerase III subunit delta&amp;#39; [EC:2.7.7.7] | (GenBank) DNA polymerase III delta&amp;#39; subunit" />
+    <hashEntry Key="xcb:XC_3244" Value="K02343 DNA polymerase III subunit gamma/tau [EC:2.7.7.7] | (GenBank) DNA polymerase III tau and gamm" />
+    <hashEntry Key="xcb:XC_3255" Value="K02342 DNA polymerase III subunit epsilon [EC:2.7.7.7] | (GenBank) DNA polymerase III epsilon chain" />
+    <hashEntry Key="xcb:XC_3256" Value="K03469 ribonuclease HI [EC:3.1.26.4] | (GenBank) ribonuclease H" />
+    <hashEntry Key="xcb:XC_3586" Value="K02339 DNA polymerase III subunit chi [EC:2.7.7.7] | (GenBank) DNA polymerase III holoenzyme chi sub" />
+    <hashEntry Key="xcb:XC_3892" Value="K02316 DNA primase [EC:2.7.7.-] | (GenBank) DNA primase" />
+    <hashEntry Key="xcb:XC_4109" Value="K02335 DNA polymerase I [EC:2.7.7.7] | (GenBank) DNA polymerase I" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko03030" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Springer-Verlag Tokyo (2002)" PMID="(Japanese)">
+      <Authors>Matsukage A</Authors>
+      <Authors>Masai H.</Authors>[The Replication and Partitioning of Genomes] (In Japanese)</Reference>
+    <Reference Journal="Yodosha (2002)" PMID="(Japanese)">
+      <Authors>Tamura T</Authors>
+      <Authors>Yamamoto M.</Authors>[Molecular Biology  Illustrated] (In Japanese)</Reference>
+    <Reference Journal="Cell 78:725-8 (1994)" PMID="8087839">
+      <Authors>Stillman B.</Authors>Smart machines at the DNA replication fork.</Reference>
+    <Reference Journal="Annu Rev Biochem 67:721-51 (1998)" PMID="9759502">
+      <Authors>Waga S</Authors>
+      <Authors>Stillman B.</Authors>The DNA replication fork in eukaryotic cells.</Reference>
+  </References>
+</KEGG.PathwayBrief>

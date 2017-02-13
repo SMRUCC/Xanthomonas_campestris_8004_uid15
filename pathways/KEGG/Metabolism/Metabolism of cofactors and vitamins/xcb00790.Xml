@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00790" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Folate biosynthesis - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00126" Value="Tetrahydrofolate biosynthesis, GTP =&gt; THF [PATH:xcb00790]" />
+  </Modules>
+  <Compound>
+    <hashEntry Key="C00044" Value="GTP" />
+    <hashEntry Key="C00101" Value="Tetrahydrofolate" />
+    <hashEntry Key="C00251" Value="Chorismate" />
+    <hashEntry Key="C00266" Value="Glycolaldehyde" />
+    <hashEntry Key="C00268" Value="Dihydrobiopterin" />
+    <hashEntry Key="C00272" Value="Tetrahydrobiopterin" />
+    <hashEntry Key="C00415" Value="Dihydrofolate" />
+    <hashEntry Key="C00504" Value="Folate" />
+    <hashEntry Key="C00568" Value="4-Aminobenzoate" />
+    <hashEntry Key="C00921" Value="Dihydropteroate" />
+    <hashEntry Key="C01217" Value="5,6,7,8-Tetrahydromethanopterin" />
+    <hashEntry Key="C01300" Value="2-Amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine" />
+    <hashEntry Key="C02587" Value="Pyrimidodiazepine" />
+    <hashEntry Key="C03541" Value="THF-polyglutamate" />
+    <hashEntry Key="C03684" Value="6-Pyruvoyltetrahydropterin" />
+    <hashEntry Key="C04244" Value="6-Lactoyl-5,6,7,8-tetrahydropterin" />
+    <hashEntry Key="C04807" Value="2-Amino-7,8-dihydro-4-hydroxy-6-(diphosphooxymethyl)pteridine" />
+    <hashEntry Key="C04874" Value="2-Amino-4-hydroxy-6-(D-erythro-1,2,3-trihydroxypropyl)-7,8-dihydropteridine" />
+    <hashEntry Key="C04895" Value="7,8-Dihydroneopterin 3'-triphosphate" />
+    <hashEntry Key="C05922" Value="Formamidopyrimidine nucleoside triphosphate" />
+    <hashEntry Key="C05923" Value="2,5-Diaminopyrimidine nucleoside triphosphate" />
+    <hashEntry Key="C05924" Value="Molybdopterin" />
+    <hashEntry Key="C05925" Value="Dihydroneopterin phosphate" />
+    <hashEntry Key="C05926" Value="Neopterin" />
+    <hashEntry Key="C05927" Value="7,8-Dihydromethanopterin" />
+    <hashEntry Key="C06148" Value="2,5-Diamino-6-(5'-triphosphoryl-3',4'-trihydroxy-2'-oxopentyl)-amino-4-oxopyrimidine" />
+    <hashEntry Key="C06149" Value="6-(3'-Triphosphoryl-1'-methylglyceryl)-7-methyl-7,8-dihydrobiopterin" />
+    <hashEntry Key="C09332" Value="THF-L-glutamate" />
+    <hashEntry Key="C11355" Value="4-Amino-4-deoxychorismate" />
+    <hashEntry Key="C15996" Value="7-Cyano-7-carbaguanine" />
+    <hashEntry Key="C16675" Value="7-Aminomethyl-7-carbaguanine" />
+    <hashEntry Key="C18237" Value="Molybdoenzyme molybdenum cofactor" />
+    <hashEntry Key="C18239" Value="Precursor Z" />
+    <hashEntry Key="C18802" Value="Tetrahydrosarcinapterin" />
+    <hashEntry Key="C19848" Value="Adenylated molybdopterin" />
+    <hashEntry Key="C20239" Value="6-Carboxy-5,6,7,8-tetrahydropterin" />
+    <hashEntry Key="C20248" Value="7-Carboxy-7-carbaguanine" />
+    <hashEntry Key="C21310" Value="(8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate" />
+  </Compound>
+  <PathwayMap Key="xcb00790" Value="Folate biosynthesis" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0731" Value="K00950 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase [EC:2.7.6.3] | (GenBank) 2-" />
+    <hashEntry Key="xcb:XC_1144" Value="K10026 7-carboxy-7-deazaguanine synthase [EC:4.3.99.3] | (GenBank) radical activating enzyme" />
+    <hashEntry Key="xcb:XC_1145" Value="K06920 7-cyano-7-deazaguanine synthase [EC:6.3.4.20] | (GenBank) transcriptional regulator" />
+    <hashEntry Key="xcb:XC_1519" Value="K01077 alkaline phosphatase [EC:3.1.3.1] | (GenBank) alkaline phosphatase" />
+    <hashEntry Key="xcb:XC_2184" Value="K03750 molybdopterin molybdotransferase [EC:2.10.1.1] | (GenBank) molybdopterin biosynthesis" />
+    <hashEntry Key="xcb:XC_2196" Value="K03750 molybdopterin molybdotransferase [EC:2.10.1.1] | (GenBank) molybdopterin biosynthesis" />
+    <hashEntry Key="xcb:XC_2469" Value="K00950 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase [EC:2.7.6.3] | (GenBank) 2-" />
+    <hashEntry Key="xcb:XC_2471" Value="K09007 GTP cyclohydrolase I [EC:3.5.4.16] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_2517" Value="K00796 dihydropteroate synthase [EC:2.5.1.15] | (GenBank) dihydropteroate synthase" />
+    <hashEntry Key="xcb:XC_3245" Value="K03635 molybdopterin synthase catalytic subunit [EC:2.8.1.12] | (GenBank) molybdopterin-converting f" />
+    <hashEntry Key="xcb:XC_3246" Value="K03636 sulfur-carrier protein | (GenBank) molybdopterin-converting factor chain 1" />
+    <hashEntry Key="xcb:XC_3247" Value="K03637 cyclic pyranopterin monophosphate synthase [EC:4.6.1.17] | (GenBank) molybdenum cofactor bios" />
+    <hashEntry Key="xcb:XC_3249" Value="K03639 GTP 3&amp;#39;,8-cyclase [EC:4.1.99.22] | (GenBank) molybdenum cofactor biosynthesis protein A" />
+    <hashEntry Key="xcb:XC_3285" Value="K11754 dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17] | (GenBank) folyl" />
+    <hashEntry Key="xcb:XC_3443" Value="K00287 dihydrofolate reductase [EC:1.5.1.3] | (GenBank) dihydrofolate reductase type III" />
+    <hashEntry Key="xcb:XC_3644" Value="K01737 6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50] | (GenBa" />
+    <hashEntry Key="xcb:XC_3857" Value="K06879 7-cyano-7-deazaguanine reductase [EC:1.7.1.13] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_3887" Value="K01633 dihydroneopterin aldolase / 7,8-dihydroneopterin epimerase [EC:4.1.2.25 5.1.99.8] | (GenBank)" />
+    <hashEntry Key="xcb:XC_4131" Value="K01113 alkaline phosphatase D [EC:3.1.3.1] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_4253" Value="K01495 GTP cyclohydrolase I [EC:3.5.4.16] | (GenBank) GTP cyclohydrolase I" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00790" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="" PMID="Nishizuka Y, Seyama Y, Ikai A, Ishimura Y, Kawaguchi A (eds).">
+      <Authors>[Cellular Functions and Metabolic Maps] (In Japanese)</Authors>Tokyo Kagaku Dojin (1997)</Reference>
+    <Reference Journal="Nature 460:839-47 (2009)" PMID="19675644">
+      <Authors>Schwarz G</Authors>
+      <Authors>Mendel RR</Authors>
+      <Authors>Ribbe MW</Authors>Molybdenum cofactors, enzymes and pathways.</Reference>
+    <Reference Journal="Proc Natl Acad Sci U S A 103:6829-34 (2006)" PMID="16632608">
+      <Authors>Hanzelmann P</Authors>
+      <Authors>Schindelin H</Authors>Binding of 5'-GTP to the C-terminal FeS cluster of the radical S-adenosylmethionine enzyme MoaA provides insights into its mechanism.</Reference>
+    <Reference Journal="Biochemistry 47:615-26 (2008)" PMID="18092812">
+      <Authors>Daniels JN</Authors>
+      <Authors>Wuebbens MM</Authors>
+      <Authors>Rajagopalan KV</Authors>
+      <Authors>Schindelin H</Authors>Crystal structure of a molybdopterin synthase-precursor Z complex: insight into its sulfur transfer mechanism and its role in molybdenum cofactor deficiency.</Reference>
+    <Reference Journal="J Biol Chem 278:14523-32 (2003)" PMID="12571226">
+      <Authors>Wuebbens MM</Authors>
+      <Authors>Rajagopalan KV</Authors>Mechanistic and mutational studies of Escherichia coli molybdopterin synthase clarify the final step of molybdopterin biosynthesis.</Reference>
+  </References>
+</KEGG.PathwayBrief>

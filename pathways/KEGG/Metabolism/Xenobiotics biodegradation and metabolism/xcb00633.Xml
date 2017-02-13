@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00633" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Nitrotoluene degradation - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound>
+    <hashEntry Key="C01468" Value="4-Cresol" />
+    <hashEntry Key="C06002" Value="(S)-Methylmalonate semialdehyde" />
+    <hashEntry Key="C11006" Value="2,4-Dinitrotoluene" />
+    <hashEntry Key="C14401" Value="2,4-Diaminotoluene" />
+    <hashEntry Key="C16391" Value="Trinitrotoluene" />
+    <hashEntry Key="C16392" Value="4-Hydroxylamino-2,6-dinitrotoluene" />
+    <hashEntry Key="C16393" Value="2-Hydroxylamino-4,6-dinitrotoluene" />
+    <hashEntry Key="C16394" Value="4-Amino-2,6-dinitrotoluene" />
+    <hashEntry Key="C16395" Value="2-Amino-4,6-dinitrotoluene" />
+    <hashEntry Key="C16396" Value="2,4-Diamino-6-nitrotoluene" />
+    <hashEntry Key="C16397" Value="2,6-Diamino-4-nitrotoluene" />
+    <hashEntry Key="C16398" Value="2-Amino-4-nitrotoluene" />
+    <hashEntry Key="C16399" Value="2,4-Diamino-6-hydroxylaminotoluene" />
+    <hashEntry Key="C16400" Value="2,4,6-Triaminotoluene" />
+    <hashEntry Key="C16401" Value="2,4,6-Trihydroxytoluene" />
+    <hashEntry Key="C16402" Value="2,4-Dihydroxylamino-6-nitrotoluene" />
+    <hashEntry Key="C16403" Value="4-Amino-2-hydroxylamino-6-nitrotoluene" />
+    <hashEntry Key="C16411" Value="4,4',6,6'-Tetranitro-2,2'-azoxytoluene" />
+    <hashEntry Key="C16412" Value="2,4',6,6'-Tetranitro-2',4-azoxytoluene" />
+    <hashEntry Key="C16413" Value="2,2',6,6'-Tetranitro-4,4'-azoxytoluene" />
+    <hashEntry Key="C16414" Value="2-Amino-5-hydroxyl-4-hydroxylamino-6-nitrotoluene" />
+    <hashEntry Key="C16420" Value="4-Acetamido-2-amino-6-nitrotoluene" />
+    <hashEntry Key="C18315" Value="4-Methyl-5-nitrocatechol" />
+    <hashEntry Key="C18316" Value="2-Hydroxy-5-methylquinone" />
+    <hashEntry Key="C18317" Value="2,4,5-Trihydroxytoluene" />
+    <hashEntry Key="C18318" Value="cis,cis-2,4-Dihydroxy-5-methyl-6-oxo-2,4-hexadienoate" />
+    <hashEntry Key="C18320" Value="4-Amino-2-nitrotoluene" />
+  </Compound>
+  <PathwayMap Key="xcb00633" Value="Nitrotoluene degradation" />
+  <Genes>
+    <hashEntry Key="xcb:XC_2924" Value="K10680 N-ethylmaleimide reductase [EC:1.-.-.-] | (GenBank) GTN reductase" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00633" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="" PMID="Esteve-Nunez A, Ramos JL.">
+      <Authors>Metabolism of 2,4,6-Trinitrotoluene by Pseudomonas sp. JLR11.</Authors>Environmental science &amp; technology 32:3802-3808 (1998)</Reference>
+    <Reference Journal="Appl Environ Microbiol 61:4209-14 (1995)" PMID="8534088">
+      <Authors>Gilcrease PC</Authors>
+      <Authors>Murphy VG.</Authors>Bioconversion of 2,4-diamino-6-nitrotoluene to a novel metabolite under anoxic and aerobic conditions.</Reference>
+    <Reference Journal="Microbiol Mol Biol Rev 65:335-52, table of contents (2001)" PMID="11527999">
+      <Authors>Esteve-Nunez A</Authors>
+      <Authors>Caballero A</Authors>
+      <Authors>Ramos JL.</Authors>Biological degradation of 2,4,6-trinitrotoluene.</Reference>
+    <Reference Journal="Biochem Biophys Res Commun 314:957-63 (2004)" PMID="14751225">
+      <Authors>Fleischmann TJ</Authors>
+      <Authors>Walker KC</Authors>
+      <Authors>Spain JC</Authors>
+      <Authors>Hughes JB</Authors>
+      <Authors>Morrie Craig A.</Authors>Anaerobic transformation of 2,4,6-TNT by bovine ruminal microbes.</Reference>
+    <Reference Journal="J Chromatogr A 1022:83-94 (2004)" PMID="14753774">
+      <Authors>Borch T</Authors>
+      <Authors>Gerlach R.</Authors>Use of reversed-phase high-performance liquid chromatography-diode array detection for complete separation of 2,4,6-trinitrotoluene metabolites and EPA Method 8330 explosives: influence of temperature and an ion-pair reagent.</Reference>
+    <Reference Journal="Appl Microbiol Biotechnol 67:397-404 (2005)" PMID="15490158">
+      <Authors>Yin H</Authors>
+      <Authors>Wood TK</Authors>
+      <Authors>Smets BF.</Authors>Reductive transformation of TNT by Escherichia coli: pathway description.</Reference>
+    <Reference Journal="Arch Microbiol 184:158-67 (2005)" PMID="16187099">
+      <Authors>Kutty R</Authors>
+      <Authors>Bennett GN.</Authors>Biochemical characterization of trinitrotoluene transforming oxygen-insensitive nitroreductases from Clostridium acetobutylicum ATCC 824.</Reference>
+    <Reference Journal="Appl Environ Microbiol 63:2007-2015 (1997)" PMID="16535610">
+      <Authors>Fiorella PD</Authors>
+      <Authors>Spain JC.</Authors>Transformation of 2,4,6-Trinitrotoluene by Pseudomonas pseudoalcaligenes JS52.</Reference>
+    <Reference Journal="Environ Microbiol 9:1535-40 (2007)" PMID="17504490">
+      <Authors>Gonzalez-Perez MM</Authors>
+      <Authors>van Dillewijn P</Authors>
+      <Authors>Wittich RM</Authors>
+      <Authors>Ramos JL.</Authors>Escherichia coli has multiple enzymes that attack TNT and release nitrogen for growth.</Reference>
+    <Reference Journal="Appl Environ Microbiol 62:2257-63 (1996)" PMID="16535348">
+      <Authors>Noguera DR</Authors>
+      <Authors>Freedman DL</Authors>Reduction and Acetylation of 2,4-Dinitrotoluene by a Pseudomonas aeruginosa Strain.</Reference>
+    <Reference Journal="J Bacteriol 181:965-72 (1999)" PMID="9922262">
+      <Authors>Haigler BE</Authors>
+      <Authors>Johnson GR</Authors>
+      <Authors>Suen WC</Authors>
+      <Authors>Spain JC</Authors>Biochemical and genetic evidence for meta-ring cleavage of 2,4, 5-trihydroxytoluene in Burkholderia sp. strain DNT.</Reference>
+    <Reference Journal="J Bacteriol 184:4219-32 (2002)" PMID="12107140">
+      <Authors>Johnson GR</Authors>
+      <Authors>Jain RK</Authors>
+      <Authors>Spain JC</Authors>Origins of the 2,4-dinitrotoluene pathway.</Reference>
+  </References>
+</KEGG.PathwayBrief>

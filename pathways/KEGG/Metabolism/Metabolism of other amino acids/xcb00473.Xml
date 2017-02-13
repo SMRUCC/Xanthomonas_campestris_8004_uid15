@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00473" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>D-Alanine metabolism - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound>
+    <hashEntry Key="C00022" Value="Pyruvate" />
+    <hashEntry Key="C00041" Value="L-Alanine" />
+    <hashEntry Key="C00133" Value="D-Alanine" />
+    <hashEntry Key="C00993" Value="D-Alanyl-D-alanine" />
+    <hashEntry Key="C04260" Value="O-D-Alanyl-poly(ribitol phosphate)" />
+    <hashEntry Key="C04457" Value="D-Alanyl-alanyl-poly(glycerolphosphate)" />
+  </Compound>
+  <PathwayMap Key="xcb00473" Value="D-Alanine metabolism" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0232" Value="K01921 D-alanine-D-alanine ligase [EC:6.3.2.4] | (GenBank) D-alanine-D-alanine ligase A" />
+    <hashEntry Key="xcb:XC_3508" Value="K01921 D-alanine-D-alanine ligase [EC:6.3.2.4] | (GenBank) D-alanine-D-alanine ligase B" />
+    <hashEntry Key="xcb:XC_3718" Value="K01775 alanine racemase [EC:5.1.1.1] | (GenBank) alanine racemase" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00473" Value="" />
+  </KOpathway>
+  <References />
+</KEGG.PathwayBrief>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00040" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Pentose and glucuronate interconversions - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00061" Value="D-Glucuronate degradation, D-glucuronate =&gt; pyruvate + D-glyceraldehyde 3P [PATH:xcb00040]" />
+  </Modules>
+  <Compound>
+    <hashEntry Key="C00022" Value="Pyruvate" />
+    <hashEntry Key="C00026" Value="2-Oxoglutarate" />
+    <hashEntry Key="C00029" Value="UDP-glucose" />
+    <hashEntry Key="C00103" Value="D-Glucose 1-phosphate" />
+    <hashEntry Key="C00111" Value="Glycerone phosphate" />
+    <hashEntry Key="C00116" Value="Glycerol" />
+    <hashEntry Key="C00167" Value="UDP-glucuronate" />
+    <hashEntry Key="C00181" Value="D-Xylose" />
+    <hashEntry Key="C00191" Value="D-Glucuronate" />
+    <hashEntry Key="C00199" Value="D-Ribulose 5-phosphate" />
+    <hashEntry Key="C00204" Value="2-Dehydro-3-deoxy-D-gluconate" />
+    <hashEntry Key="C00231" Value="D-Xylulose 5-phosphate" />
+    <hashEntry Key="C00259" Value="L-Arabinose" />
+    <hashEntry Key="C00266" Value="Glycolaldehyde" />
+    <hashEntry Key="C00309" Value="D-Ribulose" />
+    <hashEntry Key="C00310" Value="D-Xylulose" />
+    <hashEntry Key="C00312" Value="L-Xylulose" />
+    <hashEntry Key="C00333" Value="D-Galacturonate" />
+    <hashEntry Key="C00379" Value="Xylitol" />
+    <hashEntry Key="C00433" Value="2,5-Dioxopentanoate" />
+    <hashEntry Key="C00470" Value="Pectate" />
+    <hashEntry Key="C00474" Value="Ribitol" />
+    <hashEntry Key="C00476" Value="D-Lyxose" />
+    <hashEntry Key="C00502" Value="D-Xylonate" />
+    <hashEntry Key="C00508" Value="L-Ribulose" />
+    <hashEntry Key="C00514" Value="D-Mannonate" />
+    <hashEntry Key="C00532" Value="L-Arabitol" />
+    <hashEntry Key="C00558" Value="D-Tagaturonate" />
+    <hashEntry Key="C00618" Value="3-Dehydro-L-gulonate" />
+    <hashEntry Key="C00714" Value="Pectin" />
+    <hashEntry Key="C00789" Value="CDP-ribitol" />
+    <hashEntry Key="C00800" Value="L-Gulonate" />
+    <hashEntry Key="C00817" Value="D-Altronate" />
+    <hashEntry Key="C00905" Value="D-Fructuronate" />
+    <hashEntry Key="C01068" Value="D-Ribitol 5-phosphate" />
+    <hashEntry Key="C01101" Value="L-Ribulose 5-phosphate" />
+    <hashEntry Key="C01508" Value="L-Lyxose" />
+    <hashEntry Key="C01904" Value="D-Arabitol" />
+    <hashEntry Key="C02266" Value="D-Xylonolactone" />
+    <hashEntry Key="C02273" Value="Digalacturonate" />
+    <hashEntry Key="C02426" Value="L-Glyceraldehyde" />
+    <hashEntry Key="C03033" Value="beta-D-Glucuronoside" />
+    <hashEntry Key="C03291" Value="L-Xylulose 5-phosphate" />
+    <hashEntry Key="C03826" Value="2-Dehydro-3-deoxy-D-xylonate" />
+    <hashEntry Key="C04053" Value="5-Dehydro-4-deoxy-D-glucuronate" />
+    <hashEntry Key="C04349" Value="(4S)-4,6-Dihydroxy-2,5-dioxohexanoate" />
+    <hashEntry Key="C04575" Value="(4R,5S)-4,5,6-Trihydroxy-2,3-dioxohexanoate" />
+    <hashEntry Key="C05385" Value="D-Glucuronate 1-phosphate" />
+    <hashEntry Key="C05411" Value="L-Xylonate" />
+    <hashEntry Key="C05412" Value="L-Lyxonate" />
+    <hashEntry Key="C06118" Value="4-(4-Deoxy-alpha-D-gluc-4-enuronosyl)-D-galacturonate" />
+    <hashEntry Key="C06441" Value="L-Xylulose 1-phosphate" />
+    <hashEntry Key="C14899" Value="3-Dehydro-L-gulonate 6-phosphate" />
+    <hashEntry Key="C15930" Value="L-Galactonate" />
+    <hashEntry Key="C20680" Value="2-Dehydro-3-deoxy-L-galactonate" />
+  </Compound>
+  <PathwayMap Key="xcb00040" Value="Pentose and glucuronate interconversions" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0125" Value="K01051 pectinesterase [EC:3.1.1.11] | (GenBank) pectin methylesterase-like protein" />
+    <hashEntry Key="xcb:XC_0160" Value="K01815 4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase [EC:5.3.1.17] | (GenBank) 5-keto-4-deoxy" />
+    <hashEntry Key="xcb:XC_0161" Value="K00065 2-deoxy-D-gluconate 3-dehydrogenase [EC:1.1.1.125] | (GenBank) 2-deoxy-D-gluconate 3-dehydrog" />
+    <hashEntry Key="xcb:XC_0469" Value="K01783 ribulose-phosphate 3-epimerase [EC:5.1.3.1] | (GenBank) D-ribulose-5-phosphate 3-epimerase" />
+    <hashEntry Key="xcb:XC_0705" Value="K01184 polygalacturonase [EC:3.2.1.15] | (GenBank) endopolygalacturonase" />
+    <hashEntry Key="xcb:XC_0953" Value="K13877 2,5-dioxopentanoate dehydrogenase [EC:1.2.1.26] | (GenBank) ketoglutarate semialdehyde dehydr" />
+    <hashEntry Key="xcb:XC_1298" Value="K01728 pectate lyase [EC:4.2.2.2] | (GenBank) pectate lyase II" />
+    <hashEntry Key="xcb:XC_1702" Value="K13877 2,5-dioxopentanoate dehydrogenase [EC:1.2.1.26] | (GenBank) ketoglutarate semialdehyde dehydr" />
+    <hashEntry Key="xcb:XC_1849" Value="K01184 polygalacturonase [EC:3.2.1.15] | (GenBank) polygalacturonase" />
+    <hashEntry Key="xcb:XC_1850" Value="K01051 pectinesterase [EC:3.1.1.11] | (GenBank) pectinesterase" />
+    <hashEntry Key="xcb:XC_1930" Value="K00963 UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9] | (GenBank) UTP-glucose-1-phosphate" />
+    <hashEntry Key="xcb:XC_2477" Value="K01805 xylose isomerase [EC:5.3.1.5] | (GenBank) xylose isomerase" />
+    <hashEntry Key="xcb:XC_2478" Value="K00854 xylulokinase [EC:2.7.1.17] | (GenBank) D-xylulokinase" />
+    <hashEntry Key="xcb:XC_2733" Value="K00012 UDPglucose 6-dehydrogenase [EC:1.1.1.22] | (GenBank) UDP-glucose dehydrogenase" />
+    <hashEntry Key="xcb:XC_3590" Value="K01728 pectate lyase [EC:4.2.2.2] | (GenBank) pectate lyase" />
+    <hashEntry Key="xcb:XC_3591" Value="K01728 pectate lyase [EC:4.2.2.2] | (GenBank) pectate lyase" />
+    <hashEntry Key="xcb:XC_4191" Value="K01805 xylose isomerase [EC:5.3.1.5] | (GenBank) xylose isomerase" />
+    <hashEntry Key="xcb:XC_4195" Value="K08323 mannonate dehydratase [EC:4.2.1.8] | (GenBank) starvation sensing protein" />
+    <hashEntry Key="xcb:XC_4198" Value="K00040 fructuronate reductase [EC:1.1.1.57] | (GenBank) mannitol dehydrogenase" />
+    <hashEntry Key="xcb:XC_4209" Value="K01812 glucuronate isomerase [EC:5.3.1.12] | (GenBank) hexuronic acid isomerase" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00040" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="J Bacteriol 184:302-6 (2002)" PMID="11741871">
+      <Authors>Yew WS</Authors>
+      <Authors>Gerlt JA.</Authors>Utilization of L-ascorbate by Escherichia coli K-12: assignments of functions to products of the yjf-sga and yia-sgb operons.</Reference>
+    <Reference Journal="Biochemistry 44:1807-15 (2005)" PMID="15697206">
+      <Authors>Yew WS</Authors>
+      <Authors>Akana J</Authors>
+      <Authors>Wise EL</Authors>
+      <Authors>Rayment I</Authors>
+      <Authors>Gerlt JA</Authors>Evolution of enzymatic activities in the orotidine 5'-monophosphate decarboxylase suprafamily: enhancing the promiscuous D-arabino-hex-3-ulose 6-phosphate synthase reaction catalyzed by 3-keto-L-gulonate 6-phosphate decarboxylase.</Reference>
+    <Reference Journal="J Bacteriol 181:7154-60 (1999)" PMID="10572115">
+      <Authors>Yasueda H</Authors>
+      <Authors>Kawahara Y</Authors>
+      <Authors>Sugimoto S.</Authors>Bacillus subtilis yckG and yckF encode two key enzymes of the ribulose monophosphate pathway used by methylotrophs, and yckH is required for their expression.</Reference>
+    <Reference Journal="J Bacteriol 182:4625-7 (2000)" PMID="10913097">
+      <Authors>Ibanez E</Authors>
+      <Authors>Gimenez R</Authors>
+      <Authors>Pedraza T</Authors>
+      <Authors>Baldoma L</Authors>
+      <Authors>Aguilar J</Authors>
+      <Authors>Badia J</Authors>Role of the yiaR and yiaS genes of Escherichia coli in metabolism of endogenously formed L-xylulose.</Reference>
+    <Reference Journal="J Bacteriol 187:3636-42 (2005)" PMID="15901685">
+      <Authors>Orita I</Authors>
+      <Authors>Yurimoto H</Authors>
+      <Authors>Hirai R</Authors>
+      <Authors>Kawarabayasi Y</Authors>
+      <Authors>Sakai Y</Authors>
+      <Authors>Kato N</Authors>The archaeon Pyrococcus horikoshii possesses a bifunctional enzyme for formaldehyde fixation via the ribulose monophosphate pathway.</Reference>
+  </References>
+</KEGG.PathwayBrief>

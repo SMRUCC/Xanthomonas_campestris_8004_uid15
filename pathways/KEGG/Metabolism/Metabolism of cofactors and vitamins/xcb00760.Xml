@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00760" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Nicotinate and nicotinamide metabolism - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound>
+    <hashEntry Key="C00003" Value="NAD+" />
+    <hashEntry Key="C00006" Value="NADP+" />
+    <hashEntry Key="C00022" Value="Pyruvate" />
+    <hashEntry Key="C00042" Value="Succinate" />
+    <hashEntry Key="C00049" Value="L-Aspartate" />
+    <hashEntry Key="C00111" Value="Glycerone phosphate" />
+    <hashEntry Key="C00122" Value="Fumarate" />
+    <hashEntry Key="C00153" Value="Nicotinamide" />
+    <hashEntry Key="C00163" Value="Propanoate" />
+    <hashEntry Key="C00232" Value="Succinate semialdehyde" />
+    <hashEntry Key="C00253" Value="Nicotinate" />
+    <hashEntry Key="C00334" Value="4-Aminobutanoate" />
+    <hashEntry Key="C00455" Value="Nicotinamide D-ribonucleotide" />
+    <hashEntry Key="C00857" Value="Deamino-NAD+" />
+    <hashEntry Key="C00922" Value="2,3-Dimethylmaleate" />
+    <hashEntry Key="C01004" Value="N-Methylnicotinate" />
+    <hashEntry Key="C01020" Value="6-Hydroxynicotinate" />
+    <hashEntry Key="C01056" Value="(S)-6-Hydroxynicotine" />
+    <hashEntry Key="C01059" Value="2,5-Dihydroxypyridine" />
+    <hashEntry Key="C01185" Value="Nicotinate D-ribonucleotide" />
+    <hashEntry Key="C01297" Value="6-Hydroxypseudooxynicotine" />
+    <hashEntry Key="C01384" Value="Maleic acid" />
+    <hashEntry Key="C01596" Value="Maleamate" />
+    <hashEntry Key="C02295" Value="Methylitaconate" />
+    <hashEntry Key="C02918" Value="1-Methylnicotinamide" />
+    <hashEntry Key="C02930" Value="2-Methyleneglutarate" />
+    <hashEntry Key="C03043" Value="(R)-6-Hydroxynicotine" />
+    <hashEntry Key="C03056" Value="2,6-Dihydroxypyridine" />
+    <hashEntry Key="C03150" Value="Nicotinamide-beta-riboside" />
+    <hashEntry Key="C03458" Value="2,3,6-Trihydroxypyridine" />
+    <hashEntry Key="C03652" Value="(2R,3S)-2,3-Dimethylmalate" />
+    <hashEntry Key="C03722" Value="Quinolinate" />
+    <hashEntry Key="C04226" Value="6-Oxo-1,4,5,6-tetrahydronicotinate" />
+    <hashEntry Key="C05380" Value="Nicotinurate" />
+    <hashEntry Key="C05840" Value="Iminoaspartate" />
+    <hashEntry Key="C05841" Value="Nicotinate D-ribonucleoside" />
+    <hashEntry Key="C05842" Value="N1-Methyl-2-pyridone-5-carboxamide" />
+    <hashEntry Key="C05843" Value="N1-Methyl-4-pyridone-5-carboxamide" />
+    <hashEntry Key="C06178" Value="1-Methylpyrrolinium" />
+    <hashEntry Key="C15523" Value="2,6-Dihydroxynicotinate" />
+    <hashEntry Key="C15986" Value="2,6-Dihydroxypseudooxynicotine" />
+    <hashEntry Key="C15987" Value="4-Methylaminobutyrate" />
+    <hashEntry Key="C16150" Value="(R,S)-Nicotine" />
+    <hashEntry Key="C16151" Value="2,6-Dihydroxy-N-methylmyosmine" />
+    <hashEntry Key="C16152" Value="Blue pigment" />
+    <hashEntry Key="C16159" Value="2-Formylglutarate" />
+    <hashEntry Key="C16390" Value="(S)-2-(Hydroxymethyl)glutarate" />
+    <hashEntry Key="C18232" Value="N-Formylmaleamic acid" />
+    <hashEntry Key="C19567" Value="4-Oxo-1-(3-pyridyl)-1-butanone" />
+    <hashEntry Key="C19569" Value="3-Succinoylpyridine" />
+    <hashEntry Key="C19631" Value="6-Hydroxy-3-succinoylpyridine" />
+    <hashEntry Key="C20361" Value="Pseudooxynicotine" />
+    <hashEntry Key="C20381" Value="3,3'-Bipyridine-2,2',5,5',6,6'-hexol" />
+    <hashEntry Key="C21075" Value="5-(N-Methyl-4,5-dihydro-1H-pyrrol-2-yl)pyridin-2-ol" />
+    <hashEntry Key="C21154" Value="N-Methylmyosmine" />
+  </Compound>
+  <PathwayMap Key="xcb00760" Value="Nicotinate and nicotinamide metabolism" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0501" Value="K03426 NAD+ diphosphatase [EC:3.6.1.22] | (GenBank) NADH pyrophosphatase" />
+    <hashEntry Key="xcb:XC_0718" Value="K13522 bifunctional NMN adenylyltransferase/nudix hydrolase [EC:2.7.7.1 3.6.1.-] | (GenBank) NMN ade" />
+    <hashEntry Key="xcb:XC_0719" Value="K03462 nicotinamide phosphoribosyltransferase [EC:2.4.2.12] | (GenBank) pre-B cell enhancing factor" />
+    <hashEntry Key="xcb:XC_0946" Value="K01239 purine nucleosidase [EC:3.2.2.1] | (GenBank) inosine-uridine preferring nucleoside hydrolase" />
+    <hashEntry Key="xcb:XC_1067" Value="K01916 NAD+ synthase [EC:6.3.1.5] | (GenBank) NH3-dependent NAD synthetase" />
+    <hashEntry Key="xcb:XC_1228" Value="K04765 nucleoside triphosphate diphosphatase [EC:3.6.1.9] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_1500" Value="K00969 nicotinate-nucleotide adenylyltransferase [EC:2.7.7.18] | (GenBank) nicotinate-nucleotide ade" />
+    <hashEntry Key="xcb:XC_1611" Value="K00767 nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19] | (GenBank) nicotinate-" />
+    <hashEntry Key="xcb:XC_1780" Value="K00135 succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2." />
+    <hashEntry Key="xcb:XC_2513" Value="K03743 nicotinamide-nucleotide amidase [EC:3.5.1.42] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_2525" Value="K03787 5&amp;#39;-nucleotidase [EC:3.1.3.5] | (GenBank) survival protein" />
+    <hashEntry Key="xcb:XC_2687" Value="K01081 5&amp;#39;-nucleotidase [EC:3.1.3.5] | (GenBank) 5&amp;#39;-nucleotidase" />
+    <hashEntry Key="xcb:XC_2688" Value="K00858 NAD+ kinase [EC:2.7.1.23] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_3552" Value="K00763 nicotinate phosphoribosyltransferase [EC:6.3.4.21] | (GenBank) nicotinate phosphoribosyltrans" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00760" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="J Biol Chem 228:923-45 (1957)" PMID="13475371">
+      <Authors>BEHRMAN EJ</Authors>
+      <Authors>STANIER RY.</Authors>The bacterial oxidation of nicotinic acid.</Reference>
+    <Reference Journal="Proc Natl Acad Sci U S A 103:12341-6 (2006)" PMID="16894175">
+      <Authors>Alhapel A</Authors>
+      <Authors>Darley DJ</Authors>
+      <Authors>Wagener N</Authors>
+      <Authors>Eckel E</Authors>
+      <Authors>Elsner N</Authors>
+      <Authors>Pierik AJ.</Authors>Molecular and functional analysis of nicotinate catabolism in Eubacterium barkeri.</Reference>
+    <Reference Journal="J Bacteriol 183:5262-7 (2001)" PMID="11514508">
+      <Authors>Baitsch D</Authors>
+      <Authors>Sandu C</Authors>
+      <Authors>Brandsch R</Authors>
+      <Authors>Igloi GL.</Authors>Gene cluster on pAO1 of Arthrobacter nicotinovorans involved in degradation of the plant alkaloid nicotine: cloning, purification, and characterization of 2,6-dihydroxypyridine 3-hydroxylase.</Reference>
+    <Reference Journal="J Bacteriol 187:8516-9 (2005)" PMID="16321959">
+      <Authors>Sachelaru P</Authors>
+      <Authors>Schiltz E</Authors>
+      <Authors>Igloi GL</Authors>
+      <Authors>Brandsch R.</Authors>An alpha/beta-fold C--C bond hydrolase is involved in a central step of nicotine catabolism by Arthrobacter nicotinovorans.</Reference>
+    <Reference Journal="J Biol Chem 240:3669-74 (1965)" PMID="5835946">
+      <Authors>Gherna RL</Authors>
+      <Authors>Richardson SH</Authors>
+      <Authors>Rittenberg SC</Authors>The bacterial oxidation of nicotine. VI. The metabolism of 2,6-dihydroxypseudooxynicotine.</Reference>
+    <Reference Journal="J Biol Chem 286:40365-75 (2011)" PMID="21953451">
+      <Authors>Galeazzi L</Authors>
+      <Authors>Bocci P</Authors>
+      <Authors>Amici A</Authors>
+      <Authors>Brunetti L</Authors>
+      <Authors>Ruggieri S</Authors>
+      <Authors>Romine M</Authors>
+      <Authors>Reed S</Authors>
+      <Authors>Osterman AL</Authors>
+      <Authors>Rodionov DA</Authors>
+      <Authors>Sorci L</Authors>
+      <Authors>Raffaelli N</Authors>Identification of nicotinamide mononucleotide deamidase of the bacterial pyridine nucleotide cycle reveals a novel broadly conserved amidohydrolase family.</Reference>
+  </References>
+</KEGG.PathwayBrief>

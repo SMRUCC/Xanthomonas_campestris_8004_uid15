@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00860" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Porphyrin and chlorophyll metabolism - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00122" Value="Cobalamin biosynthesis, cobinamide =&gt; cobalamin [PATH:xcb00860]" />
+  </Modules>
+  <Compound>
+    <hashEntry Key="C00025" Value="L-Glutamate" />
+    <hashEntry Key="C00032" Value="Heme" />
+    <hashEntry Key="C00037" Value="Glycine" />
+    <hashEntry Key="C00188" Value="L-Threonine" />
+    <hashEntry Key="C00194" Value="Cobamide coenzyme" />
+    <hashEntry Key="C00430" Value="5-Aminolevulinate" />
+    <hashEntry Key="C00486" Value="Bilirubin" />
+    <hashEntry Key="C00500" Value="Biliverdin" />
+    <hashEntry Key="C00524" Value="Cytochrome c" />
+    <hashEntry Key="C00541" Value="Cob(II)alamin" />
+    <hashEntry Key="C00748" Value="Siroheme" />
+    <hashEntry Key="C00853" Value="Cob(I)alamin" />
+    <hashEntry Key="C00931" Value="Porphobilinogen" />
+    <hashEntry Key="C00992" Value="Aquacob(III)alamin" />
+    <hashEntry Key="C01024" Value="Hydroxymethylbilane" />
+    <hashEntry Key="C01051" Value="Uroporphyrinogen III" />
+    <hashEntry Key="C01079" Value="Protoporphyrinogen IX" />
+    <hashEntry Key="C01708" Value="Hemoglobin" />
+    <hashEntry Key="C02139" Value="Chlorophyllide" />
+    <hashEntry Key="C02191" Value="Protoporphyrin" />
+    <hashEntry Key="C02463" Value="Precorrin 2" />
+    <hashEntry Key="C02469" Value="Uroporphyrin III" />
+    <hashEntry Key="C02800" Value="4,5-Dioxopentanoate" />
+    <hashEntry Key="C02823" Value="Cyanocobalamin" />
+    <hashEntry Key="C02880" Value="Protochlorophyllide" />
+    <hashEntry Key="C02987" Value="L-Glutamyl-tRNA(Glu)" />
+    <hashEntry Key="C03029" Value="Transferrin[Fe(II)]2" />
+    <hashEntry Key="C03114" Value="Dimethylbenzimidazole" />
+    <hashEntry Key="C03179" Value="Transferrin[Fe(III)]2" />
+    <hashEntry Key="C03194" Value="(R)-1-Aminopropan-2-ol" />
+    <hashEntry Key="C03263" Value="Coproporphyrinogen III" />
+    <hashEntry Key="C03516" Value="Magnesium protoporphyrin" />
+    <hashEntry Key="C03741" Value="(S)-4-Amino-5-oxopentanoate" />
+    <hashEntry Key="C04122" Value="D-1-Aminopropan-2-ol O-phosphate" />
+    <hashEntry Key="C04536" Value="Magnesium protoporphyrin monomethyl ester" />
+    <hashEntry Key="C04778" Value="N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole" />
+    <hashEntry Key="C05306" Value="Chlorophyll a" />
+    <hashEntry Key="C05307" Value="Chlorophyll b" />
+    <hashEntry Key="C05766" Value="Uroporphyrinogen I" />
+    <hashEntry Key="C05767" Value="Uroporphyrin I" />
+    <hashEntry Key="C05768" Value="Coproporphyrinogen I" />
+    <hashEntry Key="C05769" Value="Coproporphyrin I" />
+    <hashEntry Key="C05770" Value="Coproporphyrin III" />
+    <hashEntry Key="C05772" Value="Precorrin 3A" />
+    <hashEntry Key="C05773" Value="Cobyrinate" />
+    <hashEntry Key="C05774" Value="Cobinamide" />
+    <hashEntry Key="C05775" Value="alpha-Ribazole" />
+    <hashEntry Key="C05777" Value="Coenzyme F430" />
+    <hashEntry Key="C05778" Value="Sirohydrochlorin" />
+    <hashEntry Key="C05779" Value="Apoferritin" />
+    <hashEntry Key="C05780" Value="Apotransferrin" />
+    <hashEntry Key="C05781" Value="Oxyhemoglobin" />
+    <hashEntry Key="C05782" Value="Myoglobin" />
+    <hashEntry Key="C05783" Value="Cytochrome a" />
+    <hashEntry Key="C05784" Value="Catalase" />
+    <hashEntry Key="C05785" Value="Peroxidase" />
+    <hashEntry Key="C05786" Value="(3Z)-Phycocyanobilin" />
+    <hashEntry Key="C05787" Value="Bilirubin beta-diglucuronide" />
+    <hashEntry Key="C05789" Value="L-Urobilinogen" />
+    <hashEntry Key="C05790" Value="I-Urobilinogen" />
+    <hashEntry Key="C05791" Value="D-Urobilinogen" />
+    <hashEntry Key="C05793" Value="L-Urobilin" />
+    <hashEntry Key="C05794" Value="Urobilin" />
+    <hashEntry Key="C05795" Value="D-Urobilin" />
+    <hashEntry Key="C05797" Value="Pheophytin a" />
+    <hashEntry Key="C05798" Value="Bacteriopheophytin" />
+    <hashEntry Key="C05912" Value="(3Z)-Phycoerythrobilin" />
+    <hashEntry Key="C05913" Value="(3Z)-Phytochromobilin" />
+    <hashEntry Key="C06319" Value="Precorrin 6Y" />
+    <hashEntry Key="C06320" Value="Precorrin 6X" />
+    <hashEntry Key="C06399" Value="Hydrogenobyrinate" />
+    <hashEntry Key="C06406" Value="Precorrin 3B" />
+    <hashEntry Key="C06407" Value="Precorrin 4" />
+    <hashEntry Key="C06408" Value="Precorrin 8X" />
+    <hashEntry Key="C06416" Value="Precorrin 5" />
+    <hashEntry Key="C06503" Value="Hydrogenobyrinate a,c diamide" />
+    <hashEntry Key="C06504" Value="Cob(II)yrinate a,c diamide" />
+    <hashEntry Key="C06505" Value="Cob(I)yrinate a,c diamide" />
+    <hashEntry Key="C06506" Value="Adenosyl cobyrinate a,c diamide" />
+    <hashEntry Key="C06507" Value="Adenosyl cobyrinate hexaamide" />
+    <hashEntry Key="C06508" Value="Adenosyl cobinamide" />
+    <hashEntry Key="C06509" Value="Adenosyl cobinamide phosphate" />
+    <hashEntry Key="C06510" Value="Adenosine-GDP-cobinamide" />
+    <hashEntry Key="C11242" Value="Bacteriochlorophyll a" />
+    <hashEntry Key="C11243" Value="Bacteriochlorophyll b" />
+    <hashEntry Key="C11538" Value="Cobalt-sirohydrochlorin" />
+    <hashEntry Key="C11539" Value="Cobalt-precorrin 3" />
+    <hashEntry Key="C11540" Value="Cobalt-precorrin 4" />
+    <hashEntry Key="C11542" Value="Cobalt-precorrin 6" />
+    <hashEntry Key="C11543" Value="Cobalt-dihydro-precorrin 6" />
+    <hashEntry Key="C11545" Value="Cobalt-precorrin 8" />
+    <hashEntry Key="C11630" Value="15,16-Dihydrobiliverdin" />
+    <hashEntry Key="C11829" Value="13(1)-Hydroxy-magnesium-protoporphyrin IX 13-monomethyl ester" />
+    <hashEntry Key="C11830" Value="13(1)-Oxo-magnesium-protoporphyrin IX 13-monomethyl ester" />
+    <hashEntry Key="C11831" Value="Divinylprotochlorophyllide" />
+    <hashEntry Key="C11832" Value="Divinyl chlorophyllide a" />
+    <hashEntry Key="C11850" Value="Divinylchlorophyll a" />
+    <hashEntry Key="C11851" Value="Zn-Bacteriochlorophyll a" />
+    <hashEntry Key="C12147" Value="L-Threonine O-3-phosphate" />
+    <hashEntry Key="C14818" Value="Fe2+" />
+    <hashEntry Key="C14819" Value="Fe3+" />
+    <hashEntry Key="C15670" Value="Heme A" />
+    <hashEntry Key="C15672" Value="Heme O" />
+    <hashEntry Key="C16242" Value="Cobalt-precorrin 5A" />
+    <hashEntry Key="C16243" Value="Cobalt-precorrin 5B" />
+    <hashEntry Key="C16244" Value="Cobalt-precorrin 7" />
+    <hashEntry Key="C16540" Value="7(1)-Hydroxychlorophyllide a" />
+    <hashEntry Key="C16541" Value="Chlorophyllide b" />
+    <hashEntry Key="C17401" Value="Cobalt-factor III" />
+    <hashEntry Key="C18021" Value="Pheophorbide a" />
+    <hashEntry Key="C18022" Value="Red chlorophyll catabolite" />
+    <hashEntry Key="C18064" Value="Pyropheophorbide a" />
+    <hashEntry Key="C18098" Value="Primary fluorescent chlorophyll catabolite" />
+    <hashEntry Key="C18151" Value="7(1)-Hydroxychlorophyll a" />
+    <hashEntry Key="C18152" Value="3-Vinylbacteriochlorophyllide a" />
+    <hashEntry Key="C18153" Value="3-Hydroxyethylbacteriochlorophyllide a" />
+    <hashEntry Key="C18154" Value="3-Hydroxyethylchlorophyllide a" />
+    <hashEntry Key="C18155" Value="Bacteriochlorophyllide a" />
+    <hashEntry Key="C18156" Value="Bacteriochlorophyllide b" />
+    <hashEntry Key="C18157" Value="8-Ethyl-12-methyl-3-vinylbacteriochlorophyllide d" />
+    <hashEntry Key="C18160" Value="Bacteriochlorophyllide d" />
+    <hashEntry Key="C18161" Value="Bacteriochlorophyllide c" />
+    <hashEntry Key="C18162" Value="Bacteriochlorophyll d" />
+    <hashEntry Key="C18163" Value="Bacteriochlorophyll c" />
+    <hashEntry Key="C21217" Value="Geranylgeranyl bacteriochlorophyllide a" />
+    <hashEntry Key="C21284" Value="Fe-coproporphyrin III" />
+    <hashEntry Key="C21427" Value="8,12-Diethyl-3-vinylbacteriochlorophyllide d" />
+    <hashEntry Key="C21428" Value="12-Ethyl-8-propyl-3-vinylbacteriochlorophyllide d" />
+    <hashEntry Key="C21429" Value="12-Ethyl-8-isobutyl-3-vinylbacteriochlorophyllide d" />
+    <hashEntry Key="C21431" Value="8-Ethyl-12-methylbacteriochlorophyllide d" />
+    <hashEntry Key="C21432" Value="8,12-Diethylbacteriochlorophyllide d" />
+    <hashEntry Key="C21433" Value="12-Ethyl-8-propylbacteriochlorophyllide d" />
+    <hashEntry Key="C21434" Value="12-Ethyl-8-isobutylbacteriochlorophyllide d" />
+    <hashEntry Key="C21435" Value="Geranylgeranyl bacteriochlorophyllide b" />
+  </Compound>
+  <PathwayMap Key="xcb00860" Value="Porphyrin and chlorophyll metabolism" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0207" Value="K02496 uroporphyrin-III C-methyltransferase [EC:2.1.1.107] | (GenBank) conserved hypothetical protei" />
+    <hashEntry Key="xcb:XC_0208" Value="K01719 uroporphyrinogen-III synthase [EC:4.2.1.75] | (GenBank) uroporphyrinogen-III synthase" />
+    <hashEntry Key="xcb:XC_0494" Value="K03594 bacterioferritin [EC:1.16.3.1] | (GenBank) bacterioferritin" />
+    <hashEntry Key="xcb:XC_0649" Value="K01749 hydroxymethylbilane synthase [EC:2.5.1.61] | (GenBank) porphobilinogen deaminase" />
+    <hashEntry Key="xcb:XC_0892" Value="K01845 glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8] | (GenBank) glutamate-1-semialdehyde 2," />
+    <hashEntry Key="xcb:XC_0983" Value="K02302 uroporphyrin-III C-methyltransferase / precorrin-2 dehydrogenase / sirohydrochlorin ferrochel" />
+    <hashEntry Key="xcb:XC_1094" Value="K19221 cob(I)alamin adenosyltransferase [EC:2.5.1.17] | (GenBank) cob(I)alamin adenolsyltransferase" />
+    <hashEntry Key="xcb:XC_1095" Value="K02224 cobyrinic acid a,c-diamide synthase [EC:6.3.5.9 6.3.5.11] | (GenBank) cobyrinic acid a,c-diam" />
+    <hashEntry Key="xcb:XC_1096" Value="K02227 adenosylcobinamide-phosphate synthase [EC:6.3.1.10] | (GenBank) cobalamin biosynthesis protei" />
+    <hashEntry Key="xcb:XC_1097" Value="K02232 adenosylcobyric acid synthase [EC:6.3.5.10] | (GenBank) cobyric acid synthase" />
+    <hashEntry Key="xcb:XC_1098" Value="K02231 adenosylcobinamide kinase / adenosylcobinamide-phosphate guanylyltransferase [EC:2.7.1.156 2." />
+    <hashEntry Key="xcb:XC_1099" Value="K00768 nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase [EC:2.4.2.21] | (GenBa" />
+    <hashEntry Key="xcb:XC_1100" Value="K02226 alpha-ribazole phosphatase [EC:3.1.3.73] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_1101" Value="K02233 adenosylcobinamide-GDP ribazoletransferase [EC:2.7.8.26] | (GenBank) cobalamin synthase" />
+    <hashEntry Key="xcb:XC_1265" Value="K01599 uroporphyrinogen decarboxylase [EC:4.1.1.37] | (GenBank) uroporphyrinogen decarboxylase" />
+    <hashEntry Key="xcb:XC_1429" Value="K01885 glutamyl-tRNA synthetase [EC:6.1.1.17] | (GenBank) glutamyl-tRNA synthetase" />
+    <hashEntry Key="xcb:XC_2174" Value="K02303 uroporphyrin-III C-methyltransferase [EC:2.1.1.107] | (GenBank) uroporphyrin-III C-methyltran" />
+    <hashEntry Key="xcb:XC_2181" Value="K02304 precorrin-2 dehydrogenase / sirohydrochlorin ferrochelatase [EC:1.3.1.76 4.99.1.4] | (GenBank" />
+    <hashEntry Key="xcb:XC_2549" Value="K04034 anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase [EC:1.21.98.3] | (GenBank) Mg-" />
+    <hashEntry Key="xcb:XC_2844" Value="K03594 bacterioferritin [EC:1.16.3.1] | (GenBank) bacterioferritin" />
+    <hashEntry Key="xcb:XC_3201" Value="K03594 bacterioferritin [EC:1.16.3.1] | (GenBank) bacterioferritin" />
+    <hashEntry Key="xcb:XC_3362" Value="K02492 glutamyl-tRNA reductase [EC:1.2.1.70] | (GenBank) glutamyl-tRNA reductase" />
+    <hashEntry Key="xcb:XC_3435" Value="K00798 cob(I)alamin adenosyltransferase [EC:2.5.1.17] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_3896" Value="K02301 protoheme IX farnesyltransferase [EC:2.5.1.-] | (GenBank) cytochrome C oxidase assembly facto" />
+    <hashEntry Key="xcb:XC_3897" Value="K02259 cytochrome c oxidase assembly protein subunit 15 | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_4045" Value="K01698 porphobilinogen synthase [EC:4.2.1.24] | (GenBank) delta-aminolevulinic acid dehydratase" />
+    <hashEntry Key="xcb:XC_4108" Value="K00228 coproporphyrinogen III oxidase [EC:1.3.3.3] | (GenBank) coproporphyrinogen III oxidase, aerob" />
+    <hashEntry Key="xcb:XC_4186" Value="K01772 protoporphyrin/coproporphyrin ferrochelatase [EC:4.99.1.1 4.99.1.9] | (GenBank) ferrochelatas" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00860" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Biochem J 330:121-9 (1998)" PMID="9461500">
+      <Authors>Woodcock SC</Authors>
+      <Authors>Raux E</Authors>
+      <Authors>Levillayer F</Authors>
+      <Authors>Thermes C</Authors>
+      <Authors>Rambach A</Authors>
+      <Authors>Warren MJ.</Authors>Effect of mutations in the transmethylase and dehydrogenase/chelatase domains of sirohaem synthase (CysG) on sirohaem and cobalamin biosynthesis.</Reference>
+    <Reference Journal="Microbiology 145 ( Pt 3):529-38 (1999)" PMID="10217486">
+      <Authors>Johansson P</Authors>
+      <Authors>Hederstedt L</Authors>Organization of genes for tetrapyrrole biosynthesis in gram--positive bacteria.</Reference>
+    <Reference Journal="Proc Natl Acad Sci USA 96:11798-803 (1999)" PMID="10518530">
+      <Authors>Maggio-Hall LA</Authors>
+      <Authors>Escalante-Semerena JC.</Authors>In vitro synthesis of the nucleotide loop of cobalamin by Salmonella typhimurium enzymes.</Reference>
+    <Reference Journal="J Biol Chem 275:40316-23 (2000)" PMID="11007789">
+      <Authors>Roper JM</Authors>
+      <Authors>Raux E</Authors>
+      <Authors>Brindley AA</Authors>
+      <Authors>Schubert HL</Authors>
+      <Authors>Gharbia SE</Authors>
+      <Authors>Shah HN</Authors>
+      <Authors>Warren MJ.</Authors>The enigma of cobalamin (Vitamin B12) biosynthesis in Porphyromonas gingivalis. Identification and characterization of a functional corrin pathway.</Reference>
+    <Reference Journal="Biochem Soc Trans 30:613-20 (2002)" PMID="12196148">
+      <Authors>Scott AI</Authors>
+      <Authors>Roessner CA.</Authors>Biosynthesis of cobalamin (vitamin B(12)).</Reference>
+    <Reference Journal="Nat Prod Rep 19:390-412 (2002)" PMID="12195810">
+      <Authors>Warren MJ</Authors>
+      <Authors>Raux E</Authors>
+      <Authors>Schubert HL</Authors>
+      <Authors>Escalante-Semerena JC.</Authors>The biosynthesis of adenosylcobalamin (vitamin B12).</Reference>
+    <Reference Journal="Microbiology 148:1845-53 (2002)" PMID="12055304">
+      <Authors>Roessner CA</Authors>
+      <Authors>Huang KX</Authors>
+      <Authors>Warren MJ</Authors>
+      <Authors>Raux E</Authors>
+      <Authors>Scott AI.</Authors>Isolation and characterization of 14 additional genes specifying the anaerobic biosynthesis of cobalamin (vitamin B12) in Propionibacterium freudenreichii (P. shermanii).</Reference>
+    <Reference Journal="Plant Cell 13:965-78 (2001)" PMID="11283349">
+      <Authors>Frankenberg N</Authors>
+      <Authors>Mukougawa K</Authors>
+      <Authors>Kohchi T</Authors>
+      <Authors>Lagarias JC.</Authors>Functional genomic analysis of the HY2 family of ferredoxin-dependent bilin reductases from oxygenic photosynthetic organisms.</Reference>
+    <Reference Journal="Annu Rev Microbiol 61:113-29 (2007)" PMID="17506685">
+      <Authors>Chew AG</Authors>
+      <Authors>Bryant DA</Authors>Chlorophyll biosynthesis in bacteria: the origins of structural and functional diversity.</Reference>
+    <Reference Journal="Photosynth Res 78:93-117 (2003)" PMID="16245042">
+      <Authors>Frigaard NU</Authors>
+      <Authors>Chew AG</Authors>
+      <Authors>Li H</Authors>
+      <Authors>Maresca JA</Authors>
+      <Authors>Bryant DA</Authors>Chlorobium tepidum: insights into the structure, physiology, and metabolism of a  green sulfur bacterium derived from the complete genome sequence.</Reference>
+    <Reference Journal="Nat Chem Biol 8:933-40 (2012)" PMID="23042036">
+      <Authors>Deery E</Authors>
+      <Authors>Schroeder S</Authors>
+      <Authors>Lawrence AD</Authors>
+      <Authors>Taylor SL</Authors>
+      <Authors>Seyedarabi A</Authors>
+      <Authors>Waterman J</Authors>
+      <Authors>Wilson KS</Authors>
+      <Authors>Brown D</Authors>
+      <Authors>Geeves MA</Authors>
+      <Authors>Howard MJ</Authors>
+      <Authors>Pickersgill RW</Authors>
+      <Authors>Warren MJ</Authors>An enzyme-trap approach allows isolation of intermediates in cobalamin biosynthesis.</Reference>
+    <Reference Journal="Proc Natl Acad Sci U S A 110:14906-11 (2013)" PMID="23922391">
+      <Authors>Moore SJ</Authors>
+      <Authors>Lawrence AD</Authors>
+      <Authors>Biedendieck R</Authors>
+      <Authors>Deery E</Authors>
+      <Authors>Frank S</Authors>
+      <Authors>Howard MJ</Authors>
+      <Authors>Rigby SE</Authors>
+      <Authors>Warren MJ</Authors>Elucidation of the anaerobic pathway for the corrin component of cobalamin (vitamin B12).</Reference>
+  </References>
+</KEGG.PathwayBrief>

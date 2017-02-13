@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb02060" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description>The phosphoenolpyruvate (PEP)-dependent phosphotransferase system (PTS) is a major mechanism used by bacteria for uptake of carbohydrates, particularly hexoses, hexitols, and disaccharides, where the source of energy is from PEP. The PTS consists of two general components, enzyme I (EI) and histidine phosphocarrier protein (HPr), and of membrane-bound sugar specific permeases (enzymes II). Each enzyme II (EII) complex consists of one or two hydrophobic integral membrane domains (domains C and D) and two hydrophilic domains (domains A and B). EII complexes may exist as distinct proteins or as a single multidomain protein. The PTS catalyzes the uptake of carbohydrates and their conversion into their respective phosphoesters during transport. There are four successive phosphoryl transfers in the PTS. Initial autophosphorylation of EI, using PEP as a substrate, is followed by transfer of the phosphoryl group from EI to HPr. EIIA catalyzes the self-phosphoryl transfer from HPr after which the phosphoryl group is transferred to histidine or cysteine residues of EIIB. The sugar is transported through the membrane-bound EIIC and is phosphorylated by the appropriate sugar-specific EIIB.</Description>
+  <Name>Phosphotransferase system (PTS) - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00273" Value="PTS system, fructose-specific II component [PATH:xcb02060]" />
+  </Modules>
+  <Compound>
+    <hashEntry Key="C00022" Value="Pyruvate" />
+    <hashEntry Key="C00031" Value="D-Glucose" />
+    <hashEntry Key="C00072" Value="Ascorbate" />
+    <hashEntry Key="C00074" Value="Phosphoenolpyruvate" />
+    <hashEntry Key="C00089" Value="Sucrose" />
+    <hashEntry Key="C00092" Value="D-Glucose 6-phosphate" />
+    <hashEntry Key="C00095" Value="D-Fructose" />
+    <hashEntry Key="C00124" Value="D-Galactose" />
+    <hashEntry Key="C00140" Value="N-Acetyl-D-glucosamine" />
+    <hashEntry Key="C00159" Value="D-Mannose" />
+    <hashEntry Key="C00185" Value="Cellobiose" />
+    <hashEntry Key="C00208" Value="Maltose" />
+    <hashEntry Key="C00243" Value="Lactose" />
+    <hashEntry Key="C00275" Value="D-Mannose 6-phosphate" />
+    <hashEntry Key="C00329" Value="D-Glucosamine" />
+    <hashEntry Key="C00352" Value="D-Glucosamine 6-phosphate" />
+    <hashEntry Key="C00357" Value="N-Acetyl-D-glucosamine 6-phosphate" />
+    <hashEntry Key="C00392" Value="Mannitol" />
+    <hashEntry Key="C00644" Value="D-Mannitol 1-phosphate" />
+    <hashEntry Key="C00689" Value="alpha,alpha'-Trehalose 6-phosphate" />
+    <hashEntry Key="C00697" Value="Nitrogen" />
+    <hashEntry Key="C00794" Value="D-Sorbitol" />
+    <hashEntry Key="C01083" Value="alpha,alpha-Trehalose" />
+    <hashEntry Key="C01094" Value="D-Fructose 1-phosphate" />
+    <hashEntry Key="C01096" Value="Sorbitol 6-phosphate" />
+    <hashEntry Key="C01113" Value="D-Galactose 6-phosphate" />
+    <hashEntry Key="C01132" Value="N-Acetyl-D-galactosamine" />
+    <hashEntry Key="C01451" Value="Salicin" />
+    <hashEntry Key="C01452" Value="Sorbose" />
+    <hashEntry Key="C01674" Value="Chitobiose" />
+    <hashEntry Key="C01697" Value="Galactitol" />
+    <hashEntry Key="C01798" Value="D-Glucoside" />
+    <hashEntry Key="C02262" Value="D-Galactosamine" />
+    <hashEntry Key="C02713" Value="N-Acetylmuramate" />
+    <hashEntry Key="C02888" Value="Sorbose 1-phosphate" />
+    <hashEntry Key="C02995" Value="Maltose 6'-phosphate" />
+    <hashEntry Key="C03752" Value="2-Amino-2-deoxy-D-gluconate" />
+    <hashEntry Key="C04534" Value="6-Phospho-beta-D-glucosyl-(1,4)-D-glucose" />
+    <hashEntry Key="C05396" Value="Lactose 6'-phosphate" />
+    <hashEntry Key="C06186" Value="Arbutin" />
+    <hashEntry Key="C06187" Value="Arbutin 6-phosphate" />
+    <hashEntry Key="C06188" Value="Salicin 6-phosphate" />
+    <hashEntry Key="C06311" Value="Galactitol 1-phosphate" />
+    <hashEntry Key="C06376" Value="N-Acetyl-D-galactosamine 6-phosphate" />
+    <hashEntry Key="C06377" Value="D-Galactosamine 6-phosphate" />
+    <hashEntry Key="C11544" Value="2-O-(alpha-D-Mannosyl)-D-glycerate" />
+    <hashEntry Key="C16186" Value="L-Ascorbate 6-phosphate" />
+    <hashEntry Key="C16488" Value="Fructoselysine" />
+    <hashEntry Key="C16489" Value="Fructoselysine 6-phosphate" />
+    <hashEntry Key="C16688" Value="Sucrose 6-phosphate" />
+    <hashEntry Key="C16698" Value="N-Acetylmuramic acid 6-phosphate" />
+    <hashEntry Key="C16699" Value="2-O-(6-Phospho-alpha-mannosyl)-D-glycerate" />
+    <hashEntry Key="C20589" Value="D-Glucosaminate-6-phosphate" />
+    <hashEntry Key="C20978" Value="Glucoselysine" />
+    <hashEntry Key="C20979" Value="Glucoselysine-6-phosphate" />
+    <hashEntry Key="C21152" Value="N,N'-Diacetylchitobiose 6'-phosphate" />
+  </Compound>
+  <PathwayMap Key="xcb02060" Value="Phosphotransferase system (PTS)" />
+  <Genes>
+    <hashEntry Key="xcb:XC_1304" Value="K08483 phosphotransferase system, enzyme I, PtsI [EC:2.7.3.9] | (GenBank) phosphotransferase system" />
+    <hashEntry Key="xcb:XC_1306" Value="K02821 PTS system, ascorbate-specific IIA component [EC:2.7.1.194] | (GenBank) conserved hypothetica" />
+    <hashEntry Key="xcb:XC_1309" Value="K02806 PTS system, nitrogen regulatory IIA component [EC:2.7.1.-] | (GenBank) nitrogen regulatory II" />
+    <hashEntry Key="xcb:XC_1742" Value="K02769 PTS system, fructose-specific IIB component [EC:2.7.1.202] K02770 PTS system, fructose-specif" />
+    <hashEntry Key="xcb:XC_1744" Value="K02768 PTS system, fructose-specific IIA component [EC:2.7.1.202] K08483 phosphotransferase system," />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko02060" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="J Mol Microbiol Biotechnol 3:439-44 (2001)" PMID="11361076">
+      <Authors>Darbon E</Authors>
+      <Authors>Galinier A</Authors>
+      <Authors>Le Coq D</Authors>
+      <Authors>Deutscher J.</Authors>Phosphotransfer functions mutated Bacillus subtilis HPr-like protein Crh carrying a histidine in the active site.</Reference>
+    <Reference Journal="J Bacteriol 186:2385-92 (2004)" PMID="15060041">
+      <Authors>Dahl U</Authors>
+      <Authors>Jaeger T</Authors>
+      <Authors>Nguyen BT</Authors>
+      <Authors>Sattler JM</Authors>
+      <Authors>Mayer C.</Authors>Identification of a phosphotransferase system of Escherichia coli required for growth on N-acetylmuramic acid.</Reference>
+    <Reference Journal="J Mol Biol 214:657-71 (1990)" PMID="2117666">
+      <Authors>Martin-Verstraete I</Authors>
+      <Authors>Debarbouille M</Authors>
+      <Authors>Klier A</Authors>
+      <Authors>Rapoport G</Authors>Levanase operon of Bacillus subtilis includes a fructose-specific phosphotransferase system regulating the expression of the operon.</Reference>
+    <Reference Journal="Mol Microbiol 47:1353-66 (2003)" PMID="12603740">
+      <Authors>Kristich CJ</Authors>
+      <Authors>Glekas GD</Authors>
+      <Authors>Ordal GW.</Authors>The conserved cytoplasmic module of the transmembrane chemoreceptor McpC mediates carbohydrate chemotaxis in Bacillus subtilis.</Reference>
+    <Reference Journal="J Biol Chem 279:5537-48 (2004)" PMID="14645248">
+      <Authors>Sampaio MM</Authors>
+      <Authors>Chevance F</Authors>
+      <Authors>Dippel R</Authors>
+      <Authors>Eppler T</Authors>
+      <Authors>Schlegel A</Authors>
+      <Authors>Boos W</Authors>
+      <Authors>Lu YJ</Authors>
+      <Authors>Rock CO.</Authors>Phosphotransferase-mediated transport of the osmolyte 2-O-alpha-mannosyl-D-glycerate in Escherichia coli occurs by the product of the mngA (hrsA) gene and is regulated by the mngR (farR) gene product acting as repressor.</Reference>
+    <Reference Journal="Nucleic Acids Res 33:D334-7 (2005)" PMID="15608210">
+      <Authors>Keseler IM</Authors>
+      <Authors>Collado-Vides J</Authors>
+      <Authors>Gama-Castro S</Authors>
+      <Authors>Ingraham J</Authors>
+      <Authors>Paley S</Authors>
+      <Authors>Paulsen IT</Authors>
+      <Authors>Peralta-Gil M</Authors>
+      <Authors>Karp PD.</Authors>EcoCyc: a comprehensive database resource for Escherichia coli.</Reference>
+    <Reference Journal="J Bacteriol 190:1710-7 (2008)" PMID="18156259">
+      <Authors>Mukherjee A</Authors>
+      <Authors>Mammel MK</Authors>
+      <Authors>LeClerc JE</Authors>
+      <Authors>Cebula TA.</Authors>Altered utilization of N-acetyl-D-galactosamine by Escherichia coli O157:H7 from the 2006 spinach outbreak.</Reference>
+    <Reference Journal="Mol Microbiol 37:125-35 (2000)" PMID="10931310">
+      <Authors>Brinkkotter A</Authors>
+      <Authors>Kloss H</Authors>
+      <Authors>Alpert C</Authors>
+      <Authors>Lengeler JW.</Authors>Pathways for the utilization of N-acetyl-galactosamine and galactosamine in Escherichia coli.</Reference>
+    <Reference Journal="J Mol Microbiol Biotechnol 3:329-46 (2001)" PMID="11361063">
+      <Authors>Tchieu JH</Authors>
+      <Authors>Norris V</Authors>
+      <Authors>Edwards JS</Authors>
+      <Authors>Saier MH Jr.</Authors>The complete phosphotranferase system in Escherichia coli.</Reference>
+    <Reference Journal="J Biosci Bioeng 92:502-17 (2001)" PMID="16233138">
+      <Authors>Kotrba P</Authors>
+      <Authors>Inui M</Authors>
+      <Authors>Yukawa H.</Authors>Bacterial phosphotransferase system (PTS) in carbohydrate uptake and control of carbon metabolism.</Reference>
+  </References>
+</KEGG.PathwayBrief>

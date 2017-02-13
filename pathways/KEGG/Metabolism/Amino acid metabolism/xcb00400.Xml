@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00400" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Phenylalanine, tyrosine and tryptophan biosynthesis - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00022" Value="Shikimate pathway, phosphoenolpyruvate + erythrose-4P =&gt; chorismate [PATH:xcb00400]" />
+    <hashEntry Key="xcb_M00023" Value="Tryptophan biosynthesis, chorismate =&gt; tryptophan [PATH:xcb00400]" />
+    <hashEntry Key="xcb_M00024" Value="Phenylalanine biosynthesis, chorismate =&gt; phenylalanine [PATH:xcb00400]" />
+    <hashEntry Key="xcb_M00025" Value="Tyrosine biosynthesis, chorismate =&gt; tyrosine [PATH:xcb00400]" />
+  </Modules>
+  <Compound>
+    <hashEntry Key="C00074" Value="Phosphoenolpyruvate" />
+    <hashEntry Key="C00078" Value="L-Tryptophan" />
+    <hashEntry Key="C00079" Value="L-Phenylalanine" />
+    <hashEntry Key="C00082" Value="L-Tyrosine" />
+    <hashEntry Key="C00108" Value="Anthranilate" />
+    <hashEntry Key="C00119" Value="5-Phospho-alpha-D-ribose 1-diphosphate" />
+    <hashEntry Key="C00166" Value="Phenylpyruvate" />
+    <hashEntry Key="C00230" Value="3,4-Dihydroxybenzoate" />
+    <hashEntry Key="C00251" Value="Chorismate" />
+    <hashEntry Key="C00254" Value="Prephenate" />
+    <hashEntry Key="C00279" Value="D-Erythrose 4-phosphate" />
+    <hashEntry Key="C00296" Value="Quinate" />
+    <hashEntry Key="C00354" Value="D-Fructose 1,6-bisphosphate" />
+    <hashEntry Key="C00441" Value="L-Aspartate 4-semialdehyde" />
+    <hashEntry Key="C00463" Value="Indole" />
+    <hashEntry Key="C00493" Value="Shikimate" />
+    <hashEntry Key="C00587" Value="3-Hydroxybenzoate" />
+    <hashEntry Key="C00826" Value="L-Arogenate" />
+    <hashEntry Key="C00944" Value="3-Dehydroquinate" />
+    <hashEntry Key="C01094" Value="D-Fructose 1-phosphate" />
+    <hashEntry Key="C01179" Value="3-(4-Hydroxyphenyl)pyruvate" />
+    <hashEntry Key="C01269" Value="5-O-(1-Carboxyvinyl)-3-phosphoshikimate" />
+    <hashEntry Key="C01302" Value="1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate" />
+    <hashEntry Key="C02637" Value="3-Dehydroshikimate" />
+    <hashEntry Key="C03175" Value="Shikimate 3-phosphate" />
+    <hashEntry Key="C03506" Value="Indoleglycerol phosphate" />
+    <hashEntry Key="C04302" Value="N-(5-Phospho-D-ribosyl)anthranilate" />
+    <hashEntry Key="C04691" Value="2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate" />
+    <hashEntry Key="C16848" Value="6-Deoxy-5-ketofructose 1-phosphate" />
+    <hashEntry Key="C16850" Value="2-Amino-3,7-dideoxy-D-threo-hept-6-ulosonic acid" />
+    <hashEntry Key="C17235" Value="L-Homophenylalanine" />
+    <hashEntry Key="C20327" Value="2-Oxo-4-phenylbutyric acid" />
+    <hashEntry Key="C20653" Value="2-Benzylmalic acid" />
+    <hashEntry Key="C20654" Value="3-Benzylmalic acid" />
+    <hashEntry Key="C20710" Value="(4R,5R)-4,5-Dihydroxycyclohexa-1(6),2-diene-1-carboxylate" />
+  </Compound>
+  <PathwayMap Key="xcb00400" Value="Phenylalanine, tyrosine and tryptophan biosynthesis" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0100" Value="K00832 aromatic-amino-acid transaminase [EC:2.6.1.57] | (GenBank) aromatic-amino-acid aminotransfera" />
+    <hashEntry Key="xcb:XC_0165" Value="K00500 phenylalanine-4-hydroxylase [EC:1.14.16.1] | (GenBank) phenylalanine hydroxylase" />
+    <hashEntry Key="xcb:XC_0473" Value="K01657 anthranilate synthase component I [EC:4.1.3.27] | (GenBank) anthranilate synthase component I" />
+    <hashEntry Key="xcb:XC_0481" Value="K01658 anthranilate synthase component II [EC:4.1.3.27] | (GenBank) anthranilate synthase component" />
+    <hashEntry Key="xcb:XC_0483" Value="K00766 anthranilate phosphoribosyltransferase [EC:2.4.2.18] | (GenBank) anthranilate synthase compon" />
+    <hashEntry Key="xcb:XC_0484" Value="K01609 indole-3-glycerol phosphate synthase [EC:4.1.1.48] | (GenBank) indole-3-glycerol phosphate sy" />
+    <hashEntry Key="xcb:XC_0530" Value="K03786 3-dehydroquinate dehydratase II [EC:4.2.1.10] | (GenBank) catabolic dehydroquinase" />
+    <hashEntry Key="xcb:XC_0548" Value="K01626 3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54] | (GenBank) phospho-2-dehydro-3-deoxyhept" />
+    <hashEntry Key="xcb:XC_0623" Value="K01713 cyclohexadienyl dehydratase [EC:4.2.1.51 4.2.1.91] | (GenBank) cyclohexadienyl dehydratase" />
+    <hashEntry Key="xcb:XC_0889" Value="K00817 histidinol-phosphate aminotransferase [EC:2.6.1.9] | (GenBank) histidinol-phosphate aminotran" />
+    <hashEntry Key="xcb:XC_1268" Value="K01735 3-dehydroquinate synthase [EC:4.2.3.4] | (GenBank) 3-dehydroquinate synthase" />
+    <hashEntry Key="xcb:XC_1269" Value="K00891 shikimate kinase [EC:2.7.1.71] | (GenBank) shikimate kinase" />
+    <hashEntry Key="xcb:XC_1567" Value="K01736 chorismate synthase [EC:4.2.3.5] | (GenBank) chorismate synthase" />
+    <hashEntry Key="xcb:XC_1573" Value="K01817 phosphoribosylanthranilate isomerase [EC:5.3.1.24] | (GenBank) N-(5&amp;#39;-phosphoribosyl) anthrani" />
+    <hashEntry Key="xcb:XC_1575" Value="K01696 tryptophan synthase beta chain [EC:4.2.1.20] | (GenBank) tryptophan synthase beta chain" />
+    <hashEntry Key="xcb:XC_1577" Value="K01695 tryptophan synthase alpha chain [EC:4.2.1.20] | (GenBank) tryptophan synthase alpha chain" />
+    <hashEntry Key="xcb:XC_2379" Value="K00817 histidinol-phosphate aminotransferase [EC:2.6.1.9] | (GenBank) histidinol-phosphate aminotran" />
+    <hashEntry Key="xcb:XC_2643" Value="K00800 3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19] | (GenBank) 3-phosphoshikimate 1-c" />
+    <hashEntry Key="xcb:XC_2644" Value="K14170 chorismate mutase / prephenate dehydratase [EC:5.4.99.5 4.2.1.51] | (GenBank) P-protein" />
+    <hashEntry Key="xcb:XC_2665" Value="K00817 histidinol-phosphate aminotransferase [EC:2.6.1.9] | (GenBank) aminotransferase" />
+    <hashEntry Key="xcb:XC_2760" Value="K04517 prephenate dehydrogenase [EC:1.3.1.12] | (GenBank) chorismate mutase/prephenate dehydrogenase" />
+    <hashEntry Key="xcb:XC_3224" Value="K01657 anthranilate synthase component I [EC:4.1.3.27] | (GenBank) anthranilate synthase component I" />
+    <hashEntry Key="xcb:XC_3313" Value="K01626 3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54] | (GenBank) family II 2-keto-3-deoxy-D-ar" />
+    <hashEntry Key="xcb:XC_3676" Value="K04093 chorismate mutase [EC:5.4.99.5] | (GenBank) chorismate mutase/prephenate dehydratase" />
+    <hashEntry Key="xcb:XC_4041" Value="K00014 shikimate dehydrogenase [EC:1.1.1.25] | (GenBank) shikimate 5-dehydrogenase" />
+    <hashEntry Key="xcb:XC_4103" Value="K18240 chorismate lyase / 3-hydroxybenzoate synthase [EC:4.1.3.40 4.1.3.45] | (GenBank) pteridine-de" />
+    <hashEntry Key="xcb:XC_4173" Value="K03785 3-dehydroquinate dehydratase I [EC:4.2.1.10] | (GenBank) 3-dehydroquinate dehydratase" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00400" Value="" />
+  </KOpathway>
+  <References />
+</KEGG.PathwayBrief>

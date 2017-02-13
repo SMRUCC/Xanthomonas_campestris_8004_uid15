@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00450" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Selenocompound metabolism - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound>
+    <hashEntry Key="C00017" Value="Protein" />
+    <hashEntry Key="C00041" Value="L-Alanine" />
+    <hashEntry Key="C01528" Value="Hydrogen selenide" />
+    <hashEntry Key="C02535" Value="Dimethyl selenide" />
+    <hashEntry Key="C05172" Value="Selenophosphoric acid" />
+    <hashEntry Key="C05335" Value="L-Selenomethionine" />
+    <hashEntry Key="C05336" Value="Selenomethionyl-tRNA(Met)" />
+    <hashEntry Key="C05684" Value="Selenite" />
+    <hashEntry Key="C05686" Value="Adenylylselenate" />
+    <hashEntry Key="C05688" Value="L-Selenocysteine" />
+    <hashEntry Key="C05689" Value="Se-Methyl-L-selenocysteine" />
+    <hashEntry Key="C05690" Value="Se-Methylselenomethionine" />
+    <hashEntry Key="C05695" Value="gamma-Glutamyl-Se-methylselenocysteine" />
+    <hashEntry Key="C05697" Value="Selenate" />
+    <hashEntry Key="C05698" Value="Selenohomocysteine" />
+    <hashEntry Key="C05699" Value="L-Selenocystathionine" />
+    <hashEntry Key="C05703" Value="Methaneselenol" />
+    <hashEntry Key="C06481" Value="L-Seryl-tRNA(Sec)" />
+    <hashEntry Key="C06482" Value="L-Selenocysteinyl-tRNA(Sec)" />
+    <hashEntry Key="C16638" Value="O-Phosphoseryl-tRNA(Sec)" />
+    <hashEntry Key="C18870" Value="Selenodiglutathione" />
+    <hashEntry Key="C18871" Value="Glutathioselenol" />
+    <hashEntry Key="C18872" Value="Trimethylselenonium" />
+    <hashEntry Key="C18893" Value="1-Methylseleno-N-acetyl-D-galactosamine" />
+    <hashEntry Key="C18902" Value="Methylselenic acid" />
+    <hashEntry Key="C18904" Value="Methylselenopyruvate" />
+    <hashEntry Key="C18905" Value="Methylselenocysteine Se-oxide" />
+  </Compound>
+  <PathwayMap Key="xcb00450" Value="Selenocompound metabolism" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0330" Value="K00549 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14] | (GenBan" />
+    <hashEntry Key="xcb:XC_0993" Value="K00957 sulfate adenylyltransferase subunit 2 [EC:2.7.7.4] | (GenBank) ATP sulfurylase small subunit" />
+    <hashEntry Key="xcb:XC_0994" Value="K00955 bifunctional enzyme CysN/CysC [EC:2.7.7.4 2.7.1.25] | (GenBank) ATP sulfurylase/adenylylsulfa" />
+    <hashEntry Key="xcb:XC_1252" Value="K01739 cystathionine gamma-synthase [EC:2.5.1.48] | (GenBank) cystathionine gamma-synthase" />
+    <hashEntry Key="xcb:XC_1344" Value="K11717 cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16] | (GenBank) cysteine desulf" />
+    <hashEntry Key="xcb:XC_2214" Value="K00384 thioredoxin reductase (NADPH) [EC:1.8.1.9] | (GenBank) thioredoxin reductase" />
+    <hashEntry Key="xcb:XC_2724" Value="K00548 5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13] | (GenBank) 5-methylte" />
+    <hashEntry Key="xcb:XC_2725" Value="K00548 5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13] | (GenBank) 5-methylte" />
+    <hashEntry Key="xcb:XC_2900" Value="K01874 methionyl-tRNA synthetase [EC:6.1.1.10] | (GenBank) methionyl-tRNA synthetase" />
+    <hashEntry Key="xcb:XC_3165" Value="K00384 thioredoxin reductase (NADPH) [EC:1.8.1.9] | (GenBank) thioredoxin reductase" />
+    <hashEntry Key="xcb:XC_3635" Value="K01758 cystathionine gamma-lyase [EC:4.4.1.1] | (GenBank) cystathionine gamma-lyase-like protein" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00450" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="J Nutr Biochem (2010)" PMID="21190829">
+      <Authors>Hoefig CS</Authors>
+      <Authors>Renko K</Authors>
+      <Authors>Kohrle J</Authors>
+      <Authors>Birringer M</Authors>
+      <Authors>Schomburg L</Authors>Comparison of different selenocompounds with respect to nutritional value vs. toxicity using liver cells in culture.</Reference>
+    <Reference Journal="Transgenic Res 18:407-24 (2009)" PMID="19051051">
+      <Authors>McKenzie MJ</Authors>
+      <Authors>Hunter DA</Authors>
+      <Authors>Pathirana R</Authors>
+      <Authors>Watson LM</Authors>
+      <Authors>Joyce NI</Authors>
+      <Authors>Matich AJ</Authors>
+      <Authors>Rowan DD</Authors>
+      <Authors>Brummell DA</Authors>Accumulation of an organic anticancer selenium compound in a transgenic Solanaceous species shows wider applicability of the selenocysteine methyltransferase transgene from selenium hyperaccumulators.</Reference>
+    <Reference Journal="Amino Acids 41:29-41 (2011)" PMID="20383543">
+      <Authors>Pinto JT</Authors>
+      <Authors>Lee JI</Authors>
+      <Authors>Sinha R</Authors>
+      <Authors>MacEwan ME</Authors>
+      <Authors>Cooper AJ</Authors>Chemopreventive mechanisms of alpha-keto acid metabolites of naturally occurring  organoselenium compounds.</Reference>
+    <Reference Journal="Biochim Biophys Acta 1770:1053-61 (2007)" PMID="17451884">
+      <Authors>Suzuki KT</Authors>
+      <Authors>Kurasaki K</Authors>
+      <Authors>Suzuki N</Authors>Selenocysteine beta-lyase and methylselenol demethylase in the metabolism of Se-methylated selenocompounds into selenide.</Reference>
+    <Reference Journal="J Biol Chem 277:9701-6 (2002)" PMID="11782468">
+      <Authors>Gromer S</Authors>
+      <Authors>Gross JH</Authors>Methylseleninate is a substrate rather than an inhibitor of mammalian thioredoxin reductase. Implications for the antitumor effects of selenium.</Reference>
+  </References>
+</KEGG.PathwayBrief>

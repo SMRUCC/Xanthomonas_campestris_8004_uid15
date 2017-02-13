@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00920" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description>Sulfur is an essential element for life and the metabolism of organic sulfur compounds plays an important role in the global sulfur cycle. Sulfur occurs in various oxidation states ranging from +6 in sulfate to -2 in sulfide (H2S). Sulfate reduction can occur in both an energy consuming assimilatory pathway and an energy producing dissimilatory pathway. The assimilatory pathway, which is found in a wide range of organisms, produces reduced sulfur compounds for the biosynthesis of S-containing amino acids and does not lead to direct excretion of sulfide. In the dissimilatory pathway, which is restricted to obligatory anaerobic bacterial and archaeal lineages, sulfate (or sulfur) is the terminal electron acceptor of the respiratory chain producing large quantities of inorganic sulfide. Both pathways start from the activation of sulfate by reaction with ATP to form adenylyl sulfate (APS). In the assimilatory pathway [MD:M00176] APS is converted to 3'-phosphoadenylyl sulfate (PAPS) and then reduced to sulfite, and sulfite is further reduced to sulfide by the assimilatory sulfite reductase. In the dissimilatory pathway [MD:M00596] APS is directly reduced to sulfite, and sulfite is further reduced to sulfide by the dissimilatory sulfite reductase. The capacity for oxidation of sulfur is quite widespread among bacteria and archaea, comprising phototrophs and chemolithoautotrophs. The SOX (sulfur-oxidation) system [MD:M00595] is a well-known sulfur oxidation pathway and is found in both photosynthetic and non-photosynthetic sulfur-oxidizing bacteria. Green sulfur bacteria and purple sulfur bacteria carry out anoxygenic photosynthesis with reduced sulfur compounds such as sulfide and elemental sulfur, as well as thiosulfate (in some species with the SOX system), as the electron donor for photoautotrophic growth. In some chemolithoautotrophic sulfur oxidizers (such as Thiobacillus denitrificans), it has been suggested that dissimilatory sulfur reduction enzymes operate in the reverse direction, forming a sulfur oxidation pathway from sulfite to APS and then to sulfate.</Description>
+  <Name>Sulfur metabolism - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00176" Value="Assimilatory sulfate reduction, sulfate =&gt; H2S [PATH:xcb00920]" />
+  </Modules>
+  <Compound>
+    <hashEntry Key="C00033" Value="Acetate" />
+    <hashEntry Key="C00042" Value="Succinate" />
+    <hashEntry Key="C00053" Value="3'-Phosphoadenylyl sulfate" />
+    <hashEntry Key="C00054" Value="Adenosine 3',5'-bisphosphate" />
+    <hashEntry Key="C00059" Value="Sulfate" />
+    <hashEntry Key="C00065" Value="L-Serine" />
+    <hashEntry Key="C00084" Value="Acetaldehyde" />
+    <hashEntry Key="C00087" Value="Sulfur" />
+    <hashEntry Key="C00094" Value="Sulfite" />
+    <hashEntry Key="C00097" Value="L-Cysteine" />
+    <hashEntry Key="C00155" Value="L-Homocysteine" />
+    <hashEntry Key="C00224" Value="Adenylyl sulfate" />
+    <hashEntry Key="C00245" Value="Taurine" />
+    <hashEntry Key="C00263" Value="L-Homoserine" />
+    <hashEntry Key="C00283" Value="Hydrogen sulfide" />
+    <hashEntry Key="C00320" Value="Thiosulfate" />
+    <hashEntry Key="C00409" Value="Methanethiol" />
+    <hashEntry Key="C00580" Value="Dimethyl sulfide" />
+    <hashEntry Key="C00979" Value="O-Acetyl-L-serine" />
+    <hashEntry Key="C01118" Value="O-Succinyl-L-homoserine" />
+    <hashEntry Key="C01861" Value="Trithionate" />
+    <hashEntry Key="C02084" Value="Tetrathionate" />
+    <hashEntry Key="C03920" Value="2-(Methylthio)ethanesulfonate" />
+    <hashEntry Key="C04022" Value="S,S-Dimethyl-beta-propiothetin" />
+    <hashEntry Key="C08276" Value="3-(Methylthio)propanoate" />
+    <hashEntry Key="C11142" Value="Dimethyl sulfone" />
+    <hashEntry Key="C11143" Value="Dimethyl sulfoxide" />
+    <hashEntry Key="C11145" Value="Methanesulfonic acid" />
+    <hashEntry Key="C15521" Value="Alkanesulfonate" />
+    <hashEntry Key="C19692" Value="Polysulfide" />
+    <hashEntry Key="C20870" Value="3-(Methylthio)propanoyl-CoA" />
+    <hashEntry Key="C20955" Value="3-(Methylthio)acryloyl-CoA" />
+  </Compound>
+  <PathwayMap Key="xcb00920" Value="Sulfur metabolism" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0328" Value="K00299 FMN reductase [EC:1.5.1.38] | (GenBank) NADH-dependent FMN reductase" />
+    <hashEntry Key="xcb:XC_0982" Value="K01738 cysteine synthase A [EC:2.5.1.47] | (GenBank) cysteine synthase" />
+    <hashEntry Key="xcb:XC_0990" Value="K00390 phosphoadenosine phosphosulfate reductase [EC:1.8.4.8 1.8.4.10] | (GenBank) 3&amp;#39;-phosphoadenosi" />
+    <hashEntry Key="xcb:XC_0991" Value="K00381 sulfite reductase (NADPH) hemoprotein beta-component [EC:1.8.1.2] | (GenBank) NADPH-sulfite r" />
+    <hashEntry Key="xcb:XC_0992" Value="K00380 sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2] | (GenBank) NADPH-sulfite" />
+    <hashEntry Key="xcb:XC_0993" Value="K00957 sulfate adenylyltransferase subunit 2 [EC:2.7.7.4] | (GenBank) ATP sulfurylase small subunit" />
+    <hashEntry Key="xcb:XC_0994" Value="K00955 bifunctional enzyme CysN/CysC [EC:2.7.7.4 2.7.1.25] | (GenBank) ATP sulfurylase/adenylylsulfa" />
+    <hashEntry Key="xcb:XC_1227" Value="K01082 3&amp;#39;(2&amp;#39;), 5&amp;#39;-bisphosphate nucleotidase [EC:3.1.3.7] | (GenBank) sulfite synthesis pathway prote" />
+    <hashEntry Key="xcb:XC_1252" Value="K01739 cystathionine gamma-synthase [EC:2.5.1.48] | (GenBank) cystathionine gamma-synthase" />
+    <hashEntry Key="xcb:XC_1334" Value="K00380 sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2] | (GenBank) sulfite reduc" />
+    <hashEntry Key="xcb:XC_2564" Value="K08738 cytochrome c | (GenBank) cytochrome C2" />
+    <hashEntry Key="xcb:XC_2697" Value="K01011 thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2] | (GenBank) thiosulfate" />
+    <hashEntry Key="xcb:XC_3292" Value="K02045 sulfate transport system ATP-binding protein [EC:3.6.3.25] | (GenBank) sulfate ABC transporte" />
+    <hashEntry Key="xcb:XC_3293" Value="K02047 sulfate transport system permease protein | (GenBank) ABC transporter sulfate permease" />
+    <hashEntry Key="xcb:XC_3294" Value="K02046 sulfate transport system permease protein | (GenBank) ABC transporter sulfate permease" />
+    <hashEntry Key="xcb:XC_3295" Value="K02048 sulfate transport system substrate-binding protein | (GenBank) ABC transporter sulfate bindin" />
+    <hashEntry Key="xcb:XC_3456" Value="K03119 taurine dioxygenase [EC:1.14.11.17] | (GenBank) taurine dioxygenase" />
+    <hashEntry Key="xcb:XC_3655" Value="K01738 cysteine synthase A [EC:2.5.1.47] | (GenBank) cysteine synthase" />
+    <hashEntry Key="xcb:XC_4044" Value="K00380 sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2] | (GenBank) iron-uptake f" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00920" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Biochim Biophys Acta 1827:145-60 (2013)" PMID="22982583">
+      <Authors>Grein F</Authors>
+      <Authors>Ramos AR</Authors>
+      <Authors>Venceslau SS</Authors>
+      <Authors>Pereira IA</Authors>Unifying concepts in anaerobic respiration: Insights from dissimilatory sulfur metabolism.</Reference>
+    <Reference Journal="Adv Microb Physiol 60:1-90 (2012)" PMID="22633058">
+      <Authors>Fauque GD</Authors>
+      <Authors>Barton LL</Authors>Hemoproteins in dissimilatory sulfate- and sulfur-reducing prokaryotes.</Reference>
+    <Reference Journal="Photosynth Res 104:163-76 (2010)" PMID="20143161">
+      <Authors>Sakurai H</Authors>
+      <Authors>Ogawa T</Authors>
+      <Authors>Shiga M</Authors>
+      <Authors>Inoue K</Authors>Inorganic sulfur oxidizing system in green sulfur bacteria.</Reference>
+    <Reference Journal="FEMS Microbiol Lett 323:142-50 (2011)" PMID="22092713">
+      <Authors>Falkenby LG</Authors>
+      <Authors>Szymanska M</Authors>
+      <Authors>Holkenbrink C</Authors>
+      <Authors>Habicht KS</Authors>
+      <Authors>Andersen JS</Authors>
+      <Authors>Miller M</Authors>
+      <Authors>Frigaard NU</Authors>Quantitative proteomics of Chlorobaculum tepidum: insights into the sulfur metabolism of a phototrophic green sulfur bacterium.</Reference>
+    <Reference Journal="Front Microbiol 2:116 (2011)" PMID="21833341">
+      <Authors>Gregersen LH</Authors>
+      <Authors>Bryant DA</Authors>
+      <Authors>Frigaard NU</Authors>Mechanisms and evolution of oxidative sulfur metabolism in green sulfur bacteria.</Reference>
+    <Reference Journal="J Bacteriol 188:1473-88 (2006)" PMID="16452431">
+      <Authors>Beller HR</Authors>
+      <Authors>Chain PS</Authors>
+      <Authors>Letain TE</Authors>
+      <Authors>Chakicherla A</Authors>
+      <Authors>Larimer FW</Authors>
+      <Authors>Richardson PM</Authors>
+      <Authors>Coleman MA</Authors>
+      <Authors>Wood AP</Authors>
+      <Authors>Kelly DP.</Authors>The genome sequence of the obligately chemolithoautotrophic, facultatively anaerobic bacterium Thiobacillus denitrificans.</Reference>
+    <Reference Journal="Microbiology 144 ( Pt 7):1881-94 (1998)" PMID="9695921">
+      <Authors>Pott AS</Authors>
+      <Authors>Dahl C</Authors>Sirohaem sulfite reductase and other proteins encoded by genes at the dsr locus of Chromatium vinosum are involved in the oxidation of intracellular sulfur.</Reference>
+    <Reference Journal="Adv Microb Physiol 54:103-200 (2009)" PMID="18929068">
+      <Authors>Frigaard NU</Authors>
+      <Authors>Dahl C</Authors>Sulfur metabolism in phototrophic sulfur bacteria.</Reference>
+  </References>
+</KEGG.PathwayBrief>

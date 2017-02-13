@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00770" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Pantothenate and CoA biosynthesis - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00119" Value="Pantothenate biosynthesis, valine/L-aspartate =&gt; pantothenate [PATH:xcb00770]" />
+    <hashEntry Key="xcb_M00120" Value="Coenzyme A biosynthesis, pantothenate =&gt; CoA [PATH:xcb00770]" />
+  </Modules>
+  <Compound>
+    <hashEntry Key="C00010" Value="CoA" />
+    <hashEntry Key="C00022" Value="Pyruvate" />
+    <hashEntry Key="C00049" Value="L-Aspartate" />
+    <hashEntry Key="C00054" Value="Adenosine 3',5'-bisphosphate" />
+    <hashEntry Key="C00097" Value="L-Cysteine" />
+    <hashEntry Key="C00099" Value="beta-Alanine" />
+    <hashEntry Key="C00106" Value="Uracil" />
+    <hashEntry Key="C00141" Value="3-Methyl-2-oxobutanoic acid" />
+    <hashEntry Key="C00183" Value="L-Valine" />
+    <hashEntry Key="C00229" Value="Acyl-carrier protein" />
+    <hashEntry Key="C00429" Value="5,6-Dihydrouracil" />
+    <hashEntry Key="C00522" Value="(R)-Pantoate" />
+    <hashEntry Key="C00831" Value="Pantetheine" />
+    <hashEntry Key="C00864" Value="Pantothenate" />
+    <hashEntry Key="C00882" Value="Dephospho-CoA" />
+    <hashEntry Key="C00900" Value="2-Acetolactate" />
+    <hashEntry Key="C00966" Value="2-Dehydropantoate" />
+    <hashEntry Key="C01053" Value="(R)-4-Dehydropantoate" />
+    <hashEntry Key="C01088" Value="(R)-3,3-Dimethylmalate" />
+    <hashEntry Key="C01134" Value="Pantetheine 4'-phosphate" />
+    <hashEntry Key="C02642" Value="3-Ureidopropionate" />
+    <hashEntry Key="C03492" Value="D-4'-Phosphopantothenate" />
+    <hashEntry Key="C03688" Value="Apo-[acyl-carrier-protein]" />
+    <hashEntry Key="C04039" Value="2,3-Dihydroxy-3-methylbutanoate" />
+    <hashEntry Key="C04079" Value="N-((R)-Pantothenoyl)-L-cysteine" />
+    <hashEntry Key="C04352" Value="(R)-4'-Phosphopantothenoyl-L-cysteine" />
+    <hashEntry Key="C05944" Value="Pantothenol" />
+    <hashEntry Key="C18911" Value="(R)-4-Phosphopantoate" />
+  </Compound>
+  <PathwayMap Key="xcb00770" Value="Pantothenate and CoA biosynthesis" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0356" Value="K01687 dihydroxy-acid dehydratase [EC:4.2.1.9] | (GenBank) dihydroxy-acid dehydratase" />
+    <hashEntry Key="xcb:XC_0839" Value="K11258 acetolactate synthase II small subunit [EC:2.2.1.6] | (GenBank) acetolactate synthase isozyme" />
+    <hashEntry Key="xcb:XC_0840" Value="K01652 acetolactate synthase I/II/III large subunit [EC:2.2.1.6] | (GenBank) acetolactate synthase i" />
+    <hashEntry Key="xcb:XC_0841" Value="K00053 ketol-acid reductoisomerase [EC:1.1.1.86] | (GenBank) ketol-acid reductoisomerase" />
+    <hashEntry Key="xcb:XC_1055" Value="K00859 dephospho-CoA kinase [EC:2.7.1.24] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_1228" Value="K04765 nucleoside triphosphate diphosphatase [EC:3.6.1.9] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_1723" Value="K00954 pantetheine-phosphate adenylyltransferase [EC:2.7.7.3] | (GenBank) lipopolysaccharide synthes" />
+    <hashEntry Key="xcb:XC_2466" Value="K01579 aspartate 1-decarboxylase [EC:4.1.1.11] | (GenBank) aspartate 1-decarboxylase precursor" />
+    <hashEntry Key="xcb:XC_2467" Value="K01918 pantoate--beta-alanine ligase [EC:6.3.2.1] | (GenBank) pantoate-beta-alanine ligase" />
+    <hashEntry Key="xcb:XC_2468" Value="K00606 3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11] | (GenBank) 3-methyl-2-oxobuta" />
+    <hashEntry Key="xcb:XC_3380" Value="K00826 branched-chain amino acid aminotransferase [EC:2.6.1.42] | (GenBank) branched-chain amino aci" />
+    <hashEntry Key="xcb:XC_3943" Value="K13038 phosphopantothenoylcysteine decarboxylase / phosphopantothenate--cysteine ligase [EC:4.1.1.36" />
+    <hashEntry Key="xcb:XC_4025" Value="K03525 type III pantothenate kinase [EC:2.7.1.33] | (GenBank) transcriptional regulator" />
+    <hashEntry Key="xcb:XC_4070" Value="K00077 2-dehydropantoate 2-reductase [EC:1.1.1.169] | (GenBank) 2-dehydropantoate 2-reductase" />
+    <hashEntry Key="xcb:XC_4132" Value="K06133 4&amp;#39;-phosphopantetheinyl transferase [EC:2.7.8.-] | (GenBank) hetI protein" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00770" Value="" />
+  </KOpathway>
+  <References />
+</KEGG.PathwayBrief>

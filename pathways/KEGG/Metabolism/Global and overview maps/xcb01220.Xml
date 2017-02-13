@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb01220" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description>Microorganisms are known to be capable of degrading diverse chemical substances including man-made chemicals in the environment that are mostly aromatic compounds. This diagram illustrates combination patterns of reaction modules for biodegradation of aromatic compounds, consisting of three main types of ring dihydroxylation modules, followed by meta- or ortho-cleavage modules, together with an optional preprocessing module for converting methyl group to carboxyl group on the aromatic ring.</Description>
+  <Name>Degradation of aromatic compounds - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound />
+  <PathwayMap Key="xcb01220" Value="Degradation of aromatic compounds" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0154" Value="K02554 2-keto-4-pentenoate hydratase [EC:4.2.1.80] | (GenBank) 2-keto-4-pentenoate hydratase" />
+    <hashEntry Key="xcb:XC_0366" Value="K00141 benzaldehyde dehydrogenase (NAD) [EC:1.2.1.28] | (GenBank) benzaldehyde dehydrogenase II" />
+    <hashEntry Key="xcb:XC_0368" Value="K00481 p-hydroxybenzoate 3-monooxygenase [EC:1.14.13.2] | (GenBank) P-hydroxybenzoate hydroxylase" />
+    <hashEntry Key="xcb:XC_0379" Value="K00449 protocatechuate 3,4-dioxygenase, beta subunit [EC:1.13.11.3] | (GenBank) protocatechuate 3,4-" />
+    <hashEntry Key="xcb:XC_0380" Value="K00448 protocatechuate 3,4-dioxygenase, alpha subunit [EC:1.13.11.3] | (GenBank) protocatechuate 3,4" />
+    <hashEntry Key="xcb:XC_0381" Value="K01857 3-carboxy-cis,cis-muconate cycloisomerase [EC:5.5.1.2] | (GenBank) 3-carboxy-cis,cis-muconate" />
+    <hashEntry Key="xcb:XC_0382" Value="K01055 3-oxoadipate enol-lactonase [EC:3.1.1.24] | (GenBank) b-ketoadipate enol-lactone hydrolase" />
+    <hashEntry Key="xcb:XC_0383" Value="K01607 4-carboxymuconolactone decarboxylase [EC:4.1.1.44] | (GenBank) 4-Carboxymuconolactone decarbo" />
+    <hashEntry Key="xcb:XC_0553" Value="K01053 gluconolactonase [EC:3.1.1.17] | (GenBank) gluconolactonase precursor" />
+    <hashEntry Key="xcb:XC_0686" Value="K00121 S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1] | (" />
+    <hashEntry Key="xcb:XC_0775" Value="K00121 S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1] | (" />
+    <hashEntry Key="xcb:XC_1342" Value="K05710 3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin component | (GenBank) benzene 1,2-d" />
+    <hashEntry Key="xcb:XC_4205" Value="K01053 gluconolactonase [EC:3.1.1.17] | (GenBank) gluconolactonase precursor" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko01220" Value="" />
+  </KOpathway>
+  <References />
+</KEGG.PathwayBrief>

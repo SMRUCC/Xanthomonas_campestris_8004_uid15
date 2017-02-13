@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00010" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description>Glycolysis is the process of converting glucose into pyruvate and generating small amounts of ATP (energy) and NADH (reducing power). It is a central pathway that produces important precursor metabolites: six-carbon compounds of glucose-6P and fructose-6P and three-carbon compounds of glycerone-P, glyceraldehyde-3P, glycerate-3P, phosphoenolpyruvate, and pyruvate [MD:M00001]. Acetyl-CoA, another important precursor metabolite, is produced by oxidative decarboxylation of pyruvate [MD:M00307]. When the enzyme genes of this pathway are examined in completely sequenced genomes, the reaction steps of three-carbon compounds from glycerone-P to pyruvate form a conserved core module [MD:M00002], which is found in almost all organisms and which sometimes contains operon structures in bacterial genomes. Gluconeogenesis is a synthesis pathway of glucose from noncarbohydrate precursors. It is essentially a reversal of glycolysis with minor variations of alternative paths [MD:M00003].</Description>
+  <Name>Glycolysis / Gluconeogenesis - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00002" Value="Glycolysis, core module involving three-carbon compounds [PATH:xcb00010]" />
+    <hashEntry Key="xcb_M00307" Value="Pyruvate oxidation, pyruvate =&gt; acetyl-CoA [PATH:xcb00010]" />
+  </Modules>
+  <Compound>
+    <hashEntry Key="C00022" Value="Pyruvate" />
+    <hashEntry Key="C00024" Value="Acetyl-CoA" />
+    <hashEntry Key="C00031" Value="D-Glucose" />
+    <hashEntry Key="C00033" Value="Acetate" />
+    <hashEntry Key="C00036" Value="Oxaloacetate" />
+    <hashEntry Key="C00068" Value="Thiamin diphosphate" />
+    <hashEntry Key="C00074" Value="Phosphoenolpyruvate" />
+    <hashEntry Key="C00084" Value="Acetaldehyde" />
+    <hashEntry Key="C00103" Value="D-Glucose 1-phosphate" />
+    <hashEntry Key="C00111" Value="Glycerone phosphate" />
+    <hashEntry Key="C00118" Value="D-Glyceraldehyde 3-phosphate" />
+    <hashEntry Key="C00186" Value="(S)-Lactate" />
+    <hashEntry Key="C00197" Value="3-Phospho-D-glycerate" />
+    <hashEntry Key="C00221" Value="beta-D-Glucose" />
+    <hashEntry Key="C00236" Value="3-Phospho-D-glyceroyl phosphate" />
+    <hashEntry Key="C00267" Value="alpha-D-Glucose" />
+    <hashEntry Key="C00469" Value="Ethanol" />
+    <hashEntry Key="C00631" Value="2-Phospho-D-glycerate" />
+    <hashEntry Key="C00668" Value="alpha-D-Glucose 6-phosphate" />
+    <hashEntry Key="C01159" Value="2,3-Bisphospho-D-glycerate" />
+    <hashEntry Key="C01172" Value="beta-D-Glucose 6-phosphate" />
+    <hashEntry Key="C01451" Value="Salicin" />
+    <hashEntry Key="C05125" Value="2-(alpha-Hydroxyethyl)thiamine diphosphate" />
+    <hashEntry Key="C05345" Value="beta-D-Fructose 6-phosphate" />
+    <hashEntry Key="C05378" Value="beta-D-Fructose 1,6-bisphosphate" />
+    <hashEntry Key="C06186" Value="Arbutin" />
+    <hashEntry Key="C06187" Value="Arbutin 6-phosphate" />
+    <hashEntry Key="C06188" Value="Salicin 6-phosphate" />
+    <hashEntry Key="C15972" Value="Enzyme N6-(lipoyl)lysine" />
+    <hashEntry Key="C15973" Value="Enzyme N6-(dihydrolipoyl)lysine" />
+    <hashEntry Key="C16255" Value="[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine" />
+  </Compound>
+  <PathwayMap Key="xcb00010" Value="Glycolysis / Gluconeogenesis" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0098" Value="K03841 fructose-1,6-bisphosphatase I [EC:3.1.3.11] | (GenBank) fructose-1,6-bisphosphatase" />
+    <hashEntry Key="xcb:XC_0104" Value="K00138 aldehyde dehydrogenase [EC:1.2.1.-] | (GenBank) chloroacetaldehyde dehydrogenase" />
+    <hashEntry Key="xcb:XC_0441" Value="K00627 pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12] | (Gen" />
+    <hashEntry Key="xcb:XC_0443" Value="K00162 pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1] | (GenBank) pyruvate dehydrogen" />
+    <hashEntry Key="xcb:XC_0444" Value="K00161 pyruvate dehydrogenase E1 component alpha subunit [EC:1.2.4.1] | (GenBank) pyruvate dehydroge" />
+    <hashEntry Key="xcb:XC_0588" Value="K00163 pyruvate dehydrogenase E1 component [EC:1.2.4.1] | (GenBank) pyruvate dehydrogenase" />
+    <hashEntry Key="xcb:XC_0686" Value="K00121 S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1] | (" />
+    <hashEntry Key="xcb:XC_0775" Value="K00121 S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1] | (" />
+    <hashEntry Key="xcb:XC_0872" Value="K21071 ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase [EC:2.7.1.11 2." />
+    <hashEntry Key="xcb:XC_0884" Value="K20866 glucose-1-phosphatase [EC:3.1.3.10] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_0972" Value="K00134 glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12] | (GenBank) glyceraldehyde-3-phosphate" />
+    <hashEntry Key="xcb:XC_0976" Value="K00927 phosphoglycerate kinase [EC:2.7.2.3] | (GenBank) phosphoglycerate kinase" />
+    <hashEntry Key="xcb:XC_0978" Value="K00873 pyruvate kinase [EC:2.7.1.40] | (GenBank) pyruvate kinase type II" />
+    <hashEntry Key="xcb:XC_0979" Value="K01623 fructose-bisphosphate aldolase, class I [EC:4.1.2.13] | (GenBank) fructose-bisphosphate aldol" />
+    <hashEntry Key="xcb:XC_1166" Value="K00845 glucokinase [EC:2.7.1.2] | (GenBank) glucose kinase" />
+    <hashEntry Key="xcb:XC_1223" Value="K00845 glucokinase [EC:2.7.1.2] | (GenBank) glucose kinase" />
+    <hashEntry Key="xcb:XC_1404" Value="K01834 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11] | (GenBank) phosphogl" />
+    <hashEntry Key="xcb:XC_1587" Value="K01803 triosephosphate isomerase (TIM) [EC:5.3.1.1] | (GenBank) triosephosphate isomerase" />
+    <hashEntry Key="xcb:XC_1976" Value="K00845 glucokinase [EC:2.7.1.2] | (GenBank) glucose kinase" />
+    <hashEntry Key="xcb:XC_2445" Value="K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] | (GenBank) aldehyde dehydrogenase" />
+    <hashEntry Key="xcb:XC_2465" Value="K01810 glucose-6-phosphate isomerase [EC:5.3.1.9] | (GenBank) glucose-6-phosphate isomerase" />
+    <hashEntry Key="xcb:XC_2531" Value="K01689 enolase [EC:4.2.1.11] | (GenBank) enolase" />
+    <hashEntry Key="xcb:XC_2751" Value="K00382 dihydrolipoamide dehydrogenase [EC:1.8.1.4] | (GenBank) dihydrolipoamide dehydrogenase" />
+    <hashEntry Key="xcb:XC_3050" Value="K01785 aldose 1-epimerase [EC:5.1.3.3] | (GenBank) aldose 1-epimerase" />
+    <hashEntry Key="xcb:XC_3287" Value="K15634 probable phosphoglycerate mutase [EC:5.4.2.12] | (GenBank) phosphoglycerate mutase" />
+    <hashEntry Key="xcb:XC_3421" Value="K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] | (GenBank) aldehyde dehydrogenase" />
+    <hashEntry Key="xcb:XC_3488" Value="K01834 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11] | (GenBank) phosphogl" />
+    <hashEntry Key="xcb:XC_3608" Value="K15778 phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2] | (GenBank) phosphoglucomutase;" />
+    <hashEntry Key="xcb:XC_3689" Value="K00382 dihydrolipoamide dehydrogenase [EC:1.8.1.4] | (GenBank) dihydrolipoamide dehydrogenase" />
+    <hashEntry Key="xcb:XC_3691" Value="K00627 pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12] | (Gen" />
+    <hashEntry Key="xcb:XC_3941" Value="K15778 phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2] | (GenBank) phosphomannomutase" />
+    <hashEntry Key="xcb:XC_4149" Value="K01895 acetyl-CoA synthetase [EC:6.2.1.1] | (GenBank) acetyl coenzyme A synthetase" />
+    <hashEntry Key="xcb:XC_4244" Value="K01792 glucose-6-phosphate 1-epimerase [EC:5.1.3.15] | (GenBank) transglycolase; epimerase" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00010" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Tokyo Kagaku Dojin (1980)" PMID="(map 1)">
+      <Authors>Nishizuka Y (ed).</Authors>[Metabolic Maps] (In Japanese)</Reference>
+    <Reference Journal="Tokyo Kagaku Dojin (1997)" PMID="(map 1)">
+      <Authors>Nishizuka Y</Authors>
+      <Authors>Seyama Y</Authors>
+      <Authors>Ikai A</Authors>
+      <Authors>Ishimura Y</Authors>
+      <Authors>Kawaguchi A (eds).</Authors>[Cellular Functions and Metabolic Maps] (In Japanese)</Reference>
+    <Reference Journal="" PMID="Michal G.">
+      <Authors>Biochemical Pathways</Authors>Wiley (1999)</Reference>
+  </References>
+</KEGG.PathwayBrief>

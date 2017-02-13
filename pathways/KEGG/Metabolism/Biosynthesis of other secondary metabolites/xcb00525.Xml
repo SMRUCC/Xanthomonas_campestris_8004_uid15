@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00525" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Acarbose and validamycin biosynthesis - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound>
+    <hashEntry Key="C00103" Value="D-Glucose 1-phosphate" />
+    <hashEntry Key="C00842" Value="dTDP-glucose" />
+    <hashEntry Key="C04268" Value="dTDP-4-amino-4,6-dideoxy-D-glucose" />
+    <hashEntry Key="C06802" Value="Acarbose" />
+    <hashEntry Key="C11907" Value="dTDP-4-oxo-6-deoxy-D-glucose" />
+    <hashEntry Key="C12112" Value="Validamycin A" />
+    <hashEntry Key="C17691" Value="2-epi-5-epi-Valiolone" />
+    <hashEntry Key="C17692" Value="2-epi-5-epi-Valiolone 7-phosphate" />
+    <hashEntry Key="C17693" Value="5-epi-Valiolone 7-phosphate" />
+    <hashEntry Key="C17694" Value="5-epi-Valiolone" />
+    <hashEntry Key="C17695" Value="2-Keto-5-epi-valiolone" />
+    <hashEntry Key="C17696" Value="Valienone" />
+    <hashEntry Key="C17697" Value="Valienone 7-phosphate" />
+    <hashEntry Key="C17698" Value="Salbostatin" />
+    <hashEntry Key="C17699" Value="Cetoniacytone A" />
+    <hashEntry Key="C17700" Value="Validoxylamine A" />
+    <hashEntry Key="C20956" Value="alpha-D-Sedoheptulopyranose 7-phosphate" />
+    <hashEntry Key="C21156" Value="Acarbose 7IV-phosphate" />
+    <hashEntry Key="C21204" Value="5-epi-Valiolol 7-phosphate" />
+    <hashEntry Key="C21205" Value="1-epi-Valienol 7-phosphate" />
+    <hashEntry Key="C21206" Value="1,7-diphospho-1-epi-valienol" />
+    <hashEntry Key="C21207" Value="NDP-1-epi-valienol 7-phosphate" />
+    <hashEntry Key="C21208" Value="dTDP-acarviose-7-phosphate" />
+    <hashEntry Key="C21209" Value="1-epi-Valienol 1-phosphate" />
+    <hashEntry Key="C21210" Value="NDP-1-epi-valienol" />
+    <hashEntry Key="C21211" Value="Salbostatin 6'-phosphate" />
+    <hashEntry Key="C21216" Value="Validamine 7-phosphate" />
+    <hashEntry Key="C21218" Value="Validone 7-phosphate" />
+    <hashEntry Key="C21219" Value="Validoxylamine A 7'-phosphate" />
+    <hashEntry Key="C21247" Value="2-Amino-5-epi-valiolone" />
+    <hashEntry Key="C21248" Value="2-Aminovalienone" />
+    <hashEntry Key="C21249" Value="Cetoniacytone B" />
+    <hashEntry Key="C21293" Value="Validamycin B" />
+    <hashEntry Key="C21367" Value="Valienol 1-phosphate" />
+    <hashEntry Key="C21368" Value="GDP-valienol" />
+    <hashEntry Key="C21415" Value="Valienol 7-phosphate" />
+  </Compound>
+  <PathwayMap Key="xcb00525" Value="Acarbose and validamycin biosynthesis" />
+  <Genes>
+    <hashEntry Key="xcb:XC_3612" Value="K00973 glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24] | (GenBank) glucose-1-phosphate thymi" />
+    <hashEntry Key="xcb:XC_3613" Value="K01710 dTDP-glucose 4,6-dehydratase [EC:4.2.1.46] | (GenBank) dTDP-glucose-4,6-dehydratase" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00525" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Nat Prod Rep 24:358-92 (2007)" PMID="17390001">
+      <Authors>Flatt PM</Authors>
+      <Authors>Mahmud T</Authors>Biosynthesis of aminocyclitol-aminoglycoside antibiotics and related compounds.</Reference>
+    <Reference Journal="J Nat Prod 70:1384-91 (2007)" PMID="17661520">
+      <Authors>Mahmud T</Authors>
+      <Authors>Flatt PM</Authors>
+      <Authors>Wu X</Authors>Biosynthesis of unusual aminocyclitol-containing natural products.</Reference>
+    <Reference Journal="J Biotechnol 167:178-89 (2013)" PMID="22944206">
+      <Authors>Wendler S</Authors>
+      <Authors>Hurtgen D</Authors>
+      <Authors>Kalinowski J</Authors>
+      <Authors>Klein A</Authors>
+      <Authors>Niehaus K</Authors>
+      <Authors>Schulte F</Authors>
+      <Authors>Schwientek P</Authors>
+      <Authors>Wehlmann H</Authors>
+      <Authors>Wehmeier UF</Authors>
+      <Authors>Puhler A</Authors>The cytosolic and extracellular proteomes of Actinoplanes sp. SE50/110 led to the identification of gene products involved in acarbose metabolism.</Reference>
+    <Reference Journal="BMC Genomics 13:112 (2012)" PMID="22443545">
+      <Authors>Schwientek P</Authors>
+      <Authors>Szczepanowski R</Authors>
+      <Authors>Ruckert C</Authors>
+      <Authors>Kalinowski J</Authors>
+      <Authors>Klein A</Authors>
+      <Authors>Selber K</Authors>
+      <Authors>Wehmeier UF</Authors>
+      <Authors>Stoye J</Authors>
+      <Authors>Puhler A</Authors>The complete genome sequence of the acarbose producer Actinoplanes sp. SE50/110.</Reference>
+    <Reference Journal="Nat Prod Rep 23:811-27 (2006)" PMID="17003911">
+      <Authors>Deng Z</Authors>
+      <Authors>Bai L</Authors>Antibiotic biosynthetic pathways and pathway engineering--a growing research field in China.</Reference>
+    <Reference Journal="J Am Chem Soc 133:12124-35 (2011)" PMID="21766819">
+      <Authors>Asamizu S</Authors>
+      <Authors>Yang J</Authors>
+      <Authors>Almabruk KH</Authors>
+      <Authors>Mahmud T</Authors>Pseudoglycosyltransferase catalyzes nonglycosidic C-N coupling in validamycin a biosynthesis.</Reference>
+    <Reference Journal="Appl Microbiol Biotechnol 80:637-45 (2008)" PMID="18648803">
+      <Authors>Choi WS</Authors>
+      <Authors>Wu X</Authors>
+      <Authors>Choeng YH</Authors>
+      <Authors>Mahmud T</Authors>
+      <Authors>Jeong BC</Authors>
+      <Authors>Lee SH</Authors>
+      <Authors>Chang YK</Authors>
+      <Authors>Kim CJ</Authors>
+      <Authors>Hong SK</Authors>Genetic organization of the putative salbostatin biosynthetic gene cluster including the 2-epi-5-epi-valiolone synthase gene in Streptomyces albus ATCC 21838.</Reference>
+    <Reference Journal="Chembiochem 10:304-14 (2009)" PMID="19101977">
+      <Authors>Wu X</Authors>
+      <Authors>Flatt PM</Authors>
+      <Authors>Xu H</Authors>
+      <Authors>Mahmud T</Authors>Biosynthetic gene cluster of cetoniacytone A, an unusual aminocyclitol from the endosymbiotic Bacterium Actinomyces sp. Lu 9419.</Reference>
+  </References>
+</KEGG.PathwayBrief>

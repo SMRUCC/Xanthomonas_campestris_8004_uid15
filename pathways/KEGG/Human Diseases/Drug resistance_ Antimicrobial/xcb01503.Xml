@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb01503" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description>Cationic antimicrobial peptides (CAMPs) play an important role in host defense against microbial infection and are key components of the innate immune response. These are found among all classes of life ranging from prokaryotes to humans. In addition to the natural peptides, thousands of synthetic variants have been produced. CAMPs weaken the integrity of the bacterial inner and outer membranes and subsequently kill bacterial cells. On the other hand, bacteria have developed a number of mechanisms against CAMPs. These resistance mechanisms include decreased affinity to CAMPs by substitution of anionic cell surface constituents with cationic molecules; biosynthesis and crosslinking of cell envelope components; external trapping mechanisms that bind or neutralize the CAMPs by direct secretion of proteins, or the release of CAMPs binding molecules from the host cell surface; membrane efflux pumps; and production of peptidases.</Description>
+  <Name>Cationic antimicrobial peptide (CAMP) resistance - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound />
+  <PathwayMap Key="xcb01503" Value="Cationic antimicrobial peptide (CAMP) resistance" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0764" Value="K03673 thiol:disulfide interchange protein DsbA | (GenBank) thiol:disulfide interchange protein" />
+    <hashEntry Key="xcb:XC_0765" Value="K03673 thiol:disulfide interchange protein DsbA | (GenBank) disulfide oxidoreductase" />
+    <hashEntry Key="xcb:XC_0828" Value="K12340 outer membrane protein | (GenBank) TolC protein" />
+    <hashEntry Key="xcb:XC_0995" Value="K03585 membrane fusion protein, multidrug efflux system | (GenBank) RND efflux membrane fusion prote" />
+    <hashEntry Key="xcb:XC_0996" Value="K18138 multidrug efflux pump | (GenBank) acriflavin resistance protein" />
+    <hashEntry Key="xcb:XC_1432" Value="K03585 membrane fusion protein, multidrug efflux system | (GenBank) multidrug resistance protein" />
+    <hashEntry Key="xcb:XC_1747" Value="K18138 multidrug efflux pump | (GenBank) multidrug-efflux transporter acrB" />
+    <hashEntry Key="xcb:XC_1748" Value="K03585 membrane fusion protein, multidrug efflux system | (GenBank) multidrug resistance protein" />
+    <hashEntry Key="xcb:XC_1816" Value="K01448 N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28] | (GenBank) N-acetylmuramoyl-L-alanine amida" />
+    <hashEntry Key="xcb:XC_2472" Value="K01448 N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28] | (GenBank) N-acetylmuramoyl-L-alanine amida" />
+    <hashEntry Key="xcb:XC_2877" Value="K00677 UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129] | (GenBank) UDP-N-acetylglucosamine ac" />
+    <hashEntry Key="xcb:XC_2916" Value="K14205 phosphatidylglycerol lysyltransferase [EC:2.3.2.3] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_2972" Value="K04771 serine protease Do [EC:3.4.21.107] | (GenBank) periplasmic protease" />
+    <hashEntry Key="xcb:XC_3129" Value="K03760 lipid A ethanolaminephosphotransferase [EC:2.7.8.-] | (GenBank) inner membrane protein" />
+    <hashEntry Key="xcb:XC_4030" Value="K07637 two-component system, OmpR family, sensor histidine kinase PhoQ [EC:2.7.13.3] | (GenBank) two" />
+    <hashEntry Key="xcb:XC_4031" Value="K07660 two-component system, OmpR family, response regulator PhoP | (GenBank) two-component system r" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko01503" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Curr Issues Mol Biol 8:11-26 (2006)" PMID="16450883">
+      <Authors>Nizet V</Authors>Antimicrobial peptide resistance mechanisms of human bacterial pathogens.</Reference>
+    <Reference Journal="FEMS Microbiol Lett 330:81-9 (2012)" PMID="22339775">
+      <Authors>Gruenheid S</Authors>
+      <Authors>Le Moual H</Authors>Resistance to antimicrobial peptides in Gram-negative bacteria.</Reference>
+    <Reference Journal="Antibiotics (Basel) 3:461-492 (2014)" PMID="25419466">
+      <Authors>Nawrocki KL</Authors>
+      <Authors>Crispell EK</Authors>
+      <Authors>McBride SM</Authors>Antimicrobial Peptide Resistance Mechanisms of Gram-Positive Bacteria.</Reference>
+    <Reference Journal="Crit Rev Microbiol 39:180-95 (2013)" PMID="22799636">
+      <Authors>Anaya-Lopez JL</Authors>
+      <Authors>Lopez-Meza JE</Authors>
+      <Authors>Ochoa-Zarzosa A</Authors>Bacterial resistance to cationic antimicrobial peptides.</Reference>
+    <Reference Journal="Nat Rev Microbiol 11:467-81 (2013)" PMID="23748343">
+      <Authors>Needham BD</Authors>
+      <Authors>Trent MS</Authors>Fortifying the barrier: the impact of lipid A remodelling on bacterial pathogenesis.</Reference>
+    <Reference Journal="J Biol Chem 282:36077-89 (2007)" PMID="17928292">
+      <Authors>Yan A</Authors>
+      <Authors>Guan Z</Authors>
+      <Authors>Raetz CR</Authors>An undecaprenyl phosphate-aminoarabinose flippase required for polymyxin resistance in Escherichia coli.</Reference>
+    <Reference Journal="J Biol Chem 280:14154-67 (2005)" PMID="15695810">
+      <Authors>Breazeale SD</Authors>
+      <Authors>Ribeiro AA</Authors>
+      <Authors>McClerren AL</Authors>
+      <Authors>Raetz CR.</Authors>A formyltransferase required for polymyxin resistance in Escherichia coli and the modification of lipid A with 4-Amino-4-deoxy-L-arabinose. Identification and function oF UDP-4-deoxy-4-formamido-L-arabinose.</Reference>
+    <Reference Journal="Front Microbiol 5:643 (2014)" PMID="25505462">
+      <Authors>Olaitan AO</Authors>
+      <Authors>Morand S</Authors>
+      <Authors>Rolain JM</Authors>Mechanisms of polymyxin resistance: acquired and intrinsic resistance in bacteria.</Reference>
+    <Reference Journal="FEMS Microbiol Rev 35:768-89 (2011)" PMID="21645016">
+      <Authors>Martinez JL</Authors>
+      <Authors>Rojo F</Authors>Metabolic regulation of antibiotic resistance.</Reference>
+    <Reference Journal="Drug Resist Updat 13:132-8 (2010)" PMID="20843473">
+      <Authors>Falagas ME</Authors>
+      <Authors>Rafailidis PI</Authors>
+      <Authors>Matthaiou DK</Authors>Resistance to polymyxins: Mechanisms, frequency and treatment options.</Reference>
+    <Reference Journal="FEMS Microbiol Rev 33:279-94 (2009)" PMID="19243444">
+      <Authors>Gooderham WJ</Authors>
+      <Authors>Hancock RE</Authors>Regulation of virulence and antibiotic resistance by two-component regulatory systems in Pseudomonas aeruginosa.</Reference>
+    <Reference Journal="J Bacteriol 186:4124-33 (2004)" PMID="15205413">
+      <Authors>Lee H</Authors>
+      <Authors>Hsu FF</Authors>
+      <Authors>Turk J</Authors>
+      <Authors>Groisman EA</Authors>The PmrA-regulated pmrC gene mediates phosphoethanolamine modification of lipid A and polymyxin resistance in Salmonella enterica.</Reference>
+    <Reference Journal="BMC Genomics 14:618 (2013)" PMID="24034668">
+      <Authors>Wang D</Authors>
+      <Authors>Seeve C</Authors>
+      <Authors>Pierson LS 3rd</Authors>
+      <Authors>Pierson EA</Authors>Transcriptome profiling reveals links between ParS/ParR, MexEF-OprN, and quorum sensing in the regulation of adaptation and virulence in Pseudomonas aeruginosa.</Reference>
+    <Reference Journal="Antimicrob Agents Chemother 56:1047-58 (2012)" PMID="22123691">
+      <Authors>Falord M</Authors>
+      <Authors>Karimova G</Authors>
+      <Authors>Hiron A</Authors>
+      <Authors>Msadek T</Authors>GraXSR proteins interact with the VraFG ABC transporter to form a five-component  system required for cationic antimicrobial peptide sensing and resistance in Staphylococcus aureus.</Reference>
+    <Reference Journal="Nat Rev Microbiol 4:383-94 (2006)" PMID="16715050">
+      <Authors>Rowley G</Authors>
+      <Authors>Spector M</Authors>
+      <Authors>Kormanec J</Authors>
+      <Authors>Roberts M</Authors>Pushing the envelope: extracytoplasmic stress responses in bacterial pathogens.</Reference>
+    <Reference Journal="Front Cell Infect Microbiol 2:162 (2012)" PMID="23267440">
+      <Authors>Piek S</Authors>
+      <Authors>Kahler CM</Authors>A comparison of the endotoxin biosynthesis and protein oxidation pathways in the  biogenesis of the outer membrane of Escherichia coli and Neisseria meningitidis.</Reference>
+    <Reference Journal="J Biol Chem 289:32571-82 (2014)" PMID="25294881">
+      <Authors>Weatherspoon-Griffin N</Authors>
+      <Authors>Yang D</Authors>
+      <Authors>Kong W</Authors>
+      <Authors>Hua Z</Authors>
+      <Authors>Shi Y</Authors>The CpxR/CpxA two-component regulatory system up-regulates the multidrug resistance cascade to facilitate Escherichia coli resistance to a model antimicrobial peptide.</Reference>
+    <Reference Journal="FEMS Microbiol Lett 326:2-11 (2012)" PMID="22092948">
+      <Authors>Vogt SL</Authors>
+      <Authors>Raivio TL</Authors>Just scratching the surface: an expanding view of the Cpx envelope stress response.</Reference>
+    <Reference Journal="PLoS Pathog 7:e1002360 (2011)" PMID="22072973">
+      <Authors>Shelton CL</Authors>
+      <Authors>Raffel FK</Authors>
+      <Authors>Beatty WL</Authors>
+      <Authors>Johnson SM</Authors>
+      <Authors>Mason KM</Authors>Sap transporter mediated import and subsequent degradation of antimicrobial peptides in Haemophilus.</Reference>
+    <Reference Journal="Nat Rev Microbiol 7:555-67 (2009)" PMID="19609257">
+      <Authors>Otto M</Authors>Staphylococcus epidermidis--the 'accidental' pathogen.</Reference>
+    <Reference Journal="Infect Immun 80:74-81 (2012)" PMID="21986630">
+      <Authors>Yang SJ</Authors>
+      <Authors>Bayer AS</Authors>
+      <Authors>Mishra NN</Authors>
+      <Authors>Meehl M</Authors>
+      <Authors>Ledala N</Authors>
+      <Authors>Yeaman MR</Authors>
+      <Authors>Xiong YQ</Authors>
+      <Authors>Cheung AL</Authors>The Staphylococcus aureus two-component regulatory system, GraRS, senses and confers resistance to selected cationic antimicrobial peptides.</Reference>
+    <Reference Journal="Mol Microbiol 46:157-68 (2002)" PMID="12366839">
+      <Authors>Schmidtchen A</Authors>
+      <Authors>Frick IM</Authors>
+      <Authors>Andersson E</Authors>
+      <Authors>Tapper H</Authors>
+      <Authors>Bjorck L</Authors>Proteinases of common pathogenic bacteria degrade and inactivate the antibacterial peptide LL-37.</Reference>
+    <Reference Journal="Clin Microbiol Rev 26:185-230 (2013)" PMID="23554414">
+      <Authors>Beceiro A</Authors>
+      <Authors>Tomas M</Authors>
+      <Authors>Bou G</Authors>Antimicrobial resistance and virulence: a successful or deleterious association in the bacterial world?</Reference>
+  </References>
+</KEGG.PathwayBrief>

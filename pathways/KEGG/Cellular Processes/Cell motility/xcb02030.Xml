@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb02030" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description>Chemotaxis is the process by which cells sense chemical gradients in their environment and then move towards more favorable conditions. In chemotaxis, events at the receptors control autophosphorylation of the CheA histidine kinase, and the phosphohistidine is the substrate for the response regulator CheY, which catalyzes the transfer of the phosphoryl group to a conserved aspartate. The resulting CheY-P can interact with the switch mechanism in the motor. This interaction causes a change in behavior, such as in direction or speed of rotation of flagella.</Description>
+  <Name>Bacterial chemotaxis - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00506" Value="CheA-CheYBV (chemotaxis) two-component regulatory system [PATH:xcb02030]" />
+  </Modules>
+  <Compound>
+    <hashEntry Key="C00049" Value="L-Aspartate" />
+    <hashEntry Key="C00107" Value="Dipeptide" />
+    <hashEntry Key="C00121" Value="D-Ribose" />
+    <hashEntry Key="C00124" Value="D-Galactose" />
+    <hashEntry Key="C00208" Value="Maltose" />
+    <hashEntry Key="C00716" Value="Serine" />
+  </Compound>
+  <PathwayMap Key="xcb02030" Value="Bacterial chemotaxis" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0286" Value="K05874 methyl-accepting chemotaxis protein I, serine sensor receptor | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_0336" Value="K05874 methyl-accepting chemotaxis protein I, serine sensor receptor | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_0638" Value="K05874 methyl-accepting chemotaxis protein I, serine sensor receptor | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_0843" Value="K05875 methyl-accepting chemotaxis protein II, aspartate sensor receptor | (GenBank) chemotaxis prot" />
+    <hashEntry Key="xcb:XC_1074" Value="K03406 methyl-accepting chemotaxis protein | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_1290" Value="K03412 two-component system, chemotaxis family, response regulator CheB [EC:3.1.1.61] | (GenBank) pr" />
+    <hashEntry Key="xcb:XC_1409" Value="K03412 two-component system, chemotaxis family, response regulator CheB [EC:3.1.1.61] | (GenBank) pr" />
+    <hashEntry Key="xcb:XC_1410" Value="K00575 chemotaxis protein methyltransferase CheR [EC:2.1.1.80] | (GenBank) response regulator for ch" />
+    <hashEntry Key="xcb:XC_1412" Value="K03408 purine-binding chemotaxis protein CheW | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_1413" Value="K03406 methyl-accepting chemotaxis protein | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_1414" Value="K03407 two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3] | (GenBank) chemota" />
+    <hashEntry Key="xcb:XC_1801" Value="K03406 methyl-accepting chemotaxis protein | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_1802" Value="K03408 purine-binding chemotaxis protein CheW | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_1937" Value="K03406 methyl-accepting chemotaxis protein | (GenBank) methyl-accepting chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2130" Value="K03413 two-component system, chemotaxis family, response regulator CheY | (GenBank) single-domain re" />
+    <hashEntry Key="xcb:XC_2136" Value="K05874 methyl-accepting chemotaxis protein I, serine sensor receptor | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2163" Value="K03412 two-component system, chemotaxis family, response regulator CheB [EC:3.1.1.61] | (GenBank) pr" />
+    <hashEntry Key="xcb:XC_2223" Value="K03406 methyl-accepting chemotaxis protein | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2233" Value="K03415 two-component system, chemotaxis family, response regulator CheV | (GenBank) chemotaxis prote" />
+    <hashEntry Key="xcb:XC_2261" Value="K02410 flagellar motor switch protein FliG | (GenBank) flagellar protein" />
+    <hashEntry Key="xcb:XC_2267" Value="K02416 flagellar motor switch protein FliM | (GenBank) flagellar protein" />
+    <hashEntry Key="xcb:XC_2268" Value="K02417 flagellar motor switch protein FliN/FliY | (GenBank) flagellar protein" />
+    <hashEntry Key="xcb:XC_2282" Value="K03413 two-component system, chemotaxis family, response regulator CheY | (GenBank) chemotaxis prote" />
+    <hashEntry Key="xcb:XC_2283" Value="K03414 chemotaxis protein CheZ | (GenBank) chemotaxis related protein" />
+    <hashEntry Key="xcb:XC_2284" Value="K03407 two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3] | (GenBank) chemota" />
+    <hashEntry Key="xcb:XC_2297" Value="K02556 chemotaxis protein MotA | (GenBank) MotA protein" />
+    <hashEntry Key="xcb:XC_2298" Value="K02557 chemotaxis protein MotB | (GenBank) MotB protein" />
+    <hashEntry Key="xcb:XC_2300" Value="K03408 purine-binding chemotaxis protein CheW | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2302" Value="K03413 two-component system, chemotaxis family, response regulator CheY | (GenBank) chemotaxis respo" />
+    <hashEntry Key="xcb:XC_2303" Value="K03407 two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3] | (GenBank) chemota" />
+    <hashEntry Key="xcb:XC_2304" Value="K05874 methyl-accepting chemotaxis protein I, serine sensor receptor | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2307" Value="K05874 methyl-accepting chemotaxis protein I, serine sensor receptor | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2308" Value="K05874 methyl-accepting chemotaxis protein I, serine sensor receptor | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2309" Value="K05874 methyl-accepting chemotaxis protein I, serine sensor receptor | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2311" Value="K05874 methyl-accepting chemotaxis protein I, serine sensor receptor | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2313" Value="K05874 methyl-accepting chemotaxis protein I, serine sensor receptor | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2314" Value="K05874 methyl-accepting chemotaxis protein I, serine sensor receptor | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2315" Value="K03406 methyl-accepting chemotaxis protein | (GenBank) methyl-accepting chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2316" Value="K05874 methyl-accepting chemotaxis protein I, serine sensor receptor | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2318" Value="K03408 purine-binding chemotaxis protein CheW | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2320" Value="K05874 methyl-accepting chemotaxis protein I, serine sensor receptor | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2321" Value="K00575 chemotaxis protein methyltransferase CheR [EC:2.1.1.80] | (GenBank) chemotaxis protein methyl" />
+    <hashEntry Key="xcb:XC_2322" Value="K03411 chemotaxis protein CheD [EC:3.5.1.44] | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_2323" Value="K03412 two-component system, chemotaxis family, response regulator CheB [EC:3.1.1.61] | (GenBank) gl" />
+    <hashEntry Key="xcb:XC_2504" Value="K03406 methyl-accepting chemotaxis protein | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_3058" Value="K00575 chemotaxis protein methyltransferase CheR [EC:2.1.1.80] | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_3059" Value="K03412 two-component system, chemotaxis family, response regulator CheB [EC:3.1.1.61] | (GenBank) pr" />
+    <hashEntry Key="xcb:XC_3724" Value="K02556 chemotaxis protein MotA | (GenBank) chemotaxis protein" />
+    <hashEntry Key="xcb:XC_3725" Value="K02557 chemotaxis protein MotB | (GenBank) chemotaxis MotB protein" />
+    <hashEntry Key="xcb:XC_3757" Value="K13924 two-component system, chemotaxis family, CheB/CheR fusion protein [EC:2.1.1.80 3.1.1.61] | (G" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko02030" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="J Biol Chem 277:25356-62 (2002)" PMID="12011078">
+      <Authors>Kristich CJ</Authors>
+      <Authors>Ordal GW.</Authors>Bacillus subtilis CheD is a chemoreceptor modification enzyme required for chemotaxis.</Reference>
+    <Reference Journal="Mol Microbiol 42:573-85 (2001)" PMID="11722727">
+      <Authors>Kirby JR</Authors>
+      <Authors>Kristich CJ</Authors>
+      <Authors>Saulmon MM</Authors>
+      <Authors>Zimmer MA</Authors>
+      <Authors>Garrity LF</Authors>
+      <Authors>Zhulin IB</Authors>
+      <Authors>Ordal GW.</Authors>CheC is related to the family of flagellar switch proteins and acts independently from CheD to control chemotaxis in Bacillus subtilis.</Reference>
+    <Reference Journal="J Biol Chem 278:48611-6 (2003)" PMID="12920116">
+      <Authors>Szurmant H</Authors>
+      <Authors>Bunn MW</Authors>
+      <Authors>Cannistraro VJ</Authors>
+      <Authors>Ordal GW.</Authors>Bacillus subtilis hydrolyzes CheY-P at the location of its action, the flagellar switch.</Reference>
+    <Reference Journal="J Biol Chem 279:21787-92 (2004)" PMID="14749334">
+      <Authors>Szurmant H</Authors>
+      <Authors>Muff TJ</Authors>
+      <Authors>Ordal GW.</Authors>Bacillus subtilis CheC and FliY are members of a novel class of CheY-P-hydrolyzing proteins in the chemotactic signal transduction cascade.</Reference>
+    <Reference Journal="Plant Cell Physiol 42:63-73 (2001)" PMID="11158445">
+      <Authors>Yoshihara S</Authors>
+      <Authors>Geng X</Authors>
+      <Authors>Okamoto S</Authors>
+      <Authors>Yura K</Authors>
+      <Authors>Murata T</Authors>
+      <Authors>Go M</Authors>
+      <Authors>Ohmori M</Authors>
+      <Authors>Ikeuchi M.</Authors>Mutational analysis of genes involved in pilus structure, motility and transformation competency in the unicellular motile cyanobacterium Synechocystis sp. PCC 6803.</Reference>
+    <Reference Journal="J Bacteriol 175:5934-44 (1993)" PMID="8104179">
+      <Authors>Darzins A.</Authors>The pilG gene product, required for Pseudomonas aeruginosa pilus production and twitching motility, is homologous to the enteric, single-domain response regulator CheY.</Reference>
+    <Reference Journal="Microbiol Mol Biol Rev 68:301-19 (2004)" PMID="15187186">
+      <Authors>Szurmant H</Authors>
+      <Authors>Ordal GW</Authors>Diversity in chemotaxis mechanisms among the bacteria and archaea.</Reference>
+    <Reference Journal="Trends Microbiol 16:480-7 (2008)" PMID="18774298">
+      <Authors>Rao CV</Authors>
+      <Authors>Glekas GD</Authors>
+      <Authors>Ordal GW</Authors>The three adaptation systems of Bacillus subtilis chemotaxis.</Reference>
+    <Reference Journal="Mol Microbiol 70:1054-61 (2008)" PMID="18990184">
+      <Authors>Muff TJ</Authors>
+      <Authors>Ordal GW</Authors>The diverse CheC-type phosphatases: chemotaxis and beyond.</Reference>
+    <Reference Journal="Adv Appl Microbiol 66:53-75 (2009)" PMID="19203648">
+      <Authors>Miller LD</Authors>
+      <Authors>Russell MH</Authors>
+      <Authors>Alexandre G</Authors>Diversity in bacterial chemotactic responses and niche adaptation.</Reference>
+  </References>
+</KEGG.PathwayBrief>

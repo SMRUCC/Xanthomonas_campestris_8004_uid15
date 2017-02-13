@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00460" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Cyanoamino acid metabolism - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound>
+    <hashEntry Key="C00014" Value="Ammonia" />
+    <hashEntry Key="C00037" Value="Glycine" />
+    <hashEntry Key="C00049" Value="L-Aspartate" />
+    <hashEntry Key="C00065" Value="L-Serine" />
+    <hashEntry Key="C00079" Value="L-Phenylalanine" />
+    <hashEntry Key="C00082" Value="L-Tyrosine" />
+    <hashEntry Key="C00097" Value="L-Cysteine" />
+    <hashEntry Key="C00152" Value="L-Asparagine" />
+    <hashEntry Key="C00183" Value="L-Valine" />
+    <hashEntry Key="C00302" Value="Glutamate" />
+    <hashEntry Key="C00407" Value="L-Isoleucine" />
+    <hashEntry Key="C00488" Value="Formamide" />
+    <hashEntry Key="C00561" Value="Mandelonitrile" />
+    <hashEntry Key="C00844" Value="Prunasin" />
+    <hashEntry Key="C01326" Value="Hydrogen cyanide" />
+    <hashEntry Key="C01401" Value="Alanine" />
+    <hashEntry Key="C01594" Value="Linamarin" />
+    <hashEntry Key="C02512" Value="3-Cyano-L-alanine" />
+    <hashEntry Key="C02659" Value="Acetone cyanohydrin" />
+    <hashEntry Key="C03004" Value="N-Hydroxy-L-tyrosine" />
+    <hashEntry Key="C03219" Value="(E)-2-Methylpropanal oxime" />
+    <hashEntry Key="C03742" Value="(S)-4-Hydroxymandelonitrile" />
+    <hashEntry Key="C04350" Value="(E)-4-Hydroxyphenylacetaldehyde oxime" />
+    <hashEntry Key="C05143" Value="Dhurrin" />
+    <hashEntry Key="C05670" Value="3-Aminopropiononitrile" />
+    <hashEntry Key="C05711" Value="gamma-Glutamyl-beta-cyanoalanine" />
+    <hashEntry Key="C05714" Value="alpha-Aminopropiononitrile" />
+    <hashEntry Key="C05715" Value="gamma-Amino-gamma-cyanobutanoate" />
+    <hashEntry Key="C06114" Value="gamma-Glutamyl-beta-aminopropiononitrile" />
+    <hashEntry Key="C08325" Value="Amygdalin" />
+    <hashEntry Key="C08334" Value="Lotaustralin" />
+    <hashEntry Key="C15503" Value="N,N-Dihydroxy-L-tyrosine" />
+    <hashEntry Key="C16074" Value="Phenylacetonitrile" />
+    <hashEntry Key="C16075" Value="(Z)-Phenylacetaldehyde oxime" />
+    <hashEntry Key="C18796" Value="(2R)-2-Hydroxy-2-methylbutanenitrile" />
+    <hashEntry Key="C19491" Value="(E)-2-Methylbutanal oxime" />
+    <hashEntry Key="C19712" Value="N-Hydroxy-L-phenylalanine" />
+    <hashEntry Key="C19714" Value="(E)-Phenylacetaldoxime" />
+    <hashEntry Key="C19715" Value="N,N-Dihydroxy-L-phenylalanine" />
+    <hashEntry Key="C20310" Value="N-Hydroxy-L-isoleucine" />
+    <hashEntry Key="C20311" Value="N,N-Dihydroxy-L-isoleucine" />
+    <hashEntry Key="C20312" Value="(Z)-2-Methylbutanal oxime" />
+    <hashEntry Key="C20313" Value="N-Hydroxy-L-valine" />
+    <hashEntry Key="C20314" Value="N,N-Dihydroxy-L-valine" />
+    <hashEntry Key="C20315" Value="(Z)-2-Methylpropanal oxime" />
+  </Compound>
+  <PathwayMap Key="xcb00460" Value="Cyanoamino acid metabolism" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0301" Value="K00681 gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13] | (GenBank) gamma" />
+    <hashEntry Key="xcb:XC_0842" Value="K00681 gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13] | (GenBank) gamma" />
+    <hashEntry Key="xcb:XC_1217" Value="K05349 beta-glucosidase [EC:3.2.1.21] | (GenBank) glucan 1,4-beta-glucosidase" />
+    <hashEntry Key="xcb:XC_1726" Value="K00681 gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13] | (GenBank) gamma" />
+    <hashEntry Key="xcb:XC_2461" Value="K05349 beta-glucosidase [EC:3.2.1.21] | (GenBank) glucan 1,4-beta-glucosidase" />
+    <hashEntry Key="xcb:XC_2834" Value="K05349 beta-glucosidase [EC:3.2.1.21] | (GenBank) beta-glucosidase" />
+    <hashEntry Key="xcb:XC_3159" Value="K05349 beta-glucosidase [EC:3.2.1.21] | (GenBank) periplasmic beta-glucosidase" />
+    <hashEntry Key="xcb:XC_3374" Value="K01424 L-asparaginase [EC:3.5.1.1] | (GenBank) asparaginase" />
+    <hashEntry Key="xcb:XC_3544" Value="K00600 glycine hydroxymethyltransferase [EC:2.1.2.1] | (GenBank) serine hydroxymethyltransferase" />
+    <hashEntry Key="xcb:XC_3886" Value="K05349 beta-glucosidase [EC:3.2.1.21] | (GenBank) beta-glucosidase" />
+    <hashEntry Key="xcb:XC_4197" Value="K05349 beta-glucosidase [EC:3.2.1.21] | (GenBank) glucan 1,4-beta-glucosidase" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00460" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Plant Mol Biol 46:749-60 (2001)" PMID="11575729">
+      <Authors>Maruyama A</Authors>
+      <Authors>Saito K</Authors>
+      <Authors>Ishizawa K</Authors>Beta-cyanoalanine synthase and cysteine synthase from potato: molecular cloning,  biochemical characterization, and spatial and hormonal regulation.</Reference>
+    <Reference Journal="J Biol Chem 275:1966-75 (2000)" PMID="10636899">
+      <Authors>Andersen MD</Authors>
+      <Authors>Busk PK</Authors>
+      <Authors>Svendsen I</Authors>
+      <Authors>Moller BL</Authors>Cytochromes P-450 from cassava (Manihot esculenta Crantz) catalyzing the first steps in the biosynthesis of the cyanogenic glucosides linamarin and lotaustralin. Cloning, functional expression in Pichia pastoris, and substrate specificity of the isolated recombinant enzymes.</Reference>
+    <Reference Journal="" PMID="Andrea H, Meinhard H, Herfried G.">
+      <Authors>Hydroxynitrile lyases: Functions and properties</Authors>Physiologia Plantarum 98(4):891-898 (2006)</Reference>
+  </References>
+</KEGG.PathwayBrief>

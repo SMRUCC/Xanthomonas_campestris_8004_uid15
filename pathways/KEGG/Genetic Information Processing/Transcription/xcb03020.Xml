@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb03020" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>RNA polymerase - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00183" Value="RNA polymerase, bacteria [PATH:xcb03020]" />
+  </Modules>
+  <Compound />
+  <PathwayMap Key="xcb03020" Value="RNA polymerase" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0957" Value="K03060 DNA-directed RNA polymerase subunit omega [EC:2.7.7.6] | (GenBank) RNA polymerase omega subun" />
+    <hashEntry Key="xcb:XC_3316" Value="K03040 DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6] | (GenBank) RNA polymerase alpha subun" />
+    <hashEntry Key="xcb:XC_3346" Value="K03046 DNA-directed RNA polymerase subunit beta&amp;#39; [EC:2.7.7.6] | (GenBank) RNA polymerase beta&amp;#39; subun" />
+    <hashEntry Key="xcb:XC_3347" Value="K03043 DNA-directed RNA polymerase subunit beta [EC:2.7.7.6] | (GenBank) RNA polymerase beta subunit" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko03020" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Cell 98:811-824 (1999)" PMID="10499798">
+      <Authors>Zhang G</Authors>
+      <Authors>Campbell EA</Authors>
+      <Authors>Minakhin L</Authors>
+      <Authors>Richter C</Authors>
+      <Authors>Severinov K</Authors>
+      <Authors>Darst SA.</Authors>Crystal structure of Thermus aquaticus core RNA polymerase at 3.3 A resolution.</Reference>
+    <Reference Journal="Science 288:640-649 (2000)" PMID="10784442">
+      <Authors>Cramer P</Authors>
+      <Authors>Bushnell DA</Authors>
+      <Authors>Fu J</Authors>
+      <Authors>Gnatt AL</Authors>
+      <Authors>Maier-Davis B</Authors>
+      <Authors>Thompson NE</Authors>
+      <Authors>Burgess RR</Authors>
+      <Authors>Edwards AM</Authors>
+      <Authors>David PR</Authors>
+      <Authors>Kornberg RD.</Authors>Architecture of RNA polymerase II and implications for the transcription mechanism.</Reference>
+    <Reference Journal="Curr Opin Struct Biol 19:724-31 (2009)" PMID="19880312">
+      <Authors>Hirata A</Authors>
+      <Authors>Murakami KS</Authors>Archaeal RNA polymerase.</Reference>
+    <Reference Journal="Annu Rev Biophys 37:337-52 (2008)" PMID="18573085">
+      <Authors>Cramer P</Authors>
+      <Authors>Armache KJ</Authors>
+      <Authors>Baumli S</Authors>
+      <Authors>Benkert S</Authors>
+      <Authors>Brueckner F</Authors>
+      <Authors>Buchen C</Authors>
+      <Authors>Damsma GE</Authors>
+      <Authors>Dengl S</Authors>
+      <Authors>Geiger SR</Authors>
+      <Authors>Jasiak AJ</Authors>
+      <Authors>Jawhari A</Authors>
+      <Authors>Jennebach S</Authors>
+      <Authors>Kamenski T</Authors>
+      <Authors>Kettenberger H</Authors>
+      <Authors>Kuhn CD</Authors>
+      <Authors>Lehmann E</Authors>
+      <Authors>Leike K</Authors>
+      <Authors>Sydow JF</Authors>
+      <Authors>Vannini A</Authors>Structure of eukaryotic RNA polymerases.</Reference>
+  </References>
+</KEGG.PathwayBrief>

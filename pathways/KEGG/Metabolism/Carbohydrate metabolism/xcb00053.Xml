@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00053" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Ascorbate and aldarate metabolism - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound>
+    <hashEntry Key="C00022" Value="Pyruvate" />
+    <hashEntry Key="C00026" Value="2-Oxoglutarate" />
+    <hashEntry Key="C00029" Value="UDP-glucose" />
+    <hashEntry Key="C00072" Value="Ascorbate" />
+    <hashEntry Key="C00096" Value="GDP-mannose" />
+    <hashEntry Key="C00137" Value="myo-Inositol" />
+    <hashEntry Key="C00167" Value="UDP-glucuronate" />
+    <hashEntry Key="C00191" Value="D-Glucuronate" />
+    <hashEntry Key="C00231" Value="D-Xylulose 5-phosphate" />
+    <hashEntry Key="C00259" Value="L-Arabinose" />
+    <hashEntry Key="C00333" Value="D-Galacturonate" />
+    <hashEntry Key="C00433" Value="2,5-Dioxopentanoate" />
+    <hashEntry Key="C00545" Value="L-Arabinonate" />
+    <hashEntry Key="C00618" Value="3-Dehydro-L-gulonate" />
+    <hashEntry Key="C00679" Value="5-Dehydro-4-deoxy-D-glucarate" />
+    <hashEntry Key="C00684" Value="2-Dehydro-3-deoxy-L-arabinonate" />
+    <hashEntry Key="C00800" Value="L-Gulonate" />
+    <hashEntry Key="C00818" Value="D-Glucarate" />
+    <hashEntry Key="C00879" Value="D-Galactarate" />
+    <hashEntry Key="C01040" Value="L-Gulono-1,4-lactone" />
+    <hashEntry Key="C01041" Value="Monodehydroascorbate" />
+    <hashEntry Key="C01101" Value="L-Ribulose 5-phosphate" />
+    <hashEntry Key="C01114" Value="L-Arabinono-1,4-lactone" />
+    <hashEntry Key="C01115" Value="L-Galactono-1,4-lactone" />
+    <hashEntry Key="C01146" Value="2-Hydroxy-3-oxopropanoate" />
+    <hashEntry Key="C01620" Value="Threonate" />
+    <hashEntry Key="C01825" Value="L-Galactose" />
+    <hashEntry Key="C02280" Value="GDP-L-galactose" />
+    <hashEntry Key="C02670" Value="D-Glucuronolactone" />
+    <hashEntry Key="C03064" Value="3-Dehydro-L-threonate" />
+    <hashEntry Key="C03289" Value="L-xylo-Hexulonolactone" />
+    <hashEntry Key="C03291" Value="L-Xylulose 5-phosphate" />
+    <hashEntry Key="C03921" Value="2-Dehydro-3-deoxy-D-glucarate" />
+    <hashEntry Key="C04575" Value="(4R,5S)-4,5,6-Trihydroxy-2,3-dioxohexanoate" />
+    <hashEntry Key="C05385" Value="D-Glucuronate 1-phosphate" />
+    <hashEntry Key="C05411" Value="L-Xylonate" />
+    <hashEntry Key="C05412" Value="L-Lyxonate" />
+    <hashEntry Key="C05422" Value="Dehydroascorbate" />
+    <hashEntry Key="C14899" Value="3-Dehydro-L-gulonate 6-phosphate" />
+    <hashEntry Key="C15923" Value="L-Gulose" />
+    <hashEntry Key="C15924" Value="L-Gulose 1-phosphate" />
+    <hashEntry Key="C15925" Value="GDP-L-gulose" />
+    <hashEntry Key="C15926" Value="beta-L-Galactose 1-phosphate" />
+    <hashEntry Key="C15930" Value="L-Galactonate" />
+    <hashEntry Key="C16186" Value="L-Ascorbate 6-phosphate" />
+    <hashEntry Key="C20889" Value="D-Galactaro-1,5-lactone" />
+    <hashEntry Key="C20896" Value="D-Galactaro-1,4-lactone" />
+  </Compound>
+  <PathwayMap Key="xcb00053" Value="Ascorbate and aldarate metabolism" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0150" Value="K00064 D-threo-aldose 1-dehydrogenase [EC:1.1.1.122] | (GenBank) L-fucose dehydrogenase" />
+    <hashEntry Key="xcb:XC_0553" Value="K01053 gluconolactonase [EC:3.1.1.17] | (GenBank) gluconolactonase precursor" />
+    <hashEntry Key="xcb:XC_0949" Value="K01708 galactarate dehydratase [EC:4.2.1.42] | (GenBank) D-galactarate dehydratase" />
+    <hashEntry Key="xcb:XC_0951" Value="K01706 glucarate dehydratase [EC:4.2.1.40] | (GenBank) glucarate hydratase" />
+    <hashEntry Key="xcb:XC_0953" Value="K13877 2,5-dioxopentanoate dehydrogenase [EC:1.2.1.26] | (GenBank) ketoglutarate semialdehyde dehydr" />
+    <hashEntry Key="xcb:XC_0954" Value="K01707 5-dehydro-4-deoxyglucarate dehydratase [EC:4.2.1.41] | (GenBank) 5-dehydro-4-deoxyglucarate d" />
+    <hashEntry Key="xcb:XC_1306" Value="K02821 PTS system, ascorbate-specific IIA component [EC:2.7.1.194] | (GenBank) conserved hypothetica" />
+    <hashEntry Key="xcb:XC_1702" Value="K13877 2,5-dioxopentanoate dehydrogenase [EC:1.2.1.26] | (GenBank) ketoglutarate semialdehyde dehydr" />
+    <hashEntry Key="xcb:XC_2445" Value="K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] | (GenBank) aldehyde dehydrogenase" />
+    <hashEntry Key="xcb:XC_2733" Value="K00012 UDPglucose 6-dehydrogenase [EC:1.1.1.22] | (GenBank) UDP-glucose dehydrogenase" />
+    <hashEntry Key="xcb:XC_3421" Value="K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] | (GenBank) aldehyde dehydrogenase" />
+    <hashEntry Key="xcb:XC_4155" Value="K00064 D-threo-aldose 1-dehydrogenase [EC:1.1.1.122] | (GenBank) oxidoreductase" />
+    <hashEntry Key="xcb:XC_4205" Value="K01053 gluconolactonase [EC:3.1.1.17] | (GenBank) gluconolactonase precursor" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00053" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="FEBS J 274:1-22 (2007)" PMID="17222174">
+      <Authors>Linster CL</Authors>
+      <Authors>Van Schaftingen E</Authors>Vitamin C. Biosynthesis, recycling and degradation in mammals.</Reference>
+    <Reference Journal="Trends Plant Sci 9:573-7 (2004)" PMID="15564123">
+      <Authors>Valpuesta V</Authors>
+      <Authors>Botella MA.</Authors>Biosynthesis of L-ascorbic acid in plants: new pathways for an old antioxidant.</Reference>
+    <Reference Journal="Plant Physiol 121:535-43 (1999)" PMID="10517845">
+      <Authors>Davey MW</Authors>
+      <Authors>Gilot C</Authors>
+      <Authors>Persiau G</Authors>
+      <Authors>Ostergaard J</Authors>
+      <Authors>Han Y</Authors>
+      <Authors>Bauw GC</Authors>
+      <Authors>Van Montagu MC.</Authors>Ascorbate biosynthesis in Arabidopsis cell suspension culture.</Reference>
+    <Reference Journal="J Biol Chem 281:15662-70 (2006)" PMID="16595667">
+      <Authors>Conklin PL</Authors>
+      <Authors>Gatzek S</Authors>
+      <Authors>Wheeler GL</Authors>
+      <Authors>Dowdle J</Authors>
+      <Authors>Raymond MJ</Authors>
+      <Authors>Rolinski S</Authors>
+      <Authors>Isupov M</Authors>
+      <Authors>Littlechild JA</Authors>
+      <Authors>Smirnoff N.</Authors>Arabidopsis thaliana VTC4 encodes L-galactose-1-P phosphatase, a plant ascorbic acid biosynthetic enzyme.</Reference>
+    <Reference Journal="J Biol Chem 282:18879-85 (2007)" PMID="17462988">
+      <Authors>Linster CL</Authors>
+      <Authors>Gomez TA</Authors>
+      <Authors>Christensen KC</Authors>
+      <Authors>Adler LN</Authors>
+      <Authors>Young BD</Authors>
+      <Authors>Brenner C</Authors>
+      <Authors>Clarke SG.</Authors>Arabidopsis VTC2 Encodes a GDP-L-Galactose Phosphorylase, the Last Unknown Enzyme in the Smirnoff-Wheeler Pathway to Ascorbic Acid in Plants.</Reference>
+    <Reference Journal="J Bacteriol 186:1720-8 (2004)" PMID="14996803">
+      <Authors>Campos E</Authors>
+      <Authors>Baldoma L</Authors>
+      <Authors>Aguilar J</Authors>
+      <Authors>Badia J.</Authors>Regulation of expression of the divergent ulaG and ulaABCDEF operons involved in LaAscorbate dissimilation in Escherichia coli.</Reference>
+    <Reference Journal="J Bacteriol 185:2243-50 (2003)" PMID="12644495">
+      <Authors>Zhang Z</Authors>
+      <Authors>Aboulwafa M</Authors>
+      <Authors>Smith MH</Authors>
+      <Authors>Saier MH Jr.</Authors>The ascorbate transporter of Escherichia coli.</Reference>
+  </References>
+</KEGG.PathwayBrief>

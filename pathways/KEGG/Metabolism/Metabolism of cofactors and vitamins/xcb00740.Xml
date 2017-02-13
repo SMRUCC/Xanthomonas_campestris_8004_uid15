@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00740" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Riboflavin metabolism - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00125" Value="Riboflavin biosynthesis, GTP =&gt; riboflavin/FMN/FAD [PATH:xcb00740]" />
+  </Modules>
+  <Compound>
+    <hashEntry Key="C00001" Value="H2O" />
+    <hashEntry Key="C00007" Value="Oxygen" />
+    <hashEntry Key="C00016" Value="FAD" />
+    <hashEntry Key="C00044" Value="GTP" />
+    <hashEntry Key="C00061" Value="FMN" />
+    <hashEntry Key="C00199" Value="D-Ribulose 5-phosphate" />
+    <hashEntry Key="C00255" Value="Riboflavin" />
+    <hashEntry Key="C00472" Value="p-Benzoquinone" />
+    <hashEntry Key="C00474" Value="Ribitol" />
+    <hashEntry Key="C00530" Value="Hydroquinone" />
+    <hashEntry Key="C01007" Value="Reduced riboflavin" />
+    <hashEntry Key="C01268" Value="5-Amino-6-(5'-phosphoribosylamino)uracil" />
+    <hashEntry Key="C01304" Value="2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one" />
+    <hashEntry Key="C01352" Value="FADH2" />
+    <hashEntry Key="C01727" Value="Lumichrome" />
+    <hashEntry Key="C01847" Value="Reduced FMN" />
+    <hashEntry Key="C03114" Value="Dimethylbenzimidazole" />
+    <hashEntry Key="C04332" Value="6,7-Dimethyl-8-(D-ribityl)lumazine" />
+    <hashEntry Key="C04454" Value="5-Amino-6-(5'-phospho-D-ribitylamino)uracil" />
+    <hashEntry Key="C04732" Value="5-Amino-6-(1-D-ribitylamino)uracil" />
+    <hashEntry Key="C05995" Value="7-Hydroxy-6-methyl-8-ribityllumazine" />
+    <hashEntry Key="C15556" Value="L-3,4-Dihydroxybutan-2-one 4-phosphate" />
+    <hashEntry Key="C15563" Value="2-Amino-5-formylamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one" />
+    <hashEntry Key="C18910" Value="2,5-Diamino-6-(5-phospho-D-ribitylamino)pyrimidin-4(3H)-one" />
+  </Compound>
+  <PathwayMap Key="xcb00740" Value="Riboflavin metabolism" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0328" Value="K00299 FMN reductase [EC:1.5.1.38] | (GenBank) NADH-dependent FMN reductase" />
+    <hashEntry Key="xcb:XC_3088" Value="K11753 riboflavin kinase / FMN adenylyltransferase [EC:2.7.1.26 2.7.7.2] | (GenBank) riboflavin bios" />
+    <hashEntry Key="xcb:XC_3537" Value="K00794 6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78] | (GenBank) 6,7-dimethyl-8-ribityllumaz" />
+    <hashEntry Key="xcb:XC_3538" Value="K14652 3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II [EC:4.1.99.12 3.5.4.25]" />
+    <hashEntry Key="xcb:XC_3539" Value="K00793 riboflavin synthase [EC:2.5.1.9] | (GenBank) riboflavin synthase alpha chain" />
+    <hashEntry Key="xcb:XC_3541" Value="K11752 diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)urac" />
+    <hashEntry Key="xcb:XC_3810" Value="K01497 GTP cyclohydrolase II [EC:3.5.4.25] | (GenBank) riboflavin biosynthesis protein" />
+    <hashEntry Key="xcb:XC_3991" Value="K20862 FMN hydrolase / 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase [EC:3.1.3.102 3.1.3.10" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00740" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Nucleic Acids Res 30:3141-51 (2002)" PMID="12136096">
+      <Authors>Vitreschak AG</Authors>
+      <Authors>Rodionov DA</Authors>
+      <Authors>Mironov AA</Authors>
+      <Authors>Gelfand MS.</Authors>Regulation of riboflavin biosynthesis and transport genes in bacteria by transcriptional and translational attenuation.</Reference>
+    <Reference Journal="Eur J Biochem 269:519-26 (2002)" PMID="11856310">
+      <Authors>Fischer M</Authors>
+      <Authors>Haase I</Authors>
+      <Authors>Feicht R</Authors>
+      <Authors>Richter G</Authors>
+      <Authors>Gerhardt S</Authors>
+      <Authors>Changeux JP</Authors>
+      <Authors>Huber R</Authors>
+      <Authors>Bacher A.</Authors>Biosynthesis of riboflavin: 6,7-dimethyl-8-ribityllumazine synthase of Schizosaccharomyces pombe.</Reference>
+    <Reference Journal="J Biol Chem 278:37909-15 (2003)" PMID="12867427">
+      <Authors>Haase I</Authors>
+      <Authors>Fischer M</Authors>
+      <Authors>Bacher A</Authors>
+      <Authors>Schramek N.</Authors>Temperature-dependent presteady state kinetics of lumazine synthase from the hyperthermophilic eubacterium Aquifex aeolicus.</Reference>
+    <Reference Journal="Biochem Soc Trans 33:780-4 (2005)" PMID="16042598">
+      <Authors>Fischer M</Authors>
+      <Authors>Romisch W</Authors>
+      <Authors>Illarionov B</Authors>
+      <Authors>Eisenreich W</Authors>
+      <Authors>Bacher A.</Authors>Structures and reaction mechanisms of riboflavin synthases of eubacterial and archaeal origin.</Reference>
+  </References>
+</KEGG.PathwayBrief>

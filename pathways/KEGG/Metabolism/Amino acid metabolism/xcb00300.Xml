@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00300" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Lysine biosynthesis - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00016" Value="Lysine biosynthesis, succinyl-DAP pathway, aspartate =&gt; lysine [PATH:xcb00300]" />
+  </Modules>
+  <Compound>
+    <hashEntry Key="C00024" Value="Acetyl-CoA" />
+    <hashEntry Key="C00026" Value="2-Oxoglutarate" />
+    <hashEntry Key="C00047" Value="L-Lysine" />
+    <hashEntry Key="C00049" Value="L-Aspartate" />
+    <hashEntry Key="C00263" Value="L-Homoserine" />
+    <hashEntry Key="C00322" Value="2-Oxoadipate" />
+    <hashEntry Key="C00441" Value="L-Aspartate 4-semialdehyde" />
+    <hashEntry Key="C00449" Value="N6-(L-1,3-Dicarboxypropyl)-L-lysine" />
+    <hashEntry Key="C00666" Value="LL-2,6-Diaminoheptanedioate" />
+    <hashEntry Key="C00680" Value="meso-2,6-Diaminoheptanedioate" />
+    <hashEntry Key="C00956" Value="L-2-Aminoadipate" />
+    <hashEntry Key="C01251" Value="(R)-2-Hydroxybutane-1,2,4-tricarboxylate" />
+    <hashEntry Key="C03082" Value="4-Phospho-L-aspartate" />
+    <hashEntry Key="C03871" Value="L-2-Amino-6-oxoheptanedioate" />
+    <hashEntry Key="C03972" Value="2,3,4,5-Tetrahydrodipicolinate" />
+    <hashEntry Key="C04002" Value="(Z)-But-1-ene-1,2,4-tricarboxylate" />
+    <hashEntry Key="C04076" Value="L-2-Aminoadipate 6-semialdehyde" />
+    <hashEntry Key="C04390" Value="N6-Acetyl-LL-2,6-diaminoheptanedioate" />
+    <hashEntry Key="C04421" Value="N-Succinyl-LL-2,6-diaminoheptanedioate" />
+    <hashEntry Key="C04462" Value="N-Succinyl-2-L-amino-6-oxoheptanedioate" />
+    <hashEntry Key="C04877" Value="UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimelate" />
+    <hashEntry Key="C04882" Value="UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-6-carboxy-L-lysyl-D-alanyl-D-alanine" />
+    <hashEntry Key="C05535" Value="alpha-Aminoadipoyl-S-acyl enzyme" />
+    <hashEntry Key="C05539" Value="N-Acetyl-L-2-amino-6-oxopimelate" />
+    <hashEntry Key="C05560" Value="L-2-Aminoadipate adenylate" />
+    <hashEntry Key="C05662" Value="Homoisocitrate" />
+    <hashEntry Key="C16138" Value="L-Pyrrolysine" />
+    <hashEntry Key="C19886" Value="LysW-gamma-L-alpha-aminoadipate" />
+    <hashEntry Key="C19887" Value="LysW-gamma-L-alpha-aminoadipyl 6-phosphate" />
+    <hashEntry Key="C19888" Value="LysW-gamma-L-alpha-aminoadipate 6-semialdehyde" />
+    <hashEntry Key="C19889" Value="LysW-gamma-L-lysine" />
+    <hashEntry Key="C20258" Value="(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate" />
+    <hashEntry Key="C20277" Value="(2R,3R)-3-Methylornithine" />
+    <hashEntry Key="C20278" Value="(2R,3R)-3-Methylornithinyl-N6-lysine" />
+    <hashEntry Key="C20279" Value="(2R,3R)-3-Methylglutamyl-5-semialdehyde-N6-lysine" />
+  </Compound>
+  <PathwayMap Key="xcb00300" Value="Lysine biosynthesis" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0662" Value="K01778 diaminopimelate epimerase [EC:5.1.1.7] | (GenBank) diaminopimelate epimerase" />
+    <hashEntry Key="xcb:XC_0882" Value="K00821 acetylornithine/N-succinyldiaminopimelate aminotransferase [EC:2.6.1.11 2.6.1.17] | (GenBank)" />
+    <hashEntry Key="xcb:XC_1103" Value="K01586 diaminopimelate decarboxylase [EC:4.1.1.20] | (GenBank) diaminopimelate decarboxylase" />
+    <hashEntry Key="xcb:XC_1253" Value="K00003 homoserine dehydrogenase [EC:1.1.1.3] | (GenBank) homoserine dehydrogenase" />
+    <hashEntry Key="xcb:XC_1372" Value="K12526 bifunctional diaminopimelate decarboxylase / aspartate kinase [EC:4.1.1.20 2.7.2.4] | (GenBan" />
+    <hashEntry Key="xcb:XC_1569" Value="K00133 aspartate-semialdehyde dehydrogenase [EC:1.2.1.11] | (GenBank) aspartate semialdehyde dehydro" />
+    <hashEntry Key="xcb:XC_2349" Value="K00215 4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8] | (GenBank) dihydrodipicolinate redu" />
+    <hashEntry Key="xcb:XC_2351" Value="K05825 2-aminoadipate transaminase [EC:2.6.1.-] | (GenBank) valine-pyruvate aminotransferase" />
+    <hashEntry Key="xcb:XC_2389" Value="K12524 bifunctional aspartokinase / homoserine dehydrogenase 1 [EC:2.7.2.4 1.1.1.3] | (GenBank) aspa" />
+    <hashEntry Key="xcb:XC_2493" Value="K01714 4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7] | (GenBank) dihydroxydipicolinate synt" />
+    <hashEntry Key="xcb:XC_2851" Value="K01439 succinyl-diaminopimelate desuccinylase [EC:3.5.1.18] | (GenBank) succinyl-diaminopimelate des" />
+    <hashEntry Key="xcb:XC_2854" Value="K00674 2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase [EC:2.3.1.117] | (GenBank) 2,3" />
+    <hashEntry Key="xcb:XC_3513" Value="K01929 UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [EC:6.3.2.10] | (GenBank) UDP-N-ac" />
+    <hashEntry Key="xcb:XC_3514" Value="K01928 UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [EC:6.3.2.13] | (GenBan" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00300" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Biochemistry 38:3019-3024 (1999)" PMID="10074354">
+      <Authors>Ledwidge R</Authors>
+      <Authors>Blanchard JS.</Authors>The dual biosynthetic capability of N-acetylornithine aminotransferase in arginine and lysine biosynthesis.</Reference>
+    <Reference Journal="J Bacteriol 182:3626-3631 (2000)" PMID="10850974">
+      <Authors>Fuchs TM</Authors>
+      <Authors>Schneider B</Authors>
+      <Authors>Krumbach K</Authors>
+      <Authors>Eggeling L</Authors>
+      <Authors>Gross R.</Authors>Characterization of a bordetella pertussis diaminopimelate (DAP) biosynthesis locus identifies dapC, a novel gene coding for an N-succinyl-L,L-DAP aminotransferase.</Reference>
+    <Reference Journal="Nat Prod Rep 17:85-97 (2000)" PMID="10714900">
+      <Authors>Zabriskie TM</Authors>
+      <Authors>Jackson MD.</Authors>Lysine biosynthesis and metabolism in fungi.</Reference>
+    <Reference Journal="Nucleic Acids Res 31:6748-57 (2003)" PMID="14627808">
+      <Authors>Rodionov DA</Authors>
+      <Authors>Vitreschak AG</Authors>
+      <Authors>Mironov AA</Authors>
+      <Authors>Gelfand MS.</Authors>Regulation of lysine biosynthesis and transport genes in bacteria: yet another RNA riboswitch?</Reference>
+    <Reference Journal="J Mol Evol 55:445-59 (2002)" PMID="12355264">
+      <Authors>Velasco AM</Authors>
+      <Authors>Leguina JI</Authors>
+      <Authors>Lazcano A.</Authors>Molecular evolution of the lysine biosynthetic pathways.</Reference>
+    <Reference Journal="Microbiology 150:2327-34 (2004)" PMID="15256574">
+      <Authors>Miyazaki T</Authors>
+      <Authors>Miyazaki J</Authors>
+      <Authors>Yamane H</Authors>
+      <Authors>Nishiyama M.</Authors>alpha-Aminoadipate aminotransferase from an extremely thermophilic bacterium, Thermus thermophilus.</Reference>
+    <Reference Journal="Mol Genet Metab 76:172-80 (2002)" PMID="12126930">
+      <Authors>Goh DL</Authors>
+      <Authors>Patel A</Authors>
+      <Authors>Thomas GH</Authors>
+      <Authors>Salomons GS</Authors>
+      <Authors>Schor DS</Authors>
+      <Authors>Jakobs C</Authors>
+      <Authors>Geraghty MT.</Authors>Characterization of the human gene encoding alpha-aminoadipate aminotransferase (AADAT).</Reference>
+    <Reference Journal="Tanpakushitsu Kakusan Koso 49:758-63 (2004)" PMID="15160885">
+      <Authors>Nishiyama M.</Authors>[Novel lysine biosynthesis: a key to elucidate evolution of metabolic and biosynthetic pathways]</Reference>
+    <Reference Journal="Genome Res 9:1175-83 (1999)" PMID="10613839">
+      <Authors>Nishida H</Authors>
+      <Authors>Nishiyama M</Authors>
+      <Authors>Kobashi N</Authors>
+      <Authors>Kosuge T</Authors>
+      <Authors>Hoshino T</Authors>
+      <Authors>Yamane H.</Authors>A prokaryotic gene cluster involved in synthesis of lysine through the amino adipate pathway: a key to the evolution of amino acid biosynthesis.</Reference>
+    <Reference Journal="J Mol Biol 332:729-40 (2003)" PMID="12963379">
+      <Authors>Sakai H</Authors>
+      <Authors>Vassylyeva MN</Authors>
+      <Authors>Matsuura T</Authors>
+      <Authors>Sekine S</Authors>
+      <Authors>Gotoh K</Authors>
+      <Authors>Nishiyama M</Authors>
+      <Authors>Terada T</Authors>
+      <Authors>Shirouzu M</Authors>
+      <Authors>Kuramitsu S</Authors>
+      <Authors>Vassylyev DG</Authors>
+      <Authors>Yokoyama S.</Authors>Crystal structure of a lysine biosynthesis enzyme, LysX, from Thermus thermophilus HB8.</Reference>
+    <Reference Journal="Plant Physiol 140:292-301 (2006)" PMID="16361515">
+      <Authors>Hudson AO</Authors>
+      <Authors>Singh BK</Authors>
+      <Authors>Leustek T</Authors>
+      <Authors>Gilvarg C.</Authors>An LL-diaminopimelate aminotransferase defines a novel variant of the lysine biosynthesis pathway in plants.</Reference>
+    <Reference Journal="Nat Chem Biol 5:673-9 (2009)" PMID="19620981">
+      <Authors>Horie A</Authors>
+      <Authors>Tomita T</Authors>
+      <Authors>Saiki A</Authors>
+      <Authors>Kono H</Authors>
+      <Authors>Taka H</Authors>
+      <Authors>Mineki R</Authors>
+      <Authors>Fujimura T</Authors>
+      <Authors>Nishiyama C</Authors>
+      <Authors>Kuzuyama T</Authors>
+      <Authors>Nishiyama M</Authors>Discovery of proteinaceous N-modification in lysine biosynthesis of Thermus thermophilus.</Reference>
+    <Reference Journal="Nat Prod Rep 28:1054-86 (2011)" PMID="21547300">
+      <Authors>Dairi T</Authors>
+      <Authors>Kuzuyama T</Authors>
+      <Authors>Nishiyama M</Authors>
+      <Authors>Fujii I</Authors>Convergent strategies in biosynthesis.</Reference>
+    <Reference Journal="Curr Opin Microbiol 14:342-9 (2011)" PMID="21550296">
+      <Authors>Gaston MA</Authors>
+      <Authors>Jiang R</Authors>
+      <Authors>Krzycki JA</Authors>Functional context, biosynthesis, and genetic encoding of pyrrolysine.</Reference>
+  </References>
+</KEGG.PathwayBrief>

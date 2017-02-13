@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb02024" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description>Quorum sensing (QS) is a regulatory system that allows bacteria to share information about cell density and adjust gene expression accordingly. All QS bacteria produce and release chemical signal molecules called autoinducers (AIs) that increase in concentration as a function of cell density. The most commonly studied AIs belong to one of the following three categories: acylated homoserine lactones, also referred to as AI-1, used by Gram-negative bacteria; peptide signals, used by Gram-positive bacteria; and AI-2, used by both Gram-negative and Gram-positive bacteria. QS can be divided into at least 4 steps: production of AIs by the bacterial cell; release of AIs, either actively or passively, into the surrounding environment; recognition of AIs by specific receptors; and leading to changes in gene regulation once they exceed a threshold concentration. The processes controlled by QS include virulence, competence, conjugation, antibiotic production, motility, sporulation, and biofilm formation.</Description>
+  <Name>Quorum sensing - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound>
+    <hashEntry Key="C00007" Value="Oxygen" />
+    <hashEntry Key="C00009" Value="Orthophosphate" />
+    <hashEntry Key="C00059" Value="Sulfate" />
+    <hashEntry Key="C00232" Value="Succinate semialdehyde" />
+    <hashEntry Key="C00334" Value="4-Aminobutanoate" />
+    <hashEntry Key="C00547" Value="L-Noradrenaline" />
+    <hashEntry Key="C00788" Value="L-Adrenaline" />
+    <hashEntry Key="C01019" Value="6-Deoxy-L-galactose" />
+    <hashEntry Key="C11837" Value="N-Butyryl-L-homoserine lactone" />
+    <hashEntry Key="C11841" Value="N-(3-Oxooctanoyl)homoserine lactone" />
+    <hashEntry Key="C11844" Value="N-Heptanoylhomoserine lactone" />
+    <hashEntry Key="C11845" Value="N-(3-Hydroxy-7-cis-tetradecenoyl)homoserine lactone" />
+    <hashEntry Key="C11848" Value="2-Heptyl-3-hydroxy-quinolone" />
+    <hashEntry Key="C16421" Value="AI-2" />
+    <hashEntry Key="C16463" Value="3',5'-Cyclic diGMP" />
+    <hashEntry Key="C16640" Value="CAI-1" />
+    <hashEntry Key="C18049" Value="N-Acyl-L-homoserine lactone" />
+    <hashEntry Key="C18206" Value="cis-11-Methyl-2-dodecenoic acid" />
+    <hashEntry Key="C20643" Value="2-Heptyl-4(1H)-quinolone" />
+    <hashEntry Key="C20677" Value="N-(4-Coumaroyl)-L-homoserine lactone" />
+    <hashEntry Key="C20959" Value="(4S)-4-Hydroxy-5-phosphonooxypentane-2,3-dione" />
+    <hashEntry Key="C21195" Value="N-(3-Hydroxybutanoyl)-L-homoserine lactone" />
+    <hashEntry Key="C21197" Value="N-Hexanoyl-L-homoserine lactone" />
+    <hashEntry Key="C21198" Value="N-(3-Oxohexanoyl)-L-homoserine lactone" />
+    <hashEntry Key="C21199" Value="N-Octanoyl-L-homoserine lactone" />
+    <hashEntry Key="C21200" Value="N-3-Hydroxyoctanoyl-L-homoserine lactone" />
+    <hashEntry Key="C21201" Value="N-3-Oxo-dodecanoyl-L-homoserine lactone" />
+    <hashEntry Key="C21202" Value="cis-2-Dodecenoic acid" />
+    <hashEntry Key="C21220" Value="AIP-1" />
+    <hashEntry Key="C21221" Value="CSP" />
+    <hashEntry Key="C21222" Value="CSP" />
+    <hashEntry Key="C21223" Value="Blp" />
+    <hashEntry Key="C21224" Value="SHP2" />
+    <hashEntry Key="C21225" Value="SHP3" />
+    <hashEntry Key="C21226" Value="cCF10" />
+    <hashEntry Key="C21227" Value="iCF10" />
+    <hashEntry Key="C21228" Value="cAD1" />
+    <hashEntry Key="C21229" Value="iAD1" />
+    <hashEntry Key="C21230" Value="ComX pheromone" />
+    <hashEntry Key="C21231" Value="PhrA pentapeptide" />
+    <hashEntry Key="C21232" Value="PhrC pentapeptide" />
+    <hashEntry Key="C21233" Value="PhrE pentapeptide" />
+    <hashEntry Key="C21234" Value="PhrF pentapeptide" />
+    <hashEntry Key="C21235" Value="PhrG pentapeptide" />
+    <hashEntry Key="C21236" Value="PhrH pentapeptide" />
+    <hashEntry Key="C21237" Value="PhrK pentapeptide" />
+    <hashEntry Key="C21238" Value="NprX peptide" />
+    <hashEntry Key="C21239" Value="PapR peptide" />
+    <hashEntry Key="C21241" Value="AIP-2" />
+    <hashEntry Key="C21242" Value="AIP-3" />
+    <hashEntry Key="C21243" Value="AIP-4" />
+    <hashEntry Key="C21244" Value="AgrD peptide" />
+    <hashEntry Key="C21245" Value="AgrD1 peptide" />
+    <hashEntry Key="C21246" Value="GBAP" />
+    <hashEntry Key="C21382" Value="R-THMF" />
+  </Compound>
+  <PathwayMap Key="xcb02024" Value="Quorum sensing" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0213" Value="K03071 preprotein translocase subunit SecB | (GenBank) protein-export protein" />
+    <hashEntry Key="xcb:XC_0473" Value="K01657 anthranilate synthase component I [EC:4.1.3.27] | (GenBank) anthranilate synthase component I" />
+    <hashEntry Key="xcb:XC_0481" Value="K01658 anthranilate synthase component II [EC:4.1.3.27] | (GenBank) anthranilate synthase component" />
+    <hashEntry Key="xcb:XC_0486" Value="K10914 CRP/FNR family transcriptional regulator, cyclic AMP receptor protein | (GenBank) CAP-like pr" />
+    <hashEntry Key="xcb:XC_0548" Value="K01626 3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54] | (GenBank) phospho-2-dehydro-3-deoxyhept" />
+    <hashEntry Key="xcb:XC_1121" Value="K01114 phospholipase C [EC:3.1.4.3] | (GenBank) phospholipase C" />
+    <hashEntry Key="xcb:XC_1295" Value="K07782 LuxR family transcriptional regulator, quorum-sensing system regulator SdiA | (GenBank) trans" />
+    <hashEntry Key="xcb:XC_1298" Value="K01728 pectate lyase [EC:4.2.2.2] | (GenBank) pectate lyase II" />
+    <hashEntry Key="xcb:XC_1430" Value="K09823 Fur family transcriptional regulator, zinc uptake regulator | (GenBank) transcriptional regul" />
+    <hashEntry Key="xcb:XC_1434" Value="K18139 outer membrane protein, multidrug efflux system | (GenBank) outer membrane protein" />
+    <hashEntry Key="xcb:XC_1588" Value="K03075 preprotein translocase subunit SecG | (GenBank) protein-export membrane protein" />
+    <hashEntry Key="xcb:XC_1695" Value="K03110 fused signal recognition particle receptor | (GenBank) cell division protein" />
+    <hashEntry Key="xcb:XC_1737" Value="K03210 preprotein translocase subunit YajC | (GenBank) preprotein translocase YajC subunit" />
+    <hashEntry Key="xcb:XC_2331" Value="K01897 long-chain acyl-CoA synthetase [EC:6.2.1.3] | (GenBank) RpfB protein" />
+    <hashEntry Key="xcb:XC_2332" Value="K13816 DSF synthase | (GenBank) RpfF protein" />
+    <hashEntry Key="xcb:XC_2333" Value="K10715 two-component system, sensor histidine kinase RpfC [EC:2.7.13.3] | (GenBank) RpfC protein" />
+    <hashEntry Key="xcb:XC_2335" Value="K13815 two-component system, response regulator RpfG | (GenBank) response regulator rpfG" />
+    <hashEntry Key="xcb:XC_2458" Value="K01218 mannan endo-1,4-beta-mannosidase [EC:3.2.1.78] | (GenBank) mannan endo-1,4-beta-mannosidase" />
+    <hashEntry Key="xcb:XC_2515" Value="K03666 host factor-I protein | (GenBank) host factor-I protein" />
+    <hashEntry Key="xcb:XC_2872" Value="K11749 regulator of sigma E protease [EC:3.4.24.-] | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_2970" Value="K03100 signal peptidase I [EC:3.4.21.89] | (GenBank) signal peptidase I" />
+    <hashEntry Key="xcb:XC_3027" Value="K20325 TetR/AcrR family transcriptional regulator, Clp-modulated transcription factor | (GenBank) tr" />
+    <hashEntry Key="xcb:XC_3048" Value="K03106 signal recognition particle subunit SRP54 [EC:3.6.5.4] | (GenBank) signal recognition particl" />
+    <hashEntry Key="xcb:XC_3224" Value="K01657 anthranilate synthase component I [EC:4.1.3.27] | (GenBank) anthranilate synthase component I" />
+    <hashEntry Key="xcb:XC_3288" Value="K01114 phospholipase C [EC:3.1.4.3] | (GenBank) non-hemolytic phospholipase C" />
+    <hashEntry Key="xcb:XC_3313" Value="K01626 3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54] | (GenBank) family II 2-keto-3-deoxy-D-ar" />
+    <hashEntry Key="xcb:XC_3320" Value="K03076 preprotein translocase subunit SecY | (GenBank) preprotein translocase SecY subunit" />
+    <hashEntry Key="xcb:XC_3353" Value="K03073 preprotein translocase subunit SecE | (GenBank) translocase SecE" />
+    <hashEntry Key="xcb:XC_3376" Value="K14645 serine protease [EC:3.4.21.-] | (GenBank) extracellular protease" />
+    <hashEntry Key="xcb:XC_3379" Value="K14645 serine protease [EC:3.4.21.-] | (GenBank) extracellular protease" />
+    <hashEntry Key="xcb:XC_3501" Value="K03070 preprotein translocase subunit SecA | (GenBank) preprotein translocase SecA subunit" />
+    <hashEntry Key="xcb:XC_3528" Value="K07667 two-component system, OmpR family, KDP operon response regulator KdpE | (GenBank) two-compone" />
+    <hashEntry Key="xcb:XC_3541" Value="K11752 diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)urac" />
+    <hashEntry Key="xcb:XC_3554" Value="K20328 membrane protein XagC | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_3555" Value="K20327 glycosyltransferase XagB | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_3556" Value="K20326 protein XagA | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_3575" Value="K14645 serine protease [EC:3.4.21.-] | (GenBank) protease" />
+    <hashEntry Key="xcb:XC_3590" Value="K01728 pectate lyase [EC:4.2.2.2] | (GenBank) pectate lyase" />
+    <hashEntry Key="xcb:XC_3591" Value="K01728 pectate lyase [EC:4.2.2.2] | (GenBank) pectate lyase" />
+    <hashEntry Key="xcb:XC_3810" Value="K01497 GTP cyclohydrolase II [EC:3.5.4.25] | (GenBank) riboflavin biosynthesis protein" />
+    <hashEntry Key="xcb:XC_4330" Value="K03217 YidC/Oxa1 family membrane protein insertase | (GenBank) 60 kDa inner-membrane protein" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko02024" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="FEMS Microbiol Rev 37:156-81 (2013)" PMID="22712853">
+      <Authors>Pereira CS</Authors>
+      <Authors>Thompson JA</Authors>
+      <Authors>Xavier KB</Authors>AI-2-mediated signalling in bacteria.</Reference>
+    <Reference Journal="Int J Mol Sci 14:16386-401 (2013)" PMID="23965960">
+      <Authors>Verma SC</Authors>
+      <Authors>Miyashiro T</Authors>Quorum sensing in the squid-Vibrio symbiosis.</Reference>
+    <Reference Journal="Front Microbiol 4:356 (2013)" PMID="24348467">
+      <Authors>Norsworthy AN</Authors>
+      <Authors>Visick KL</Authors>Gimme shelter: how Vibrio fischeri successfully navigates an animal's multiple environments.</Reference>
+    <Reference Journal="Int J Mol Sci 14:19309-40 (2013)" PMID="24065108">
+      <Authors>Papaioannou E</Authors>
+      <Authors>Utari PD</Authors>
+      <Authors>Quax WJ</Authors>Choosing an appropriate infection model to study quorum sensing inhibition in Pseudomonas infections.</Reference>
+    <Reference Journal="FEMS Microbiol Rev 35:247-74 (2011)" PMID="20738404">
+      <Authors>Heeb S</Authors>
+      <Authors>Fletcher MP</Authors>
+      <Authors>Chhabra SR</Authors>
+      <Authors>Diggle SP</Authors>
+      <Authors>Williams P</Authors>
+      <Authors>Camara M</Authors>Quinolones: from antibiotics to autoinducers.</Reference>
+    <Reference Journal="Biomed Res Int 2015:759348 (2015)" PMID="25866808">
+      <Authors>Rasamiravaka T</Authors>
+      <Authors>Labtani Q</Authors>
+      <Authors>Duez P</Authors>
+      <Authors>El Jaziri M</Authors>The formation of biofilms by Pseudomonas aeruginosa: a review of the natural and  synthetic compounds interfering with control mechanisms.</Reference>
+    <Reference Journal="J Bacteriol 183:5529-34 (2001)" PMID="11544214">
+      <Authors>Whiteley M</Authors>
+      <Authors>Greenberg EP</Authors>Promoter specificity elements in Pseudomonas aeruginosa quorum-sensing-controlled genes.</Reference>
+    <Reference Journal="Mol Plant Microbe Interact 14:969-79 (2001)" PMID="11497469">
+      <Authors>Chin-A-Woeng TF</Authors>
+      <Authors>van den Broek D</Authors>
+      <Authors>de Voer G</Authors>
+      <Authors>van der Drift KM</Authors>
+      <Authors>Tuinman S</Authors>
+      <Authors>Thomas-Oates JE</Authors>
+      <Authors>Lugtenberg BJ</Authors>
+      <Authors>Bloemberg GV</Authors>Phenazine-1-carboxamide production in the biocontrol strain Pseudomonas chlororaphis PCL1391 is regulated by multiple factors secreted into the growth medium.</Reference>
+    <Reference Journal="PLoS Pathog 5:e1000553 (2009)" PMID="19696934">
+      <Authors>Hughes DT</Authors>
+      <Authors>Clarke MB</Authors>
+      <Authors>Yamamoto K</Authors>
+      <Authors>Rasko DA</Authors>
+      <Authors>Sperandio V</Authors>The QseC adrenergic signaling cascade in Enterohemorrhagic E. coli (EHEC).</Reference>
+    <Reference Journal="Infect Immun 80:688-703 (2012)" PMID="22144490">
+      <Authors>Njoroge J</Authors>
+      <Authors>Sperandio V</Authors>Enterohemorrhagic Escherichia coli virulence regulation by two bacterial adrenergic kinases, QseC and QseE.</Reference>
+    <Reference Journal="Nature 492:113-7 (2012)" PMID="23160491">
+      <Authors>Pacheco AR</Authors>
+      <Authors>Curtis MM</Authors>
+      <Authors>Ritchie JM</Authors>
+      <Authors>Munera D</Authors>
+      <Authors>Waldor MK</Authors>
+      <Authors>Moreira CG</Authors>
+      <Authors>Sperandio V</Authors>Fucose sensing regulates bacterial intestinal colonization.</Reference>
+    <Reference Journal="Proc Natl Acad Sci U S A 109:12141-6 (2012)" PMID="22778415">
+      <Authors>Hirakawa H</Authors>
+      <Authors>Harwood CS</Authors>
+      <Authors>Pechter KB</Authors>
+      <Authors>Schaefer AL</Authors>
+      <Authors>Greenberg EP</Authors>Antisense RNA that affects Rhodopseudomonas palustris quorum-sensing signal receptor expression.</Reference>
+    <Reference Journal="Mol Microbiol 50:511-25 (2003)" PMID="14617175">
+      <Authors>Danino VE</Authors>
+      <Authors>Wilkinson A</Authors>
+      <Authors>Edwards A</Authors>
+      <Authors>Downie JA</Authors>Recipient-induced transfer of the symbiotic plasmid pRL1JI in Rhizobium leguminosarum bv. viciae is regulated by a quorum-sensing relay.</Reference>
+    <Reference Journal="Antonie Van Leeuwenhoek 81:397-407 (2002)" PMID="12448738">
+      <Authors>Wisniewski-Dye F</Authors>
+      <Authors>Downie JA</Authors>Quorum-sensing in Rhizobium.</Reference>
+    <Reference Journal="J Bacteriol 181:3816-23 (1999)" PMID="10368158">
+      <Authors>Rodelas B</Authors>
+      <Authors>Lithgow JK</Authors>
+      <Authors>Wisniewski-Dye F</Authors>
+      <Authors>Hardman A</Authors>
+      <Authors>Wilkinson A</Authors>
+      <Authors>Economou A</Authors>
+      <Authors>Williams P</Authors>
+      <Authors>Downie JA</Authors>Analysis of quorum-sensing-dependent control of rhizosphere-expressed (rhi) genes in Rhizobium leguminosarum bv. viciae.</Reference>
+    <Reference Journal="Front Plant Sci 5:14 (2014)" PMID="24550924">
+      <Authors>Lang J</Authors>
+      <Authors>Faure D</Authors>Functions and regulation of quorum-sensing in Agrobacterium tumefaciens.</Reference>
+    <Reference Journal="Commun Integr Biol 6:e23692 (2013)" PMID="23710277">
+      <Authors>Planamente S</Authors>
+      <Authors>Morera S</Authors>
+      <Authors>Faure D</Authors>In planta fitness-cost of the Atu4232-regulon encoding for a selective GABA-binding sensor in Agrobacterium.</Reference>
+    <Reference Journal="Anal Bioanal Chem 387:415-23 (2007)" PMID="16943991">
+      <Authors>Barnard AM</Authors>
+      <Authors>Salmond GP</Authors>Quorum sensing in Erwinia species.</Reference>
+    <Reference Journal="Philos Trans R Soc Lond B Biol Sci 362:1165-83 (2007)" PMID="17360277">
+      <Authors>Barnard AM</Authors>
+      <Authors>Bowden SD</Authors>
+      <Authors>Burr T</Authors>
+      <Authors>Coulthurst SJ</Authors>
+      <Authors>Monson RE</Authors>
+      <Authors>Salmond GP</Authors>Quorum sensing, virulence and secondary metabolite production in plant soft-rotting bacteria.</Reference>
+    <Reference Journal="Mol Microbiol 74:903-13 (2009)" PMID="19843225">
+      <Authors>Carlier A</Authors>
+      <Authors>Burbank L</Authors>
+      <Authors>von Bodman SB</Authors>Identification and characterization of three novel EsaI/EsaR quorum-sensing controlled stewartan exopolysaccharide biosynthetic genes in Pantoea stewartii ssp. stewartii.</Reference>
+    <Reference Journal="J Bacteriol 177:5000-8 (1995)" PMID="7665477">
+      <Authors>Beck von Bodman S</Authors>
+      <Authors>Farrand SK</Authors>Capsular polysaccharide biosynthesis and pathogenicity in Erwinia stewartii require induction by an N-acylhomoserine lactone autoinducer.</Reference>
+    <Reference Journal="BMC Genomics 10:441 (2009)" PMID="19761612">
+      <Authors>O'Grady EP</Authors>
+      <Authors>Viteri DF</Authors>
+      <Authors>Malott RJ</Authors>
+      <Authors>Sokol PA</Authors>Reciprocal regulation by the CepIR and CciIR quorum sensing systems in Burkholderia cenocepacia.</Reference>
+    <Reference Journal="Infect Immun 73:4982-92 (2005)" PMID="16041013">
+      <Authors>Malott RJ</Authors>
+      <Authors>Baldwin A</Authors>
+      <Authors>Mahenthiralingam E</Authors>
+      <Authors>Sokol PA</Authors>Characterization of the cciIR quorum-sensing system in Burkholderia cenocepacia.</Reference>
+    <Reference Journal="Proc Natl Acad Sci U S A 109:15479-84 (2012)" PMID="22949660">
+      <Authors>Deng Y</Authors>
+      <Authors>Schmid N</Authors>
+      <Authors>Wang C</Authors>
+      <Authors>Wang J</Authors>
+      <Authors>Pessi G</Authors>
+      <Authors>Wu D</Authors>
+      <Authors>Lee J</Authors>
+      <Authors>Aguilar C</Authors>
+      <Authors>Ahrens CH</Authors>
+      <Authors>Chang C</Authors>
+      <Authors>Song H</Authors>
+      <Authors>Eberl L</Authors>
+      <Authors>Zhang LH</Authors>Cis-2-dodecenoic acid receptor RpfR links quorum-sensing signal perception with regulation of virulence through cyclic dimeric guanosine monophosphate turnover.</Reference>
+    <Reference Journal="Virulence 4:400-9 (2013)" PMID="23799665">
+      <Authors>Suppiger A</Authors>
+      <Authors>Schmid N</Authors>
+      <Authors>Aguilar C</Authors>
+      <Authors>Pessi G</Authors>
+      <Authors>Eberl L</Authors>Two quorum sensing systems control biofilm formation and virulence in members of  the Burkholderia cepacia complex.</Reference>
+    <Reference Journal="Chem Rev 111:160-73 (2011)" PMID="21166386">
+      <Authors>Deng Y</Authors>
+      <Authors>Wu J</Authors>
+      <Authors>Tao F</Authors>
+      <Authors>Zhang LH</Authors>Listening to a new language: DSF-based quorum sensing in Gram-negative bacteria.</Reference>
+    <Reference Journal="Trends Microbiol 19:145-52 (2011)" PMID="21227698">
+      <Authors>Ryan RP</Authors>
+      <Authors>Dow JM</Authors>Communication with a growing family: diffusible signal factor (DSF) signaling in  bacteria.</Reference>
+    <Reference Journal="Mol Microbiol 54:921-34 (2004)" PMID="15522077">
+      <Authors>Kim J</Authors>
+      <Authors>Kim JG</Authors>
+      <Authors>Kang Y</Authors>
+      <Authors>Jang JY</Authors>
+      <Authors>Jog GJ</Authors>
+      <Authors>Lim JY</Authors>
+      <Authors>Kim S</Authors>
+      <Authors>Suga H</Authors>
+      <Authors>Nagamatsu T</Authors>
+      <Authors>Hwang I</Authors>Quorum sensing and the LysR-type transcriptional activator ToxR regulate toxoflavin biosynthesis and transport in Burkholderia glumae.</Reference>
+    <Reference Journal="Mol Microbiol 64:165-79 (2007)" PMID="17376080">
+      <Authors>Kim J</Authors>
+      <Authors>Kang Y</Authors>
+      <Authors>Choi O</Authors>
+      <Authors>Jeong Y</Authors>
+      <Authors>Jeong JE</Authors>
+      <Authors>Lim JY</Authors>
+      <Authors>Kim M</Authors>
+      <Authors>Moon JS</Authors>
+      <Authors>Suga H</Authors>
+      <Authors>Hwang I</Authors>Regulation of polar flagellum genes is mediated by quorum sensing and FlhDC in Burkholderia glumae.</Reference>
+    <Reference Journal="J Bacteriol 193:3871-8 (2011)" PMID="21622734">
+      <Authors>Stauff DL</Authors>
+      <Authors>Bassler BL</Authors>Quorum sensing in Chromobacterium violaceum: DNA recognition and gene regulation  by the CviR receptor.</Reference>
+    <Reference Journal="Mol Cell 42:199-209 (2011)" PMID="21504831">
+      <Authors>Chen G</Authors>
+      <Authors>Swem LR</Authors>
+      <Authors>Swem DL</Authors>
+      <Authors>Stauff DL</Authors>
+      <Authors>O'Loughlin CT</Authors>
+      <Authors>Jeffrey PD</Authors>
+      <Authors>Bassler BL</Authors>
+      <Authors>Hughson FM</Authors>A strategy for antagonizing quorum sensing.</Reference>
+    <Reference Journal="J Bacteriol 188:2173-83 (2006)" PMID="16513747">
+      <Authors>Hao G</Authors>
+      <Authors>Burr TJ</Authors>Regulation of long-chain N-acyl-homoserine lactones in Agrobacterium vitis.</Reference>
+    <Reference Journal="Curr Microbiol 62:101-10 (2011)" PMID="20514483">
+      <Authors>Savka MA</Authors>
+      <Authors>Le PT</Authors>
+      <Authors>Burr TJ</Authors>LasR receptor for detection of long-chain quorum-sensing signals: identification  of N-acyl-homoserine lactones encoded by the avsI locus of Agrobacterium vitis.</Reference>
+    <Reference Journal="Front Microbiol 6:1174 (2015)" PMID="26579084">
+      <Authors>Le KY</Authors>
+      <Authors>Otto M</Authors>Quorum-sensing regulation in staphylococci-an overview.</Reference>
+    <Reference Journal="Mol Cell 32:150-8 (2008)" PMID="18851841">
+      <Authors>Queck SY</Authors>
+      <Authors>Jameson-Lee M</Authors>
+      <Authors>Villaruz AE</Authors>
+      <Authors>Bach TH</Authors>
+      <Authors>Khan BA</Authors>
+      <Authors>Sturdevant DE</Authors>
+      <Authors>Ricklefs SM</Authors>
+      <Authors>Li M</Authors>
+      <Authors>Otto M</Authors>RNAIII-independent target gene control by the agr quorum-sensing system: insight  into the evolution of virulence regulation in Staphylococcus aureus.</Reference>
+    <Reference Journal="MBio 6:e02569 (2015)" PMID="25714717">
+      <Authors>Darkoh C</Authors>
+      <Authors>DuPont HL</Authors>
+      <Authors>Norris SJ</Authors>
+      <Authors>Kaplan HB</Authors>Toxin synthesis by Clostridium difficile is regulated through quorum signaling.</Reference>
+    <Reference Journal="Infect Immun 83:2430-42 (2015)" PMID="25824838">
+      <Authors>Vidal JE</Authors>
+      <Authors>Shak JR</Authors>
+      <Authors>Canizalez-Roman A</Authors>The CpAL quorum sensing system regulates production of hemolysins CPA and PFO to  build Clostridium perfringens biofilms.</Reference>
+    <Reference Journal="J Bacteriol 191:3919-27 (2009)" PMID="19363118">
+      <Authors>Ohtani K</Authors>
+      <Authors>Yuan Y</Authors>
+      <Authors>Hassan S</Authors>
+      <Authors>Wang R</Authors>
+      <Authors>Wang Y</Authors>
+      <Authors>Shimizu T</Authors>Virulence gene regulation by the agr system in Clostridium perfringens.</Reference>
+    <Reference Journal="Sensors (Basel) 12:2519-38 (2012)" PMID="22736963">
+      <Authors>Li YH</Authors>
+      <Authors>Tian X</Authors>Quorum sensing and bacterial social interactions in biofilms.</Reference>
+    <Reference Journal="Appl Environ Microbiol 78:3515-22 (2012)" PMID="22407687">
+      <Authors>Berg KH</Authors>
+      <Authors>Biornstad TJ</Authors>
+      <Authors>Johnsborg O</Authors>
+      <Authors>Havarstein LS</Authors>Properties and biological role of streptococcal fratricins.</Reference>
+    <Reference Journal="J Oral Microbiol 6:26189 (2014)" PMID="25475081">
+      <Authors>Conrads G</Authors>
+      <Authors>de Soet JJ</Authors>
+      <Authors>Song L</Authors>
+      <Authors>Henne K</Authors>
+      <Authors>Sztajer H</Authors>
+      <Authors>Wagner-Dobler I</Authors>
+      <Authors>Zeng AP</Authors>Comparing the cariogenic species Streptococcus sobrinus and S. mutans on whole genome level.</Reference>
+    <Reference Journal="Front Cell Infect Microbiol 4:127 (2014)" PMID="25309879">
+      <Authors>Jimenez JC</Authors>
+      <Authors>Federle MJ</Authors>Quorum sensing in group A Streptococcus.</Reference>
+    <Reference Journal="FEMS Microbiol Rev 38:473-92 (2014)" PMID="24118108">
+      <Authors>Cook LC</Authors>
+      <Authors>Federle MJ</Authors>Peptide pheromone signaling in Streptococcus and Enterococcus.</Reference>
+    <Reference Journal="Mol Microbiol 28:1323-34 (1998)" PMID="9680220">
+      <Authors>Podbielski A</Authors>
+      <Authors>Leonard BA</Authors>The group A streptococcal dipeptide permease (Dpp) is involved in the uptake of essential amino acids and affects the expression of cysteine protease.</Reference>
+    <Reference Journal="Mol Microbiol 21:1087-99 (1996)" PMID="8885277">
+      <Authors>Podbielski A</Authors>
+      <Authors>Pohl B</Authors>
+      <Authors>Woischnik M</Authors>
+      <Authors>Korner C</Authors>
+      <Authors>Schmidt KH</Authors>
+      <Authors>Rozdzinski E</Authors>
+      <Authors>Leonard BA</Authors>Molecular characterization of group A streptococcal (GAS) oligopeptide permease (opp) and its effect on cysteine protease production.</Reference>
+    <Reference Journal="J Bacteriol 194:3961-71 (2012)" PMID="22636768">
+      <Authors>Anbalagan S</Authors>
+      <Authors>Dmitriev A</Authors>
+      <Authors>McShan WM</Authors>
+      <Authors>Dunman PM</Authors>
+      <Authors>Chaussee MS</Authors>Growth phase-dependent modulation of Rgg binding specificity in Streptococcus pyogenes.</Reference>
+    <Reference Journal="Mob Genet Elements 1:38-54 (2011)" PMID="22016844">
+      <Authors>Clewell DB</Authors>Tales of conjugation and sex pheromones: A plasmid and enterococcal odyssey.</Reference>
+    <Reference Journal="Pol J Microbiol 59:79-87 (2010)" PMID="20734751">
+      <Authors>Wardal E</Authors>
+      <Authors>Sadowy E</Authors>
+      <Authors>Hryniewicz W</Authors>Complex nature of enterococcal pheromone-responsive plasmids.</Reference>
+    <Reference Journal="Cell Host Microbe 6:115-24 (2009)" PMID="19683678">
+      <Authors>Roux A</Authors>
+      <Authors>Payne SM</Authors>
+      <Authors>Gilmore MS</Authors>Microbial telesensing: probing the environment for friends, foes, and food.</Reference>
+    <Reference Journal="Toxins (Basel) 6:2239-55 (2014)" PMID="25089349">
+      <Authors>Slamti L</Authors>
+      <Authors>Perchat S</Authors>
+      <Authors>Huillet E</Authors>
+      <Authors>Lereclus D</Authors>Quorum sensing in Bacillus thuringiensis is required for completion of a full infectious cycle in the insect.</Reference>
+    <Reference Journal="FEMS Microbiol Rev 34:134-49 (2010)" PMID="20030732">
+      <Authors>Lopez D</Authors>
+      <Authors>Kolter R</Authors>Extracellular signals that define distinct and coexisting cell fates in Bacillus  subtilis.</Reference>
+    <Reference Journal="J Bacteriol 185:4861-71 (2003)" PMID="12897006">
+      <Authors>Stephenson S</Authors>
+      <Authors>Mueller C</Authors>
+      <Authors>Jiang M</Authors>
+      <Authors>Perego M</Authors>Molecular analysis of Phr peptide processing in Bacillus subtilis.</Reference>
+    <Reference Journal="Mol Microbiol 65:1321-33 (2007)" PMID="17666034">
+      <Authors>Lanigan-Gerdes S</Authors>
+      <Authors>Dooley AN</Authors>
+      <Authors>Faull KF</Authors>
+      <Authors>Lazazzera BA</Authors>Identification of subtilisin, Epr and Vpr as enzymes that produce CSF, an extracellular signalling peptide of Bacillus subtilis.</Reference>
+    <Reference Journal="Peptides 25:1405-14 (2004)" PMID="15374644">
+      <Authors>Kleerebezem M</Authors>Quorum sensing control of lantibiotic production; nisin and subtilin autoregulate their own biosynthesis.</Reference>
+    <Reference Journal="Cold Spring Harb Perspect Med 2 (2012)" PMID="23125205">
+      <Authors>Rutherford ST</Authors>
+      <Authors>Bassler BL</Authors>Bacterial quorum sensing: its role in virulence and possibilities for its control.</Reference>
+    <Reference Journal="Microbiol Mol Biol Rev 77:73-111 (2013)" PMID="23471618">
+      <Authors>LaSarre B</Authors>
+      <Authors>Federle MJ</Authors>Exploiting quorum sensing to confuse bacterial pathogens.</Reference>
+    <Reference Journal="Clin Infect Dis 47:1070-6 (2008)" PMID="18781869">
+      <Authors>Sifri CD</Authors>Healthcare epidemiology: quorum sensing: bacteria talk sense.</Reference>
+  </References>
+</KEGG.PathwayBrief>

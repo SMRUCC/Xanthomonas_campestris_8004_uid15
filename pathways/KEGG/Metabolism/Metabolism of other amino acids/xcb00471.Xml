@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00471" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>D-Glutamine and D-glutamate metabolism - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound>
+    <hashEntry Key="C00025" Value="L-Glutamate" />
+    <hashEntry Key="C00026" Value="2-Oxoglutarate" />
+    <hashEntry Key="C00064" Value="L-Glutamine" />
+    <hashEntry Key="C00217" Value="D-Glutamate" />
+    <hashEntry Key="C00692" Value="UDP-N-acetylmuramoyl-L-alanyl-D-glutamate" />
+    <hashEntry Key="C00819" Value="D-Glutamine" />
+    <hashEntry Key="C01050" Value="UDP-N-acetylmuramate" />
+    <hashEntry Key="C01212" Value="UDP-N-acetylmuramoyl-L-alanine" />
+    <hashEntry Key="C02237" Value="5-Oxo-D-proline" />
+    <hashEntry Key="C02671" Value="D-Glutamyl-peptide" />
+    <hashEntry Key="C03933" Value="5-D-Glutamyl-D-glutamyl-peptide" />
+    <hashEntry Key="C05723" Value="Poly-gamma-D-glutamate" />
+  </Compound>
+  <PathwayMap Key="xcb00471" Value="D-Glutamine and D-glutamate metabolism" />
+  <Genes>
+    <hashEntry Key="xcb:XC_1375" Value="K01925 UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9] | (GenBank) UDP-N-acetylmuramoyl" />
+    <hashEntry Key="xcb:XC_3509" Value="K01924 UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8] | (GenBank) UDP-N-acetylmuramate-alanine li" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00471" Value="" />
+  </KOpathway>
+  <References />
+</KEGG.PathwayBrief>

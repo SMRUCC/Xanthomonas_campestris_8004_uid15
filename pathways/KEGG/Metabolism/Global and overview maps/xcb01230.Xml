@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb01230" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description>This map presents a modular architecture of the biosynthesis pathways of twenty amino acids, which may be viewed as consisting of the core part and its extensions. The core part is the KEGG module for conversion of three-carbon compounds from glyceraldehyde-3P to pyruvate [MD:M00002], together with the pathways around serine and glycine. This KEGG module is the most conserved one in the KEGG MODULE database and is found in almost all the completely sequenced genomes. The extensions are the pathways containing the reaction modules RM001, RM033, RM032, and RM002 for biosynthesis of branched-chain amino acids (left) and basic amino acids (bottom), and the pathways for biosynthesis of histidine and aromatic amino acids (top right). It is interesting to note that the so-called essential amino acids that cannot be synthesized in human and other organisms generally appear in these extensions. Furthermore, the bottom extension of basic amino acids appears to be most divergent containing multiple pathways for lysine biosynthesis and multiple gene sets for arginine biosynthesis.</Description>
+  <Name>Biosynthesis of amino acids - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00002" Value="Glycolysis, core module involving three-carbon compounds [PATH:xcb01230]" />
+    <hashEntry Key="xcb_M00005" Value="PRPP biosynthesis, ribose 5P =&gt; PRPP [PATH:xcb01230]" />
+    <hashEntry Key="xcb_M00007" Value="Pentose phosphate pathway, non-oxidative phase, fructose 6P =&gt; ribose 5P [PATH:xcb01230]" />
+    <hashEntry Key="xcb_M00010" Value="Citrate cycle, first carbon oxidation, oxaloacetate =&gt; 2-oxoglutarate [PATH:xcb01230]" />
+    <hashEntry Key="xcb_M00015" Value="Proline biosynthesis, glutamate =&gt; proline [PATH:xcb01230]" />
+    <hashEntry Key="xcb_M00016" Value="Lysine biosynthesis, succinyl-DAP pathway, aspartate =&gt; lysine [PATH:xcb01230]" />
+    <hashEntry Key="xcb_M00018" Value="Threonine biosynthesis, aspartate =&gt; homoserine =&gt; threonine [PATH:xcb01230]" />
+    <hashEntry Key="xcb_M00019" Value="Valine/isoleucine biosynthesis, pyruvate =&gt; valine / 2-oxobutanoate =&gt; isoleucine [PATH:xcb01230]" />
+    <hashEntry Key="xcb_M00022" Value="Shikimate pathway, phosphoenolpyruvate + erythrose-4P =&gt; chorismate [PATH:xcb01230]" />
+    <hashEntry Key="xcb_M00023" Value="Tryptophan biosynthesis, chorismate =&gt; tryptophan [PATH:xcb01230]" />
+    <hashEntry Key="xcb_M00024" Value="Phenylalanine biosynthesis, chorismate =&gt; phenylalanine [PATH:xcb01230]" />
+    <hashEntry Key="xcb_M00025" Value="Tyrosine biosynthesis, chorismate =&gt; tyrosine [PATH:xcb01230]" />
+    <hashEntry Key="xcb_M00026" Value="Histidine biosynthesis, PRPP =&gt; histidine [PATH:xcb01230]" />
+    <hashEntry Key="xcb_M00338" Value="Cysteine biosynthesis, homocysteine + serine =&gt; cysteine [PATH:xcb01230]" />
+    <hashEntry Key="xcb_M00432" Value="Leucine biosynthesis, 2-oxoisovalerate =&gt; 2-oxoisocaproate [PATH:xcb01230]" />
+    <hashEntry Key="xcb_M00570" Value="Isoleucine biosynthesis, threonine =&gt; 2-oxobutanoate =&gt; isoleucine [PATH:xcb01230]" />
+  </Modules>
+  <Compound />
+  <PathwayMap Key="xcb01230" Value="Biosynthesis of amino acids" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0020" Value="K00058 D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95] | (GenBank) D-3-phosphoglycerate dehydrogena" />
+    <hashEntry Key="xcb:XC_0031" Value="K00266 glutamate synthase (NADPH/NADH) small chain [EC:1.4.1.13 1.4.1.14] | (GenBank) glutamate synt" />
+    <hashEntry Key="xcb:XC_0032" Value="K00265 glutamate synthase (NADPH/NADH) large chain [EC:1.4.1.13 1.4.1.14] | (GenBank) glutamate synt" />
+    <hashEntry Key="xcb:XC_0100" Value="K00832 aromatic-amino-acid transaminase [EC:2.6.1.57] | (GenBank) aromatic-amino-acid aminotransfera" />
+    <hashEntry Key="xcb:XC_0162" Value="K01808 ribose 5-phosphate isomerase B [EC:5.3.1.6] | (GenBank) sugar-phosphate isomerase" />
+    <hashEntry Key="xcb:XC_0165" Value="K00500 phenylalanine-4-hydroxylase [EC:1.14.16.1] | (GenBank) phenylalanine hydroxylase" />
+    <hashEntry Key="xcb:XC_0194" Value="K01915 glutamine synthetase [EC:6.3.1.2] | (GenBank) glutamine synthetase" />
+    <hashEntry Key="xcb:XC_0330" Value="K00549 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14] | (GenBan" />
+    <hashEntry Key="xcb:XC_0356" Value="K01687 dihydroxy-acid dehydratase [EC:4.2.1.9] | (GenBank) dihydroxy-acid dehydratase" />
+    <hashEntry Key="xcb:XC_0391" Value="K01754 threonine dehydratase [EC:4.3.1.19] | (GenBank) threonine dehydratase" />
+    <hashEntry Key="xcb:XC_0469" Value="K01783 ribulose-phosphate 3-epimerase [EC:5.1.3.1] | (GenBank) D-ribulose-5-phosphate 3-epimerase" />
+    <hashEntry Key="xcb:XC_0473" Value="K01657 anthranilate synthase component I [EC:4.1.3.27] | (GenBank) anthranilate synthase component I" />
+    <hashEntry Key="xcb:XC_0474" Value="K01620 threonine aldolase [EC:4.1.2.48] | (GenBank) threonine aldolase" />
+    <hashEntry Key="xcb:XC_0481" Value="K01658 anthranilate synthase component II [EC:4.1.3.27] | (GenBank) anthranilate synthase component" />
+    <hashEntry Key="xcb:XC_0483" Value="K00766 anthranilate phosphoribosyltransferase [EC:2.4.2.18] | (GenBank) anthranilate synthase compon" />
+    <hashEntry Key="xcb:XC_0484" Value="K01609 indole-3-glycerol phosphate synthase [EC:4.1.1.48] | (GenBank) indole-3-glycerol phosphate sy" />
+    <hashEntry Key="xcb:XC_0530" Value="K03786 3-dehydroquinate dehydratase II [EC:4.2.1.10] | (GenBank) catabolic dehydroquinase" />
+    <hashEntry Key="xcb:XC_0548" Value="K01626 3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54] | (GenBank) phospho-2-dehydro-3-deoxyhept" />
+    <hashEntry Key="xcb:XC_0623" Value="K01713 cyclohexadienyl dehydratase [EC:4.2.1.51 4.2.1.91] | (GenBank) cyclohexadienyl dehydratase" />
+    <hashEntry Key="xcb:XC_0662" Value="K01778 diaminopimelate epimerase [EC:5.1.1.7] | (GenBank) diaminopimelate epimerase" />
+    <hashEntry Key="xcb:XC_0800" Value="K14260 alanine-synthesizing transaminase [EC:2.6.1.66 2.6.1.2] | (GenBank) aminotransferase" />
+    <hashEntry Key="xcb:XC_0833" Value="K01703 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35] | (GenB" />
+    <hashEntry Key="xcb:XC_0834" Value="K01704 3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35] | (GenB" />
+    <hashEntry Key="xcb:XC_0836" Value="K00052 3-isopropylmalate dehydrogenase [EC:1.1.1.85] | (GenBank) 3-isopropylmalate dehydrogenase" />
+    <hashEntry Key="xcb:XC_0837" Value="K01649 2-isopropylmalate synthase [EC:2.3.3.13] | (GenBank) 2-isopropylmalate synthase" />
+    <hashEntry Key="xcb:XC_0838" Value="K01754 threonine dehydratase [EC:4.3.1.19] | (GenBank) threonine dehydratase catabolic" />
+    <hashEntry Key="xcb:XC_0839" Value="K11258 acetolactate synthase II small subunit [EC:2.2.1.6] | (GenBank) acetolactate synthase isozyme" />
+    <hashEntry Key="xcb:XC_0840" Value="K01652 acetolactate synthase I/II/III large subunit [EC:2.2.1.6] | (GenBank) acetolactate synthase i" />
+    <hashEntry Key="xcb:XC_0841" Value="K00053 ketol-acid reductoisomerase [EC:1.1.1.86] | (GenBank) ketol-acid reductoisomerase" />
+    <hashEntry Key="xcb:XC_0882" Value="K00821 acetylornithine/N-succinyldiaminopimelate aminotransferase [EC:2.6.1.11 2.6.1.17] | (GenBank)" />
+    <hashEntry Key="xcb:XC_0889" Value="K00817 histidinol-phosphate aminotransferase [EC:2.6.1.9] | (GenBank) histidinol-phosphate aminotran" />
+    <hashEntry Key="xcb:XC_0899" Value="K01807 ribose 5-phosphate isomerase A [EC:5.3.1.6] | (GenBank) ribose-5-phosphate isomerase A" />
+    <hashEntry Key="xcb:XC_0929" Value="K00615 transketolase [EC:2.2.1.1] | (GenBank) transketolase 1" />
+    <hashEntry Key="xcb:XC_0944" Value="K01647 citrate synthase [EC:2.3.3.1] | (GenBank) citrate synthase" />
+    <hashEntry Key="xcb:XC_0972" Value="K00134 glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12] | (GenBank) glyceraldehyde-3-phosphate" />
+    <hashEntry Key="xcb:XC_0976" Value="K00927 phosphoglycerate kinase [EC:2.7.2.3] | (GenBank) phosphoglycerate kinase" />
+    <hashEntry Key="xcb:XC_0978" Value="K00873 pyruvate kinase [EC:2.7.1.40] | (GenBank) pyruvate kinase type II" />
+    <hashEntry Key="xcb:XC_0979" Value="K01623 fructose-bisphosphate aldolase, class I [EC:4.1.2.13] | (GenBank) fructose-bisphosphate aldol" />
+    <hashEntry Key="xcb:XC_0982" Value="K01738 cysteine synthase A [EC:2.5.1.47] | (GenBank) cysteine synthase" />
+    <hashEntry Key="xcb:XC_1103" Value="K01586 diaminopimelate decarboxylase [EC:4.1.1.20] | (GenBank) diaminopimelate decarboxylase" />
+    <hashEntry Key="xcb:XC_1252" Value="K01739 cystathionine gamma-synthase [EC:2.5.1.48] | (GenBank) cystathionine gamma-synthase" />
+    <hashEntry Key="xcb:XC_1253" Value="K00003 homoserine dehydrogenase [EC:1.1.1.3] | (GenBank) homoserine dehydrogenase" />
+    <hashEntry Key="xcb:XC_1255" Value="K01752 L-serine dehydratase [EC:4.3.1.17] | (GenBank) L-serine dehydratase" />
+    <hashEntry Key="xcb:XC_1268" Value="K01735 3-dehydroquinate synthase [EC:4.2.3.4] | (GenBank) 3-dehydroquinate synthase" />
+    <hashEntry Key="xcb:XC_1269" Value="K00891 shikimate kinase [EC:2.7.1.71] | (GenBank) shikimate kinase" />
+    <hashEntry Key="xcb:XC_1356" Value="K00286 pyrroline-5-carboxylate reductase [EC:1.5.1.2] | (GenBank) pyrroline-5-carboxylate reductase" />
+    <hashEntry Key="xcb:XC_1372" Value="K12526 bifunctional diaminopimelate decarboxylase / aspartate kinase [EC:4.1.1.20 2.7.2.4] | (GenBan" />
+    <hashEntry Key="xcb:XC_1404" Value="K01834 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11] | (GenBank) phosphogl" />
+    <hashEntry Key="xcb:XC_1567" Value="K01736 chorismate synthase [EC:4.2.3.5] | (GenBank) chorismate synthase" />
+    <hashEntry Key="xcb:XC_1569" Value="K00133 aspartate-semialdehyde dehydrogenase [EC:1.2.1.11] | (GenBank) aspartate semialdehyde dehydro" />
+    <hashEntry Key="xcb:XC_1573" Value="K01817 phosphoribosylanthranilate isomerase [EC:5.3.1.24] | (GenBank) N-(5&amp;#39;-phosphoribosyl) anthrani" />
+    <hashEntry Key="xcb:XC_1575" Value="K01696 tryptophan synthase beta chain [EC:4.2.1.20] | (GenBank) tryptophan synthase beta chain" />
+    <hashEntry Key="xcb:XC_1577" Value="K01695 tryptophan synthase alpha chain [EC:4.2.1.20] | (GenBank) tryptophan synthase alpha chain" />
+    <hashEntry Key="xcb:XC_1587" Value="K01803 triosephosphate isomerase (TIM) [EC:5.3.1.1] | (GenBank) triosephosphate isomerase" />
+    <hashEntry Key="xcb:XC_1768" Value="K01915 glutamine synthetase [EC:6.3.1.2] | (GenBank) glutamine synthase" />
+    <hashEntry Key="xcb:XC_1770" Value="K01915 glutamine synthetase [EC:6.3.1.2] | (GenBank) glutamine synthetase" />
+    <hashEntry Key="xcb:XC_1871" Value="K01940 argininosuccinate synthase [EC:6.3.4.5] | (GenBank) argininosuccinate synthase" />
+    <hashEntry Key="xcb:XC_1872" Value="K01438 acetylornithine deacetylase [EC:3.5.1.16] | (GenBank) acetylornithine deacetylase" />
+    <hashEntry Key="xcb:XC_1873" Value="K00930 acetylglutamate kinase [EC:2.7.2.8] | (GenBank) acetylglutamate kinase" />
+    <hashEntry Key="xcb:XC_1875" Value="K00145 N-acetyl-gamma-glutamyl-phosphate reductase [EC:1.2.1.38] | (GenBank) N-acetyl-gamma-glutamyl" />
+    <hashEntry Key="xcb:XC_1876" Value="K01755 argininosuccinate lyase [EC:4.3.2.1] | (GenBank) argininosuccinate lyase" />
+    <hashEntry Key="xcb:XC_1879" Value="K00931 glutamate 5-kinase [EC:2.7.2.11] | (GenBank) glutamate 5-kinase" />
+    <hashEntry Key="xcb:XC_1880" Value="K00147 glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41] | (GenBank) gamma-glutamyl phosphate red" />
+    <hashEntry Key="xcb:XC_2326" Value="K01682 aconitate hydratase 2 / 2-methylisocitrate dehydratase [EC:4.2.1.3 4.2.1.99] | (GenBank) acon" />
+    <hashEntry Key="xcb:XC_2329" Value="K01681 aconitate hydratase [EC:4.2.1.3] | (GenBank) aconitase" />
+    <hashEntry Key="xcb:XC_2349" Value="K00215 4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8] | (GenBank) dihydrodipicolinate redu" />
+    <hashEntry Key="xcb:XC_2351" Value="K05825 2-aminoadipate transaminase [EC:2.6.1.-] | (GenBank) valine-pyruvate aminotransferase" />
+    <hashEntry Key="xcb:XC_2364" Value="K00058 D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95] | (GenBank) D-3-phosphoglycerate dehydrogena" />
+    <hashEntry Key="xcb:XC_2374" Value="K11755 phosphoribosyl-ATP pyrophosphohydrolase / phosphoribosyl-AMP cyclohydrolase [EC:3.6.1.31 3.5." />
+    <hashEntry Key="xcb:XC_2375" Value="K02500 cyclase [EC:4.1.3.-] | (GenBank) cyclase" />
+    <hashEntry Key="xcb:XC_2376" Value="K01814 phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16] | (GenB" />
+    <hashEntry Key="xcb:XC_2377" Value="K02501 glutamine amidotransferase [EC:2.4.2.-] | (GenBank) amidotransferase" />
+    <hashEntry Key="xcb:XC_2378" Value="K01089 imidazoleglycerol-phosphate dehydratase / histidinol-phosphatase [EC:4.2.1.19 3.1.3.15] | (Ge" />
+    <hashEntry Key="xcb:XC_2379" Value="K00817 histidinol-phosphate aminotransferase [EC:2.6.1.9] | (GenBank) histidinol-phosphate aminotran" />
+    <hashEntry Key="xcb:XC_2380" Value="K00013 histidinol dehydrogenase [EC:1.1.1.23] | (GenBank) histidinol dehydrogenase" />
+    <hashEntry Key="xcb:XC_2381" Value="K00765 ATP phosphoribosyltransferase [EC:2.4.2.17] | (GenBank) ATP phosphoribosyltransferase" />
+    <hashEntry Key="xcb:XC_2386" Value="K01733 threonine synthase [EC:4.2.3.1] | (GenBank) threonine synthase" />
+    <hashEntry Key="xcb:XC_2388" Value="K00872 homoserine kinase [EC:2.7.1.39] | (GenBank) homoserine kinase" />
+    <hashEntry Key="xcb:XC_2389" Value="K12524 bifunctional aspartokinase / homoserine dehydrogenase 1 [EC:2.7.2.4 1.1.1.3] | (GenBank) aspa" />
+    <hashEntry Key="xcb:XC_2493" Value="K01714 4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7] | (GenBank) dihydroxydipicolinate synt" />
+    <hashEntry Key="xcb:XC_2531" Value="K01689 enolase [EC:4.2.1.11] | (GenBank) enolase" />
+    <hashEntry Key="xcb:XC_2643" Value="K00800 3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19] | (GenBank) 3-phosphoshikimate 1-c" />
+    <hashEntry Key="xcb:XC_2644" Value="K14170 chorismate mutase / prephenate dehydratase [EC:5.4.99.5 4.2.1.51] | (GenBank) P-protein" />
+    <hashEntry Key="xcb:XC_2645" Value="K00831 phosphoserine aminotransferase [EC:2.6.1.52] | (GenBank) phosphoserine aminotransferase" />
+    <hashEntry Key="xcb:XC_2665" Value="K00817 histidinol-phosphate aminotransferase [EC:2.6.1.9] | (GenBank) aminotransferase" />
+    <hashEntry Key="xcb:XC_2724" Value="K00548 5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13] | (GenBank) 5-methylte" />
+    <hashEntry Key="xcb:XC_2725" Value="K00548 5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13] | (GenBank) 5-methylte" />
+    <hashEntry Key="xcb:XC_2760" Value="K04517 prephenate dehydrogenase [EC:1.3.1.12] | (GenBank) chorismate mutase/prephenate dehydrogenase" />
+    <hashEntry Key="xcb:XC_2851" Value="K01439 succinyl-diaminopimelate desuccinylase [EC:3.5.1.18] | (GenBank) succinyl-diaminopimelate des" />
+    <hashEntry Key="xcb:XC_2854" Value="K00674 2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase [EC:2.3.1.117] | (GenBank) 2,3" />
+    <hashEntry Key="xcb:XC_3224" Value="K01657 anthranilate synthase component I [EC:4.1.3.27] | (GenBank) anthranilate synthase component I" />
+    <hashEntry Key="xcb:XC_3268" Value="K00030 isocitrate dehydrogenase (NAD+) [EC:1.1.1.41] | (GenBank) isocitrate dehydrogenase" />
+    <hashEntry Key="xcb:XC_3287" Value="K15634 probable phosphoglycerate mutase [EC:5.4.2.12] | (GenBank) phosphoglycerate mutase" />
+    <hashEntry Key="xcb:XC_3313" Value="K01626 3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54] | (GenBank) family II 2-keto-3-deoxy-D-ar" />
+    <hashEntry Key="xcb:XC_3358" Value="K00948 ribose-phosphate pyrophosphokinase [EC:2.7.6.1] | (GenBank) phosphoribosyl pyrophosphate synt" />
+    <hashEntry Key="xcb:XC_3380" Value="K00826 branched-chain amino acid aminotransferase [EC:2.6.1.42] | (GenBank) branched-chain amino aci" />
+    <hashEntry Key="xcb:XC_3400" Value="K00616 transaldolase [EC:2.2.1.2] | (GenBank) transaldolase B" />
+    <hashEntry Key="xcb:XC_3471" Value="K00789 S-adenosylmethionine synthetase [EC:2.5.1.6] | (GenBank) methionine adenosyltransferase" />
+    <hashEntry Key="xcb:XC_3488" Value="K01834 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11] | (GenBank) phosphogl" />
+    <hashEntry Key="xcb:XC_3544" Value="K00600 glycine hydroxymethyltransferase [EC:2.1.2.1] | (GenBank) serine hydroxymethyltransferase" />
+    <hashEntry Key="xcb:XC_3635" Value="K01758 cystathionine gamma-lyase [EC:4.4.1.1] | (GenBank) cystathionine gamma-lyase-like protein" />
+    <hashEntry Key="xcb:XC_3636" Value="K01697 cystathionine beta-synthase [EC:4.2.1.22] | (GenBank) cystathionine beta-synthase" />
+    <hashEntry Key="xcb:XC_3655" Value="K01738 cysteine synthase A [EC:2.5.1.47] | (GenBank) cysteine synthase" />
+    <hashEntry Key="xcb:XC_3676" Value="K04093 chorismate mutase [EC:5.4.99.5] | (GenBank) chorismate mutase/prephenate dehydratase" />
+    <hashEntry Key="xcb:XC_3854" Value="K00031 isocitrate dehydrogenase [EC:1.1.1.42] | (GenBank) isocitrate dehydrogenase" />
+    <hashEntry Key="xcb:XC_4015" Value="K01476 arginase [EC:3.5.3.1] | (GenBank) arginase" />
+    <hashEntry Key="xcb:XC_4041" Value="K00014 shikimate dehydrogenase [EC:1.1.1.25] | (GenBank) shikimate 5-dehydrogenase" />
+    <hashEntry Key="xcb:XC_4173" Value="K03785 3-dehydroquinate dehydratase I [EC:4.2.1.10] | (GenBank) 3-dehydroquinate dehydratase" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko01230" Value="" />
+  </KOpathway>
+  <References />
+</KEGG.PathwayBrief>

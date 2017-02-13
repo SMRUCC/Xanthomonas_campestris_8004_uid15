@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00190" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Oxidative phosphorylation - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00144" Value="NADH:quinone oxidoreductase, prokaryotes [PATH:xcb00190]" />
+    <hashEntry Key="xcb_M00149" Value="Succinate dehydrogenase, prokaryotes [PATH:xcb00190]" />
+    <hashEntry Key="xcb_M00151" Value="Cytochrome bc1 complex respiratory unit [PATH:xcb00190]" />
+    <hashEntry Key="xcb_M00153" Value="Cytochrome d ubiquinol oxidase [PATH:xcb00190]" />
+    <hashEntry Key="xcb_M00155" Value="Cytochrome c oxidase, prokaryotes [PATH:xcb00190]" />
+    <hashEntry Key="xcb_M00157" Value="F-type ATPase, prokaryotes and chloroplasts [PATH:xcb00190]" />
+    <hashEntry Key="xcb_M00417" Value="Cytochrome o ubiquinol oxidase [PATH:xcb00190]" />
+  </Modules>
+  <Compound>
+    <hashEntry Key="C00001" Value="H2O" />
+    <hashEntry Key="C00002" Value="ATP" />
+    <hashEntry Key="C00003" Value="NAD+" />
+    <hashEntry Key="C00004" Value="NADH" />
+    <hashEntry Key="C00007" Value="Oxygen" />
+    <hashEntry Key="C00008" Value="ADP" />
+    <hashEntry Key="C00009" Value="Orthophosphate" />
+    <hashEntry Key="C00013" Value="Diphosphate" />
+    <hashEntry Key="C00042" Value="Succinate" />
+    <hashEntry Key="C00061" Value="FMN" />
+    <hashEntry Key="C00080" Value="H+" />
+    <hashEntry Key="C00122" Value="Fumarate" />
+    <hashEntry Key="C00390" Value="Ubiquinol" />
+    <hashEntry Key="C00399" Value="Ubiquinone" />
+    <hashEntry Key="C00524" Value="Cytochrome c" />
+    <hashEntry Key="C00536" Value="Triphosphate" />
+  </Compound>
+  <PathwayMap Key="xcb00190" Value="Oxidative phosphorylation" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0851" Value="K01507 inorganic pyrophosphatase [EC:3.6.1.1] | (GenBank) inorganic pyrophosphatase" />
+    <hashEntry Key="xcb:XC_0853" Value="K15987 K(+)-stimulated pyrophosphate-energized sodium pump [EC:3.6.1.1] | (GenBank) H+ translocating" />
+    <hashEntry Key="xcb:XC_1300" Value="K00425 cytochrome d ubiquinol oxidase subunit I [EC:1.10.3.14] | (GenBank) quinol oxidase, subunit I" />
+    <hashEntry Key="xcb:XC_1301" Value="K00426 cytochrome d ubiquinol oxidase subunit II [EC:1.10.3.14] | (GenBank) quinol oxidase, subunit" />
+    <hashEntry Key="xcb:XC_1454" Value="K00425 cytochrome d ubiquinol oxidase subunit I [EC:1.10.3.14] | (GenBank) cytochrome D oxidase subu" />
+    <hashEntry Key="xcb:XC_1455" Value="K00426 cytochrome d ubiquinol oxidase subunit II [EC:1.10.3.14] | (GenBank) cytochrome D oxidase sub" />
+    <hashEntry Key="xcb:XC_1589" Value="K00330 NADH-quinone oxidoreductase subunit A [EC:1.6.5.3] | (GenBank) NADH-ubiquinone oxidoreductase" />
+    <hashEntry Key="xcb:XC_1590" Value="K00331 NADH-quinone oxidoreductase subunit B [EC:1.6.5.3] | (GenBank) NADH-ubiquinone oxidoreductase" />
+    <hashEntry Key="xcb:XC_1591" Value="K00332 NADH-quinone oxidoreductase subunit C [EC:1.6.5.3] | (GenBank) NADH-ubiquinone oxidoreductase" />
+    <hashEntry Key="xcb:XC_1592" Value="K00333 NADH-quinone oxidoreductase subunit D [EC:1.6.5.3] | (GenBank) NADH-ubiquinone oxidoreductase" />
+    <hashEntry Key="xcb:XC_1593" Value="K00334 NADH-quinone oxidoreductase subunit E [EC:1.6.5.3] | (GenBank) NADH-ubiquinone oxidoreductase" />
+    <hashEntry Key="xcb:XC_1594" Value="K00335 NADH-quinone oxidoreductase subunit F [EC:1.6.5.3] | (GenBank) NADH-ubiquinone oxidoreductase" />
+    <hashEntry Key="xcb:XC_1595" Value="K00336 NADH-quinone oxidoreductase subunit G [EC:1.6.5.3] | (GenBank) NADH-ubiquinone oxidoreductase" />
+    <hashEntry Key="xcb:XC_1596" Value="K00337 NADH-quinone oxidoreductase subunit H [EC:1.6.5.3] | (GenBank) NADH-ubiquinone oxidoreductase" />
+    <hashEntry Key="xcb:XC_1597" Value="K00338 NADH-quinone oxidoreductase subunit I [EC:1.6.5.3] | (GenBank) NADH-ubiquinone oxidoreductase" />
+    <hashEntry Key="xcb:XC_1598" Value="K00339 NADH-quinone oxidoreductase subunit J [EC:1.6.5.3] | (GenBank) NADH-ubiquinone oxidoreductase" />
+    <hashEntry Key="xcb:XC_1599" Value="K00340 NADH-quinone oxidoreductase subunit K [EC:1.6.5.3] | (GenBank) NADH-ubiquinone oxidoreductase" />
+    <hashEntry Key="xcb:XC_1600" Value="K00341 NADH-quinone oxidoreductase subunit L [EC:1.6.5.3] | (GenBank) NADH-ubiquinone oxidoreductase" />
+    <hashEntry Key="xcb:XC_1601" Value="K00342 NADH-quinone oxidoreductase subunit M [EC:1.6.5.3] | (GenBank) NADH-ubiquinone oxidoreductase" />
+    <hashEntry Key="xcb:XC_1602" Value="K00343 NADH-quinone oxidoreductase subunit N [EC:1.6.5.3] | (GenBank) NADH-ubiquinone oxidoreductase" />
+    <hashEntry Key="xcb:XC_1792" Value="K00411 ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:1.10.2.2] | (GenBank) ubiquinol cyto" />
+    <hashEntry Key="xcb:XC_1793" Value="K00412 ubiquinol-cytochrome c reductase cytochrome b subunit | (GenBank) ubiquinol cytochrome C oxid" />
+    <hashEntry Key="xcb:XC_1794" Value="K00413 ubiquinol-cytochrome c reductase cytochrome c1 subunit | (GenBank) ubiquinol cytochrome C oxi" />
+    <hashEntry Key="xcb:XC_1884" Value="K00426 cytochrome d ubiquinol oxidase subunit II [EC:1.10.3.14] | (GenBank) cytochrome D ubiquinol o" />
+    <hashEntry Key="xcb:XC_1885" Value="K00425 cytochrome d ubiquinol oxidase subunit I [EC:1.10.3.14] | (GenBank) cytochrome D ubiquinol ox" />
+    <hashEntry Key="xcb:XC_1981" Value="K00241 succinate dehydrogenase / fumarate reductase, cytochrome b subunit | (GenBank) succinate dehy" />
+    <hashEntry Key="xcb:XC_1982" Value="K00242 succinate dehydrogenase / fumarate reductase, membrane anchor subunit | (GenBank) succinate d" />
+    <hashEntry Key="xcb:XC_1983" Value="K00239 succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4] | (Ge" />
+    <hashEntry Key="xcb:XC_1985" Value="K00240 succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4] | (Gen" />
+    <hashEntry Key="xcb:XC_3081" Value="K02300 cytochrome o ubiquinol oxidase subunit IV | (GenBank) cytochrome O ubiquinol oxidase subunit" />
+    <hashEntry Key="xcb:XC_3082" Value="K02299 cytochrome o ubiquinol oxidase subunit III | (GenBank) cytochrome O ubiquinol oxidase subunit" />
+    <hashEntry Key="xcb:XC_3083" Value="K02298 cytochrome o ubiquinol oxidase subunit I [EC:1.10.3.10] | (GenBank) cytochrome O ubiquinol ox" />
+    <hashEntry Key="xcb:XC_3084" Value="K02297 cytochrome o ubiquinol oxidase subunit II [EC:1.10.3.10] | (GenBank) cytochrome O ubiquinol o" />
+    <hashEntry Key="xcb:XC_3274" Value="K00937 polyphosphate kinase [EC:2.7.4.1] | (GenBank) polyphosphate kinase" />
+    <hashEntry Key="xcb:XC_3677" Value="K02114 F-type H+-transporting ATPase subunit epsilon | (GenBank) ATP synthase epsilon chain" />
+    <hashEntry Key="xcb:XC_3678" Value="K02112 F-type H+-transporting ATPase subunit beta [EC:3.6.3.14] | (GenBank) ATP synthase beta chain" />
+    <hashEntry Key="xcb:XC_3679" Value="K02115 F-type H+-transporting ATPase subunit gamma | (GenBank) ATP synthase gamma chain" />
+    <hashEntry Key="xcb:XC_3680" Value="K02111 F-type H+-transporting ATPase subunit alpha [EC:3.6.3.14] | (GenBank) ATP synthase alpha chai" />
+    <hashEntry Key="xcb:XC_3681" Value="K02113 F-type H+-transporting ATPase subunit delta | (GenBank) ATP synthase delta chain" />
+    <hashEntry Key="xcb:XC_3682" Value="K02109 F-type H+-transporting ATPase subunit b | (GenBank) ATP synthase B chain" />
+    <hashEntry Key="xcb:XC_3683" Value="K02110 F-type H+-transporting ATPase subunit c | (GenBank) ATP synthase C chain" />
+    <hashEntry Key="xcb:XC_3684" Value="K02108 F-type H+-transporting ATPase subunit a | (GenBank) ATP synthase A chain" />
+    <hashEntry Key="xcb:XC_3762" Value="K00425 cytochrome d ubiquinol oxidase subunit I [EC:1.10.3.14] | (GenBank) cyanide insensitive termi" />
+    <hashEntry Key="xcb:XC_3763" Value="K00426 cytochrome d ubiquinol oxidase subunit II [EC:1.10.3.14] | (GenBank) cyanide insensitive term" />
+    <hashEntry Key="xcb:XC_3841" Value="K03885 NADH dehydrogenase [EC:1.6.99.3] | (GenBank) NADH dehydrogenase" />
+    <hashEntry Key="xcb:XC_3896" Value="K02301 protoheme IX farnesyltransferase [EC:2.5.1.-] | (GenBank) cytochrome C oxidase assembly facto" />
+    <hashEntry Key="xcb:XC_3897" Value="K02259 cytochrome c oxidase assembly protein subunit 15 | (GenBank) conserved hypothetical protein" />
+    <hashEntry Key="xcb:XC_3901" Value="K02276 cytochrome c oxidase subunit III [EC:1.9.3.1] | (GenBank) cytochrome C oxidase subunit III" />
+    <hashEntry Key="xcb:XC_3902" Value="K02258 cytochrome c oxidase assembly protein subunit 11 | (GenBank) cytochrome C oxidase assembly pr" />
+    <hashEntry Key="xcb:XC_3904" Value="K02274 cytochrome c oxidase subunit I [EC:1.9.3.1] | (GenBank) cytochrome C oxidase subunit I" />
+    <hashEntry Key="xcb:XC_3905" Value="K02275 cytochrome c oxidase subunit II [EC:1.9.3.1] | (GenBank) cytochrome C oxidase subunit II" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00190" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Science 311:1430-6 (2006)" PMID="16469879">
+      <Authors>Sazanov LA</Authors>
+      <Authors>Hinchliffe P.</Authors>Structure of the hydrophilic domain of respiratory complex I from Thermus thermophilus.</Reference>
+    <Reference Journal="Biochemistry 45:4413-20 (2006)" PMID="16584177">
+      <Authors>Hinchliffe P</Authors>
+      <Authors>Carroll J</Authors>
+      <Authors>Sazanov LA.</Authors>Identification of a novel subunit of respiratory complex I from Thermus thermophilus.</Reference>
+  </References>
+</KEGG.PathwayBrief>

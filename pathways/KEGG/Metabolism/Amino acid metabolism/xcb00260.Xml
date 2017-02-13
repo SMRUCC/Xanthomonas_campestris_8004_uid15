@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00260" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description>Serine is derived from 3-phospho-D-glycerate, an intermediate of glycolysis [MD:M00020], and glycine is derived from serine. Threonine is an essential amino acid, which animals cannot synthesize. In bacteria and plants, threonine is derived from aspartate [MD:M00018].</Description>
+  <Name>Glycine, serine and threonine metabolism - Xanthomonas campestris pv. campestris 8004</Name>
+  <Modules>
+    <hashEntry Key="xcb_M00018" Value="Threonine biosynthesis, aspartate =&gt; homoserine =&gt; threonine [PATH:xcb00260]" />
+    <hashEntry Key="xcb_M00555" Value="Betaine biosynthesis, choline =&gt; betaine [PATH:xcb00260]" />
+  </Modules>
+  <Compound>
+    <hashEntry Key="C00011" Value="CO2" />
+    <hashEntry Key="C00014" Value="Ammonia" />
+    <hashEntry Key="C00022" Value="Pyruvate" />
+    <hashEntry Key="C00037" Value="Glycine" />
+    <hashEntry Key="C00048" Value="Glyoxylate" />
+    <hashEntry Key="C00049" Value="L-Aspartate" />
+    <hashEntry Key="C00065" Value="L-Serine" />
+    <hashEntry Key="C00078" Value="L-Tryptophan" />
+    <hashEntry Key="C00097" Value="L-Cysteine" />
+    <hashEntry Key="C00101" Value="Tetrahydrofolate" />
+    <hashEntry Key="C00109" Value="2-Oxobutanoate" />
+    <hashEntry Key="C00114" Value="Choline" />
+    <hashEntry Key="C00143" Value="5,10-Methylenetetrahydrofolate" />
+    <hashEntry Key="C00168" Value="Hydroxypyruvate" />
+    <hashEntry Key="C00188" Value="L-Threonine" />
+    <hashEntry Key="C00197" Value="3-Phospho-D-glycerate" />
+    <hashEntry Key="C00213" Value="Sarcosine" />
+    <hashEntry Key="C00258" Value="D-Glycerate" />
+    <hashEntry Key="C00263" Value="L-Homoserine" />
+    <hashEntry Key="C00300" Value="Creatine" />
+    <hashEntry Key="C00430" Value="5-Aminolevulinate" />
+    <hashEntry Key="C00441" Value="L-Aspartate 4-semialdehyde" />
+    <hashEntry Key="C00546" Value="Methylglyoxal" />
+    <hashEntry Key="C00576" Value="Betaine aldehyde" />
+    <hashEntry Key="C00581" Value="Guanidinoacetate" />
+    <hashEntry Key="C00631" Value="2-Phospho-D-glycerate" />
+    <hashEntry Key="C00719" Value="Betaine" />
+    <hashEntry Key="C00740" Value="D-Serine" />
+    <hashEntry Key="C00986" Value="1,3-Diaminopropane" />
+    <hashEntry Key="C01005" Value="O-Phospho-L-serine" />
+    <hashEntry Key="C01026" Value="N,N-Dimethylglycine" />
+    <hashEntry Key="C01102" Value="O-Phospho-L-homoserine" />
+    <hashEntry Key="C01242" Value="S-Aminomethyldihydrolipoylprotein" />
+    <hashEntry Key="C01726" Value="D-Lombricine" />
+    <hashEntry Key="C01888" Value="Aminoacetone" />
+    <hashEntry Key="C02051" Value="Lipoylprotein" />
+    <hashEntry Key="C02291" Value="L-Cystathionine" />
+    <hashEntry Key="C02737" Value="Phosphatidylserine" />
+    <hashEntry Key="C02855" Value="N-Phospho-D-lombricine" />
+    <hashEntry Key="C02972" Value="Dihydrolipoylprotein" />
+    <hashEntry Key="C03082" Value="4-Phospho-L-aspartate" />
+    <hashEntry Key="C03194" Value="(R)-1-Aminopropan-2-ol" />
+    <hashEntry Key="C03232" Value="3-Phosphonooxypyruvate" />
+    <hashEntry Key="C03283" Value="L-2,4-Diaminobutanoate" />
+    <hashEntry Key="C03508" Value="L-2-Amino-3-oxobutanoic acid" />
+    <hashEntry Key="C05519" Value="L-Allothreonine" />
+    <hashEntry Key="C06231" Value="Ectoine" />
+    <hashEntry Key="C06442" Value="N(gamma)-Acetyldiaminobutyrate" />
+    <hashEntry Key="C16432" Value="5-Hydroxyectoine" />
+    <hashEntry Key="C19929" Value="N-alpha-Acetyl-L-2,4-diaminobutyrate" />
+  </Compound>
+  <PathwayMap Key="xcb00260" Value="Glycine, serine and threonine metabolism" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0020" Value="K00058 D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95] | (GenBank) D-3-phosphoglycerate dehydrogena" />
+    <hashEntry Key="xcb:XC_0391" Value="K01754 threonine dehydratase [EC:4.3.1.19] | (GenBank) threonine dehydratase" />
+    <hashEntry Key="xcb:XC_0474" Value="K01620 threonine aldolase [EC:4.1.2.48] | (GenBank) threonine aldolase" />
+    <hashEntry Key="xcb:XC_0760" Value="K00108 choline dehydrogenase [EC:1.1.99.1] | (GenBank) choline dehydrogenase" />
+    <hashEntry Key="xcb:XC_0761" Value="K00130 betaine-aldehyde dehydrogenase [EC:1.2.1.8] | (GenBank) betaine aldehyde dehydrogenase" />
+    <hashEntry Key="xcb:XC_0838" Value="K01754 threonine dehydratase [EC:4.3.1.19] | (GenBank) threonine dehydratase catabolic" />
+    <hashEntry Key="xcb:XC_0886" Value="K00274 monoamine oxidase [EC:1.4.3.4] | (GenBank) flavin monoamine oxidase-related protein" />
+    <hashEntry Key="xcb:XC_1232" Value="K00605 aminomethyltransferase [EC:2.1.2.10] | (GenBank) glycine cleavage T protein" />
+    <hashEntry Key="xcb:XC_1233" Value="K02437 glycine cleavage system H protein | (GenBank) glycine cleavage H protein" />
+    <hashEntry Key="xcb:XC_1253" Value="K00003 homoserine dehydrogenase [EC:1.1.1.3] | (GenBank) homoserine dehydrogenase" />
+    <hashEntry Key="xcb:XC_1255" Value="K01752 L-serine dehydratase [EC:4.3.1.17] | (GenBank) L-serine dehydratase" />
+    <hashEntry Key="xcb:XC_1372" Value="K12526 bifunctional diaminopimelate decarboxylase / aspartate kinase [EC:4.1.1.20 2.7.2.4] | (GenBan" />
+    <hashEntry Key="xcb:XC_1404" Value="K01834 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11] | (GenBank) phosphogl" />
+    <hashEntry Key="xcb:XC_1569" Value="K00133 aspartate-semialdehyde dehydrogenase [EC:1.2.1.11] | (GenBank) aspartate semialdehyde dehydro" />
+    <hashEntry Key="xcb:XC_1575" Value="K01696 tryptophan synthase beta chain [EC:4.2.1.20] | (GenBank) tryptophan synthase beta chain" />
+    <hashEntry Key="xcb:XC_1577" Value="K01695 tryptophan synthase alpha chain [EC:4.2.1.20] | (GenBank) tryptophan synthase alpha chain" />
+    <hashEntry Key="xcb:XC_1699" Value="K00302 sarcosine oxidase, subunit alpha [EC:1.5.3.1] | (GenBank) sarcosine oxidase alpha subunit" />
+    <hashEntry Key="xcb:XC_1957" Value="K17103 CDP-diacylglycerol---serine O-phosphatidyltransferase [EC:2.7.8.8] | (GenBank) CDP-diacylglyc" />
+    <hashEntry Key="xcb:XC_2364" Value="K00058 D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95] | (GenBank) D-3-phosphoglycerate dehydrogena" />
+    <hashEntry Key="xcb:XC_2386" Value="K01733 threonine synthase [EC:4.2.3.1] | (GenBank) threonine synthase" />
+    <hashEntry Key="xcb:XC_2388" Value="K00872 homoserine kinase [EC:2.7.1.39] | (GenBank) homoserine kinase" />
+    <hashEntry Key="xcb:XC_2389" Value="K12524 bifunctional aspartokinase / homoserine dehydrogenase 1 [EC:2.7.2.4 1.1.1.3] | (GenBank) aspa" />
+    <hashEntry Key="xcb:XC_2645" Value="K00831 phosphoserine aminotransferase [EC:2.6.1.52] | (GenBank) phosphoserine aminotransferase" />
+    <hashEntry Key="xcb:XC_2751" Value="K00382 dihydrolipoamide dehydrogenase [EC:1.8.1.4] | (GenBank) dihydrolipoamide dehydrogenase" />
+    <hashEntry Key="xcb:XC_3135" Value="K00281 glycine dehydrogenase [EC:1.4.4.2] | (GenBank) glycine decarboxylase" />
+    <hashEntry Key="xcb:XC_3287" Value="K15634 probable phosphoglycerate mutase [EC:5.4.2.12] | (GenBank) phosphoglycerate mutase" />
+    <hashEntry Key="xcb:XC_3290" Value="K00060 threonine 3-dehydrogenase [EC:1.1.1.103] | (GenBank) threonine 3-dehydrogenase" />
+    <hashEntry Key="xcb:XC_3296" Value="K00639 glycine C-acetyltransferase [EC:2.3.1.29] | (GenBank) 2-amino-3-ketobutyrate CoA ligase" />
+    <hashEntry Key="xcb:XC_3488" Value="K01834 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11] | (GenBank) phosphogl" />
+    <hashEntry Key="xcb:XC_3544" Value="K00600 glycine hydroxymethyltransferase [EC:2.1.2.1] | (GenBank) serine hydroxymethyltransferase" />
+    <hashEntry Key="xcb:XC_3594" Value="K17103 CDP-diacylglycerol---serine O-phosphatidyltransferase [EC:2.7.8.8] | (GenBank) phosphatidylse" />
+    <hashEntry Key="xcb:XC_3635" Value="K01758 cystathionine gamma-lyase [EC:4.4.1.1] | (GenBank) cystathionine gamma-lyase-like protein" />
+    <hashEntry Key="xcb:XC_3636" Value="K01697 cystathionine beta-synthase [EC:4.2.1.22] | (GenBank) cystathionine beta-synthase" />
+    <hashEntry Key="xcb:XC_3689" Value="K00382 dihydrolipoamide dehydrogenase [EC:1.8.1.4] | (GenBank) dihydrolipoamide dehydrogenase" />
+    <hashEntry Key="xcb:XC_4315" Value="K00865 glycerate 2-kinase [EC:2.7.1.165] | (GenBank) glycerate kinase" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00260" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="" PMID="Nishizuka Y, Seyama Y, Ikai A, Ishimura Y, Kawaguchi A (eds).">
+      <Authors>[Cellular Functions and Metabolic Maps] (In Japanese)</Authors>Tokyo Kagaku Dojin (1997)</Reference>
+    <Reference Journal="Appl Environ Microbiol 68:772-83 (2002)" PMID="11823218">
+      <Authors>Kuhlmann AU</Authors>
+      <Authors>Bremer E.</Authors>Osmotically regulated synthesis of the compatible solute ectoine in Bacillus pasteurii and related Bacillus spp.</Reference>
+    <Reference Journal="Appl Environ Microbiol 65:3774-9 (1999)" PMID="10473374">
+      <Authors>Canovas D</Authors>
+      <Authors>Borges N</Authors>
+      <Authors>Vargas C</Authors>
+      <Authors>Ventosa A</Authors>
+      <Authors>Nieto JJ</Authors>
+      <Authors>Santos H.</Authors>Role of Ngamma-acetyldiaminobutyrate as an enzyme stabilizer and an intermediate in the biosynthesis of hydroxyectoine.</Reference>
+    <Reference Journal="J Biol Chem 282:31147-55 (2007)" PMID="17636255">
+      <Authors>Bursy J</Authors>
+      <Authors>Pierik AJ</Authors>
+      <Authors>Pica N</Authors>
+      <Authors>Bremer E.</Authors>Osmotically induced synthesis of the compatible solute hydroxyectoine is mediated by an evolutionarily conserved ectoine hydroxylase.</Reference>
+    <Reference Journal="J Bacteriol 188:3774-84 (2006)" PMID="16707670">
+      <Authors>Garcia-Estepa R</Authors>
+      <Authors>Argandona M</Authors>
+      <Authors>Reina-Bueno M</Authors>
+      <Authors>Capote N</Authors>
+      <Authors>Iglesias-Guerra F</Authors>
+      <Authors>Nieto JJ</Authors>
+      <Authors>Vargas C.</Authors>The ectD gene, which is involved in the synthesis of the compatible solute hydroxyectoine, is essential for thermoprotection of the halophilic bacterium Chromohalobacter salexigens.</Reference>
+    <Reference Journal="Eukaryot Cell 3:1287-96 (2004)" PMID="15470257">
+      <Authors>Arevalo-Rodriguez M</Authors>
+      <Authors>Pan X</Authors>
+      <Authors>Boeke JD</Authors>
+      <Authors>Heitman J</Authors>FKBP12 controls aspartate pathway flux in Saccharomyces cerevisiae to prevent toxic intermediate accumulation.</Reference>
+    <Reference Journal="Biochem J 309 ( Pt 3):999-1007 (1995)" PMID="7639721">
+      <Authors>Rees WD</Authors>
+      <Authors>Hay SM</Authors>The biosynthesis of threonine by mammalian cells: expression of a complete bacterial biosynthetic pathway in an animal cell.</Reference>
+    <Reference Journal="Biochim Biophys Acta 1544:28-41 (2001)" PMID="11341914">
+      <Authors>Jacques SL</Authors>
+      <Authors>Nieman C</Authors>
+      <Authors>Bareich D</Authors>
+      <Authors>Broadhead G</Authors>
+      <Authors>Kinach R</Authors>
+      <Authors>Honek JF</Authors>
+      <Authors>Wright GD</Authors>Characterization of yeast homoserine dehydrogenase, an antifungal target: the invariant histidine 309 is important for enzyme integrity.</Reference>
+    <Reference Journal="J Biol Chem 279:52082-6 (2004)" PMID="15520012">
+      <Authors>Chen X</Authors>
+      <Authors>Jhee KH</Authors>
+      <Authors>Kruger WD</Authors>Production of the neuromodulator H2S by cystathionine beta-synthase via the condensation of cysteine and homocysteine.</Reference>
+  </References>
+</KEGG.PathwayBrief>

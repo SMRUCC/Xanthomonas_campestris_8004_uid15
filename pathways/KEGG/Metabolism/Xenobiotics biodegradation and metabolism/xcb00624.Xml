@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-16"?>
+<KEGG.PathwayBrief xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EntryId="xcb00624" xmlns="http://www.genome.jp/kegg/pathway.html">
+  <Description />
+  <Name>Polycyclic aromatic hydrocarbon degradation - Xanthomonas campestris pv. campestris 8004</Name>
+  <Compound>
+    <hashEntry Key="C00090" Value="Catechol" />
+    <hashEntry Key="C00230" Value="3,4-Dihydroxybenzoate" />
+    <hashEntry Key="C00587" Value="3-Hydroxybenzoate" />
+    <hashEntry Key="C00805" Value="Salicylate" />
+    <hashEntry Key="C01163" Value="3-Carboxy-cis,cis-muconate" />
+    <hashEntry Key="C01198" Value="3-(2-Hydroxyphenyl)propanoate" />
+    <hashEntry Key="C01504" Value="Indanone" />
+    <hashEntry Key="C01606" Value="Phthalate" />
+    <hashEntry Key="C02274" Value="Dihydrocoumarin" />
+    <hashEntry Key="C03012" Value="Naphthalene-1,2-diol" />
+    <hashEntry Key="C03057" Value="2-Carboxybenzaldehyde" />
+    <hashEntry Key="C03164" Value="Phenanthrene-3,4-diol" />
+    <hashEntry Key="C03203" Value="1-Hydroxy-2-naphthoate" />
+    <hashEntry Key="C03223" Value="3,4-Dihydroxyphthalate" />
+    <hashEntry Key="C03233" Value="4,5-Dihydroxyphthalate" />
+    <hashEntry Key="C04468" Value="(+)-cis-3,4-Dihydrophenanthrene-3,4-diol" />
+    <hashEntry Key="C04484" Value="4-Carboxy-2-hydroxymuconate semialdehyde" />
+    <hashEntry Key="C04783" Value="cis-4,5-Dihydroxycyclohexa-1(6),2-diene-1,2-dicarboxylate" />
+    <hashEntry Key="C06318" Value="(3S,4R)-3,4-Dihydroxycyclohexa-1,5-diene-1,4-dicarboxylate" />
+    <hashEntry Key="C06337" Value="Terephthalate" />
+    <hashEntry Key="C06680" Value="4-Hydroxyphthalate" />
+    <hashEntry Key="C06711" Value="Fluoren-9-ol" />
+    <hashEntry Key="C06712" Value="Fluoren-9-one" />
+    <hashEntry Key="C07535" Value="Benzo[a]pyrene" />
+    <hashEntry Key="C07715" Value="Fluorene" />
+    <hashEntry Key="C07717" Value="3,4-Dihydroxyfluorene" />
+    <hashEntry Key="C07718" Value="2-Hydroxy-4-(1-oxo-1,3-dihydro-2H-inden-2-ylidene)-but-2-enoic acid" />
+    <hashEntry Key="C07719" Value="2-Formyl-1-indanone" />
+    <hashEntry Key="C07720" Value="3-Hydroxy-1-indanone" />
+    <hashEntry Key="C07721" Value="(+)-(3S,4R)-cis-3,4-Dihydroxy-3,4-dihydrofluorene" />
+    <hashEntry Key="C07722" Value="3,4-Dihydroxy-3,4-dihydro-9-fluorenone" />
+    <hashEntry Key="C07723" Value="4-Hydroxy-9-fluorenone" />
+    <hashEntry Key="C07724" Value="1,2-Dihydroxyfluorene" />
+    <hashEntry Key="C07725" Value="2-Hydroxy-4-(2-oxo-1,3-dihydro-2H-inden-1-ylidene)but-2-enoic acid" />
+    <hashEntry Key="C07726" Value="1-Formyl-2-indanone" />
+    <hashEntry Key="C07727" Value="2-Indanone" />
+    <hashEntry Key="C07728" Value="3-Isochromanone" />
+    <hashEntry Key="C11422" Value="Phenanthrene" />
+    <hashEntry Key="C11425" Value="2-Hydroxy-2H-benzo[h]chromene-2-carboxylate" />
+    <hashEntry Key="C11426" Value="cis-4-(1'-Hydroxynaphth-2'-yl)-2-oxobut-3-enoate" />
+    <hashEntry Key="C11427" Value="1-Hydroxy-2-naphthaldehyde" />
+    <hashEntry Key="C11428" Value="trans-9(S),10(S)-Dihydrodiolphenanthrene" />
+    <hashEntry Key="C11429" Value="Phenanthrene-9,10-oxide" />
+    <hashEntry Key="C11430" Value="9-Hydroxyphenanthrene" />
+    <hashEntry Key="C11431" Value="Phenanthrene-1,2-oxide" />
+    <hashEntry Key="C11432" Value="1-Phenanthrol" />
+    <hashEntry Key="C11433" Value="1-Methoxyphenanthrene" />
+    <hashEntry Key="C14315" Value="Anthracene" />
+    <hashEntry Key="C14335" Value="Pyrene" />
+    <hashEntry Key="C14519" Value="1-Hydroxypyrene" />
+    <hashEntry Key="C16149" Value="(3Z)-4-(2-Carboxyphenyl)-2-oxobut-3-enoate" />
+    <hashEntry Key="C16203" Value="Anthracene-cis-1,2-dihydrodiol" />
+    <hashEntry Key="C16204" Value="1,2-Anthracenediol" />
+    <hashEntry Key="C16205" Value="Anthracene-9,10-dihydrodiol" />
+    <hashEntry Key="C16206" Value="9,10-Dihydroxyanthracene" />
+    <hashEntry Key="C16207" Value="Anthraquinone" />
+    <hashEntry Key="C16208" Value="1-Methoxy-2-hydroxyanthracene" />
+    <hashEntry Key="C16209" Value="3-(2-Carboxyvinyl)naphthalene-2-carboxylic acid" />
+    <hashEntry Key="C16210" Value="4-(3-Hydroxy-2-naphthyl)-2-oxobut-3-enoic acid" />
+    <hashEntry Key="C16211" Value="6,7-Benzocoumarin" />
+    <hashEntry Key="C16212" Value="3-Hydroxy-2-naphthoate" />
+    <hashEntry Key="C16213" Value="2,3-Dihydroxynaphthalene" />
+    <hashEntry Key="C16214" Value="3-[6-(Carboxymethylene)cyclohexa-2,4-dien-1-ylidene]-2-oxopropanate" />
+    <hashEntry Key="C16215" Value="1,2-Dihydrophthalic acid" />
+    <hashEntry Key="C16262" Value="1-Hydro-1,1a-dihydroxy-9-fluorenone" />
+    <hashEntry Key="C16263" Value="2,3-Dihydroxy-2'-carboxybiphenyl" />
+    <hashEntry Key="C16264" Value="2-Hydroxy-6-oxo-6-(2-carboxyphenyl)-hexa-2,4-dienoate" />
+    <hashEntry Key="C18249" Value="cis-4,5-Dihydroxy-4,5-dihydropyrene" />
+    <hashEntry Key="C18250" Value="4,5-Dihydroxypyrene" />
+    <hashEntry Key="C18251" Value="Pyrene-4,5-dione" />
+    <hashEntry Key="C18252" Value="Phenanthrene-4,5-dicarboxylate" />
+    <hashEntry Key="C18253" Value="Phenanthrene-4-carboxylate" />
+    <hashEntry Key="C18254" Value="Pyrene-4,5-oxide" />
+    <hashEntry Key="C18255" Value="trans-4,5-Dihydroxy-4,5-dihydropyrene" />
+    <hashEntry Key="C18256" Value="cis-3,4-Phenanthrenedihydrodiol-4-carboxylate" />
+    <hashEntry Key="C18257" Value="Pyrene-1,6-dione" />
+    <hashEntry Key="C18258" Value="Pyrene-1,8-dione" />
+    <hashEntry Key="C18259" Value="1-Methoxypyrene" />
+    <hashEntry Key="C18260" Value="1,6-Dimethoxypyrene" />
+    <hashEntry Key="C18261" Value="1-Hydroxy-6-methoxypyrene" />
+    <hashEntry Key="C18262" Value="1-Methoxypyrene-6,7-oxide" />
+    <hashEntry Key="C18263" Value="1,6-Dihydroxypyrene" />
+    <hashEntry Key="C18264" Value="1,8-Dihydroxypyrene" />
+    <hashEntry Key="C18265" Value="1-Hydroxypyrene-6,7-oxide" />
+    <hashEntry Key="C18266" Value="1-Hydroxypyrene-7,8-oxide" />
+    <hashEntry Key="C18267" Value="Pyrene-1,2-oxide" />
+    <hashEntry Key="C18269" Value="1-Pyrenylsulfate" />
+    <hashEntry Key="C18270" Value="Benzo[a]pyrene-cis-4,5-dihydrodiol" />
+    <hashEntry Key="C18271" Value="cis-4-(7-Hydroxtpyren-8-yl)-2-oxobut-3-enoate" />
+    <hashEntry Key="C18272" Value="cis-4-(8-Hydroxypyren-7-yl)-2-oxobut-3-enoate" />
+    <hashEntry Key="C18273" Value="7,8-Dihydropyrene-8-carboxylate" />
+    <hashEntry Key="C18274" Value="7,8-Dihydropyrene-7-carboxylate" />
+    <hashEntry Key="C18275" Value="Benzo[a]pyrene-cis-7,8-dihydrodiol" />
+    <hashEntry Key="C18276" Value="Benzo[a]pyrene-cis-9,10-dihydrodiol" />
+    <hashEntry Key="C18277" Value="4,5-Chrysenedicarboxylate" />
+    <hashEntry Key="C18278" Value="9,10-Dihydroxybenzo[a]pyrene" />
+    <hashEntry Key="C18279" Value="4,5-Dihydroxybenzo[a]pyrene" />
+    <hashEntry Key="C18280" Value="11,12-Dihydroxybenzo[a]pyrene" />
+    <hashEntry Key="C18281" Value="10-Oxabenzo[def]chrysen-9-one" />
+    <hashEntry Key="C18282" Value="5-Chrysenecarboxylate" />
+    <hashEntry Key="C18283" Value="4-Chrysenecarboxylate" />
+    <hashEntry Key="C18284" Value="Benzo[a]pyrene-cis-11,12-dihydrodiol" />
+    <hashEntry Key="C18285" Value="Benzo[a]pyrene-trans-11,12-dihydrodiol" />
+    <hashEntry Key="C18286" Value="Benzo[a]pyrene-11,12-epoxide" />
+    <hashEntry Key="C18314" Value="Phthalate 3,4-cis-dihydrodiol" />
+  </Compound>
+  <PathwayMap Key="xcb00624" Value="Polycyclic aromatic hydrocarbon degradation" />
+  <Genes>
+    <hashEntry Key="xcb:XC_0379" Value="K00449 protocatechuate 3,4-dioxygenase, beta subunit [EC:1.13.11.3] | (GenBank) protocatechuate 3,4-" />
+    <hashEntry Key="xcb:XC_0380" Value="K00448 protocatechuate 3,4-dioxygenase, alpha subunit [EC:1.13.11.3] | (GenBank) protocatechuate 3,4" />
+    <hashEntry Key="xcb:XC_3426" Value="K04100 protocatechuate 4,5-dioxygenase, alpha chain [EC:1.13.11.8] | (GenBank) protocatechuate degra" />
+    <hashEntry Key="xcb:XC_3427" Value="K04101 protocatechuate 4,5-dioxygenase, beta chain [EC:1.13.11.8] | (GenBank) protocatechuate 3,4-di" />
+  </Genes>
+  <Organism Key="xcb" Value="Xanthomonas campestris pv. campestris 8004 [GN:xcb]" />
+  <KOpathway>
+    <hashEntry Key="ko00624" Value="" />
+  </KOpathway>
+  <References>
+    <Reference Journal="Res Microbiol 152:861-72 (2001)" PMID="11766961">
+      <Authors>Wattiau P</Authors>
+      <Authors>Bastiaens L</Authors>
+      <Authors>van Herwijnen R</Authors>
+      <Authors>Daal L</Authors>
+      <Authors>Parsons JR</Authors>
+      <Authors>Renard ME</Authors>
+      <Authors>Springael D</Authors>
+      <Authors>Cornelis GR.</Authors>Fluorene degradation by Sphingomonas sp. LB126 proceeds through protocatechuic acid: a genetic analysis.</Reference>
+    <Reference Journal="Arch Environ Contam Toxicol 47:168-76 (2004)" PMID="15386141">
+      <Authors>Story SP</Authors>
+      <Authors>Kline EL</Authors>
+      <Authors>Hughes TA</Authors>
+      <Authors>Riley MB</Authors>
+      <Authors>Hayasaka SS.</Authors>Degradation of aromatic hydrocarbons by Sphingomonas paucimobilis strain EPA505.</Reference>
+    <Reference Journal="J Bacteriol 186:5938-44 (2004)" PMID="15317800">
+      <Authors>Habe H</Authors>
+      <Authors>Chung JS</Authors>
+      <Authors>Kato H</Authors>
+      <Authors>Ayabe Y</Authors>
+      <Authors>Kasuga K</Authors>
+      <Authors>Yoshida T</Authors>
+      <Authors>Nojiri H</Authors>
+      <Authors>Yamane H</Authors>
+      <Authors>Omori T.</Authors>Characterization of the upper pathway genes for fluorene metabolism in Terrabacter sp. strain DBF63.</Reference>
+    <Reference Journal="J Gen Appl Microbiol 47:279-305 (2001)" PMID="12483604">
+      <Authors>Nojiri H</Authors>
+      <Authors>Habe H</Authors>
+      <Authors>Omori T.</Authors>Bacterial degradation of aromatic compounds via angular dioxygenation.</Reference>
+    <Reference Journal="Res Microbiol 158:175-86 (2007)" PMID="17258432">
+      <Authors>Pagnout C</Authors>
+      <Authors>Frache G</Authors>
+      <Authors>Poupin P</Authors>
+      <Authors>Maunit B</Authors>
+      <Authors>Muller JF</Authors>
+      <Authors>Ferard JF.</Authors>Isolation and characterization of a gene cluster involved in PAH degradation in Mycobacterium sp. strain SNP11: expression in Mycobacterium smegmatis mc(2)155.</Reference>
+    <Reference Journal="FEMS Microbiol Lett 204:205-11 (2001)" PMID="11682202">
+      <Authors>Dean-Ross D</Authors>
+      <Authors>Moody JD</Authors>
+      <Authors>Freeman JP</Authors>
+      <Authors>Doerge DR</Authors>
+      <Authors>Cerniglia CE.</Authors>Metabolism of anthracene by a Rhodococcus species.</Reference>
+    <Reference Journal="Appl Environ Microbiol 67:1476-83 (2001)" PMID="11282593">
+      <Authors>Moody JD</Authors>
+      <Authors>Freeman JP</Authors>
+      <Authors>Doerge DR</Authors>
+      <Authors>Cerniglia CE.</Authors>Degradation of phenanthrene and anthracene by cell suspensions of Mycobacterium sp. strain PYR-1.</Reference>
+    <Reference Journal="Appl Environ Microbiol 69:186-90 (2003)" PMID="12513994">
+      <Authors>van Herwijnen R</Authors>
+      <Authors>Springael D</Authors>
+      <Authors>Slot P</Authors>
+      <Authors>Govers HA</Authors>
+      <Authors>Parsons JR.</Authors>Degradation of anthracene by Mycobacterium sp. strain LB501T proceeds via a novel pathway, through o-phthalic acid.</Reference>
+    <Reference Journal="J Hazard Mater 169:1-15 (2009)" PMID="19442441">
+      <Authors>Haritash AK</Authors>
+      <Authors>Kaushik CP</Authors>Biodegradation aspects of polycyclic aromatic hydrocarbons (PAHs): a review.</Reference>
+    <Reference Journal="Appl Environ Microbiol 72:7821-8 (2006)" PMID="17041157">
+      <Authors>Liang Y</Authors>
+      <Authors>Gardner DR</Authors>
+      <Authors>Miller CD</Authors>
+      <Authors>Chen D</Authors>
+      <Authors>Anderson AJ</Authors>
+      <Authors>Weimer BC</Authors>
+      <Authors>Sims RC</Authors>Study of biochemical pathways and enzymes involved in pyrene degradation by Mycobacterium sp. strain KMS.</Reference>
+    <Reference Journal="Chemosphere 57:943-52 (2004)" PMID="15488584">
+      <Authors>da Silva M</Authors>
+      <Authors>Esposito E</Authors>
+      <Authors>Moody JD</Authors>
+      <Authors>Canhos VP</Authors>
+      <Authors>Cerniglia CE</Authors>Metabolism of aromatic hydrocarbons by the filamentous fungus Cyclothyrium sp.</Reference>
+    <Reference Journal="J Bacteriol 189:464-72 (2007)" PMID="17085566">
+      <Authors>Kim SJ</Authors>
+      <Authors>Kweon O</Authors>
+      <Authors>Jones RC</Authors>
+      <Authors>Freeman JP</Authors>
+      <Authors>Edmondson RD</Authors>
+      <Authors>Cerniglia CE</Authors>Complete and integrated pyrene degradation pathway in Mycobacterium vanbaalenii PYR-1 based on systems biology.</Reference>
+    <Reference Journal="Arch Microbiol 167:310-6 (1997)" PMID="9094229">
+      <Authors>Wunder T</Authors>
+      <Authors>Marr J</Authors>
+      <Authors>Kremer S</Authors>
+      <Authors>Sterner O</Authors>
+      <Authors>Anke H</Authors>1-Methoxypyrene and 1,6-dimethoxypyrene: two novel metabolites in fungal metabolism of polycyclic aromatic hydrocarbons.</Reference>
+    <Reference Journal="Appl Environ Microbiol 62:13-9 (1996)" PMID="8572690">
+      <Authors>Schneider J</Authors>
+      <Authors>Grosser R</Authors>
+      <Authors>Jayasimhulu K</Authors>
+      <Authors>Xue W</Authors>
+      <Authors>Warshawsky D</Authors>Degradation of pyrene, benz[a]anthracene, and benzo[a]pyrene by Mycobacterium sp. strain RJGII-135, isolated from a former coal gasification site.</Reference>
+    <Reference Journal="Appl Environ Microbiol 70:340-5 (2004)" PMID="14711661">
+      <Authors>Moody JD</Authors>
+      <Authors>Freeman JP</Authors>
+      <Authors>Fu PP</Authors>
+      <Authors>Cerniglia CE</Authors>Degradation of benzo[a]pyrene by Mycobacterium vanbaalenii PYR-1.</Reference>
+    <Reference Journal="J Bacteriol 183:3689-703 (2001)" PMID="11371533">
+      <Authors>Eaton RW</Authors>Plasmid-encoded phthalate catabolic pathway in Arthrobacter keyseri 12B.</Reference>
+  </References>
+</KEGG.PathwayBrief>
