@@ -1,0 +1,2 @@
+seqtools /Promoter.Palindrome.Fasta /in "../palindrome_promoter=-250bp.csv" /out "./palindrome_promoter=-250bp.fasta"
+VirtualFootprint /Binary.KMeans.SW /in "./palindrome_promoter=-250bp.fasta" /cut 0.65 /minw 6 /first.ID
