@@ -32,5 +32,9 @@
 
 > View detail in [./genome/chromsome-map/](./genome/chromsome-map/)
 
+###### promoter region palindrome cluster tree
+
+![](./genome/palindrome-motifs/palindrome_promoter=-250bp-cut=0.65,minw=6/binary-net/tree.png)
+
 ## References
 
