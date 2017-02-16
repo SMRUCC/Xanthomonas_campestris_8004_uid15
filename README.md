@@ -34,7 +34,7 @@
 
 ###### promoter region palindrome cluster tree
 
-![](./genome/palindrome-motifs/palindrome_promoter=-250bp-cut=0.65,minw=6/binary-net/tree.png)
+![](./genome/palindrome-motifs/palindrome_promoter=-250bp-cut=0.65,minw=6/binary-net.cuts,quantile=0.99/tree.png)
 
 ## References
 
