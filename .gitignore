@@ -252,3 +252,4 @@ paket-files/
 *.sln.iml
 /genome/raw
 /genome/palindrome-motifs/palindrome_promoter=-250bp-cut=0.65,minw=6/raw
+/genome/mirror-palindrome/kmeans/clusters.csv
