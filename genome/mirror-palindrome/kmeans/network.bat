@@ -1,1 +1,1 @@
-Cytoscape /Matrix.NET /in ./clusters.csv /colors clusters /cutoff 3
+Cytoscape /Matrix.NET /in ./clusters.csv /colors clusters /cutoff 8
