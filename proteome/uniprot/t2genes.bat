@@ -1,0 +1,1 @@
+eggHTS /Term2genes /in uniprot.XML /term GO
