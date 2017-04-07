@@ -1,0 +1,1 @@
+seqtools /CAI /ORF ./CP000050.1.genes.fasta
