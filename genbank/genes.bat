@@ -1,0 +1,1 @@
+localblast /Export.gb.genes /gb ./CP000050.1.txt
