@@ -1,0 +1,1 @@
+seqtools /Rule.dnaA_gyrB /genome "../genbank/CP000050.1.txt"
