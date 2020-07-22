@@ -1,4 +1,4 @@
-**[Xanthomonas campestris pv. campestris 8004]** GCModeller genomics Modelling Project
+**[Xanthomonas campestris pv. campestris 8004]** GCModeller vcell Modelling Project
 
 > It is recommended that you can using this project as the GCModeller demo &amp; tutorials
 
