@@ -11,17 +11,17 @@ const context_table as string   = "K:\bacterials_bundleAll.txt";
 let genbank_gz as string = list.files(bacterials_repo, pattern = "*.gz");
 let read_context as function(gbff.gz) {
 
-	# read a single gbff gzip compressed file
-	# and then populate all of the genomics
-	# context data objects from the given genbank
-	# data
-	using gbff as open.gzip(gbff.gz) {
-		gbff 
-		:> populate.genbank 
-		:> projectAs(genome.genes) 
-		:> unlist(typeof = "gene_info", pipeline = FALSE) 
-		;
-	}
+   # read a single gbff gzip compressed file
+   # and then populate all of the genomics
+   # context data objects from the given genbank
+   # data
+   using gbff as open.gzip(gbff.gz) {
+      gbff 
+      :> populate.genbank 
+      :> projectAs(genome.genes) 
+      :> unlist(typeof = "gene_info", pipeline = FALSE) 
+      ;
+   }
 }
 
 print(`we have ${length(genbank_gz)} genbank data files:`);
