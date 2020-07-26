@@ -10,8 +10,8 @@ print("found circos script at location:");
 print(circos.pl());
 
 const genomics = circos(chromosomes_units = 50000);
-const genbank = read.genbank("../../genbank/CP000050.1.txt");
-const circos_output = "../circos";
+const genbank = read.genbank("../genbank/CP000050.1.txt");
+const circos_output = "genome/circos";
 const circos.exe = "D:\circos-0.69-6\bin\circos.exe";
 
 print("filter genes by strand +/-");
