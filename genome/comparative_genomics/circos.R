@@ -42,7 +42,7 @@ genomics
 :> backbone(source = origin.fasta(genbank), loophole = 1024)
 :> ideogram(radius = "0.65r")
 :> main
-:> add(track.text(geneLabels))
+:> add(track.text(geneLabels, snuggle_refine = "no", label_snuggle = "no"))
 :> add(forwards :> highlight.genemarks(colors = "brown") :> track.highlight)
 :> add(reverses :> highlight.genemarks(colors = "blue") :> track.highlight)
 :> save(directory = "../circos")
