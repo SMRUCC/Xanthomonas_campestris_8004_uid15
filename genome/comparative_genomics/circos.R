@@ -40,11 +40,11 @@ print(`create ${length(geneLabels)} text labels for circos plot.`);
 
 genomics
 :> backbone(source = origin.fasta(genbank), loophole = 1024)
-:> ideogram(radius = "0.65r")
+:> ideogram(radius = "0.2r")
 :> main
-:> add(track.text(geneLabels, snuggle_refine = "no", label_snuggle = "no"))
-:> add(forwards :> highlight.genemarks(colors = "brown") :> track.highlight)
-:> add(reverses :> highlight.genemarks(colors = "blue") :> track.highlight)
+:> add(track.text(geneLabels, snuggle_refine = "no", label_snuggle = "no") :> radius01(r1 = 1, r0 = 0.9), auto_layout = FALSE)
+:> add(forwards :> highlight.genemarks(colors = "brown") :> track.highlight, auto_layout = FALSE)
+:> add(reverses :> highlight.genemarks(colors = "blue") :> track.highlight, auto_layout = FALSE)
 :> save(directory = "../circos")
 ;
 
