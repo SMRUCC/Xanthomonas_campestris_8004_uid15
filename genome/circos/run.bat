@@ -1,0 +1,1 @@
+﻿perl  -conf circos.conf
