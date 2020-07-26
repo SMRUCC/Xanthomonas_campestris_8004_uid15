@@ -11,6 +11,8 @@ print(circos.pl());
 
 const genomics = circos(chromosomes_units = 50000);
 const genbank = read.genbank("../../genbank/CP000050.1.txt");
+const circos_output = "../circos";
+const circos.exe = "D:\circos-0.69-6\bin\circos.exe";
 
 print("filter genes by strand +/-");
 
@@ -48,7 +50,15 @@ genomics
 :> add(track.text(geneLabels, snuggle_refine = "no", label_snuggle = "no")  :> radius01(r1 = 3.5, r0 = 2.1), auto_layout = FALSE)
 :> add(forwards :> highlight.genemarks(colors = "brown") :> track.highlight :> radius01(r1 = 2.085, r0 = 2.05), auto_layout = FALSE)
 :> add(reverses :> highlight.genemarks(colors = "blue") :> track.highlight  :> radius01(r1 = 2.045, r0 = 2), auto_layout = FALSE)
-:> save(directory = "../circos")
+:> save(directory = circos_output)
 ;
+
+setwd(circos_output);
+
+print("current working directory is:");
+print(getwd());
+
+print("running circos script for rendering...");
+@`${circos.exe}`;
 
 print("[Job done!]");
