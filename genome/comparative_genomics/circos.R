@@ -9,17 +9,23 @@ setwd(!script$dir);
 const genomics = circos(chromosomes_units = 50000);
 const genbank = read.genbank("../../genbank/CP000050.1.txt");
 
+print("filter genes by strand +/-");
+
 let [forwards, reverses] = genbank 
 :> genome.genes 
 :> [strand.filter("+"), strand.filter("-")]
 ;
 
+print(`there are ${length(forwards)} genes in forward strand and ${length(reverses)} genes in reverse strand.`);
+print("create geneName text labels...");
+
 # create geneName text labels for circos track plot
-let geneNames = genbank 
+let geneLabels = genbank 
 :> genome.genes
 :> sapply(as.object) 
 :> lapply(gene => list(geneName = geneNames(gene$Product), gene = gene), names = gene -> gene$Synonym)
-:> which(gene => !is.empty(gene$geneName))
+:> which(gene => length(gene$geneName) > 0)
+:> which(gene => !str_empty(gene$geneName))
 :> sapply(function(obj) {
 	let loci  = as.object(obj$gene$Location);
 	let left  = loci$Start;
@@ -27,16 +33,19 @@ let geneNames = genbank
 	
 	text(start = left, end = right, text = obj$geneName);
 })
+:> as.vector("text")
 ;
 
-print(`there are ${length(forwards)} genes in forward strand and ${length(reverses)} genes in reverse strand.`);
+print(`create ${length(geneLabels)} text labels for circos plot.`);
 
 genomics
 :> backbone(source = origin.fasta(genbank), loophole = 1024)
 :> ideogram(radius = "0.65r")
 :> main
-:> add(track.text(geneName))
+:> add(track.text(geneLabels))
 :> add(forwards :> highlight.genemarks(colors = "brown") :> track.highlight)
 :> add(reverses :> highlight.genemarks(colors = "blue") :> track.highlight)
 :> save(directory = "../circos")
 ;
+
+print("[Job done!]");
