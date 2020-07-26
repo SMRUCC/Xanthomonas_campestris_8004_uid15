@@ -47,9 +47,9 @@ genomics
 :> backbone(source = origin.fasta(genbank), loophole = 1024)
 :> ideogram(radius = "0.3r")
 :> main
-:> add(track.text(geneLabels, snuggle_refine = "no", label_snuggle = "yes") :> radius01(r1 = 3.5,   r0 = 2.1), auto_layout = FALSE)
+:> add(track.text(geneLabels, snuggle_refine = "no", label_snuggle = "yes") :> radius01(r1 = 3.5,   r0 = 2.1),  auto_layout = FALSE)
 :> add(forwards :> highlight.genemarks(colors = "brown") :> track.highlight :> radius01(r1 = 2.085, r0 = 2.05), auto_layout = FALSE)
-:> add(reverses :> highlight.genemarks(colors = "blue") :> track.highlight  :> radius01(r1 = 2.045, r0 = 2), auto_layout = FALSE)
+:> add(reverses :> highlight.genemarks(colors = "blue") :> track.highlight  :> radius01(r1 = 2.045, r0 = 2),    auto_layout = FALSE)
 :> save(directory = circos_output)
 ;
 
