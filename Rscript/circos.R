@@ -4,6 +4,8 @@ imports "annotation.genomics_context" from "seqtoolkit";
 imports "annotation.genomics" from "seqtoolkit";
 imports "annotation.terms" from "seqtoolkit";
 
+# Rscript for generates circos plot data.
+
 setwd(!script$dir);
 
 print("found circos script at location:");
