@@ -13,4 +13,8 @@ let assembly = read.genbank(template);
 # add COG annotation for each features
 let COG = COGsbh :> read.MyvaCOG :> assign.COG();
 
-print(COG);
+print(head(as.data.frame(COG)));
+
+assembly
+:> write.genbank(file = "../genbank/CP000050.1.updated.gbff")
+;

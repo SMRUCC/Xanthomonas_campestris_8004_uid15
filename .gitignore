@@ -255,3 +255,4 @@ paket-files/
 /genome/mirror-palindrome/kmeans/clusters.csv
 /proteome/pfam/xcb-pfam.txt
 genome/circos/circos.png
+genbank/CP000050.1.updated.gbff
