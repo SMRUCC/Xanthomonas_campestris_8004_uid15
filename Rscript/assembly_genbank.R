@@ -16,6 +16,7 @@ let COG = COGsbh
 :> read.MyvaCOG 
 :> assign.COG() 
 :> sapply(as.object) 
+:> which(a -> !str_empty(a$COG))
 :> lapply(a => a, names = a -> a$query_name)
 ;
 
@@ -26,6 +27,18 @@ head(COG)
 :> as.data.frame 
 :> print
 ;
+
+allFeatures = allFeatures[featureKeys(allFeatures) == "CDS"];
+allFeatures = allFeatures[featureMeta(allFeatures, "locus_tag") in names(COG)];
+allFeatures = allFeatures :> sapply(function(protein) {
+	let COGMeta = COG[[featureMeta(protein, "locus_tag")]];
+	
+	protein :> addMeta(
+		COG      = COGMeta$COG,
+		category = COGMeta$COG_category,
+		note     = `${COGMeta$COG} ${COGMeta$description}`
+	);
+});
 
 assembly
 :> write.genbank(file = "../genbank/CP000050.1.updated.gbff")
